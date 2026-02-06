@@ -5,10 +5,10 @@
     "rate": 74.0,
     "total": 13149,
     "last_24h": {
-      "won": 147,
+      "won": 141,
       "lost": 40,
-      "rate": 78.6,
-      "total": 187
+      "rate": 77.9,
+      "total": 181
     }
   },
   "by_day": [
@@ -274,206 +274,286 @@
   ],
   "top_leagues": [
     {
-      "name": "TUR3-2",
-      "rate": 100.0,
-      "count": 6
-    },
-    {
       "name": "TUR3-3",
-      "rate": 100.0,
-      "count": 8
-    },
-    {
-      "name": "ANG",
-      "rate": 100.0,
-      "count": 38
-    },
-    {
-      "name": "AFC CL",
-      "rate": 100.0,
-      "count": 90
-    },
-    {
-      "name": " BULSK",
-      "rate": 100.0,
-      "count": 122
-    },
-    {
-      "name": " LKU",
+      "won": 5,
+      "lost": 0,
       "rate": 100.0,
       "count": 5
     },
     {
-      "name": "MAR",
-      "rate": 95.35,
-      "count": 667
-    },
-    {
-      "name": "CHI CUP",
-      "rate": 95.19,
-      "count": 104
-    },
-    {
-      "name": "ARG CUP",
-      "rate": 94.94,
-      "count": 79
-    },
-    {
-      "name": " İZLK",
-      "rate": 94.19,
-      "count": 86
-    },
-    {
-      "name": "LBN",
-      "rate": 90.42,
-      "count": 167
+      "name": " LKU",
+      "won": 5,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 5
     },
     {
       "name": "CZE CUP",
-      "rate": 89.59,
-      "count": 221
+      "won": 19,
+      "lost": 2,
+      "rate": 90.48,
+      "count": 21
     },
     {
       "name": "INT CUP",
-      "rate": 89.42,
-      "count": 1427
-    },
-    {
-      "name": " BAECK",
-      "rate": 87.77,
-      "count": 188
-    },
-    {
-      "name": " AFK",
-      "rate": 87.27,
-      "count": 55
-    },
-    {
-      "name": "MYS",
-      "rate": 86.73,
-      "count": 814
+      "won": 29,
+      "lost": 4,
+      "rate": 87.88,
+      "count": 33
     },
     {
       "name": "ARG",
-      "rate": 86.73,
-      "count": 113
+      "won": 87,
+      "lost": 12,
+      "rate": 87.88,
+      "count": 99
     },
     {
-      "name": "OMA CUP",
-      "rate": 86.44,
-      "count": 450
-    },
-    {
-      "name": "AFCON",
-      "rate": 86.17,
-      "count": 94
+      "name": "LBN",
+      "won": 14,
+      "lost": 2,
+      "rate": 87.5,
+      "count": 16
     },
     {
       "name": "UNL",
-      "rate": 85.42,
-      "count": 295
+      "won": 7,
+      "lost": 1,
+      "rate": 87.5,
+      "count": 8
+    },
+    {
+      "name": " FINYK",
+      "won": 7,
+      "lost": 1,
+      "rate": 87.5,
+      "count": 8
+    },
+    {
+      "name": " AFCAKŞ",
+      "won": 33,
+      "lost": 5,
+      "rate": 86.84,
+      "count": 38
+    },
+    {
+      "name": " AFK",
+      "won": 13,
+      "lost": 2,
+      "rate": 86.67,
+      "count": 15
+    },
+    {
+      "name": "ARG CUP",
+      "won": 6,
+      "lost": 1,
+      "rate": 85.71,
+      "count": 7
+    },
+    {
+      "name": "CHI CUP",
+      "won": 6,
+      "lost": 1,
+      "rate": 85.71,
+      "count": 7
+    },
+    {
+      "name": " AZERK",
+      "won": 6,
+      "lost": 1,
+      "rate": 85.71,
+      "count": 7
+    },
+    {
+      "name": " KİRLK",
+      "won": 11,
+      "lost": 2,
+      "rate": 84.62,
+      "count": 13
+    },
+    {
+      "name": "SCO1",
+      "won": 16,
+      "lost": 3,
+      "rate": 84.21,
+      "count": 19
+    },
+    {
+      "name": "MAR",
+      "won": 16,
+      "lost": 3,
+      "rate": 84.21,
+      "count": 19
+    },
+    {
+      "name": "NED CUP",
+      "won": 41,
+      "lost": 8,
+      "rate": 83.67,
+      "count": 49
+    },
+    {
+      "name": "GER CUP",
+      "won": 20,
+      "lost": 4,
+      "rate": 83.33,
+      "count": 24
+    },
+    {
+      "name": " ŞİLİK",
+      "won": 20,
+      "lost": 4,
+      "rate": 83.33,
+      "count": 24
+    },
+    {
+      "name": "SIN",
+      "won": 38,
+      "lost": 8,
+      "rate": 82.61,
+      "count": 46
     }
   ],
   "top_predictions": [
     {
       "name": "Under 0.5 Goals",
+      "won": 5,
+      "lost": 0,
       "rate": 100.0,
-      "count": 8
-    },
-    {
-      "name": "HT/FT X/X",
-      "rate": 86.67,
-      "count": 15
-    },
-    {
-      "name": "HT/FT X/1",
-      "rate": 83.33,
-      "count": 6
+      "count": 5
     },
     {
       "name": "Over 0.5 Goals",
-      "rate": 81.52,
-      "count": 276
-    },
-    {
-      "name": "Home Team 1st Half Over 0.5",
-      "rate": 81.4,
+      "won": 38,
+      "lost": 5,
+      "rate": 88.37,
       "count": 43
     },
     {
-      "name": "Under 4.5 Goals",
-      "rate": 81.37,
-      "count": 3860
+      "name": "HT/FT X/X",
+      "won": 7,
+      "lost": 1,
+      "rate": 87.5,
+      "count": 8
     },
     {
-      "name": "Away Team 1st Half Under 0.5",
-      "rate": 81.24,
-      "count": 437
-    },
-    {
-      "name": "1st Half Under 2.5",
-      "rate": 80.87,
-      "count": 920
-    },
-    {
-      "name": "HT/FT 2/2",
-      "rate": 80.0,
-      "count": 30
-    },
-    {
-      "name": "Total Goals 0-1",
-      "rate": 79.25,
-      "count": 53
-    },
-    {
-      "name": "Handicap (0:1) 2",
-      "rate": 78.32,
-      "count": 6115
-    },
-    {
-      "name": "Match Result 2",
-      "rate": 78.17,
-      "count": 1072
-    },
-    {
-      "name": "Total Goals 2-3",
-      "rate": 77.63,
-      "count": 532
+      "name": "1st Half Under 0.5",
+      "won": 24,
+      "lost": 4,
+      "rate": 85.71,
+      "count": 28
     },
     {
       "name": "Handicap (1:0) 2",
-      "rate": 77.61,
-      "count": 67
+      "won": 20,
+      "lost": 4,
+      "rate": 83.33,
+      "count": 24
     },
     {
-      "name": "1st Half Double Chance 1X",
-      "rate": 76.48,
-      "count": 35018
+      "name": "Away Team 1st Half Under 0.5",
+      "won": 35,
+      "lost": 7,
+      "rate": 83.33,
+      "count": 42
     },
     {
-      "name": "Under 3.5 Goals",
-      "rate": 75.68,
-      "count": 24001
+      "name": "HT/FT 1/1",
+      "won": 25,
+      "lost": 6,
+      "rate": 80.65,
+      "count": 31
     },
     {
-      "name": "Double Chance 12",
-      "rate": 75.25,
-      "count": 59438
+      "name": "Match Result 2",
+      "won": 121,
+      "lost": 32,
+      "rate": 79.08,
+      "count": 153
+    },
+    {
+      "name": "Under 4.5 Goals",
+      "won": 224,
+      "lost": 60,
+      "rate": 78.87,
+      "count": 284
+    },
+    {
+      "name": "1st Half Under 2.5",
+      "won": 85,
+      "lost": 23,
+      "rate": 78.7,
+      "count": 108
+    },
+    {
+      "name": "Handicap (0:1) 1",
+      "won": 22,
+      "lost": 6,
+      "rate": 78.57,
+      "count": 28
+    },
+    {
+      "name": "Under 1.5 Goals",
+      "won": 31,
+      "lost": 9,
+      "rate": 77.5,
+      "count": 40
+    },
+    {
+      "name": "Handicap (0:1) 2",
+      "won": 292,
+      "lost": 87,
+      "rate": 77.04,
+      "count": 379
+    },
+    {
+      "name": "HT/FT 2/2",
+      "won": 10,
+      "lost": 3,
+      "rate": 76.92,
+      "count": 13
+    },
+    {
+      "name": "Handicap (0:2) 2",
+      "won": 228,
+      "lost": 70,
+      "rate": 76.51,
+      "count": 298
+    },
+    {
+      "name": "Handicap (2:0) 1",
+      "won": 90,
+      "lost": 28,
+      "rate": 76.27,
+      "count": 118
     },
     {
       "name": "Double Chance X2",
-      "rate": 74.84,
-      "count": 14783
+      "won": 567,
+      "lost": 183,
+      "rate": 75.6,
+      "count": 750
     },
     {
-      "name": "1st Half Double Chance X2",
-      "rate": 74.45,
-      "count": 18441
+      "name": "Match Result 1",
+      "won": 264,
+      "lost": 87,
+      "rate": 75.21,
+      "count": 351
     },
     {
-      "name": "Over 1.5 Goals",
-      "rate": 74.4,
-      "count": 28231
+      "name": "Match Result X",
+      "won": 21,
+      "lost": 7,
+      "rate": 75.0,
+      "count": 28
+    },
+    {
+      "name": "Total Goals 0-1",
+      "won": 18,
+      "lost": 6,
+      "rate": 75.0,
+      "count": 24
     }
   ],
   "top_odds": [
