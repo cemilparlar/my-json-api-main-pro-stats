@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 21096,
+    "won": 21098,
     "lost": 7460,
     "rate": 73.9,
-    "total": 28556,
+    "total": 28558,
     "last_24h": {
-      "won": 454,
+      "won": 456,
       "lost": 160,
-      "rate": 73.9,
-      "total": 614
+      "rate": 74.0,
+      "total": 616
     }
   },
   "by_day": [
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 7767
+      "count": 7769
     }
   ],
   "by_hour": [
@@ -136,8 +136,8 @@
     },
     {
       "label": "07:00",
-      "rate": 74.6,
-      "count": 205
+      "rate": 74.9,
+      "count": 207
     },
     {
       "label": "23:00",
@@ -379,6 +379,13 @@
       "count": 19
     },
     {
+      "name": "HKG1",
+      "won": 41,
+      "lost": 8,
+      "rate": 83.67,
+      "count": 49
+    },
+    {
       "name": "BIH CUP",
       "won": 10,
       "lost": 2,
@@ -391,13 +398,6 @@
       "lost": 2,
       "rate": 83.33,
       "count": 12
-    },
-    {
-      "name": "HKG1",
-      "won": 39,
-      "lost": 8,
-      "rate": 82.98,
-      "count": 47
     },
     {
       "name": "QAT EC",
@@ -529,10 +529,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 1501,
+      "won": 1502,
       "lost": 484,
-      "rate": 75.62,
-      "count": 1985
+      "rate": 75.63,
+      "count": 1986
     },
     {
       "name": "Match Result 1",
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.64,
-      "count": 1033
+      "rate": 74.66,
+      "count": 1034
     },
     {
       "odd": 1.17,
