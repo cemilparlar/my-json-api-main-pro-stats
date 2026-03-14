@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 21012,
-    "lost": 7432,
+    "won": 21073,
+    "lost": 7449,
     "rate": 73.9,
-    "total": 28444,
+    "total": 28522,
     "last_24h": {
-      "won": 385,
-      "lost": 147,
-      "rate": 72.4,
-      "total": 532
+      "won": 446,
+      "lost": 163,
+      "rate": 73.2,
+      "total": 609
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 74.4,
-      "count": 2407
+      "count": 2408
     },
     {
       "label": "Sunday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.8,
-      "count": 4614
+      "count": 4613
     },
     {
       "label": "Saturday",
-      "rate": 73.4,
-      "count": 7652
+      "rate": 73.5,
+      "count": 7730
     }
   ],
   "by_hour": [
@@ -72,12 +72,12 @@
     {
       "label": "14:00",
       "rate": 73.5,
-      "count": 1823
+      "count": 1822
     },
     {
       "label": "15:00",
       "rate": 73.3,
-      "count": 3088
+      "count": 3089
     },
     {
       "label": "16:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.6,
-      "count": 5568
+      "count": 5567
     },
     {
       "label": "20:00",
@@ -111,13 +111,13 @@
     },
     {
       "label": "05:00",
-      "rate": 75.4,
-      "count": 411
+      "rate": 75.9,
+      "count": 489
     },
     {
       "label": "09:00",
-      "rate": 74.8,
-      "count": 143
+      "rate": 74.3,
+      "count": 144
     },
     {
       "label": "22:00",
@@ -192,14 +192,14 @@
       "count": 22
     },
     {
-      "team": "FC Machida Zelvia",
-      "rate": 95.24,
-      "count": 42
-    },
-    {
       "team": "US Monastir",
       "rate": 93.55,
       "count": 31
+    },
+    {
+      "team": "FC Machida Zelvia",
+      "rate": 93.48,
+      "count": 46
     },
     {
       "team": "Barakaldo CF",
@@ -309,18 +309,18 @@
       "count": 12
     },
     {
+      "name": "KOR1",
+      "won": 44,
+      "lost": 5,
+      "rate": 89.8,
+      "count": 49
+    },
+    {
       "name": "OMA SC",
       "won": 7,
       "lost": 1,
       "rate": 87.5,
       "count": 8
-    },
-    {
-      "name": "KOR1",
-      "won": 34,
-      "lost": 5,
-      "rate": 87.18,
-      "count": 39
     },
     {
       "name": "BIH",
@@ -417,10 +417,10 @@
   "top_predictions": [
     {
       "name": "HT/FT X/X",
-      "won": 13,
+      "won": 14,
       "lost": 0,
       "rate": 100.0,
-      "count": 13
+      "count": 14
     },
     {
       "name": "Under 0.5 Goals",
@@ -466,10 +466,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 485,
+      "won": 486,
       "lost": 121,
-      "rate": 80.03,
-      "count": 606
+      "rate": 80.07,
+      "count": 607
     },
     {
       "name": "Over 4.5 Goals",
@@ -493,25 +493,25 @@
       "count": 14
     },
     {
-      "name": "Handicap (2:0) 1",
-      "won": 191,
-      "lost": 55,
-      "rate": 77.64,
-      "count": 246
+      "name": "Match Result X",
+      "won": 35,
+      "lost": 10,
+      "rate": 77.78,
+      "count": 45
     },
     {
-      "name": "Match Result X",
-      "won": 34,
-      "lost": 10,
-      "rate": 77.27,
-      "count": 44
+      "name": "Handicap (2:0) 1",
+      "won": 192,
+      "lost": 55,
+      "rate": 77.73,
+      "count": 247
     },
     {
       "name": "Match Result 2",
-      "won": 224,
+      "won": 225,
       "lost": 69,
-      "rate": 76.45,
-      "count": 293
+      "rate": 76.53,
+      "count": 294
     },
     {
       "name": "Handicap (0:1) 1",
@@ -529,10 +529,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 1493,
-      "lost": 481,
-      "rate": 75.63,
-      "count": 1974
+      "won": 1498,
+      "lost": 482,
+      "rate": 75.66,
+      "count": 1980
     },
     {
       "name": "Match Result 1",
@@ -549,18 +549,18 @@
       "count": 8
     },
     {
-      "name": "1st Half Double Chance X2",
-      "won": 1006,
-      "lost": 339,
+      "name": "Handicap (0:1) 2",
+      "won": 573,
+      "lost": 193,
       "rate": 74.8,
-      "count": 1345
+      "count": 766
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 80.12,
-      "count": 1796
+      "rate": 80.18,
+      "count": 1801
     },
     {
       "odd": 1.75,
@@ -569,23 +569,18 @@
     },
     {
       "odd": 1.05,
-      "rate": 77.98,
-      "count": 436
+      "rate": 78.1,
+      "count": 443
     },
     {
       "odd": 1.07,
-      "rate": 77.13,
-      "count": 1176
+      "rate": 77.18,
+      "count": 1179
     },
     {
       "odd": 1.12,
-      "rate": 77.07,
-      "count": 1186
-    },
-    {
-      "odd": 1.1,
-      "rate": 76.83,
-      "count": 1092
+      "rate": 77.06,
+      "count": 1190
     },
     {
       "odd": 1.88,
@@ -593,24 +588,29 @@
       "count": 56
     },
     {
+      "odd": 1.1,
+      "rate": 76.71,
+      "count": 1095
+    },
+    {
       "odd": 1.08,
-      "rate": 76.6,
-      "count": 1094
+      "rate": 76.59,
+      "count": 1098
     },
     {
       "odd": 1.11,
-      "rate": 76.36,
-      "count": 1155
+      "rate": 76.4,
+      "count": 1157
     },
     {
       "odd": 1.09,
-      "rate": 76.13,
-      "count": 1533
+      "rate": 76.15,
+      "count": 1539
     },
     {
       "odd": 1.13,
-      "rate": 75.68,
-      "count": 1694
+      "rate": 75.69,
+      "count": 1699
     },
     {
       "odd": 1.76,
@@ -618,14 +618,9 @@
       "count": 85
     },
     {
-      "odd": 1.5,
-      "rate": 75.29,
-      "count": 85
-    },
-    {
       "odd": 1.15,
-      "rate": 75.14,
-      "count": 1219
+      "rate": 75.16,
+      "count": 1224
     },
     {
       "odd": 1.95,
@@ -640,12 +635,12 @@
     {
       "odd": 1.14,
       "rate": 74.88,
-      "count": 1023
+      "count": 1027
     },
     {
       "odd": 1.17,
       "rate": 74.64,
-      "count": 686
+      "count": 690
     },
     {
       "odd": 1.53,
@@ -654,8 +649,13 @@
     },
     {
       "odd": 1.28,
-      "rate": 74.44,
-      "count": 360
+      "rate": 74.52,
+      "count": 361
+    },
+    {
+      "odd": 1.5,
+      "rate": 74.42,
+      "count": 86
     }
   ],
   "top_matches": [
@@ -980,6 +980,14 @@
       "date": "07.02.2026 14:30"
     },
     {
+      "match": "Gwangju FC vs Jeonbuk Hm",
+      "ht": "0 - 0",
+      "ft": "0 - 0",
+      "odds": "4.10",
+      "prediction": "HT/FT X/X",
+      "date": "14.03.2026 05:00"
+    },
+    {
       "match": "Jong PSV vs De Graafschap",
       "ht": "1 - 1",
       "ft": "1 - 2",
@@ -1050,14 +1058,6 @@
       "odds": "3.89",
       "prediction": "Handicap (1:0) X",
       "date": "14.01.2026 12:30"
-    },
-    {
-      "match": "Malaga CF vs Burgos CF",
-      "ht": "2 - 0",
-      "ft": "3 - 0",
-      "odds": "3.83",
-      "prediction": "Handicap (0:1) 1",
-      "date": "23.01.2026 19:30"
     }
   ]
 }
