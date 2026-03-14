@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 22120,
-    "lost": 7791,
-    "rate": 74.0,
-    "total": 29911,
+    "won": 22156,
+    "lost": 7807,
+    "rate": 73.9,
+    "total": 29963,
     "last_24h": {
-      "won": 1106,
-      "lost": 347,
-      "rate": 76.1,
-      "total": 1453
+      "won": 1143,
+      "lost": 365,
+      "rate": 75.8,
+      "total": 1508
     }
   },
   "by_day": [
@@ -25,27 +25,27 @@
     {
       "label": "Wednesday",
       "rate": 74.4,
-      "count": 2411
+      "count": 2410
     },
     {
       "label": "Sunday",
       "rate": 73.7,
-      "count": 6613
+      "count": 6615
     },
     {
       "label": "Thursday",
       "rate": 76.1,
-      "count": 1895
+      "count": 1894
     },
     {
       "label": "Friday",
-      "rate": 73.8,
-      "count": 4611
+      "rate": 73.9,
+      "count": 4610
     },
     {
       "label": "Saturday",
       "rate": 73.8,
-      "count": 9108
+      "count": 9161
     }
   ],
   "by_hour": [
@@ -67,7 +67,7 @@
     {
       "label": "13:00",
       "rate": 73.5,
-      "count": 2986
+      "count": 2988
     },
     {
       "label": "14:00",
@@ -81,13 +81,13 @@
     },
     {
       "label": "16:00",
-      "rate": 72.2,
-      "count": 1603
+      "rate": 72.4,
+      "count": 1599
     },
     {
       "label": "17:00",
-      "rate": 73.2,
-      "count": 2608
+      "rate": 73.1,
+      "count": 2661
     },
     {
       "label": "18:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 75.3,
-      "count": 1936
+      "count": 1937
     },
     {
       "label": "11:00",
@@ -232,6 +232,11 @@
       "count": 22
     },
     {
+      "team": "CD Leganes",
+      "rate": 90.91,
+      "count": 22
+    },
+    {
       "team": "US Monastir",
       "rate": 90.62,
       "count": 32
@@ -248,11 +253,6 @@
     },
     {
       "team": "Oman FC",
-      "rate": 90.0,
-      "count": 20
-    },
-    {
-      "team": "CD Teruel",
       "rate": 90.0,
       "count": 20
     },
@@ -330,6 +330,13 @@
       "count": 8
     },
     {
+      "name": "AUT CUP",
+      "won": 68,
+      "lost": 11,
+      "rate": 86.08,
+      "count": 79
+    },
+    {
       "name": "CHI SC",
       "won": 6,
       "lost": 1,
@@ -363,13 +370,6 @@
       "lost": 3,
       "rate": 84.21,
       "count": 19
-    },
-    {
-      "name": "AUT CUP",
-      "won": 68,
-      "lost": 13,
-      "rate": 83.95,
-      "count": 81
     },
     {
       "name": "TUR3-3",
@@ -472,25 +472,25 @@
       "count": 165
     },
     {
+      "name": "Under 4.5 Goals",
+      "won": 513,
+      "lost": 128,
+      "rate": 80.03,
+      "count": 641
+    },
+    {
+      "name": "Match Result X",
+      "won": 36,
+      "lost": 9,
+      "rate": 80.0,
+      "count": 45
+    },
+    {
       "name": "Over 4.5 Goals",
       "won": 4,
       "lost": 1,
       "rate": 80.0,
       "count": 5
-    },
-    {
-      "name": "Under 4.5 Goals",
-      "won": 511,
-      "lost": 128,
-      "rate": 79.97,
-      "count": 639
-    },
-    {
-      "name": "Match Result X",
-      "won": 35,
-      "lost": 9,
-      "rate": 79.55,
-      "count": 44
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -514,18 +514,18 @@
       "count": 83
     },
     {
-      "name": "Handicap (0:2) 2",
-      "won": 503,
-      "lost": 152,
-      "rate": 76.79,
-      "count": 655
+      "name": "Match Result 2",
+      "won": 239,
+      "lost": 71,
+      "rate": 77.1,
+      "count": 310
     },
     {
-      "name": "Match Result 2",
-      "won": 238,
-      "lost": 72,
-      "rate": 76.77,
-      "count": 310
+      "name": "Handicap (0:2) 2",
+      "won": 504,
+      "lost": 153,
+      "rate": 76.71,
+      "count": 657
     },
     {
       "name": "Handicap (1:0) 2",
@@ -536,17 +536,17 @@
     },
     {
       "name": "Match Result 1",
-      "won": 627,
-      "lost": 201,
-      "rate": 75.72,
+      "won": 628,
+      "lost": 200,
+      "rate": 75.85,
       "count": 828
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 1589,
+      "won": 1593,
       "lost": 514,
-      "rate": 75.56,
-      "count": 2103
+      "rate": 75.61,
+      "count": 2107
     },
     {
       "name": "1st Half Under 0.5",
@@ -564,13 +564,13 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.99,
-      "count": 1864
+      "rate": 79.98,
+      "count": 1868
     },
     {
       "odd": 1.05,
-      "rate": 79.23,
-      "count": 520
+      "rate": 79.24,
+      "count": 525
     },
     {
       "odd": 1.07,
@@ -589,23 +589,23 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.72,
-      "count": 1160
+      "rate": 76.68,
+      "count": 1162
     },
     {
       "odd": 1.11,
       "rate": 76.55,
-      "count": 1224
+      "count": 1228
     },
     {
       "odd": 1.1,
-      "rate": 76.28,
-      "count": 1176
+      "rate": 76.25,
+      "count": 1179
     },
     {
       "odd": 1.09,
-      "rate": 76.22,
-      "count": 1699
+      "rate": 76.19,
+      "count": 1705
     },
     {
       "odd": 1.76,
@@ -619,23 +619,23 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.61,
-      "count": 1767
+      "rate": 75.58,
+      "count": 1769
     },
     {
       "odd": 1.23,
-      "rate": 75.36,
-      "count": 487
+      "rate": 75.41,
+      "count": 488
     },
     {
       "odd": 1.14,
-      "rate": 75.21,
-      "count": 1097
+      "rate": 75.23,
+      "count": 1098
     },
     {
       "odd": 1.15,
-      "rate": 75.13,
-      "count": 1323
+      "rate": 75.06,
+      "count": 1327
     },
     {
       "odd": 1.67,
@@ -644,8 +644,8 @@
     },
     {
       "odd": 1.17,
-      "rate": 74.79,
-      "count": 714
+      "rate": 74.83,
+      "count": 715
     },
     {
       "odd": 1.22,
