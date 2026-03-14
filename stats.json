@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 21141,
-    "lost": 7475,
+    "won": 21145,
+    "lost": 7474,
     "rate": 73.9,
-    "total": 28616,
+    "total": 28619,
     "last_24h": {
-      "won": 467,
-      "lost": 167,
-      "rate": 73.7,
-      "total": 634
+      "won": 473,
+      "lost": 168,
+      "rate": 73.8,
+      "total": 641
     }
   },
   "by_day": [
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 7824
+      "count": 7827
     }
   ],
   "by_hour": [
@@ -56,8 +56,8 @@
     },
     {
       "label": "10:00",
-      "rate": 74.2,
-      "count": 612
+      "rate": 74.4,
+      "count": 618
     },
     {
       "label": "12:00",
@@ -72,12 +72,12 @@
     {
       "label": "14:00",
       "rate": 73.5,
-      "count": 1822
+      "count": 1821
     },
     {
       "label": "15:00",
       "rate": 73.3,
-      "count": 3090
+      "count": 3089
     },
     {
       "label": "16:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.6,
-      "count": 5567
+      "count": 5566
     },
     {
       "label": "20:00",
@@ -330,13 +330,6 @@
       "count": 29
     },
     {
-      "name": "TUR3-3",
-      "won": 6,
-      "lost": 1,
-      "rate": 85.71,
-      "count": 7
-    },
-    {
       "name": "CHI SC",
       "won": 6,
       "lost": 1,
@@ -377,6 +370,13 @@
       "lost": 3,
       "rate": 84.21,
       "count": 19
+    },
+    {
+      "name": "TUR3-3",
+      "won": 5,
+      "lost": 1,
+      "rate": 83.33,
+      "count": 6
     },
     {
       "name": "BIH CUP",
@@ -473,10 +473,17 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 488,
+      "won": 489,
       "lost": 123,
-      "rate": 79.87,
-      "count": 611
+      "rate": 79.9,
+      "count": 612
+    },
+    {
+      "name": "Match Result X",
+      "won": 34,
+      "lost": 9,
+      "rate": 79.07,
+      "count": 43
     },
     {
       "name": "Handicap (1:0) 2",
@@ -493,13 +500,6 @@
       "count": 14
     },
     {
-      "name": "Match Result X",
-      "won": 35,
-      "lost": 10,
-      "rate": 77.78,
-      "count": 45
-    },
-    {
       "name": "Handicap (2:0) 1",
       "won": 192,
       "lost": 55,
@@ -508,10 +508,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 225,
-      "lost": 69,
-      "rate": 76.53,
-      "count": 294
+      "won": 226,
+      "lost": 70,
+      "rate": 76.35,
+      "count": 296
     },
     {
       "name": "Handicap (0:1) 1",
@@ -542,18 +542,18 @@
       "count": 792
     },
     {
+      "name": "1st Half Under 0.5",
+      "won": 46,
+      "lost": 15,
+      "rate": 75.41,
+      "count": 61
+    },
+    {
       "name": "Handicap (2:0) 2",
       "won": 6,
       "lost": 2,
       "rate": 75.0,
       "count": 8
-    },
-    {
-      "name": "1st Half Double Chance X2",
-      "won": 1017,
-      "lost": 342,
-      "rate": 74.83,
-      "count": 1359
     }
   ],
   "top_odds": [
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.08,
-      "count": 447
+      "rate": 78.17,
+      "count": 449
     },
     {
       "odd": 1.07,
@@ -599,8 +599,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 76.45,
-      "count": 1159
+      "rate": 76.47,
+      "count": 1160
     },
     {
       "odd": 1.09,
