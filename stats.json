@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 21091,
-    "lost": 7455,
+    "won": 21095,
+    "lost": 7460,
     "rate": 73.9,
-    "total": 28546,
+    "total": 28555,
     "last_24h": {
-      "won": 458,
+      "won": 464,
       "lost": 167,
-      "rate": 73.3,
-      "total": 625
+      "rate": 73.5,
+      "total": 631
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.8,
-      "count": 6604
+      "count": 6602
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 7755
+      "count": 7766
     }
   ],
   "by_hour": [
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 73.4,
-      "count": 2071
+      "count": 2072
     },
     {
       "label": "13:00",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.3,
-      "count": 3089
+      "count": 3091
     },
     {
       "label": "16:00",
@@ -86,8 +86,8 @@
     },
     {
       "label": "17:00",
-      "rate": 73.4,
-      "count": 2539
+      "rate": 73.3,
+      "count": 2541
     },
     {
       "label": "18:00",
@@ -131,8 +131,8 @@
     },
     {
       "label": "06:00",
-      "rate": 72.6,
-      "count": 208
+      "rate": 73.1,
+      "count": 212
     },
     {
       "label": "07:00",
@@ -247,6 +247,11 @@
       "count": 20
     },
     {
+      "team": "Newcastle Jets",
+      "rate": 89.66,
+      "count": 58
+    },
+    {
       "team": "La Louviere",
       "rate": 89.19,
       "count": 37
@@ -265,11 +270,6 @@
       "team": "Remo",
       "rate": 88.89,
       "count": 27
-    },
-    {
-      "team": "FC Lorient",
-      "rate": 88.68,
-      "count": 53
     }
   ],
   "top_leagues": [
@@ -465,18 +465,18 @@
       "count": 162
     },
     {
-      "name": "Under 4.5 Goals",
-      "won": 486,
-      "lost": 121,
-      "rate": 80.07,
-      "count": 607
-    },
-    {
       "name": "Over 4.5 Goals",
       "won": 4,
       "lost": 1,
       "rate": 80.0,
       "count": 5
+    },
+    {
+      "name": "Under 4.5 Goals",
+      "won": 487,
+      "lost": 123,
+      "rate": 79.84,
+      "count": 610
     },
     {
       "name": "Handicap (1:0) 2",
@@ -509,9 +509,9 @@
     {
       "name": "Match Result 2",
       "won": 225,
-      "lost": 69,
-      "rate": 76.53,
-      "count": 294
+      "lost": 70,
+      "rate": 76.27,
+      "count": 295
     },
     {
       "name": "Handicap (0:1) 1",
@@ -530,9 +530,9 @@
     {
       "name": "1st Half Double Chance 1X",
       "won": 1501,
-      "lost": 483,
-      "rate": 75.66,
-      "count": 1984
+      "lost": 484,
+      "rate": 75.62,
+      "count": 1985
     },
     {
       "name": "Match Result 1",
@@ -588,24 +588,24 @@
       "count": 56
     },
     {
-      "odd": 1.1,
-      "rate": 76.71,
-      "count": 1095
+      "odd": 1.08,
+      "rate": 76.64,
+      "count": 1100
     },
     {
-      "odd": 1.08,
-      "rate": 76.62,
-      "count": 1099
+      "odd": 1.1,
+      "rate": 76.64,
+      "count": 1096
     },
     {
       "odd": 1.11,
-      "rate": 76.42,
-      "count": 1158
+      "rate": 76.45,
+      "count": 1159
     },
     {
       "odd": 1.09,
-      "rate": 76.18,
-      "count": 1545
+      "rate": 76.2,
+      "count": 1546
     },
     {
       "odd": 1.13,
@@ -623,19 +623,19 @@
       "count": 1224
     },
     {
+      "odd": 1.23,
+      "rate": 75.0,
+      "count": 472
+    },
+    {
       "odd": 1.95,
       "rate": 75.0,
       "count": 32
     },
     {
-      "odd": 1.23,
-      "rate": 74.95,
-      "count": 471
-    },
-    {
       "odd": 1.14,
-      "rate": 74.83,
-      "count": 1029
+      "rate": 74.64,
+      "count": 1033
     },
     {
       "odd": 1.17,
