@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 22179,
-    "lost": 7810,
-    "rate": 74.0,
-    "total": 29989,
+    "won": 22185,
+    "lost": 7817,
+    "rate": 73.9,
+    "total": 30002,
     "last_24h": {
-      "won": 1160,
-      "lost": 366,
-      "rate": 76.0,
-      "total": 1526
+      "won": 1172,
+      "lost": 376,
+      "rate": 75.7,
+      "total": 1548
     }
   },
   "by_day": [
@@ -24,8 +24,8 @@
     },
     {
       "label": "Wednesday",
-      "rate": 74.4,
-      "count": 2410
+      "rate": 74.5,
+      "count": 2412
     },
     {
       "label": "Sunday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.9,
-      "count": 4610
+      "count": 4609
     },
     {
       "label": "Saturday",
       "rate": 73.8,
-      "count": 9188
+      "count": 9200
     }
   ],
   "by_hour": [
@@ -67,7 +67,7 @@
     {
       "label": "13:00",
       "rate": 73.5,
-      "count": 2988
+      "count": 2987
     },
     {
       "label": "14:00",
@@ -91,18 +91,18 @@
     },
     {
       "label": "18:00",
-      "rate": 75.2,
-      "count": 2022
+      "rate": 75.0,
+      "count": 2038
     },
     {
       "label": "19:00",
       "rate": 73.7,
-      "count": 5561
+      "count": 5560
     },
     {
       "label": "20:00",
       "rate": 75.3,
-      "count": 1937
+      "count": 1936
     },
     {
       "label": "11:00",
@@ -192,14 +192,14 @@
       "count": 22
     },
     {
+      "team": "Osnabruck",
+      "rate": 94.44,
+      "count": 54
+    },
+    {
       "team": "FC Machida Zelvia",
       "rate": 93.48,
       "count": 46
-    },
-    {
-      "team": "Osnabruck",
-      "rate": 92.73,
-      "count": 55
     },
     {
       "team": "Darlington 188",
@@ -227,11 +227,6 @@
       "count": 23
     },
     {
-      "team": "Barracas Central",
-      "rate": 90.91,
-      "count": 22
-    },
-    {
       "team": "CD Leganes",
       "rate": 90.91,
       "count": 22
@@ -240,6 +235,11 @@
       "team": "US Monastir",
       "rate": 90.62,
       "count": 32
+    },
+    {
+      "team": "Barracas Central",
+      "rate": 90.48,
+      "count": 21
     },
     {
       "team": "FC Zlin",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Handicap (2:0) 1",
-      "won": 199,
+      "won": 200,
       "lost": 55,
-      "rate": 78.35,
-      "count": 254
+      "rate": 78.43,
+      "count": 255
     },
     {
       "name": "Match Result 2",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Handicap (0:1) 1",
-      "won": 64,
+      "won": 63,
       "lost": 19,
-      "rate": 77.11,
-      "count": 83
+      "rate": 76.83,
+      "count": 82
     },
     {
       "name": "Handicap (0:2) 2",
@@ -537,23 +537,23 @@
     {
       "name": "Match Result 1",
       "won": 628,
-      "lost": 200,
-      "rate": 75.85,
-      "count": 828
+      "lost": 201,
+      "rate": 75.75,
+      "count": 829
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 1593,
-      "lost": 514,
-      "rate": 75.61,
-      "count": 2107
+      "won": 1595,
+      "lost": 515,
+      "rate": 75.59,
+      "count": 2110
     },
     {
-      "name": "1st Half Under 0.5",
-      "won": 46,
-      "lost": 15,
-      "rate": 75.41,
-      "count": 61
+      "name": "1st Half Double Chance X2",
+      "won": 1081,
+      "lost": 360,
+      "rate": 75.02,
+      "count": 1441
     }
   ],
   "top_odds": [
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.98,
-      "count": 1868
+      "rate": 79.99,
+      "count": 1869
     },
     {
       "odd": 1.05,
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.47,
-      "count": 1243
+      "rate": 77.51,
+      "count": 1245
     },
     {
       "odd": 1.88,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 76.65,
-      "count": 1229
+      "rate": 76.67,
+      "count": 1230
     },
     {
       "odd": 1.08,
@@ -598,24 +598,24 @@
       "count": 1164
     },
     {
+      "odd": 1.7,
+      "rate": 76.47,
+      "count": 34
+    },
+    {
       "odd": 1.1,
-      "rate": 76.27,
-      "count": 1180
+      "rate": 76.31,
+      "count": 1182
     },
     {
       "odd": 1.09,
-      "rate": 76.18,
-      "count": 1709
+      "rate": 76.14,
+      "count": 1710
     },
     {
       "odd": 1.76,
       "rate": 76.14,
       "count": 88
-    },
-    {
-      "odd": 1.7,
-      "rate": 75.76,
-      "count": 33
     },
     {
       "odd": 1.13,
@@ -624,18 +624,18 @@
     },
     {
       "odd": 1.23,
-      "rate": 75.41,
-      "count": 488
+      "rate": 75.46,
+      "count": 489
     },
     {
       "odd": 1.14,
-      "rate": 75.25,
-      "count": 1099
+      "rate": 75.18,
+      "count": 1100
     },
     {
       "odd": 1.15,
-      "rate": 75.09,
-      "count": 1329
+      "rate": 75.06,
+      "count": 1331
     },
     {
       "odd": 1.67,
@@ -653,9 +653,9 @@
       "count": 483
     },
     {
-      "odd": 1.45,
-      "rate": 74.07,
-      "count": 81
+      "odd": 1.46,
+      "rate": 74.23,
+      "count": 97
     }
   ],
   "top_matches": [
@@ -842,14 +842,6 @@
       "odds": "4.96",
       "prediction": "Handicap (2:0) X",
       "date": "10.01.2026 17:00"
-    },
-    {
-      "match": "UC Sampdoria vs Spezia Calcio",
-      "ht": "0 - 0",
-      "ft": "1 - 0",
-      "odds": "4.84",
-      "prediction": "HT/FT X/1",
-      "date": "31.01.2026 18:30"
     },
     {
       "match": "FC Groningen vs FC Utrecht",
@@ -1058,6 +1050,14 @@
       "odds": "3.89",
       "prediction": "Handicap (1:0) X",
       "date": "14.01.2026 12:30"
+    },
+    {
+      "match": "Malaga CF vs Burgos CF",
+      "ht": "2 - 0",
+      "ft": "3 - 0",
+      "odds": "3.83",
+      "prediction": "Handicap (0:1) 1",
+      "date": "23.01.2026 19:30"
     }
   ]
 }
