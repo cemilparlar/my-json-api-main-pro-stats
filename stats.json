@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 23023,
-    "lost": 8151,
+    "won": 23026,
+    "lost": 8152,
     "rate": 73.9,
-    "total": 31174,
+    "total": 31178,
     "last_24h": {
-      "won": 703,
-      "lost": 246,
-      "rate": 74.1,
-      "total": 949
+      "won": 707,
+      "lost": 248,
+      "rate": 74.0,
+      "total": 955
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.6,
-      "count": 7578
+      "count": 7585
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.8,
-      "count": 4618
+      "count": 4617
     },
     {
       "label": "Saturday",
       "rate": 73.7,
-      "count": 9398
+      "count": 9396
     }
   ],
   "by_hour": [
@@ -87,17 +87,17 @@
     {
       "label": "17:00",
       "rate": 73.1,
-      "count": 2736
+      "count": 2734
     },
     {
       "label": "18:00",
       "rate": 74.8,
-      "count": 2097
+      "count": 2096
     },
     {
       "label": "19:00",
-      "rate": 73.6,
-      "count": 5663
+      "rate": 73.5,
+      "count": 5670
     },
     {
       "label": "20:00",
@@ -207,11 +207,6 @@
       "count": 24
     },
     {
-      "team": "Barakaldo CF",
-      "rate": 91.67,
-      "count": 24
-    },
-    {
       "team": "Aek",
       "rate": 91.67,
       "count": 36
@@ -260,6 +255,11 @@
       "team": "Newcastle Jets",
       "rate": 89.66,
       "count": 58
+    },
+    {
+      "team": "Barakaldo CF",
+      "rate": 89.29,
+      "count": 28
     },
     {
       "team": "Hamrun",
@@ -536,10 +536,10 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1133,
+      "won": 1134,
       "lost": 371,
-      "rate": 75.33,
-      "count": 1504
+      "rate": 75.35,
+      "count": 1505
     },
     {
       "name": "1st Half Double Chance 1X",
@@ -603,24 +603,24 @@
       "count": 1281
     },
     {
+      "odd": 1.1,
+      "rate": 76.02,
+      "count": 1230
+    },
+    {
       "odd": 1.09,
       "rate": 76.0,
       "count": 1817
     },
     {
-      "odd": 1.1,
-      "rate": 75.98,
-      "count": 1228
+      "odd": 1.23,
+      "rate": 75.75,
+      "count": 503
     },
     {
       "odd": 1.13,
       "rate": 75.7,
       "count": 1811
-    },
-    {
-      "odd": 1.23,
-      "rate": 75.7,
-      "count": 502
     },
     {
       "odd": 1.7,
@@ -633,19 +633,19 @@
       "count": 1160
     },
     {
-      "odd": 1.15,
-      "rate": 74.77,
-      "count": 1407
-    },
-    {
       "odd": 1.17,
       "rate": 74.77,
       "count": 745
     },
     {
+      "odd": 1.15,
+      "rate": 74.72,
+      "count": 1408
+    },
+    {
       "odd": 1.22,
-      "rate": 74.24,
-      "count": 493
+      "rate": 74.14,
+      "count": 495
     },
     {
       "odd": 1.16,
