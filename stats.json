@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 22777,
-    "lost": 8051,
+    "won": 22799,
+    "lost": 8062,
     "rate": 73.9,
-    "total": 30828,
+    "total": 30861,
     "last_24h": {
-      "won": 499,
-      "lost": 163,
-      "rate": 75.4,
-      "total": 662
+      "won": 522,
+      "lost": 169,
+      "rate": 75.5,
+      "total": 691
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.8,
-      "count": 1920
+      "count": 1921
     },
     {
       "label": "Tuesday",
       "rate": 73.9,
-      "count": 3359
+      "count": 3360
     },
     {
       "label": "Wednesday",
@@ -30,12 +30,12 @@
     {
       "label": "Sunday",
       "rate": 73.8,
-      "count": 7235
+      "count": 7263
     },
     {
       "label": "Thursday",
       "rate": 76.1,
-      "count": 1894
+      "count": 1895
     },
     {
       "label": "Friday",
@@ -44,8 +44,8 @@
     },
     {
       "label": "Saturday",
-      "rate": 73.7,
-      "count": 9398
+      "rate": 73.6,
+      "count": 9400
     }
   ],
   "by_hour": [
@@ -61,23 +61,23 @@
     },
     {
       "label": "12:00",
-      "rate": 72.7,
-      "count": 2281
+      "rate": 72.8,
+      "count": 2283
     },
     {
       "label": "13:00",
       "rate": 73.5,
-      "count": 3133
+      "count": 3134
     },
     {
       "label": "14:00",
       "rate": 73.5,
-      "count": 2142
+      "count": 2143
     },
     {
       "label": "15:00",
       "rate": 73.6,
-      "count": 3651
+      "count": 3677
     },
     {
       "label": "16:00",
@@ -86,8 +86,8 @@
     },
     {
       "label": "17:00",
-      "rate": 73.1,
-      "count": 2666
+      "rate": 73.0,
+      "count": 2667
     },
     {
       "label": "18:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.6,
-      "count": 5635
+      "count": 5636
     },
     {
       "label": "20:00",
@@ -131,8 +131,8 @@
     },
     {
       "label": "06:00",
-      "rate": 72.1,
-      "count": 229
+      "rate": 71.7,
+      "count": 230
     },
     {
       "label": "07:00",
@@ -437,18 +437,18 @@
       "count": 39
     },
     {
+      "name": "HT/FT 2/2",
+      "won": 16,
+      "lost": 2,
+      "rate": 88.89,
+      "count": 18
+    },
+    {
       "name": "Over 0.5 Goals",
       "won": 39,
       "lost": 5,
       "rate": 88.64,
       "count": 44
-    },
-    {
-      "name": "HT/FT 2/2",
-      "won": 15,
-      "lost": 2,
-      "rate": 88.24,
-      "count": 17
     },
     {
       "name": "Handicap (2:0) 2",
@@ -473,10 +473,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 525,
+      "won": 526,
       "lost": 130,
-      "rate": 80.15,
-      "count": 655
+      "rate": 80.18,
+      "count": 656
     },
     {
       "name": "Match Result X",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Handicap (2:0) 1",
-      "won": 205,
+      "won": 206,
       "lost": 57,
-      "rate": 78.24,
-      "count": 262
+      "rate": 78.33,
+      "count": 263
     },
     {
       "name": "Handicap (1:0) 2",
@@ -515,17 +515,17 @@
     },
     {
       "name": "Match Result 2",
-      "won": 247,
-      "lost": 73,
-      "rate": 77.19,
-      "count": 320
+      "won": 249,
+      "lost": 74,
+      "rate": 77.09,
+      "count": 323
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 518,
-      "lost": 159,
-      "rate": 76.51,
-      "count": 677
+      "won": 517,
+      "lost": 158,
+      "rate": 76.59,
+      "count": 675
     },
     {
       "name": "1st Half Under 0.5",
@@ -536,10 +536,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 1638,
-      "lost": 534,
-      "rate": 75.41,
-      "count": 2172
+      "won": 1640,
+      "lost": 535,
+      "rate": 75.4,
+      "count": 2175
     },
     {
       "name": "Match Result 1",
@@ -564,23 +564,18 @@
     },
     {
       "odd": 1.06,
-      "rate": 80.19,
-      "count": 1903
+      "rate": 80.2,
+      "count": 1904
     },
     {
       "odd": 1.05,
-      "rate": 78.91,
-      "count": 569
+      "rate": 78.88,
+      "count": 573
     },
     {
       "odd": 1.07,
       "rate": 77.92,
       "count": 1286
-    },
-    {
-      "odd": 1.7,
-      "rate": 77.78,
-      "count": 36
     },
     {
       "odd": 1.12,
@@ -604,8 +599,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 76.42,
-      "count": 1264
+      "rate": 76.44,
+      "count": 1265
     },
     {
       "odd": 1.1,
@@ -624,8 +619,13 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.75,
-      "count": 1798
+      "rate": 75.78,
+      "count": 1800
+    },
+    {
+      "odd": 1.7,
+      "rate": 75.68,
+      "count": 37
     },
     {
       "odd": 1.14,
@@ -633,14 +633,14 @@
       "count": 1138
     },
     {
-      "odd": 1.15,
-      "rate": 75.0,
-      "count": 1380
-    },
-    {
       "odd": 1.67,
       "rate": 75.0,
       "count": 44
+    },
+    {
+      "odd": 1.15,
+      "rate": 74.98,
+      "count": 1383
     },
     {
       "odd": 1.17,
@@ -674,6 +674,14 @@
       "odds": "12.80",
       "prediction": "HT/FT 1/X",
       "date": "10.01.2026 14:30"
+    },
+    {
+      "match": "FC Luzern vs FC Winterthur",
+      "ht": "1 - 2",
+      "ft": "1 - 2",
+      "odds": "11.80",
+      "prediction": "HT/FT 2/2",
+      "date": "15.03.2026 15:30"
     },
     {
       "match": "Alemannia Aachen vs Osnabruck",
@@ -714,6 +722,22 @@
       "odds": "7.77",
       "prediction": "HT/FT X/2",
       "date": "14.02.2026 20:00"
+    },
+    {
+      "match": "FC Luzern vs FC Winterthur",
+      "ht": "1 - 2",
+      "ft": "1 - 2",
+      "odds": "7.40",
+      "prediction": "Handicap (1:0) X",
+      "date": "15.03.2026 15:30"
+    },
+    {
+      "match": "FC Luzern vs FC Winterthur",
+      "ht": "1 - 2",
+      "ft": "1 - 2",
+      "odds": "6.91",
+      "prediction": "Match Result 2",
+      "date": "15.03.2026 15:30"
     },
     {
       "match": "Parma Calcio vs Genoa CFC",
@@ -1034,30 +1058,6 @@
       "odds": "3.92",
       "prediction": "Handicap (0:1) X",
       "date": "24.01.2026 15:00"
-    },
-    {
-      "match": "Antalyaspor vs Samsunspor",
-      "ht": "2 - 0",
-      "ft": "3 - 1",
-      "odds": "3.92",
-      "prediction": "Over 3.5 Goals",
-      "date": "13.02.2026 17:00"
-    },
-    {
-      "match": "Antalyaspor vs Genclerbirligi",
-      "ht": "0 - 0",
-      "ft": "0 - 1",
-      "odds": "3.89",
-      "prediction": "Handicap (1:0) X",
-      "date": "14.01.2026 12:30"
-    },
-    {
-      "match": "Malaga CF vs Burgos CF",
-      "ht": "2 - 0",
-      "ft": "3 - 0",
-      "odds": "3.83",
-      "prediction": "Handicap (0:1) 1",
-      "date": "23.01.2026 19:30"
     }
   ]
 }
