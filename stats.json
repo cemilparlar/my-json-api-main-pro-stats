@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 22912,
-    "lost": 8105,
+    "won": 22921,
+    "lost": 8112,
     "rate": 73.9,
-    "total": 31017,
+    "total": 31033,
     "last_24h": {
-      "won": 610,
-      "lost": 205,
+      "won": 615,
+      "lost": 207,
       "rate": 74.8,
-      "total": 815
+      "total": 822
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.7,
-      "count": 7418
+      "count": 7427
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.7,
-      "count": 9398
+      "count": 9405
     }
   ],
   "by_hour": [
@@ -67,12 +67,12 @@
     {
       "label": "13:00",
       "rate": 73.4,
-      "count": 3136
+      "count": 3137
     },
     {
       "label": "14:00",
-      "rate": 73.7,
-      "count": 2138
+      "rate": 73.6,
+      "count": 2139
     },
     {
       "label": "15:00",
@@ -81,8 +81,8 @@
     },
     {
       "label": "16:00",
-      "rate": 72.5,
-      "count": 1718
+      "rate": 72.4,
+      "count": 1732
     },
     {
       "label": "17:00",
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.9,
-      "count": 583
+      "rate": 78.94,
+      "count": 584
     },
     {
       "odd": 1.07,
@@ -594,13 +594,13 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.53,
-      "count": 1210
+      "rate": 76.55,
+      "count": 1211
     },
     {
       "odd": 1.11,
-      "rate": 76.51,
-      "count": 1277
+      "rate": 76.53,
+      "count": 1278
     },
     {
       "odd": 1.09,
@@ -609,18 +609,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 75.98,
-      "count": 1220
-    },
-    {
-      "odd": 1.23,
-      "rate": 75.8,
-      "count": 500
-    },
-    {
-      "odd": 1.13,
-      "rate": 75.68,
-      "count": 1805
+      "rate": 76.0,
+      "count": 1221
     },
     {
       "odd": 1.7,
@@ -628,9 +618,19 @@
       "count": 37
     },
     {
+      "odd": 1.23,
+      "rate": 75.65,
+      "count": 501
+    },
+    {
+      "odd": 1.13,
+      "rate": 75.64,
+      "count": 1806
+    },
+    {
       "odd": 1.14,
-      "rate": 74.93,
-      "count": 1149
+      "rate": 74.89,
+      "count": 1151
     },
     {
       "odd": 1.15,
@@ -706,6 +706,22 @@
       "odds": "8.67",
       "prediction": "Under 0.5 Goals",
       "date": "18.01.2026 11:30"
+    },
+    {
+      "match": "Dinamo Zagreb vs NK Slaven Belupo",
+      "ht": "0 - 1",
+      "ft": "4 - 2",
+      "odds": "8.32",
+      "prediction": "Total Goals 6+",
+      "date": "14.03.2026 16:15"
+    },
+    {
+      "match": "Dinamo Zagreb vs NK Slaven Belupo",
+      "ht": "0 - 1",
+      "ft": "4 - 2",
+      "odds": "8.32",
+      "prediction": "Total Goals 6+",
+      "date": "14.03.2026 16:15"
     },
     {
       "match": "FC Groningen vs FC Utrecht",
@@ -1042,22 +1058,6 @@
       "odds": "3.92",
       "prediction": "Over 3.5 Goals",
       "date": "13.02.2026 17:00"
-    },
-    {
-      "match": "Antalyaspor vs Genclerbirligi",
-      "ht": "0 - 0",
-      "ft": "0 - 1",
-      "odds": "3.89",
-      "prediction": "Handicap (1:0) X",
-      "date": "14.01.2026 12:30"
-    },
-    {
-      "match": "Malaga CF vs Burgos CF",
-      "ht": "2 - 0",
-      "ft": "3 - 0",
-      "odds": "3.83",
-      "prediction": "Handicap (0:1) 1",
-      "date": "23.01.2026 19:30"
     }
   ]
 }
