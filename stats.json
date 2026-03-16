@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 23084,
-    "lost": 8166,
+    "won": 23097,
+    "lost": 8168,
     "rate": 73.9,
-    "total": 31250,
+    "total": 31265,
     "last_24h": {
-      "won": 766,
-      "lost": 266,
+      "won": 778,
+      "lost": 270,
       "rate": 74.2,
-      "total": 1032
+      "total": 1048
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.6,
-      "count": 7660
+      "count": 7675
     },
     {
       "label": "Thursday",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.6,
-      "count": 3709
+      "count": 3708
     },
     {
       "label": "16:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 75.0,
-      "count": 2023
+      "count": 2024
     },
     {
       "label": "11:00",
@@ -122,7 +122,7 @@
     {
       "label": "22:00",
       "rate": 74.3,
-      "count": 448
+      "count": 456
     },
     {
       "label": "01:00",
@@ -151,8 +151,8 @@
     },
     {
       "label": "21:00",
-      "rate": 75.7,
-      "count": 507
+      "rate": 75.9,
+      "count": 514
     },
     {
       "label": "02:00",
@@ -257,6 +257,11 @@
       "count": 20
     },
     {
+      "team": "Remo",
+      "rate": 90.0,
+      "count": 30
+    },
+    {
       "team": "Newcastle Jets",
       "rate": 89.66,
       "count": 58
@@ -265,11 +270,6 @@
       "team": "Barakaldo CF",
       "rate": 89.29,
       "count": 28
-    },
-    {
-      "team": "Hamrun",
-      "rate": 88.89,
-      "count": 27
     }
   ],
   "top_leagues": [
@@ -407,11 +407,11 @@
       "count": 18
     },
     {
-      "name": "LIBER20",
-      "won": 10,
-      "lost": 2,
-      "rate": 83.33,
-      "count": 12
+      "name": "SİNP",
+      "won": 63,
+      "lost": 13,
+      "rate": 82.89,
+      "count": 76
     }
   ],
   "top_predictions": [
@@ -514,6 +514,13 @@
       "count": 36
     },
     {
+      "name": "1st Half Under 0.5",
+      "won": 48,
+      "lost": 14,
+      "rate": 77.42,
+      "count": 62
+    },
+    {
       "name": "Match Result 2",
       "won": 250,
       "lost": 74,
@@ -521,18 +528,11 @@
       "count": 324
     },
     {
-      "name": "1st Half Under 0.5",
-      "won": 47,
-      "lost": 14,
-      "rate": 77.05,
-      "count": 61
-    },
-    {
       "name": "Handicap (0:2) 2",
-      "won": 526,
+      "won": 528,
       "lost": 160,
-      "rate": 76.68,
-      "count": 686
+      "rate": 76.74,
+      "count": 688
     },
     {
       "name": "1st Half Double Chance X2",
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.96,
-      "count": 1311
+      "rate": 77.97,
+      "count": 1312
     },
     {
       "odd": 1.76,
@@ -594,8 +594,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.58,
-      "count": 1221
+      "rate": 76.6,
+      "count": 1222
     },
     {
       "odd": 1.88,
@@ -604,8 +604,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.15,
-      "count": 1824
+      "rate": 76.12,
+      "count": 1826
     },
     {
       "odd": 1.1,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 74.68,
-      "count": 1414
+      "rate": 74.7,
+      "count": 1415
     },
     {
       "odd": 1.17,
@@ -644,13 +644,13 @@
     },
     {
       "odd": 1.22,
-      "rate": 74.14,
-      "count": 495
+      "rate": 74.19,
+      "count": 496
     },
     {
       "odd": 1.16,
-      "rate": 73.93,
-      "count": 840
+      "rate": 73.96,
+      "count": 841
     },
     {
       "odd": 1.74,
