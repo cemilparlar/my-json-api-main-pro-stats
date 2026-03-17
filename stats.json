@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 23285,
-    "lost": 8248,
+    "won": 23290,
+    "lost": 8250,
     "rate": 73.8,
-    "total": 31533,
+    "total": 31540,
     "last_24h": {
-      "won": 28,
+      "won": 33,
       "lost": 12,
-      "rate": 70.0,
-      "total": 40
+      "rate": 73.3,
+      "total": 45
     }
   },
   "by_day": [
@@ -19,13 +19,13 @@
     },
     {
       "label": "Tuesday",
-      "rate": 73.8,
-      "count": 3403
+      "rate": 73.9,
+      "count": 3408
     },
     {
       "label": "Wednesday",
       "rate": 74.5,
-      "count": 2407
+      "count": 2408
     },
     {
       "label": "Sunday",
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 76.1,
-      "count": 1895
+      "count": 1896
     },
     {
       "label": "Friday",
@@ -71,13 +71,13 @@
     },
     {
       "label": "14:00",
-      "rate": 73.7,
-      "count": 2160
+      "rate": 73.6,
+      "count": 2161
     },
     {
       "label": "15:00",
-      "rate": 73.6,
-      "count": 3722
+      "rate": 73.7,
+      "count": 3727
     },
     {
       "label": "16:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.5,
-      "count": 5755
+      "count": 5756
     },
     {
       "label": "20:00",
@@ -379,13 +379,6 @@
       "count": 6
     },
     {
-      "name": "BOSK",
-      "won": 10,
-      "lost": 2,
-      "rate": 83.33,
-      "count": 12
-    },
-    {
       "name": "ROK",
       "won": 5,
       "lost": 1,
@@ -412,6 +405,13 @@
       "lost": 5,
       "rate": 82.76,
       "count": 29
+    },
+    {
+      "name": "MSRK",
+      "won": 19,
+      "lost": 4,
+      "rate": 82.61,
+      "count": 23
     }
   ],
   "top_predictions": [
@@ -528,13 +528,6 @@
       "count": 37
     },
     {
-      "name": "1st Half Double Chance 1X",
-      "won": 1676,
-      "lost": 549,
-      "rate": 75.33,
-      "count": 2225
-    },
-    {
       "name": "1st Half Double Chance X2",
       "won": 1146,
       "lost": 376,
@@ -542,18 +535,25 @@
       "count": 1522
     },
     {
-      "name": "Match Result 1",
-      "won": 652,
-      "lost": 216,
-      "rate": 75.12,
-      "count": 868
+      "name": "1st Half Double Chance 1X",
+      "won": 1676,
+      "lost": 550,
+      "rate": 75.29,
+      "count": 2226
     },
     {
-      "name": "1st Half Under 0.5",
-      "won": 48,
-      "lost": 16,
-      "rate": 75.0,
-      "count": 64
+      "name": "Handicap (0:1) 1",
+      "won": 70,
+      "lost": 23,
+      "rate": 75.27,
+      "count": 93
+    },
+    {
+      "name": "Match Result 1",
+      "won": 653,
+      "lost": 216,
+      "rate": 75.14,
+      "count": 869
     }
   ],
   "top_odds": [
