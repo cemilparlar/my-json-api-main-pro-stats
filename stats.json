@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 23255,
-    "lost": 8238,
+    "won": 23260,
+    "lost": 8239,
     "rate": 73.8,
-    "total": 31493,
+    "total": 31499,
     "last_24h": {
-      "won": 97,
-      "lost": 36,
-      "rate": 72.9,
-      "total": 133
+      "won": 102,
+      "lost": 37,
+      "rate": 73.4,
+      "total": 139
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.8,
-      "count": 3363
+      "count": 3369
     },
     {
       "label": "Wednesday",
@@ -56,8 +56,8 @@
     },
     {
       "label": "10:00",
-      "rate": 74.3,
-      "count": 638
+      "rate": 74.4,
+      "count": 644
     },
     {
       "label": "12:00",
@@ -182,6 +182,11 @@
       "count": 24
     },
     {
+      "team": "Gwangju FC",
+      "rate": 95.24,
+      "count": 21
+    },
+    {
       "team": "Osnabruck",
       "rate": 94.44,
       "count": 54
@@ -265,11 +270,6 @@
       "team": "Newcastle Jets",
       "rate": 89.66,
       "count": 58
-    },
-    {
-      "team": "Barakaldo CF",
-      "rate": 89.29,
-      "count": 28
     }
   ],
   "top_leagues": [
@@ -331,10 +331,10 @@
     },
     {
       "name": "GKOR",
-      "won": 72,
-      "lost": 9,
-      "rate": 88.89,
-      "count": 81
+      "won": 77,
+      "lost": 10,
+      "rate": 88.51,
+      "count": 87
     },
     {
       "name": "UMMSK",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 533,
+      "won": 534,
       "lost": 160,
-      "rate": 76.91,
-      "count": 693
+      "rate": 76.95,
+      "count": 694
     },
     {
       "name": "1st Half Under 0.5",
@@ -564,13 +564,13 @@
     },
     {
       "odd": 1.06,
-      "rate": 80.17,
-      "count": 1926
+      "rate": 80.18,
+      "count": 1927
     },
     {
       "odd": 1.05,
-      "rate": 79.3,
-      "count": 599
+      "rate": 79.33,
+      "count": 600
     },
     {
       "odd": 1.07,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.52,
-      "count": 1235
+      "rate": 76.54,
+      "count": 1236
     },
     {
       "odd": 1.11,
@@ -599,8 +599,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.0,
-      "count": 1846
+      "rate": 76.02,
+      "count": 1847
     },
     {
       "odd": 1.1,
@@ -629,8 +629,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 74.63,
-      "count": 1435
+      "rate": 74.65,
+      "count": 1436
     },
     {
       "odd": 1.17,
@@ -649,8 +649,8 @@
     },
     {
       "odd": 1.16,
-      "rate": 73.99,
-      "count": 842
+      "rate": 73.9,
+      "count": 843
     },
     {
       "odd": 1.88,
