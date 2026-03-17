@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 23272,
-    "lost": 8244,
+    "won": 23278,
+    "lost": 8247,
     "rate": 73.8,
-    "total": 31516,
+    "total": 31525,
     "last_24h": {
-      "won": 58,
-      "lost": 24,
-      "rate": 70.7,
-      "total": 82
+      "won": 61,
+      "lost": 26,
+      "rate": 70.1,
+      "total": 87
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.8,
-      "count": 3387
+      "count": 3395
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.7,
-      "count": 7685
+      "count": 7686
     },
     {
       "label": "Thursday",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.7,
-      "count": 2154
+      "count": 2160
     },
     {
       "label": "15:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.5,
-      "count": 5752
+      "count": 5755
     },
     {
       "label": "20:00",
@@ -521,13 +521,6 @@
       "count": 694
     },
     {
-      "name": "1st Half Under 0.5",
-      "won": 48,
-      "lost": 15,
-      "rate": 76.19,
-      "count": 63
-    },
-    {
       "name": "Handicap (1:0) 2",
       "won": 28,
       "lost": 9,
@@ -554,6 +547,13 @@
       "lost": 216,
       "rate": 75.12,
       "count": 868
+    },
+    {
+      "name": "1st Half Under 0.5",
+      "won": 48,
+      "lost": 16,
+      "rate": 75.0,
+      "count": 64
     }
   ],
   "top_odds": [
@@ -599,18 +599,13 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.0,
-      "count": 1850
+      "rate": 76.01,
+      "count": 1851
     },
     {
       "odd": 1.1,
-      "rate": 75.95,
-      "count": 1243
-    },
-    {
-      "odd": 1.7,
-      "rate": 75.68,
-      "count": 37
+      "rate": 75.96,
+      "count": 1244
     },
     {
       "odd": 1.23,
@@ -656,6 +651,11 @@
       "odd": 1.88,
       "rate": 73.77,
       "count": 61
+    },
+    {
+      "odd": 1.7,
+      "rate": 73.68,
+      "count": 38
     }
   ],
   "top_matches": [
