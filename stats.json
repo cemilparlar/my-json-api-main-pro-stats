@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 23531,
-    "lost": 8347,
+    "won": 23560,
+    "lost": 8353,
     "rate": 73.8,
-    "total": 31878,
+    "total": 31913,
     "last_24h": {
-      "won": 247,
-      "lost": 93,
-      "rate": 72.6,
-      "total": 340
+      "won": 274,
+      "lost": 98,
+      "rate": 73.7,
+      "total": 372
     }
   },
   "by_day": [
@@ -20,12 +20,12 @@
     {
       "label": "Tuesday",
       "rate": 73.7,
-      "count": 3738
+      "count": 3739
     },
     {
       "label": "Wednesday",
-      "rate": 74.6,
-      "count": 2407
+      "rate": 74.7,
+      "count": 2440
     },
     {
       "label": "Sunday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.6,
-      "count": 9409
+      "count": 9410
     }
   ],
   "by_hour": [
@@ -56,8 +56,8 @@
     },
     {
       "label": "10:00",
-      "rate": 74.5,
-      "count": 643
+      "rate": 74.9,
+      "count": 676
     },
     {
       "label": "12:00",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.6,
-      "count": 2163
+      "count": 2164
     },
     {
       "label": "15:00",
@@ -92,7 +92,7 @@
     {
       "label": "18:00",
       "rate": 74.8,
-      "count": 2178
+      "count": 2177
     },
     {
       "label": "19:00",
@@ -111,8 +111,8 @@
     },
     {
       "label": "05:00",
-      "rate": 77.0,
-      "count": 544
+      "rate": 77.1,
+      "count": 545
     },
     {
       "label": "09:00",
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 75.3,
-      "count": 466
+      "rate": 75.2,
+      "count": 467
     },
     {
       "label": "01:00",
@@ -217,6 +217,11 @@
       "count": 36
     },
     {
+      "team": "Avispa Fukuoka",
+      "rate": 91.67,
+      "count": 24
+    },
+    {
       "team": "Inter Miami CF",
       "rate": 91.3,
       "count": 23
@@ -252,22 +257,17 @@
       "count": 31
     },
     {
-      "team": "Talleres de Cordoba",
-      "rate": 90.0,
-      "count": 20
-    },
-    {
       "team": "Remo",
       "rate": 90.0,
       "count": 30
     },
     {
-      "team": "FC Lorient",
-      "rate": 89.66,
-      "count": 58
+      "team": "Kyoto Sanga FC",
+      "rate": 90.0,
+      "count": 30
     },
     {
-      "team": "Newcastle Jets",
+      "team": "FC Lorient",
       "rate": 89.66,
       "count": 58
     }
@@ -543,10 +543,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 1692,
+      "won": 1693,
       "lost": 556,
-      "rate": 75.27,
-      "count": 2248
+      "rate": 75.28,
+      "count": 2249
     },
     {
       "name": "1st Half Under 0.5",
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 80.16,
-      "count": 1956
+      "rate": 80.17,
+      "count": 1957
     },
     {
       "odd": 1.05,
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.89,
-      "count": 1334
+      "rate": 77.86,
+      "count": 1337
     },
     {
       "odd": 1.76,
@@ -584,23 +584,23 @@
     },
     {
       "odd": 1.12,
-      "rate": 77.29,
-      "count": 1312
+      "rate": 77.3,
+      "count": 1313
     },
     {
       "odd": 1.08,
-      "rate": 76.47,
-      "count": 1258
+      "rate": 76.51,
+      "count": 1260
     },
     {
       "odd": 1.11,
-      "rate": 76.37,
-      "count": 1316
+      "rate": 76.44,
+      "count": 1320
     },
     {
       "odd": 1.09,
-      "rate": 76.09,
-      "count": 1886
+      "rate": 76.08,
+      "count": 1890
     },
     {
       "odd": 1.1,
@@ -615,12 +615,7 @@
     {
       "odd": 1.13,
       "rate": 75.47,
-      "count": 1843
-    },
-    {
-      "odd": 1.14,
-      "rate": 75.0,
-      "count": 1184
+      "count": 1847
     },
     {
       "odd": 1.74,
@@ -628,9 +623,14 @@
       "count": 56
     },
     {
+      "odd": 1.14,
+      "rate": 74.96,
+      "count": 1186
+    },
+    {
       "odd": 1.17,
-      "rate": 74.57,
-      "count": 755
+      "rate": 74.6,
+      "count": 756
     },
     {
       "odd": 1.7,
@@ -639,8 +639,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 74.33,
-      "count": 1465
+      "rate": 74.35,
+      "count": 1466
     },
     {
       "odd": 1.95,
@@ -649,13 +649,13 @@
     },
     {
       "odd": 1.22,
-      "rate": 73.96,
-      "count": 503
+      "rate": 74.01,
+      "count": 504
     },
     {
-      "odd": 1.66,
-      "rate": 73.91,
-      "count": 46
+      "odd": 1.16,
+      "rate": 73.94,
+      "count": 852
     }
   ],
   "top_matches": [
