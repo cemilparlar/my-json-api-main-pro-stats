@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 23576,
-    "lost": 8359,
+    "won": 23585,
+    "lost": 8362,
     "rate": 73.8,
-    "total": 31935,
+    "total": 31947,
     "last_24h": {
-      "won": 284,
-      "lost": 104,
+      "won": 292,
+      "lost": 107,
       "rate": 73.2,
-      "total": 388
+      "total": 399
     }
   },
   "by_day": [
@@ -25,12 +25,12 @@
     {
       "label": "Wednesday",
       "rate": 74.7,
-      "count": 2462
+      "count": 2473
     },
     {
       "label": "Sunday",
       "rate": 73.7,
-      "count": 7687
+      "count": 7688
     },
     {
       "label": "Thursday",
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 74.8,
-      "count": 698
+      "count": 703
     },
     {
       "label": "12:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 75.3,
-      "count": 1797
+      "count": 1804
     },
     {
       "label": "05:00",
@@ -180,6 +180,11 @@
       "team": "Asteras Tripol",
       "rate": 95.83,
       "count": 24
+    },
+    {
+      "team": "Daejeon Citizen",
+      "rate": 95.24,
+      "count": 21
     },
     {
       "team": "Gwangju FC",
@@ -265,11 +270,6 @@
       "team": "FC Lorient",
       "rate": 89.66,
       "count": 58
-    },
-    {
-      "team": "Newcastle Jets",
-      "rate": 89.66,
-      "count": 58
     }
   ],
   "top_leagues": [
@@ -331,10 +331,10 @@
     },
     {
       "name": "GKOR",
-      "won": 90,
-      "lost": 12,
-      "rate": 88.24,
-      "count": 102
+      "won": 94,
+      "lost": 13,
+      "rate": 87.85,
+      "count": 107
     },
     {
       "name": "UMMSK",
@@ -543,10 +543,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 1694,
+      "won": 1696,
       "lost": 557,
-      "rate": 75.26,
-      "count": 2251
+      "rate": 75.28,
+      "count": 2253
     },
     {
       "name": "1st Half Under 0.5",
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 80.13,
-      "count": 1958
+      "rate": 80.14,
+      "count": 1959
     },
     {
       "odd": 1.05,
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.89,
-      "count": 1339
+      "rate": 77.91,
+      "count": 1340
     },
     {
       "odd": 1.76,
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.12,
-      "rate": 77.26,
-      "count": 1315
+      "rate": 77.28,
+      "count": 1316
     },
     {
       "odd": 1.08,
@@ -599,8 +599,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.08,
-      "count": 1890
+      "rate": 76.04,
+      "count": 1891
     },
     {
       "odd": 1.1,
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.23,
-      "rate": 75.73,
-      "count": 511
+      "rate": 75.59,
+      "count": 512
     },
     {
       "odd": 1.13,
@@ -653,9 +653,9 @@
       "count": 505
     },
     {
-      "odd": 1.16,
-      "rate": 73.94,
-      "count": 852
+      "odd": 1.66,
+      "rate": 73.91,
+      "count": 46
     }
   ],
   "top_matches": [
