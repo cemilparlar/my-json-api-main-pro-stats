@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 23752,
-    "lost": 8428,
+    "won": 23766,
+    "lost": 8431,
     "rate": 73.8,
-    "total": 32180,
+    "total": 32197,
     "last_24h": {
-      "won": 218,
+      "won": 226,
       "lost": 77,
-      "rate": 73.9,
-      "total": 295
+      "rate": 74.6,
+      "total": 303
     }
   },
   "by_day": [
@@ -24,18 +24,18 @@
     },
     {
       "label": "Wednesday",
-      "rate": 74.4,
-      "count": 2706
+      "rate": 74.5,
+      "count": 2714
     },
     {
       "label": "Sunday",
-      "rate": 73.7,
-      "count": 7691
+      "rate": 73.6,
+      "count": 7692
     },
     {
       "label": "Thursday",
       "rate": 76.0,
-      "count": 1901
+      "count": 1909
     },
     {
       "label": "Friday",
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 75.3,
-      "count": 466
+      "rate": 75.6,
+      "count": 471
     },
     {
       "label": "01:00",
@@ -147,12 +147,12 @@
     {
       "label": "00:00",
       "rate": 74.5,
-      "count": 137
+      "count": 145
     },
     {
       "label": "21:00",
       "rate": 75.1,
-      "count": 559
+      "count": 563
     },
     {
       "label": "02:00",
@@ -431,10 +431,10 @@
     },
     {
       "name": "HT/FT 1/1",
-      "won": 39,
+      "won": 40,
       "lost": 4,
-      "rate": 90.7,
-      "count": 43
+      "rate": 90.91,
+      "count": 44
     },
     {
       "name": "Over 0.5 Goals",
@@ -459,10 +459,10 @@
     },
     {
       "name": "Over 4.5 Goals",
-      "won": 5,
+      "won": 6,
       "lost": 1,
-      "rate": 83.33,
-      "count": 6
+      "rate": 85.71,
+      "count": 7
     },
     {
       "name": "Away Team 1st Half Under 0.5",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 545,
+      "won": 546,
       "lost": 164,
-      "rate": 76.87,
-      "count": 709
+      "rate": 76.9,
+      "count": 710
     },
     {
       "name": "Handicap (0:1) 1",
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.88,
-      "count": 1347
+      "rate": 77.89,
+      "count": 1348
     },
     {
       "odd": 1.76,
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.12,
-      "rate": 77.25,
-      "count": 1323
+      "rate": 77.27,
+      "count": 1324
     },
     {
       "odd": 1.11,
@@ -604,8 +604,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.01,
-      "count": 1909
+      "rate": 76.02,
+      "count": 1910
     },
     {
       "odd": 1.1,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 74.53,
-      "count": 1480
+      "rate": 74.54,
+      "count": 1481
     },
     {
       "odd": 1.22,
@@ -649,8 +649,8 @@
     },
     {
       "odd": 1.16,
-      "rate": 73.81,
-      "count": 859
+      "rate": 73.84,
+      "count": 860
     },
     {
       "odd": 1.88,
@@ -796,6 +796,14 @@
       "date": "24.01.2026 18:00"
     },
     {
+      "match": "SE Palmeiras vs Vitoria Bahia",
+      "ht": "3 - 0",
+      "ft": "5 - 1",
+      "odds": "5.61",
+      "prediction": "1st Half Over 2.5",
+      "date": "05.02.2026 00:30"
+    },
+    {
       "match": "Hibernian vs Dundee United",
       "ht": "1 - 0",
       "ft": "3 - 2",
@@ -850,6 +858,14 @@
       "odds": "5.02",
       "prediction": "Match Result X",
       "date": "16.01.2026 11:30"
+    },
+    {
+      "match": "SE Palmeiras vs Vitoria Bahia",
+      "ht": "3 - 0",
+      "ft": "5 - 1",
+      "odds": "4.99",
+      "prediction": "Over 4.5 Goals",
+      "date": "05.02.2026 00:30"
     },
     {
       "match": "Istres vs Stade Lavalois",
@@ -1042,22 +1058,6 @@
       "odds": "4.01",
       "prediction": "Handicap (0:2) X",
       "date": "23.02.2026 20:15"
-    },
-    {
-      "match": "Fulham vs Brighton & Hove Albion",
-      "ht": "0 - 1",
-      "ft": "2 - 1",
-      "odds": "3.92",
-      "prediction": "Handicap (0:1) X",
-      "date": "24.01.2026 15:00"
-    },
-    {
-      "match": "Antalyaspor vs Samsunspor",
-      "ht": "2 - 0",
-      "ft": "3 - 1",
-      "odds": "3.92",
-      "prediction": "Over 3.5 Goals",
-      "date": "13.02.2026 17:00"
     }
   ]
 }
