@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 24148,
-    "lost": 8572,
+    "won": 24150,
+    "lost": 8573,
     "rate": 73.8,
-    "total": 32720,
+    "total": 32723,
     "last_24h": {
-      "won": 281,
-      "lost": 78,
-      "rate": 78.3,
-      "total": 359
+      "won": 284,
+      "lost": 80,
+      "rate": 78.0,
+      "total": 364
     }
   },
   "by_day": [
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.8,
-      "count": 5001
+      "count": 5004
     },
     {
       "label": "Saturday",
@@ -92,12 +92,12 @@
     {
       "label": "18:00",
       "rate": 74.6,
-      "count": 2304
+      "count": 2303
     },
     {
       "label": "19:00",
       "rate": 73.6,
-      "count": 6149
+      "count": 6153
     },
     {
       "label": "20:00",
@@ -578,24 +578,24 @@
       "count": 1374
     },
     {
+      "odd": 1.95,
+      "rate": 78.12,
+      "count": 32
+    },
+    {
       "odd": 1.12,
       "rate": 77.12,
       "count": 1342
     },
     {
       "odd": 1.76,
-      "rate": 76.67,
-      "count": 90
+      "rate": 76.92,
+      "count": 91
     },
     {
       "odd": 1.08,
       "rate": 76.59,
       "count": 1303
-    },
-    {
-      "odd": 1.95,
-      "rate": 76.47,
-      "count": 34
     },
     {
       "odd": 1.11,
