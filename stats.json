@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 23878,
+    "won": 23880,
     "lost": 8475,
     "rate": 73.8,
-    "total": 32353,
+    "total": 32355,
     "last_24h": {
-      "won": 93,
+      "won": 95,
       "lost": 39,
-      "rate": 70.5,
-      "total": 132
+      "rate": 70.9,
+      "total": 134
     }
   },
   "by_day": [
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.7,
-      "count": 4639
+      "count": 4641
     },
     {
       "label": "Saturday",
@@ -116,8 +116,8 @@
     },
     {
       "label": "09:00",
-      "rate": 72.1,
-      "count": 172
+      "rate": 72.4,
+      "count": 174
     },
     {
       "label": "22:00",
@@ -252,6 +252,11 @@
       "count": 31
     },
     {
+      "team": "Newcastle Jets",
+      "rate": 90.16,
+      "count": 61
+    },
+    {
       "team": "Talleres de Cordoba",
       "rate": 90.0,
       "count": 20
@@ -260,11 +265,6 @@
       "team": "Kyoto Sanga FC",
       "rate": 90.0,
       "count": 30
-    },
-    {
-      "team": "Newcastle Jets",
-      "rate": 89.83,
-      "count": 59
     },
     {
       "team": "FC Lorient",
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.99,
-      "count": 1354
+      "rate": 78.01,
+      "count": 1355
     },
     {
       "odd": 1.12,
