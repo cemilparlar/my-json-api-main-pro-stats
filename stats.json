@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 24377,
-    "lost": 8660,
+    "won": 24392,
+    "lost": 8668,
     "rate": 73.8,
-    "total": 33037,
+    "total": 33060,
     "last_24h": {
-      "won": 404,
-      "lost": 141,
-      "rate": 74.1,
-      "total": 545
+      "won": 418,
+      "lost": 147,
+      "rate": 74.0,
+      "total": 565
     }
   },
   "by_day": [
@@ -40,19 +40,19 @@
     {
       "label": "Friday",
       "rate": 73.7,
-      "count": 5141
+      "count": 5142
     },
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 9590
+      "count": 9612
     }
   ],
   "by_hour": [
     {
       "label": "08:00",
-      "rate": 75.1,
-      "count": 385
+      "rate": 74.9,
+      "count": 386
     },
     {
       "label": "10:00",
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 72.9,
-      "count": 2292
+      "count": 2293
     },
     {
       "label": "13:00",
@@ -106,8 +106,8 @@
     },
     {
       "label": "11:00",
-      "rate": 75.0,
-      "count": 1855
+      "rate": 74.9,
+      "count": 1876
     },
     {
       "label": "05:00",
@@ -351,13 +351,6 @@
       "count": 7
     },
     {
-      "name": "VİETK",
-      "won": 6,
-      "lost": 1,
-      "rate": 85.71,
-      "count": 7
-    },
-    {
       "name": "KİRLK",
       "won": 11,
       "lost": 2,
@@ -412,6 +405,13 @@
       "lost": 3,
       "rate": 82.35,
       "count": 17
+    },
+    {
+      "name": "TAYV",
+      "won": 9,
+      "lost": 2,
+      "rate": 81.82,
+      "count": 11
     }
   ],
   "top_predictions": [
@@ -500,18 +500,18 @@
       "count": 282
     },
     {
-      "name": "Match Result 2",
-      "won": 260,
-      "lost": 77,
-      "rate": 77.15,
-      "count": 337
-    },
-    {
       "name": "Handicap (0:2) 2",
       "won": 557,
       "lost": 166,
       "rate": 77.04,
       "count": 723
+    },
+    {
+      "name": "Match Result 2",
+      "won": 261,
+      "lost": 78,
+      "rate": 76.99,
+      "count": 339
     },
     {
       "name": "1st Half Under 0.5",
@@ -522,17 +522,17 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1211,
+      "won": 1213,
       "lost": 395,
-      "rate": 75.4,
-      "count": 1606
+      "rate": 75.44,
+      "count": 1608
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 1762,
-      "lost": 577,
-      "rate": 75.33,
-      "count": 2339
+      "won": 1763,
+      "lost": 578,
+      "rate": 75.31,
+      "count": 2341
     },
     {
       "name": "Handicap (0:1) 1",
@@ -544,9 +544,9 @@
     {
       "name": "Match Result 1",
       "won": 688,
-      "lost": 228,
-      "rate": 75.11,
-      "count": 916
+      "lost": 229,
+      "rate": 75.03,
+      "count": 917
     },
     {
       "name": "Handicap (1:0) 2",
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 80.12,
-      "count": 2012
+      "rate": 80.14,
+      "count": 2014
     },
     {
       "odd": 1.05,
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 78.3,
-      "count": 1396
+      "rate": 78.25,
+      "count": 1398
     },
     {
       "odd": 1.95,
@@ -589,13 +589,13 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.52,
-      "count": 1316
+      "rate": 76.54,
+      "count": 1317
     },
     {
       "odd": 1.09,
-      "rate": 76.34,
-      "count": 1982
+      "rate": 76.32,
+      "count": 1985
     },
     {
       "odd": 1.76,
@@ -604,13 +604,13 @@
     },
     {
       "odd": 1.11,
-      "rate": 76.01,
-      "count": 1367
+      "rate": 76.02,
+      "count": 1368
     },
     {
       "odd": 1.1,
-      "rate": 75.96,
-      "count": 1335
+      "rate": 75.99,
+      "count": 1337
     },
     {
       "odd": 1.13,
@@ -624,8 +624,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 75.04,
-      "count": 1226
+      "rate": 75.02,
+      "count": 1229
     },
     {
       "odd": 1.17,
