@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 25326,
-    "lost": 8991,
+    "won": 25352,
+    "lost": 8998,
     "rate": 73.8,
-    "total": 34317,
+    "total": 34350,
     "last_24h": {
-      "won": 1087,
-      "lost": 375,
-      "rate": 74.4,
-      "total": 1462
+      "won": 1111,
+      "lost": 380,
+      "rate": 74.5,
+      "total": 1491
     }
   },
   "by_day": [
     {
       "label": "Monday",
-      "rate": 72.9,
-      "count": 2118
+      "rate": 73.0,
+      "count": 2117
     },
     {
       "label": "Tuesday",
-      "rate": 73.8,
-      "count": 3730
+      "rate": 73.7,
+      "count": 3732
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.6,
-      "count": 7702
+      "count": 7703
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.7,
-      "count": 5135
+      "count": 5136
     },
     {
       "label": "Saturday",
       "rate": 73.7,
-      "count": 10862
+      "count": 10892
     }
   ],
   "by_hour": [
@@ -76,28 +76,28 @@
     },
     {
       "label": "15:00",
-      "rate": 73.6,
+      "rate": 73.7,
       "count": 4340
     },
     {
       "label": "16:00",
-      "rate": 72.6,
-      "count": 1863
+      "rate": 72.5,
+      "count": 1864
     },
     {
       "label": "17:00",
       "rate": 72.8,
-      "count": 3037
+      "count": 3038
     },
     {
       "label": "18:00",
-      "rate": 74.5,
-      "count": 2306
+      "rate": 74.6,
+      "count": 2337
     },
     {
       "label": "19:00",
       "rate": 73.6,
-      "count": 6254
+      "count": 6255
     },
     {
       "label": "20:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 75.0,
-      "count": 1890
+      "count": 1889
     },
     {
       "label": "05:00",
@@ -187,6 +187,11 @@
       "count": 21
     },
     {
+      "team": "Club Atletico Aldosivi",
+      "rate": 95.0,
+      "count": 20
+    },
+    {
       "team": "Osnabruck",
       "rate": 94.44,
       "count": 54
@@ -228,11 +233,6 @@
     },
     {
       "team": "Oman FC",
-      "rate": 90.48,
-      "count": 21
-    },
-    {
-      "team": "Club Atletico Aldosivi",
       "rate": 90.48,
       "count": 21
     },
@@ -372,13 +372,6 @@
       "count": 19
     },
     {
-      "name": "FAROEM",
-      "won": 16,
-      "lost": 3,
-      "rate": 84.21,
-      "count": 19
-    },
-    {
       "name": "S3-3",
       "won": 5,
       "lost": 1,
@@ -412,6 +405,13 @@
       "lost": 3,
       "rate": 82.35,
       "count": 17
+    },
+    {
+      "name": "TAYV",
+      "won": 9,
+      "lost": 2,
+      "rate": 81.82,
+      "count": 11
     }
   ],
   "top_predictions": [
@@ -431,10 +431,10 @@
     },
     {
       "name": "HT/FT 1/1",
-      "won": 39,
+      "won": 40,
       "lost": 4,
-      "rate": 90.7,
-      "count": 43
+      "rate": 90.91,
+      "count": 44
     },
     {
       "name": "Over 0.5 Goals",
@@ -466,17 +466,17 @@
     },
     {
       "name": "1st Half Under 2.5",
-      "won": 144,
+      "won": 145,
       "lost": 36,
-      "rate": 80.0,
-      "count": 180
+      "rate": 80.11,
+      "count": 181
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 582,
+      "won": 583,
       "lost": 149,
-      "rate": 79.62,
-      "count": 731
+      "rate": 79.64,
+      "count": 732
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -522,17 +522,17 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 1837,
-      "lost": 605,
-      "rate": 75.23,
-      "count": 2442
+      "won": 1838,
+      "lost": 606,
+      "rate": 75.2,
+      "count": 2444
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1257,
-      "lost": 414,
-      "rate": 75.22,
-      "count": 1671
+      "won": 1258,
+      "lost": 415,
+      "rate": 75.19,
+      "count": 1673
     },
     {
       "name": "Handicap (1:0) 2",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 4195,
+      "won": 4199,
       "lost": 1409,
-      "rate": 74.86,
-      "count": 5604
+      "rate": 74.88,
+      "count": 5608
     }
   ],
   "top_odds": [
@@ -564,18 +564,18 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.95,
-      "count": 2085
+      "rate": 79.93,
+      "count": 2088
     },
     {
       "odd": 1.05,
-      "rate": 78.78,
-      "count": 740
+      "rate": 78.84,
+      "count": 742
     },
     {
       "odd": 1.07,
-      "rate": 77.75,
-      "count": 1465
+      "rate": 77.69,
+      "count": 1466
     },
     {
       "odd": 1.95,
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.12,
-      "rate": 76.84,
-      "count": 1416
+      "rate": 76.9,
+      "count": 1420
     },
     {
       "odd": 1.08,
@@ -594,18 +594,18 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.66,
-      "count": 2104
+      "rate": 76.7,
+      "count": 2107
     },
     {
       "odd": 1.1,
-      "rate": 76.54,
-      "count": 1411
+      "rate": 76.56,
+      "count": 1412
     },
     {
       "odd": 1.11,
-      "rate": 75.96,
-      "count": 1439
+      "rate": 75.97,
+      "count": 1440
     },
     {
       "odd": 1.76,
@@ -614,13 +614,13 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.27,
-      "count": 1961
+      "rate": 75.23,
+      "count": 1962
     },
     {
       "odd": 1.14,
-      "rate": 74.82,
-      "count": 1283
+      "rate": 74.86,
+      "count": 1285
     },
     {
       "odd": 1.17,
@@ -629,13 +629,18 @@
     },
     {
       "odd": 1.15,
-      "rate": 74.49,
-      "count": 1607
+      "rate": 74.52,
+      "count": 1609
     },
     {
       "odd": 1.23,
       "rate": 74.4,
       "count": 543
+    },
+    {
+      "odd": 1.88,
+      "rate": 74.19,
+      "count": 62
     },
     {
       "odd": 1.66,
@@ -649,13 +654,8 @@
     },
     {
       "odd": 1.18,
-      "rate": 73.49,
-      "count": 743
-    },
-    {
-      "odd": 1.16,
-      "rate": 73.33,
-      "count": 900
+      "rate": 73.52,
+      "count": 744
     }
   ],
   "top_matches": [
