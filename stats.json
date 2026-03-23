@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 26620,
-    "lost": 9486,
+    "won": 26626,
+    "lost": 9487,
     "rate": 73.7,
-    "total": 36106,
+    "total": 36113,
     "last_24h": {
-      "won": 35,
+      "won": 41,
       "lost": 19,
-      "rate": 64.8,
-      "total": 54
+      "rate": 68.3,
+      "total": 60
     }
   },
   "by_day": [
     {
       "label": "Monday",
-      "rate": 73.0,
-      "count": 2186
+      "rate": 73.1,
+      "count": 2191
     },
     {
       "label": "Tuesday",
       "rate": 73.7,
-      "count": 3735
+      "count": 3737
     },
     {
       "label": "Wednesday",
@@ -67,12 +67,12 @@
     {
       "label": "13:00",
       "rate": 73.5,
-      "count": 3657
+      "count": 3656
     },
     {
       "label": "14:00",
       "rate": 73.8,
-      "count": 2432
+      "count": 2434
     },
     {
       "label": "15:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.5,
-      "count": 6406
+      "count": 6408
     },
     {
       "label": "20:00",
@@ -141,8 +141,8 @@
     },
     {
       "label": "23:00",
-      "rate": 75.5,
-      "count": 432
+      "rate": 75.3,
+      "count": 433
     },
     {
       "label": "00:00",
@@ -151,8 +151,8 @@
     },
     {
       "label": "21:00",
-      "rate": 75.2,
-      "count": 616
+      "rate": 75.3,
+      "count": 619
     },
     {
       "label": "02:00",
@@ -365,6 +365,13 @@
       "count": 7
     },
     {
+      "name": "MLTAK",
+      "won": 11,
+      "lost": 2,
+      "rate": 84.62,
+      "count": 13
+    },
+    {
       "name": "KİRLK",
       "won": 11,
       "lost": 2,
@@ -405,13 +412,6 @@
       "lost": 4,
       "rate": 82.61,
       "count": 23
-    },
-    {
-      "name": "GKOR",
-      "won": 109,
-      "lost": 23,
-      "rate": 82.58,
-      "count": 132
     }
   ],
   "top_predictions": [
@@ -536,17 +536,17 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 1949,
-      "lost": 649,
-      "rate": 75.02,
-      "count": 2598
+      "won": 1950,
+      "lost": 651,
+      "rate": 74.97,
+      "count": 2601
     },
     {
       "name": "Match Result 1",
-      "won": 754,
+      "won": 755,
       "lost": 255,
-      "rate": 74.73,
-      "count": 1009
+      "rate": 74.75,
+      "count": 1010
     },
     {
       "name": "Handicap (0:1) 2",
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.5,
-      "count": 1547
+      "rate": 77.52,
+      "count": 1548
     },
     {
       "odd": 1.09,
@@ -588,14 +588,14 @@
       "count": 1499
     },
     {
+      "odd": 1.08,
+      "rate": 76.45,
+      "count": 1482
+    },
+    {
       "odd": 1.12,
       "rate": 76.44,
       "count": 1498
-    },
-    {
-      "odd": 1.08,
-      "rate": 76.43,
-      "count": 1481
     },
     {
       "odd": 1.75,
@@ -628,19 +628,19 @@
       "count": 44
     },
     {
-      "odd": 1.14,
-      "rate": 74.58,
-      "count": 1353
-    },
-    {
       "odd": 1.17,
       "rate": 74.5,
       "count": 851
     },
     {
       "odd": 1.15,
+      "rate": 74.49,
+      "count": 1729
+    },
+    {
+      "odd": 1.14,
       "rate": 74.48,
-      "count": 1728
+      "count": 1356
     },
     {
       "odd": 1.23,
