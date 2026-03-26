@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 26864,
-    "lost": 9579,
+    "won": 26874,
+    "lost": 9581,
     "rate": 73.7,
-    "total": 36443,
+    "total": 36455,
     "last_24h": {
-      "won": 37,
-      "lost": 17,
-      "rate": 68.5,
-      "total": 54
+      "won": 44,
+      "lost": 19,
+      "rate": 69.8,
+      "total": 63
     }
   },
   "by_day": [
@@ -20,12 +20,12 @@
     {
       "label": "Tuesday",
       "rate": 73.7,
-      "count": 3875
+      "count": 3877
     },
     {
       "label": "Wednesday",
       "rate": 74.3,
-      "count": 2861
+      "count": 2859
     },
     {
       "label": "Sunday",
@@ -35,12 +35,12 @@
     {
       "label": "Thursday",
       "rate": 75.5,
-      "count": 2079
+      "count": 2090
     },
     {
       "label": "Friday",
       "rate": 73.6,
-      "count": 5150
+      "count": 5151
     },
     {
       "label": "Saturday",
@@ -86,8 +86,8 @@
     },
     {
       "label": "17:00",
-      "rate": 73.1,
-      "count": 3199
+      "rate": 73.2,
+      "count": 3210
     },
     {
       "label": "18:00",
@@ -101,8 +101,8 @@
     },
     {
       "label": "20:00",
-      "rate": 74.3,
-      "count": 2246
+      "rate": 74.2,
+      "count": 2247
     },
     {
       "label": "11:00",
@@ -187,11 +187,6 @@
       "count": 22
     },
     {
-      "team": "Osnabruck",
-      "rate": 94.64,
-      "count": 56
-    },
-    {
       "team": "Darlington 188",
       "rate": 94.12,
       "count": 34
@@ -270,6 +265,11 @@
       "team": "CD San Sebastian de los Reyes",
       "rate": 90.0,
       "count": 20
+    },
+    {
+      "team": "Osnabruck",
+      "rate": 90.0,
+      "count": 60
     }
   ],
   "top_leagues": [
@@ -293,6 +293,13 @@
       "lost": 0,
       "rate": 100.0,
       "count": 10
+    },
+    {
+      "name": " AVUL",
+      "won": 6,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 6
     },
     {
       "name": "USL1",
@@ -405,13 +412,6 @@
       "lost": 2,
       "rate": 83.33,
       "count": 12
-    },
-    {
-      "name": "ROK",
-      "won": 5,
-      "lost": 1,
-      "rate": 83.33,
-      "count": 6
     }
   ],
   "top_predictions": [
@@ -494,10 +494,10 @@
     },
     {
       "name": "Handicap (2:0) 1",
-      "won": 241,
+      "won": 242,
       "lost": 69,
-      "rate": 77.74,
-      "count": 310
+      "rate": 77.81,
+      "count": 311
     },
     {
       "name": "Handicap (1:0) 2",
@@ -522,24 +522,24 @@
     },
     {
       "name": "Match Result 2",
-      "won": 280,
-      "lost": 90,
-      "rate": 75.68,
-      "count": 370
+      "won": 283,
+      "lost": 91,
+      "rate": 75.67,
+      "count": 374
     },
     {
       "name": "1st Half Double Chance X2",
       "won": 1356,
-      "lost": 441,
-      "rate": 75.46,
-      "count": 1797
+      "lost": 442,
+      "rate": 75.42,
+      "count": 1798
     },
     {
       "name": "1st Half Double Chance 1X",
       "won": 1964,
-      "lost": 660,
-      "rate": 74.85,
-      "count": 2624
+      "lost": 659,
+      "rate": 74.88,
+      "count": 2623
     },
     {
       "name": "Match Result 1",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 675,
+      "won": 676,
       "lost": 229,
-      "rate": 74.67,
-      "count": 904
+      "rate": 74.7,
+      "count": 905
     }
   ],
   "top_odds": [
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.62,
-      "count": 1564
+      "rate": 77.64,
+      "count": 1565
     },
     {
       "odd": 1.1,
@@ -584,13 +584,13 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.67,
-      "count": 2280
+      "rate": 76.65,
+      "count": 2283
     },
     {
       "odd": 1.12,
-      "rate": 76.45,
-      "count": 1516
+      "rate": 76.4,
+      "count": 1517
     },
     {
       "odd": 1.08,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 74.66,
-      "count": 1748
+      "rate": 74.61,
+      "count": 1749
     },
     {
       "odd": 1.23,
