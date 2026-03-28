@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 27743,
-    "lost": 9885,
+    "won": 27761,
+    "lost": 9893,
     "rate": 73.7,
-    "total": 37628,
+    "total": 37654,
     "last_24h": {
-      "won": 623,
-      "lost": 220,
-      "rate": 73.9,
-      "total": 843
+      "won": 637,
+      "lost": 224,
+      "rate": 74.0,
+      "total": 861
     }
   },
   "by_day": [
@@ -25,27 +25,27 @@
     {
       "label": "Wednesday",
       "rate": 74.3,
-      "count": 2865
+      "count": 2872
     },
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 8969
+      "count": 8970
     },
     {
       "label": "Thursday",
-      "rate": 75.3,
-      "count": 2143
+      "rate": 75.2,
+      "count": 2144
     },
     {
       "label": "Friday",
       "rate": 73.6,
-      "count": 5437
+      "count": 5436
     },
     {
       "label": "Saturday",
       "rate": 73.7,
-      "count": 12131
+      "count": 12149
     }
   ],
   "by_hour": [
@@ -67,12 +67,12 @@
     {
       "label": "13:00",
       "rate": 73.4,
-      "count": 3809
+      "count": 3810
     },
     {
       "label": "14:00",
       "rate": 73.7,
-      "count": 2558
+      "count": 2559
     },
     {
       "label": "15:00",
@@ -97,12 +97,12 @@
     {
       "label": "19:00",
       "rate": 73.6,
-      "count": 6648
+      "count": 6647
     },
     {
       "label": "20:00",
-      "rate": 74.3,
-      "count": 2280
+      "rate": 74.2,
+      "count": 2298
     },
     {
       "label": "11:00",
@@ -152,7 +152,7 @@
     {
       "label": "21:00",
       "rate": 75.4,
-      "count": 630
+      "count": 637
     },
     {
       "label": "02:00",
@@ -467,9 +467,9 @@
     {
       "name": "Under 4.5 Goals",
       "won": 624,
-      "lost": 164,
-      "rate": 79.19,
-      "count": 788
+      "lost": 165,
+      "rate": 79.09,
+      "count": 789
     },
     {
       "name": "Match Result X",
@@ -508,10 +508,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 287,
+      "won": 288,
       "lost": 90,
-      "rate": 76.13,
-      "count": 377
+      "rate": 76.19,
+      "count": 378
     },
     {
       "name": "Handicap (0:2) 2",
@@ -522,17 +522,17 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1406,
+      "won": 1408,
       "lost": 462,
-      "rate": 75.27,
-      "count": 1868
+      "rate": 75.29,
+      "count": 1870
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2051,
+      "won": 2052,
       "lost": 681,
-      "rate": 75.07,
-      "count": 2732
+      "rate": 75.08,
+      "count": 2733
     },
     {
       "name": "Handicap (2:0) 2",
@@ -543,17 +543,17 @@
     },
     {
       "name": "Match Result 1",
-      "won": 796,
+      "won": 797,
       "lost": 269,
-      "rate": 74.74,
-      "count": 1065
+      "rate": 74.77,
+      "count": 1066
     },
     {
       "name": "Double Chance 12",
-      "won": 4668,
-      "lost": 1588,
-      "rate": 74.62,
-      "count": 6256
+      "won": 4670,
+      "lost": 1589,
+      "rate": 74.61,
+      "count": 6259
     }
   ],
   "top_odds": [
@@ -564,23 +564,23 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.61,
-      "count": 2236
+      "rate": 79.62,
+      "count": 2237
     },
     {
       "odd": 1.05,
-      "rate": 79.14,
-      "count": 882
+      "rate": 79.16,
+      "count": 883
     },
     {
       "odd": 1.07,
-      "rate": 77.48,
-      "count": 1630
+      "rate": 77.51,
+      "count": 1632
     },
     {
       "odd": 1.09,
-      "rate": 76.67,
-      "count": 2409
+      "rate": 76.68,
+      "count": 2410
     },
     {
       "odd": 1.1,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.55,
-      "count": 1561
+      "rate": 76.57,
+      "count": 1562
     },
     {
       "odd": 1.12,
@@ -599,13 +599,13 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.7,
-      "count": 2128
+      "rate": 75.65,
+      "count": 2131
     },
     {
       "odd": 1.11,
-      "rate": 75.47,
-      "count": 1586
+      "rate": 75.43,
+      "count": 1587
     },
     {
       "odd": 1.71,
@@ -623,14 +623,14 @@
       "count": 890
     },
     {
-      "odd": 1.15,
-      "rate": 74.67,
-      "count": 1816
-    },
-    {
       "odd": 1.75,
       "rate": 74.65,
       "count": 71
+    },
+    {
+      "odd": 1.15,
+      "rate": 74.64,
+      "count": 1818
     },
     {
       "odd": 1.66,
@@ -722,6 +722,14 @@
       "odds": "8.32",
       "prediction": "Total Goals 6+",
       "date": "14.03.2026 16:15"
+    },
+    {
+      "match": "Albacete Balompie vs Real Madrid",
+      "ht": "1 - 1",
+      "ft": "3 - 2",
+      "odds": "8.18",
+      "prediction": "Match Result 1",
+      "date": "14.01.2026 20:00"
     },
     {
       "match": "FC Groningen vs FC Utrecht",
@@ -1050,14 +1058,6 @@
       "odds": "4.08",
       "prediction": "Handicap (1:0) X",
       "date": "13.02.2026 19:00"
-    },
-    {
-      "match": "River Plate vs Gimnasia La Plata",
-      "ht": "1 - 0",
-      "ft": "2 - 0",
-      "odds": "4.07",
-      "prediction": "Handicap (0:2) X",
-      "date": "28.01.2026 23:00"
     }
   ]
 }
