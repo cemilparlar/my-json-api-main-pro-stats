@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 27719,
-    "lost": 9878,
+    "won": 27723,
+    "lost": 9879,
     "rate": 73.7,
-    "total": 37597,
+    "total": 37602,
     "last_24h": {
-      "won": 591,
-      "lost": 211,
-      "rate": 73.7,
-      "total": 802
+      "won": 598,
+      "lost": 212,
+      "rate": 73.8,
+      "total": 810
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 8968
+      "count": 8969
     },
     {
       "label": "Thursday",
@@ -39,13 +39,13 @@
     },
     {
       "label": "Friday",
-      "rate": 73.7,
-      "count": 5435
+      "rate": 73.6,
+      "count": 5436
     },
     {
       "label": "Saturday",
       "rate": 73.7,
-      "count": 12103
+      "count": 12106
     }
   ],
   "by_hour": [
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 73.2,
-      "count": 2547
+      "count": 2545
     },
     {
       "label": "13:00",
       "rate": 73.4,
-      "count": 3811
+      "count": 3810
     },
     {
       "label": "14:00",
@@ -92,22 +92,22 @@
     {
       "label": "18:00",
       "rate": 74.4,
-      "count": 2512
+      "count": 2521
     },
     {
       "label": "19:00",
       "rate": 73.6,
-      "count": 6634
+      "count": 6633
     },
     {
       "label": "20:00",
       "rate": 74.2,
-      "count": 2266
+      "count": 2265
     },
     {
       "label": "11:00",
       "rate": 74.6,
-      "count": 2042
+      "count": 2043
     },
     {
       "label": "05:00",
@@ -202,6 +202,11 @@
       "count": 27
     },
     {
+      "team": "CD San Sebastian de los Reyes",
+      "rate": 91.67,
+      "count": 24
+    },
+    {
       "team": "Stranraer",
       "rate": 91.67,
       "count": 36
@@ -210,11 +215,6 @@
       "team": "Kolding IF",
       "rate": 91.67,
       "count": 24
-    },
-    {
-      "team": "CD San Sebastian de los Reyes",
-      "rate": 91.3,
-      "count": 23
     },
     {
       "team": "Club Atletico Aldosivi",
@@ -303,10 +303,10 @@
     },
     {
       "name": "USL1",
-      "won": 14,
+      "won": 16,
       "lost": 1,
-      "rate": 93.33,
-      "count": 15
+      "rate": 94.12,
+      "count": 17
     },
     {
       "name": "VİETK",
@@ -486,13 +486,6 @@
       "count": 14
     },
     {
-      "name": "1st Half Under 0.5",
-      "won": 56,
-      "lost": 16,
-      "rate": 77.78,
-      "count": 72
-    },
-    {
       "name": "Handicap (2:0) 1",
       "won": 243,
       "lost": 70,
@@ -505,6 +498,13 @@
       "lost": 9,
       "rate": 77.5,
       "count": 40
+    },
+    {
+      "name": "1st Half Under 0.5",
+      "won": 55,
+      "lost": 16,
+      "rate": 77.46,
+      "count": 71
     },
     {
       "name": "Match Result 2",
@@ -522,17 +522,17 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1403,
+      "won": 1404,
       "lost": 462,
-      "rate": 75.23,
-      "count": 1865
+      "rate": 75.24,
+      "count": 1866
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2046,
+      "won": 2047,
       "lost": 680,
       "rate": 75.06,
-      "count": 2726
+      "count": 2727
     },
     {
       "name": "Handicap (2:0) 2",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 4661,
+      "won": 4663,
       "lost": 1587,
-      "rate": 74.6,
-      "count": 6248
+      "rate": 74.61,
+      "count": 6250
     }
   ],
   "top_odds": [
@@ -584,13 +584,13 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.65,
-      "count": 2403
+      "rate": 76.66,
+      "count": 2404
     },
     {
       "odd": 1.08,
-      "rate": 76.62,
-      "count": 1557
+      "rate": 76.59,
+      "count": 1559
     },
     {
       "odd": 1.12,
@@ -599,13 +599,13 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.67,
-      "count": 2125
+      "rate": 75.68,
+      "count": 2126
     },
     {
       "odd": 1.11,
-      "rate": 75.44,
-      "count": 1584
+      "rate": 75.46,
+      "count": 1585
     },
     {
       "odd": 1.71,
