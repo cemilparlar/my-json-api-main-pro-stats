@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 27212,
-    "lost": 9702,
+    "won": 27227,
+    "lost": 9706,
     "rate": 73.7,
-    "total": 36914,
+    "total": 36933,
     "last_24h": {
-      "won": 234,
-      "lost": 75,
-      "rate": 75.7,
-      "total": 309
+      "won": 250,
+      "lost": 82,
+      "rate": 75.3,
+      "total": 332
     }
   },
   "by_day": [
@@ -34,8 +34,8 @@
     },
     {
       "label": "Thursday",
-      "rate": 75.4,
-      "count": 2139
+      "rate": 75.3,
+      "count": 2140
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.7,
-      "count": 11428
+      "count": 11446
     }
   ],
   "by_hour": [
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 73.2,
-      "count": 2525
+      "count": 2524
     },
     {
       "label": "13:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 73.3,
-      "count": 3255
+      "count": 3254
     },
     {
       "label": "18:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 74.8,
-      "count": 2011
+      "count": 2032
     },
     {
       "label": "05:00",
@@ -393,6 +393,13 @@
       "count": 6
     },
     {
+      "name": "T2L-B",
+      "won": 10,
+      "lost": 2,
+      "rate": 83.33,
+      "count": 12
+    },
+    {
       "name": "ROK",
       "won": 5,
       "lost": 1,
@@ -405,13 +412,6 @@
       "lost": 13,
       "rate": 82.89,
       "count": 76
-    },
-    {
-      "name": "KATEK",
-      "won": 24,
-      "lost": 5,
-      "rate": 82.76,
-      "count": 29
     }
   ],
   "top_predictions": [
@@ -529,17 +529,17 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1372,
-      "lost": 451,
-      "rate": 75.26,
-      "count": 1823
+      "won": 1374,
+      "lost": 452,
+      "rate": 75.25,
+      "count": 1826
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 1994,
+      "won": 1996,
       "lost": 670,
-      "rate": 74.85,
-      "count": 2664
+      "rate": 74.87,
+      "count": 2666
     },
     {
       "name": "Handicap (0:1) 2",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 777,
-      "lost": 263,
-      "rate": 74.71,
-      "count": 1040
+      "won": 779,
+      "lost": 264,
+      "rate": 74.69,
+      "count": 1043
     }
   ],
   "top_odds": [
@@ -564,13 +564,13 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.87,
-      "count": 2206
+      "rate": 79.84,
+      "count": 2207
     },
     {
       "odd": 1.05,
-      "rate": 78.98,
-      "count": 847
+      "rate": 78.89,
+      "count": 848
     },
     {
       "odd": 1.07,
@@ -584,33 +584,33 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.6,
-      "count": 2316
+      "rate": 76.61,
+      "count": 2317
     },
     {
       "odd": 1.08,
-      "rate": 76.39,
-      "count": 1525
+      "rate": 76.36,
+      "count": 1527
     },
     {
       "odd": 1.12,
-      "rate": 76.22,
-      "count": 1539
+      "rate": 76.23,
+      "count": 1540
     },
     {
       "odd": 1.11,
-      "rate": 75.79,
-      "count": 1541
+      "rate": 75.81,
+      "count": 1542
     },
     {
       "odd": 1.13,
-      "rate": 75.73,
-      "count": 2089
+      "rate": 75.74,
+      "count": 2090
     },
     {
       "odd": 1.76,
-      "rate": 75.53,
-      "count": 94
+      "rate": 75.27,
+      "count": 93
     },
     {
       "odd": 1.71,
@@ -618,19 +618,19 @@
       "count": 44
     },
     {
-      "odd": 1.15,
-      "rate": 74.58,
-      "count": 1778
-    },
-    {
       "odd": 1.23,
-      "rate": 74.57,
-      "count": 578
+      "rate": 74.61,
+      "count": 579
     },
     {
       "odd": 1.17,
-      "rate": 74.54,
-      "count": 864
+      "rate": 74.6,
+      "count": 866
+    },
+    {
+      "odd": 1.15,
+      "rate": 74.59,
+      "count": 1779
     },
     {
       "odd": 1.14,
