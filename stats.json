@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 27873,
-    "lost": 9931,
+    "won": 27885,
+    "lost": 9938,
     "rate": 73.7,
-    "total": 37804,
+    "total": 37823,
     "last_24h": {
-      "won": 166,
-      "lost": 61,
-      "rate": 73.1,
-      "total": 227
+      "won": 179,
+      "lost": 67,
+      "rate": 72.8,
+      "total": 246
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 9098
+      "count": 9117
     },
     {
       "label": "Thursday",
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 73.2,
-      "count": 2555
+      "count": 2572
     },
     {
       "label": "13:00",
-      "rate": 73.4,
-      "count": 3811
+      "rate": 73.3,
+      "count": 3814
     },
     {
       "label": "14:00",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 4862
+      "count": 4861
     },
     {
       "label": "16:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 73.1,
-      "count": 3317
+      "count": 3316
     },
     {
       "label": "18:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.6,
-      "count": 6645
+      "count": 6646
     },
     {
       "label": "20:00",
@@ -107,12 +107,12 @@
     {
       "label": "11:00",
       "rate": 74.6,
-      "count": 2057
+      "count": 2058
     },
     {
       "label": "05:00",
-      "rate": 75.6,
-      "count": 786
+      "rate": 75.5,
+      "count": 785
     },
     {
       "label": "09:00",
@@ -262,14 +262,14 @@
       "count": 31
     },
     {
+      "team": "FK Dukla Prague",
+      "rate": 90.32,
+      "count": 31
+    },
+    {
       "team": "Osnabruck",
       "rate": 90.0,
       "count": 60
-    },
-    {
-      "team": "Hamrun",
-      "rate": 88.89,
-      "count": 27
     }
   ],
   "top_leagues": [
@@ -530,9 +530,9 @@
     {
       "name": "1st Half Double Chance X2",
       "won": 1420,
-      "lost": 470,
-      "rate": 75.13,
-      "count": 1890
+      "lost": 471,
+      "rate": 75.09,
+      "count": 1891
     },
     {
       "name": "Handicap (2:0) 2",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 4705,
-      "lost": 1597,
-      "rate": 74.66,
-      "count": 6302
+      "won": 4709,
+      "lost": 1600,
+      "rate": 74.64,
+      "count": 6309
     }
   ],
   "top_odds": [
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.67,
-      "count": 2248
+      "rate": 79.69,
+      "count": 2250
     },
     {
       "odd": 1.05,
@@ -579,13 +579,13 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.69,
-      "count": 1570
+      "rate": 76.65,
+      "count": 1572
     },
     {
       "odd": 1.09,
-      "rate": 76.57,
-      "count": 2424
+      "rate": 76.59,
+      "count": 2426
     },
     {
       "odd": 1.1,
@@ -594,18 +594,18 @@
     },
     {
       "odd": 1.12,
-      "rate": 76.33,
-      "count": 1584
+      "rate": 76.13,
+      "count": 1588
     },
     {
       "odd": 1.13,
-      "rate": 75.65,
-      "count": 2140
+      "rate": 75.68,
+      "count": 2142
     },
     {
       "odd": 1.11,
-      "rate": 75.3,
-      "count": 1599
+      "rate": 75.27,
+      "count": 1601
     },
     {
       "odd": 1.75,
@@ -623,18 +623,18 @@
       "count": 591
     },
     {
-      "odd": 1.15,
-      "rate": 74.7,
-      "count": 1830
-    },
-    {
       "odd": 1.17,
       "rate": 74.69,
       "count": 893
     },
     {
+      "odd": 1.15,
+      "rate": 74.67,
+      "count": 1832
+    },
+    {
       "odd": 1.14,
-      "rate": 74.54,
+      "rate": 74.61,
       "count": 1422
     },
     {
@@ -654,8 +654,8 @@
     },
     {
       "odd": 1.28,
-      "rate": 74.27,
-      "count": 447
+      "rate": 74.33,
+      "count": 448
     }
   ],
   "top_matches": [
