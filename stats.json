@@ -1,14 +1,14 @@
 {
   "summary": {
     "won": 27768,
-    "lost": 9895,
+    "lost": 9896,
     "rate": 73.7,
-    "total": 37663,
+    "total": 37664,
     "last_24h": {
       "won": 644,
-      "lost": 224,
-      "rate": 74.2,
-      "total": 868
+      "lost": 225,
+      "rate": 74.1,
+      "total": 869
     }
   },
   "by_day": [
@@ -44,8 +44,8 @@
     },
     {
       "label": "Saturday",
-      "rate": 73.8,
-      "count": 12157
+      "rate": 73.7,
+      "count": 12158
     }
   ],
   "by_hour": [
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 75.6,
-      "count": 545
+      "rate": 75.5,
+      "count": 546
     },
     {
       "label": "01:00",
@@ -379,13 +379,6 @@
       "count": 13
     },
     {
-      "name": "URU",
-      "won": 16,
-      "lost": 3,
-      "rate": 84.21,
-      "count": 19
-    },
-    {
       "name": "S3-3",
       "won": 5,
       "lost": 1,
@@ -412,6 +405,13 @@
       "lost": 13,
       "rate": 82.89,
       "count": 76
+    },
+    {
+      "name": "KATEK",
+      "won": 24,
+      "lost": 5,
+      "rate": 82.76,
+      "count": 29
     }
   ],
   "top_predictions": [
