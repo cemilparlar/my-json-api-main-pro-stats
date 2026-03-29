@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 27833,
-    "lost": 9917,
+    "won": 27843,
+    "lost": 9920,
     "rate": 73.7,
-    "total": 37750,
+    "total": 37763,
     "last_24h": {
-      "won": 216,
-      "lost": 79,
-      "rate": 73.2,
-      "total": 295
+      "won": 228,
+      "lost": 85,
+      "rate": 72.8,
+      "total": 313
     }
   },
   "by_day": [
@@ -29,8 +29,8 @@
     },
     {
       "label": "Sunday",
-      "rate": 73.5,
-      "count": 9036
+      "rate": 73.4,
+      "count": 9053
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.7,
-      "count": 5434
+      "count": 5433
     },
     {
       "label": "Saturday",
       "rate": 73.7,
-      "count": 12179
+      "count": 12176
     }
   ],
   "by_hour": [
@@ -56,8 +56,8 @@
     },
     {
       "label": "10:00",
-      "rate": 74.2,
-      "count": 782
+      "rate": 74.3,
+      "count": 795
     },
     {
       "label": "12:00",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 4863
+      "count": 4862
     },
     {
       "label": "16:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 73.1,
-      "count": 3318
+      "count": 3317
     },
     {
       "label": "18:00",
@@ -106,8 +106,8 @@
     },
     {
       "label": "11:00",
-      "rate": 74.6,
-      "count": 2043
+      "rate": 74.7,
+      "count": 2042
     },
     {
       "label": "05:00",
@@ -116,8 +116,8 @@
     },
     {
       "label": "09:00",
-      "rate": 72.8,
-      "count": 243
+      "rate": 72.4,
+      "count": 246
     },
     {
       "label": "22:00",
@@ -507,6 +507,13 @@
       "count": 72
     },
     {
+      "name": "Match Result 2",
+      "won": 288,
+      "lost": 90,
+      "rate": 76.19,
+      "count": 378
+    },
+    {
       "name": "Handicap (0:2) 2",
       "won": 621,
       "lost": 196,
@@ -514,25 +521,18 @@
       "count": 817
     },
     {
-      "name": "Match Result 2",
-      "won": 288,
-      "lost": 91,
-      "rate": 75.99,
-      "count": 379
-    },
-    {
       "name": "1st Half Double Chance X2",
-      "won": 1416,
+      "won": 1417,
       "lost": 466,
-      "rate": 75.24,
-      "count": 1882
+      "rate": 75.25,
+      "count": 1883
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2058,
-      "lost": 680,
+      "won": 2060,
+      "lost": 681,
       "rate": 75.16,
-      "count": 2738
+      "count": 2741
     },
     {
       "name": "Handicap (2:0) 2",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 4690,
-      "lost": 1592,
-      "rate": 74.66,
-      "count": 6282
+      "won": 4695,
+      "lost": 1593,
+      "rate": 74.67,
+      "count": 6288
     }
   ],
   "top_odds": [
@@ -564,18 +564,18 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.68,
-      "count": 2244
+      "rate": 79.7,
+      "count": 2246
     },
     {
       "odd": 1.05,
-      "rate": 79.21,
-      "count": 885
+      "rate": 79.26,
+      "count": 887
     },
     {
       "odd": 1.07,
-      "rate": 77.57,
-      "count": 1636
+      "rate": 77.47,
+      "count": 1638
     },
     {
       "odd": 1.08,
@@ -584,23 +584,23 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.66,
-      "count": 1577
+      "rate": 76.63,
+      "count": 1579
     },
     {
       "odd": 1.09,
-      "rate": 76.59,
-      "count": 2418
+      "rate": 76.61,
+      "count": 2420
     },
     {
       "odd": 1.12,
-      "rate": 76.28,
-      "count": 1577
+      "rate": 76.3,
+      "count": 1578
     },
     {
       "odd": 1.13,
-      "rate": 75.67,
-      "count": 2137
+      "rate": 75.68,
+      "count": 2138
     },
     {
       "odd": 1.11,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 74.64,
-      "count": 1826
+      "rate": 74.67,
+      "count": 1828
     },
     {
       "odd": 1.14,
