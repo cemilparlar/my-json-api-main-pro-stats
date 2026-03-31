@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 28224,
-    "lost": 10058,
+    "won": 28230,
+    "lost": 10066,
     "rate": 73.7,
-    "total": 38282,
+    "total": 38296,
     "last_24h": {
-      "won": 83,
-      "lost": 26,
-      "rate": 76.1,
-      "total": 109
+      "won": 89,
+      "lost": 32,
+      "rate": 73.6,
+      "total": 121
     }
   },
   "by_day": [
@@ -19,8 +19,8 @@
     },
     {
       "label": "Tuesday",
-      "rate": 73.8,
-      "count": 3982
+      "rate": 73.7,
+      "count": 3994
     },
     {
       "label": "Wednesday",
@@ -29,13 +29,13 @@
     },
     {
       "label": "Sunday",
-      "rate": 73.5,
-      "count": 9383
+      "rate": 73.4,
+      "count": 9384
     },
     {
       "label": "Thursday",
       "rate": 75.2,
-      "count": 2145
+      "count": 2146
     },
     {
       "label": "Friday",
@@ -67,12 +67,12 @@
     {
       "label": "13:00",
       "rate": 73.3,
-      "count": 3871
+      "count": 3874
     },
     {
       "label": "14:00",
-      "rate": 73.7,
-      "count": 2641
+      "rate": 73.6,
+      "count": 2651
     },
     {
       "label": "15:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 72.4,
-      "count": 2123
+      "count": 2124
     },
     {
       "label": "17:00",
@@ -330,13 +330,6 @@
       "count": 11
     },
     {
-      "name": " ASKE",
-      "won": 22,
-      "lost": 3,
-      "rate": 88.0,
-      "count": 25
-    },
-    {
       "name": "UMMSK",
       "won": 7,
       "lost": 1,
@@ -412,6 +405,13 @@
       "lost": 1,
       "rate": 83.33,
       "count": 6
+    },
+    {
+      "name": "SİNP",
+      "won": 63,
+      "lost": 13,
+      "rate": 82.89,
+      "count": 76
     }
   ],
   "top_predictions": [
@@ -514,18 +514,18 @@
       "count": 818
     },
     {
-      "name": "1st Half Double Chance X2",
-      "won": 1441,
-      "lost": 477,
-      "rate": 75.13,
-      "count": 1918
-    },
-    {
       "name": "1st Half Double Chance 1X",
       "won": 2093,
-      "lost": 693,
-      "rate": 75.13,
-      "count": 2786
+      "lost": 694,
+      "rate": 75.1,
+      "count": 2787
+    },
+    {
+      "name": "1st Half Double Chance X2",
+      "won": 1441,
+      "lost": 478,
+      "rate": 75.09,
+      "count": 1919
     },
     {
       "name": "Handicap (2:0) 2",
@@ -537,16 +537,16 @@
     {
       "name": "Match Result 1",
       "won": 813,
-      "lost": 274,
-      "rate": 74.79,
-      "count": 1087
+      "lost": 275,
+      "rate": 74.72,
+      "count": 1088
     },
     {
       "name": "Double Chance 12",
-      "won": 4778,
-      "lost": 1623,
-      "rate": 74.64,
-      "count": 6401
+      "won": 4780,
+      "lost": 1625,
+      "rate": 74.63,
+      "count": 6405
     },
     {
       "name": "Double Chance 1X",
@@ -579,13 +579,13 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.7,
-      "count": 1588
+      "rate": 76.67,
+      "count": 1590
     },
     {
       "odd": 1.09,
-      "rate": 76.62,
-      "count": 2472
+      "rate": 76.63,
+      "count": 2473
     },
     {
       "odd": 1.1,
@@ -594,8 +594,8 @@
     },
     {
       "odd": 1.12,
-      "rate": 76.04,
-      "count": 1607
+      "rate": 76.01,
+      "count": 1609
     },
     {
       "odd": 1.66,
@@ -614,13 +614,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.25,
-      "count": 1612
-    },
-    {
-      "odd": 1.23,
-      "rate": 75.0,
-      "count": 592
+      "rate": 75.2,
+      "count": 1613
     },
     {
       "odd": 1.75,
@@ -628,19 +623,24 @@
       "count": 72
     },
     {
+      "odd": 1.23,
+      "rate": 74.87,
+      "count": 593
+    },
+    {
       "odd": 1.17,
       "rate": 74.81,
       "count": 901
     },
     {
-      "odd": 1.15,
-      "rate": 74.78,
-      "count": 1856
-    },
-    {
       "odd": 1.14,
       "rate": 74.72,
       "count": 1432
+    },
+    {
+      "odd": 1.15,
+      "rate": 74.7,
+      "count": 1858
     },
     {
       "odd": 1.7,
