@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 28430,
-    "lost": 10135,
+    "won": 28436,
+    "lost": 10136,
     "rate": 73.7,
-    "total": 38565,
+    "total": 38572,
     "last_24h": {
-      "won": 32,
+      "won": 37,
       "lost": 6,
-      "rate": 84.2,
-      "total": 38
+      "rate": 86.0,
+      "total": 43
     }
   },
   "by_day": [
@@ -24,8 +24,8 @@
     },
     {
       "label": "Wednesday",
-      "rate": 74.2,
-      "count": 2908
+      "rate": 74.3,
+      "count": 2915
     },
     {
       "label": "Sunday",
@@ -81,8 +81,8 @@
     },
     {
       "label": "16:00",
-      "rate": 72.4,
-      "count": 2169
+      "rate": 72.5,
+      "count": 2175
     },
     {
       "label": "17:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 74.3,
-      "count": 2303
+      "count": 2304
     },
     {
       "label": "11:00",
@@ -379,13 +379,6 @@
       "count": 20
     },
     {
-      "name": "ŞMP-K",
-      "won": 28,
-      "lost": 5,
-      "rate": 84.85,
-      "count": 33
-    },
-    {
       "name": "MLTAK",
       "won": 11,
       "lost": 2,
@@ -398,6 +391,13 @@
       "lost": 2,
       "rate": 84.62,
       "count": 13
+    },
+    {
+      "name": "ŞMP-K",
+      "won": 33,
+      "lost": 6,
+      "rate": 84.62,
+      "count": 39
     },
     {
       "name": "URU",
@@ -459,17 +459,17 @@
     },
     {
       "name": "1st Half Under 2.5",
-      "won": 153,
+      "won": 154,
       "lost": 38,
-      "rate": 80.1,
-      "count": 191
+      "rate": 80.21,
+      "count": 192
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 627,
-      "lost": 167,
-      "rate": 78.97,
-      "count": 794
+      "won": 628,
+      "lost": 168,
+      "rate": 78.89,
+      "count": 796
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.8,
-      "count": 1599
+      "rate": 76.76,
+      "count": 1601
     },
     {
       "odd": 1.09,
