@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 28560,
-    "lost": 10192,
+    "won": 28570,
+    "lost": 10195,
     "rate": 73.7,
-    "total": 38752,
+    "total": 38765,
     "last_24h": {
-      "won": 70,
-      "lost": 31,
-      "rate": 69.3,
-      "total": 101
+      "won": 80,
+      "lost": 34,
+      "rate": 70.2,
+      "total": 114
     }
   },
   "by_day": [
@@ -30,12 +30,12 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 9382
+      "count": 9384
     },
     {
       "label": "Thursday",
       "rate": 74.6,
-      "count": 2238
+      "count": 2250
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.7,
-      "count": 12186
+      "count": 12185
     }
   ],
   "by_hour": [
@@ -77,12 +77,12 @@
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 4961
+      "count": 4976
     },
     {
       "label": "16:00",
       "rate": 72.5,
-      "count": 2175
+      "count": 2174
     },
     {
       "label": "17:00",
@@ -97,12 +97,12 @@
     {
       "label": "19:00",
       "rate": 73.5,
-      "count": 6691
+      "count": 6690
     },
     {
       "label": "20:00",
       "rate": 74.2,
-      "count": 2306
+      "count": 2307
     },
     {
       "label": "11:00",
@@ -111,8 +111,8 @@
     },
     {
       "label": "05:00",
-      "rate": 75.6,
-      "count": 786
+      "rate": 75.5,
+      "count": 785
     },
     {
       "label": "09:00",
@@ -372,6 +372,13 @@
       "count": 21
     },
     {
+      "name": " FİN3",
+      "won": 6,
+      "lost": 1,
+      "rate": 85.71,
+      "count": 7
+    },
+    {
       "name": "ARJK",
       "won": 17,
       "lost": 3,
@@ -405,13 +412,6 @@
       "lost": 7,
       "rate": 83.72,
       "count": 43
-    },
-    {
-      "name": "S3-3",
-      "won": 5,
-      "lost": 1,
-      "rate": 83.33,
-      "count": 6
     }
   ],
   "top_predictions": [
@@ -536,17 +536,17 @@
     },
     {
       "name": "Match Result 1",
-      "won": 824,
-      "lost": 277,
-      "rate": 74.84,
-      "count": 1101
+      "won": 825,
+      "lost": 278,
+      "rate": 74.8,
+      "count": 1103
     },
     {
       "name": "Double Chance 12",
-      "won": 4839,
-      "lost": 1654,
-      "rate": 74.53,
-      "count": 6493
+      "won": 4840,
+      "lost": 1655,
+      "rate": 74.52,
+      "count": 6495
     },
     {
       "name": "Double Chance 1X",
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.46,
-      "count": 1686
+      "rate": 77.47,
+      "count": 1687
     },
     {
       "odd": 1.08,
@@ -589,13 +589,18 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.53,
-      "count": 2505
+      "rate": 76.54,
+      "count": 2506
+    },
+    {
+      "odd": 1.71,
+      "rate": 76.09,
+      "count": 46
     },
     {
       "odd": 1.12,
-      "rate": 76.06,
-      "count": 1625
+      "rate": 76.01,
+      "count": 1626
     },
     {
       "odd": 1.66,
@@ -608,14 +613,14 @@
       "count": 2182
     },
     {
-      "odd": 1.71,
-      "rate": 75.56,
-      "count": 45
+      "odd": 1.7,
+      "rate": 75.0,
+      "count": 44
     },
     {
       "odd": 1.11,
-      "rate": 75.0,
-      "count": 1636
+      "rate": 74.95,
+      "count": 1637
     },
     {
       "odd": 1.15,
@@ -636,11 +641,6 @@
       "odd": 1.23,
       "rate": 74.51,
       "count": 608
-    },
-    {
-      "odd": 1.7,
-      "rate": 74.42,
-      "count": 43
     },
     {
       "odd": 1.75,
