@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 28642,
-    "lost": 10217,
+    "won": 28645,
+    "lost": 10219,
     "rate": 73.7,
-    "total": 38859,
+    "total": 38864,
     "last_24h": {
-      "won": 112,
+      "won": 113,
       "lost": 47,
-      "rate": 70.4,
-      "total": 159
+      "rate": 70.6,
+      "total": 160
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 9382
+      "count": 9383
     },
     {
       "label": "Thursday",
@@ -39,13 +39,13 @@
     },
     {
       "label": "Friday",
-      "rate": 73.7,
-      "count": 5440
+      "rate": 73.6,
+      "count": 5442
     },
     {
       "label": "Saturday",
       "rate": 73.7,
-      "count": 12185
+      "count": 12187
     }
   ],
   "by_hour": [
@@ -131,8 +131,8 @@
     },
     {
       "label": "06:00",
-      "rate": 69.7,
-      "count": 304
+      "rate": 69.6,
+      "count": 309
     },
     {
       "label": "07:00",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 829,
-      "lost": 279,
+      "won": 832,
+      "lost": 280,
       "rate": 74.82,
-      "count": 1108
+      "count": 1112
     },
     {
       "name": "Double Chance 12",
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.7,
-      "count": 1635
+      "rate": 76.71,
+      "count": 1636
     },
     {
       "odd": 1.09,
@@ -1004,6 +1004,14 @@
       "date": "18.01.2026 20:00"
     },
     {
+      "match": "Central Coast Mariners vs Melbourne Victory",
+      "ht": "1 - 0",
+      "ft": "1 - 0",
+      "odds": "4.31",
+      "prediction": "Match Result 1",
+      "date": "01.02.2026 06:00"
+    },
+    {
       "match": "Rot-Weiss Essen vs Havelse",
       "ht": "2 - 1",
       "ft": "4 - 1",
@@ -1050,14 +1058,6 @@
       "odds": "4.08",
       "prediction": "Handicap (1:0) X",
       "date": "13.02.2026 19:00"
-    },
-    {
-      "match": "River Plate vs Gimnasia La Plata",
-      "ht": "1 - 0",
-      "ft": "2 - 0",
-      "odds": "4.07",
-      "prediction": "Handicap (0:2) X",
-      "date": "28.01.2026 23:00"
     }
   ]
 }
