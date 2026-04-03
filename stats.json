@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 29201,
+    "won": 29207,
     "lost": 10446,
     "rate": 73.7,
-    "total": 39647,
+    "total": 39653,
     "last_24h": {
-      "won": 553,
-      "lost": 193,
+      "won": 559,
+      "lost": 195,
       "rate": 74.1,
-      "total": 746
+      "total": 754
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.8,
-      "count": 4230
+      "count": 4229
     },
     {
       "label": "Wednesday",
@@ -35,12 +35,12 @@
     {
       "label": "Thursday",
       "rate": 74.5,
-      "count": 2346
+      "count": 2345
     },
     {
       "label": "Friday",
       "rate": 73.7,
-      "count": 6183
+      "count": 6191
     },
     {
       "label": "Saturday",
@@ -81,8 +81,8 @@
     },
     {
       "label": "16:00",
-      "rate": 72.5,
-      "count": 2250
+      "rate": 72.6,
+      "count": 2256
     },
     {
       "label": "17:00",
@@ -337,6 +337,13 @@
       "count": 18
     },
     {
+      "name": "URU",
+      "won": 16,
+      "lost": 2,
+      "rate": 88.89,
+      "count": 18
+    },
+    {
       "name": "UMMSK",
       "won": 7,
       "lost": 1,
@@ -405,13 +412,6 @@
       "lost": 2,
       "rate": 84.62,
       "count": 13
-    },
-    {
-      "name": "URU",
-      "won": 16,
-      "lost": 3,
-      "rate": 84.21,
-      "count": 19
     }
   ],
   "top_predictions": [
@@ -515,10 +515,17 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2182,
+      "won": 2183,
       "lost": 719,
       "rate": 75.22,
-      "count": 2901
+      "count": 2902
+    },
+    {
+      "name": "Match Result 1",
+      "won": 848,
+      "lost": 282,
+      "rate": 75.04,
+      "count": 1130
     },
     {
       "name": "1st Half Double Chance X2",
@@ -535,18 +542,11 @@
       "count": 8
     },
     {
-      "name": "Match Result 1",
-      "won": 848,
-      "lost": 283,
-      "rate": 74.98,
-      "count": 1131
-    },
-    {
       "name": "Double Chance 12",
-      "won": 4956,
-      "lost": 1700,
+      "won": 4958,
+      "lost": 1701,
       "rate": 74.46,
-      "count": 6656
+      "count": 6659
     },
     {
       "name": "Double Chance 1X",
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.6,
-      "count": 1684
+      "rate": 76.56,
+      "count": 1685
     },
     {
       "odd": 1.09,
@@ -599,8 +599,8 @@
     },
     {
       "odd": 1.12,
-      "rate": 76.07,
-      "count": 1663
+      "rate": 76.08,
+      "count": 1664
     },
     {
       "odd": 1.7,
@@ -609,13 +609,13 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.38,
-      "count": 2222
+      "rate": 75.4,
+      "count": 2224
     },
     {
       "odd": 1.11,
-      "rate": 74.99,
-      "count": 1687
+      "rate": 75.0,
+      "count": 1688
     },
     {
       "odd": 1.14,
@@ -653,9 +653,9 @@
       "count": 620
     },
     {
-      "odd": 1.68,
-      "rate": 73.74,
-      "count": 99
+      "odd": 1.46,
+      "rate": 74.02,
+      "count": 127
     }
   ],
   "top_matches": [
