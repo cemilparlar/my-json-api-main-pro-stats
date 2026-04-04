@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 29441,
-    "lost": 10534,
+    "won": 29451,
+    "lost": 10538,
     "rate": 73.6,
-    "total": 39975,
+    "total": 39989,
     "last_24h": {
-      "won": 738,
-      "lost": 283,
-      "rate": 72.3,
-      "total": 1021
+      "won": 749,
+      "lost": 290,
+      "rate": 72.1,
+      "total": 1039
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 9385
+      "count": 9383
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.6,
-      "count": 12248
+      "count": 12264
     }
   ],
   "by_hour": [
@@ -81,8 +81,8 @@
     },
     {
       "label": "16:00",
-      "rate": 72.6,
-      "count": 2257
+      "rate": 72.7,
+      "count": 2256
     },
     {
       "label": "17:00",
@@ -111,8 +111,8 @@
     },
     {
       "label": "05:00",
-      "rate": 75.6,
-      "count": 823
+      "rate": 75.3,
+      "count": 831
     },
     {
       "label": "09:00",
@@ -131,8 +131,8 @@
     },
     {
       "label": "06:00",
-      "rate": 69.4,
-      "count": 310
+      "rate": 69.7,
+      "count": 317
     },
     {
       "label": "07:00",
@@ -237,11 +237,6 @@
       "count": 21
     },
     {
-      "team": "Bucheon FC",
-      "rate": 90.48,
-      "count": 21
-    },
-    {
       "team": "Asteras Tripol",
       "rate": 90.32,
       "count": 31
@@ -270,6 +265,11 @@
       "team": "Jeonbuk Hm",
       "rate": 89.29,
       "count": 28
+    },
+    {
+      "team": "Yeovil Town",
+      "rate": 89.23,
+      "count": 65
     }
   ],
   "top_leagues": [
@@ -522,10 +522,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2202,
-      "lost": 731,
-      "rate": 75.08,
-      "count": 2933
+      "won": 2203,
+      "lost": 732,
+      "rate": 75.06,
+      "count": 2935
     },
     {
       "name": "Handicap (2:0) 2",
@@ -536,24 +536,24 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1499,
-      "lost": 500,
-      "rate": 74.99,
-      "count": 1999
+      "won": 1501,
+      "lost": 501,
+      "rate": 74.98,
+      "count": 2002
     },
     {
       "name": "Double Chance 1X",
-      "won": 2722,
+      "won": 2724,
       "lost": 933,
-      "rate": 74.47,
-      "count": 3655
+      "rate": 74.49,
+      "count": 3657
     },
     {
       "name": "Double Chance 12",
-      "won": 4997,
-      "lost": 1719,
+      "won": 4999,
+      "lost": 1720,
       "rate": 74.4,
-      "count": 6716
+      "count": 6719
     }
   ],
   "top_odds": [
@@ -565,12 +565,12 @@
     {
       "odd": 1.06,
       "rate": 79.53,
-      "count": 2359
+      "count": 2360
     },
     {
       "odd": 1.05,
-      "rate": 79.09,
-      "count": 985
+      "rate": 79.01,
+      "count": 986
     },
     {
       "odd": 1.7,
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.55,
-      "count": 1746
+      "rate": 77.5,
+      "count": 1747
     },
     {
       "odd": 1.08,
@@ -589,18 +589,18 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.48,
+      "rate": 76.52,
       "count": 2623
     },
     {
       "odd": 1.1,
-      "rate": 76.42,
-      "count": 1696
+      "rate": 76.38,
+      "count": 1698
     },
     {
       "odd": 1.12,
-      "rate": 76.13,
-      "count": 1676
+      "rate": 76.15,
+      "count": 1677
     },
     {
       "odd": 1.13,
@@ -614,18 +614,18 @@
     },
     {
       "odd": 1.15,
-      "rate": 74.67,
-      "count": 1962
+      "rate": 74.68,
+      "count": 1963
+    },
+    {
+      "odd": 1.14,
+      "rate": 74.6,
+      "count": 1508
     },
     {
       "odd": 1.46,
       "rate": 74.6,
       "count": 126
-    },
-    {
-      "odd": 1.14,
-      "rate": 74.55,
-      "count": 1505
     },
     {
       "odd": 1.66,
