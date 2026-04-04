@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 29413,
-    "lost": 10524,
+    "won": 29414,
+    "lost": 10525,
     "rate": 73.6,
-    "total": 39937,
+    "total": 39939,
     "last_24h": {
-      "won": 752,
-      "lost": 280,
-      "rate": 72.9,
-      "total": 1032
+      "won": 753,
+      "lost": 281,
+      "rate": 72.8,
+      "total": 1034
     }
   },
   "by_day": [
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.5,
-      "count": 6478
+      "count": 6480
     },
     {
       "label": "Saturday",
@@ -141,8 +141,8 @@
     },
     {
       "label": "23:00",
-      "rate": 77.0,
-      "count": 461
+      "rate": 76.9,
+      "count": 463
     },
     {
       "label": "00:00",
@@ -379,13 +379,6 @@
       "count": 7
     },
     {
-      "name": "USL1",
-      "won": 18,
-      "lost": 3,
-      "rate": 85.71,
-      "count": 21
-    },
-    {
       "name": " FİN3",
       "won": 6,
       "lost": 1,
@@ -412,6 +405,13 @@
       "lost": 2,
       "rate": 84.62,
       "count": 13
+    },
+    {
+      "name": "FAROEM",
+      "won": 21,
+      "lost": 4,
+      "rate": 84.0,
+      "count": 25
     }
   ],
   "top_predictions": [
@@ -550,10 +550,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 4991,
+      "won": 4992,
       "lost": 1715,
       "rate": 74.43,
-      "count": 6706
+      "count": 6707
     }
   ],
   "top_odds": [
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.51,
-      "count": 2618
+      "rate": 76.52,
+      "count": 2619
     },
     {
       "odd": 1.1,
