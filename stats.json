@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 30954,
-    "lost": 11117,
+    "won": 30971,
+    "lost": 11126,
     "rate": 73.6,
-    "total": 42071,
+    "total": 42097,
     "last_24h": {
-      "won": 567,
-      "lost": 220,
-      "rate": 72.0,
-      "total": 787
+      "won": 583,
+      "lost": 224,
+      "rate": 72.2,
+      "total": 807
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.7,
-      "count": 2287
+      "count": 2289
     },
     {
       "label": "Tuesday",
@@ -30,12 +30,12 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 10187
+      "count": 10209
     },
     {
       "label": "Thursday",
-      "rate": 74.7,
-      "count": 2346
+      "rate": 74.6,
+      "count": 2347
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 13535
+      "count": 13536
     }
   ],
   "by_hour": [
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.6,
-      "count": 5175
+      "count": 5177
     },
     {
       "label": "16:00",
@@ -92,12 +92,12 @@
     {
       "label": "18:00",
       "rate": 74.4,
-      "count": 2952
+      "count": 2974
     },
     {
       "label": "19:00",
       "rate": 73.5,
-      "count": 6764
+      "count": 6766
     },
     {
       "label": "20:00",
@@ -424,10 +424,10 @@
     },
     {
       "name": "Under 0.5 Goals",
-      "won": 6,
+      "won": 7,
       "lost": 0,
       "rate": 100.0,
-      "count": 6
+      "count": 7
     },
     {
       "name": "HT/FT 2/2",
@@ -459,17 +459,10 @@
     },
     {
       "name": "1st Half Under 2.5",
-      "won": 162,
+      "won": 163,
       "lost": 44,
-      "rate": 78.64,
-      "count": 206
-    },
-    {
-      "name": "Under 4.5 Goals",
-      "won": 698,
-      "lost": 190,
-      "rate": 78.6,
-      "count": 888
+      "rate": 78.74,
+      "count": 207
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -479,11 +472,18 @@
       "count": 14
     },
     {
+      "name": "Under 4.5 Goals",
+      "won": 698,
+      "lost": 191,
+      "rate": 78.52,
+      "count": 889
+    },
+    {
       "name": "Match Result X",
-      "won": 38,
+      "won": 39,
       "lost": 11,
-      "rate": 77.55,
-      "count": 49
+      "rate": 78.0,
+      "count": 50
     },
     {
       "name": "Handicap (2:0) 1",
@@ -491,13 +491,6 @@
       "lost": 77,
       "rate": 77.15,
       "count": 337
-    },
-    {
-      "name": "1st Half Under 0.5",
-      "won": 63,
-      "lost": 19,
-      "rate": 76.83,
-      "count": 82
     },
     {
       "name": "Match Result 2",
@@ -512,6 +505,13 @@
       "lost": 211,
       "rate": 76.24,
       "count": 888
+    },
+    {
+      "name": "1st Half Under 0.5",
+      "won": 64,
+      "lost": 20,
+      "rate": 76.19,
+      "count": 84
     },
     {
       "name": "1st Half Double Chance 1X",
@@ -535,18 +535,18 @@
       "count": 8
     },
     {
+      "name": "Double Chance 1X",
+      "won": 2882,
+      "lost": 982,
+      "rate": 74.59,
+      "count": 3864
+    },
+    {
       "name": "Handicap (0:1) 1",
       "won": 91,
       "lost": 31,
       "rate": 74.59,
       "count": 122
-    },
-    {
-      "name": "Double Chance 1X",
-      "won": 2881,
-      "lost": 982,
-      "rate": 74.58,
-      "count": 3863
     },
     {
       "name": "1st Half Double Chance X2",
@@ -560,17 +560,17 @@
     {
       "odd": 1.06,
       "rate": 79.53,
-      "count": 2447
+      "count": 2448
     },
     {
       "odd": 1.05,
-      "rate": 79.13,
-      "count": 1107
+      "rate": 79.06,
+      "count": 1108
     },
     {
       "odd": 1.07,
-      "rate": 77.45,
-      "count": 1858
+      "rate": 77.47,
+      "count": 1860
     },
     {
       "odd": 1.95,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.12,
-      "rate": 76.46,
-      "count": 1763
+      "rate": 76.47,
+      "count": 1764
     },
     {
       "odd": 1.09,
@@ -633,14 +633,14 @@
       "count": 98
     },
     {
-      "odd": 1.17,
-      "rate": 74.14,
-      "count": 994
-    },
-    {
       "odd": 1.66,
       "rate": 74.14,
       "count": 58
+    },
+    {
+      "odd": 1.17,
+      "rate": 74.02,
+      "count": 997
     },
     {
       "odd": 1.7,
@@ -972,6 +972,14 @@
       "date": "31.01.2026 15:30"
     },
     {
+      "match": "Ismaily SC vs El Geish",
+      "ht": "0 - 0",
+      "ft": "0 - 0",
+      "odds": "4.48",
+      "prediction": "Under 0.5 Goals",
+      "date": "05.04.2026 18:00"
+    },
+    {
       "match": "Kasimpasa vs Antalyaspor",
       "ht": "0 - 0",
       "ft": "0 - 0",
@@ -1050,14 +1058,6 @@
       "odds": "4.20",
       "prediction": "HT/FT X/X",
       "date": "17.01.2026 16:00"
-    },
-    {
-      "match": "River Plate vs Club Atletico Tigre",
-      "ht": "0 - 2",
-      "ft": "1 - 4",
-      "odds": "4.14",
-      "prediction": "Over 3.5 Goals",
-      "date": "07.02.2026 23:00"
     }
   ]
 }
