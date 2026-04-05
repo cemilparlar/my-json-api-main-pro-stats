@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 30983,
-    "lost": 11135,
+    "won": 30999,
+    "lost": 11143,
     "rate": 73.6,
-    "total": 42118,
+    "total": 42142,
     "last_24h": {
-      "won": 594,
-      "lost": 229,
-      "rate": 72.2,
-      "total": 823
+      "won": 607,
+      "lost": 231,
+      "rate": 72.4,
+      "total": 838
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 10228
+      "count": 10245
     },
     {
       "label": "Thursday",
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.4,
-      "count": 6494
+      "count": 6501
     },
     {
       "label": "Saturday",
@@ -71,8 +71,8 @@
     },
     {
       "label": "14:00",
-      "rate": 73.8,
-      "count": 3534
+      "rate": 73.7,
+      "count": 3535
     },
     {
       "label": "15:00",
@@ -92,7 +92,7 @@
     {
       "label": "18:00",
       "rate": 74.3,
-      "count": 2993
+      "count": 3015
     },
     {
       "label": "19:00",
@@ -136,8 +136,8 @@
     },
     {
       "label": "07:00",
-      "rate": 70.7,
-      "count": 410
+      "rate": 70.6,
+      "count": 411
     },
     {
       "label": "23:00",
@@ -430,18 +430,18 @@
       "count": 7
     },
     {
-      "name": "HT/FT 2/2",
-      "won": 16,
-      "lost": 2,
-      "rate": 88.89,
-      "count": 18
-    },
-    {
       "name": "Over 0.5 Goals",
       "won": 39,
       "lost": 5,
       "rate": 88.64,
       "count": 44
+    },
+    {
+      "name": "HT/FT 2/2",
+      "won": 16,
+      "lost": 3,
+      "rate": 84.21,
+      "count": 19
     },
     {
       "name": "Away Team 1st Half Under 0.5",
@@ -473,10 +473,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 698,
+      "won": 699,
       "lost": 191,
-      "rate": 78.52,
-      "count": 889
+      "rate": 78.54,
+      "count": 890
     },
     {
       "name": "Match Result X",
@@ -494,24 +494,24 @@
     },
     {
       "name": "Match Result 2",
-      "won": 321,
+      "won": 322,
       "lost": 97,
-      "rate": 76.79,
-      "count": 418
+      "rate": 76.85,
+      "count": 419
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 677,
+      "won": 678,
       "lost": 211,
-      "rate": 76.24,
-      "count": 888
+      "rate": 76.27,
+      "count": 889
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2324,
+      "won": 2325,
       "lost": 773,
-      "rate": 75.04,
-      "count": 3097
+      "rate": 75.05,
+      "count": 3098
     },
     {
       "name": "Handicap (1:0) 2",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 2883,
+      "won": 2884,
       "lost": 983,
-      "rate": 74.57,
-      "count": 3866
+      "rate": 74.58,
+      "count": 3867
     },
     {
       "name": "1st Half Double Chance X2",
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.47,
-      "count": 1860
+      "rate": 77.44,
+      "count": 1862
     },
     {
       "odd": 1.95,
@@ -589,18 +589,18 @@
     },
     {
       "odd": 1.12,
-      "rate": 76.47,
-      "count": 1764
+      "rate": 76.49,
+      "count": 1765
     },
     {
       "odd": 1.1,
-      "rate": 76.31,
-      "count": 1815
+      "rate": 76.32,
+      "count": 1816
     },
     {
       "odd": 1.09,
       "rate": 76.3,
-      "count": 2835
+      "count": 2836
     },
     {
       "odd": 1.72,
@@ -614,8 +614,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 74.74,
-      "count": 1797
+      "rate": 74.76,
+      "count": 1799
     },
     {
       "odd": 1.15,
@@ -624,8 +624,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.54,
-      "count": 1579
+      "rate": 74.56,
+      "count": 1580
     },
     {
       "odd": 1.76,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.17,
-      "rate": 74.02,
-      "count": 997
+      "rate": 73.95,
+      "count": 998
     },
     {
       "odd": 1.7,
@@ -1052,12 +1052,12 @@
       "date": "24.01.2026 13:00"
     },
     {
-      "match": "Egypt vs Nigeria",
+      "match": "AS Monaco vs FC Lorient",
       "ht": "0 - 0",
-      "ft": "0 - 0",
-      "odds": "4.20",
-      "prediction": "HT/FT X/X",
-      "date": "17.01.2026 16:00"
+      "ft": "1 - 3",
+      "odds": "4.21",
+      "prediction": "Match Result 2",
+      "date": "16.01.2026 18:00"
     }
   ]
 }
