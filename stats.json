@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 31884,
-    "lost": 11456,
+    "won": 31881,
+    "lost": 11457,
     "rate": 73.6,
-    "total": 43340,
+    "total": 43338,
     "last_24h": {
       "won": 76,
-      "lost": 24,
-      "rate": 76.0,
-      "total": 100
+      "lost": 30,
+      "rate": 71.7,
+      "total": 106
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.9,
-      "count": 3359
+      "count": 3357
     },
     {
       "label": "Tuesday",
-      "rate": 73.7,
-      "count": 4261
+      "rate": 73.6,
+      "count": 4262
     },
     {
       "label": "Wednesday",
@@ -44,8 +44,8 @@
     },
     {
       "label": "Saturday",
-      "rate": 73.5,
-      "count": 13530
+      "rate": 73.6,
+      "count": 13529
     }
   ],
   "by_hour": [
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 73.1,
-      "count": 3120
+      "count": 3119
     },
     {
       "label": "13:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 74.0,
-      "count": 2394
+      "count": 2393
     },
     {
       "label": "11:00",
@@ -494,10 +494,10 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 696,
+      "won": 695,
       "lost": 215,
-      "rate": 76.4,
-      "count": 911
+      "rate": 76.37,
+      "count": 910
     },
     {
       "name": "Match Result X",
@@ -508,9 +508,9 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2394,
-      "lost": 793,
-      "rate": 75.12,
+      "won": 2393,
+      "lost": 794,
+      "rate": 75.09,
       "count": 3187
     },
     {
@@ -530,16 +530,16 @@
     {
       "name": "1st Half Double Chance X2",
       "won": 1649,
-      "lost": 563,
-      "rate": 74.55,
-      "count": 2212
+      "lost": 564,
+      "rate": 74.51,
+      "count": 2213
     },
     {
       "name": "Double Chance 1X",
       "won": 2959,
-      "lost": 1012,
-      "rate": 74.52,
-      "count": 3971
+      "lost": 1013,
+      "rate": 74.5,
+      "count": 3972
     },
     {
       "name": "Double Chance 12",
@@ -551,9 +551,9 @@
     {
       "name": "Match Result 1",
       "won": 909,
-      "lost": 313,
-      "rate": 74.39,
-      "count": 1222
+      "lost": 312,
+      "rate": 74.45,
+      "count": 1221
     }
   ],
   "top_odds": [
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.25,
-      "count": 1627
+      "rate": 74.2,
+      "count": 1628
     },
     {
       "odd": 1.17,
