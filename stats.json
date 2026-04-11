@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 34071,
-    "lost": 12265,
+    "won": 34088,
+    "lost": 12272,
     "rate": 73.5,
-    "total": 46336,
+    "total": 46360,
     "last_24h": {
-      "won": 1222,
-      "lost": 466,
+      "won": 1235,
+      "lost": 470,
       "rate": 72.4,
-      "total": 1688
+      "total": 1705
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 10348
+      "count": 10350
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 15245
+      "count": 15267
     }
   ],
   "by_hour": [
@@ -101,8 +101,8 @@
     },
     {
       "label": "20:00",
-      "rate": 73.9,
-      "count": 2399
+      "rate": 74.0,
+      "count": 2419
     },
     {
       "label": "11:00",
@@ -151,8 +151,8 @@
     },
     {
       "label": "21:00",
-      "rate": 76.1,
-      "count": 744
+      "rate": 75.9,
+      "count": 747
     },
     {
       "label": "02:00",
@@ -161,8 +161,8 @@
     },
     {
       "label": "03:00",
-      "rate": 69.8,
-      "count": 63
+      "rate": 70.3,
+      "count": 64
     },
     {
       "label": "04:00",
@@ -205,6 +205,11 @@
       "team": "Audax Italiano",
       "rate": 91.3,
       "count": 23
+    },
+    {
+      "team": "Los Angeles FC",
+      "rate": 90.62,
+      "count": 32
     },
     {
       "team": "Oman FC",
@@ -265,11 +270,6 @@
       "team": "Auckland",
       "rate": 89.13,
       "count": 46
-    },
-    {
-      "team": "Cruz Azul",
-      "rate": 88.46,
-      "count": 26
     }
   ],
   "top_leagues": [
@@ -459,17 +459,24 @@
     },
     {
       "name": "HT/FT 1/1",
-      "won": 47,
+      "won": 48,
       "lost": 12,
-      "rate": 79.66,
-      "count": 59
+      "rate": 80.0,
+      "count": 60
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 795,
+      "won": 796,
       "lost": 219,
-      "rate": 78.4,
-      "count": 1014
+      "rate": 78.42,
+      "count": 1015
+    },
+    {
+      "name": "Handicap (2:0) 1",
+      "won": 288,
+      "lost": 85,
+      "rate": 77.21,
+      "count": 373
     },
     {
       "name": "Match Result X",
@@ -477,13 +484,6 @@
       "lost": 13,
       "rate": 77.19,
       "count": 57
-    },
-    {
-      "name": "Handicap (2:0) 1",
-      "won": 287,
-      "lost": 85,
-      "rate": 77.15,
-      "count": 372
     },
     {
       "name": "Handicap (0:2) 2",
@@ -502,9 +502,9 @@
     {
       "name": "1st Half Double Chance 1X",
       "won": 2585,
-      "lost": 850,
-      "rate": 75.25,
-      "count": 3435
+      "lost": 851,
+      "rate": 75.23,
+      "count": 3436
     },
     {
       "name": "1st Half Under 0.5",
@@ -515,24 +515,24 @@
     },
     {
       "name": "Match Result 1",
-      "won": 957,
+      "won": 958,
       "lost": 326,
-      "rate": 74.59,
-      "count": 1283
+      "rate": 74.61,
+      "count": 1284
     },
     {
       "name": "Double Chance 12",
-      "won": 5835,
+      "won": 5837,
       "lost": 2008,
       "rate": 74.4,
-      "count": 7843
+      "count": 7845
     },
     {
       "name": "Double Chance 1X",
-      "won": 3139,
-      "lost": 1080,
-      "rate": 74.4,
-      "count": 4219
+      "won": 3140,
+      "lost": 1081,
+      "rate": 74.39,
+      "count": 4221
     },
     {
       "name": "1st Half Double Chance X2",
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.71,
-      "count": 2637
+      "rate": 79.68,
+      "count": 2638
     },
     {
       "odd": 1.94,
@@ -595,7 +595,7 @@
     {
       "odd": 1.09,
       "rate": 77.02,
-      "count": 3246
+      "count": 3247
     },
     {
       "odd": 1.1,
@@ -604,8 +604,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.33,
-      "count": 1977
+      "rate": 76.34,
+      "count": 1978
     },
     {
       "odd": 1.76,
@@ -618,6 +618,11 @@
       "count": 1955
     },
     {
+      "odd": 1.75,
+      "rate": 75.34,
+      "count": 73
+    },
+    {
       "odd": 1.13,
       "rate": 75.33,
       "count": 2529
@@ -628,14 +633,9 @@
       "count": 52
     },
     {
-      "odd": 1.75,
-      "rate": 74.65,
-      "count": 71
-    },
-    {
       "odd": 1.11,
-      "rate": 74.61,
-      "count": 2005
+      "rate": 74.63,
+      "count": 2006
     },
     {
       "odd": 1.71,
@@ -644,8 +644,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.37,
-      "count": 1736
+      "rate": 74.32,
+      "count": 1737
     },
     {
       "odd": 1.15,
@@ -868,6 +868,14 @@
       "date": "15.02.2026 11:15"
     },
     {
+      "match": "Portland Timbers vs Los Angeles FC",
+      "ht": "1 - 0",
+      "ft": "2 - 1",
+      "odds": "5.22",
+      "prediction": "Handicap (0:1) X",
+      "date": "11.04.2026 20:45"
+    },
+    {
       "match": "FC St Gallen vs Grasshopper Club Zurich",
       "ht": "0 - 0",
       "ft": "0 - 0",
@@ -1050,14 +1058,6 @@
       "odds": "4.31",
       "prediction": "Match Result 1",
       "date": "01.02.2026 06:00"
-    },
-    {
-      "match": "Rot-Weiss Essen vs Havelse",
-      "ht": "2 - 1",
-      "ft": "4 - 1",
-      "odds": "4.29",
-      "prediction": "1st Half Over 2.5",
-      "date": "24.01.2026 13:00"
     }
   ]
 }
