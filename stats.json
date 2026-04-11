@@ -1,31 +1,31 @@
 {
   "summary": {
-    "won": 34069,
-    "lost": 12263,
+    "won": 34071,
+    "lost": 12265,
     "rate": 73.5,
-    "total": 46332,
+    "total": 46336,
     "last_24h": {
-      "won": 1221,
-      "lost": 461,
-      "rate": 72.6,
-      "total": 1682
+      "won": 1226,
+      "lost": 466,
+      "rate": 72.5,
+      "total": 1692
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.9,
-      "count": 3357
+      "count": 3356
     },
     {
       "label": "Tuesday",
-      "rate": 73.6,
+      "rate": 73.5,
       "count": 4514
     },
     {
       "label": "Wednesday",
       "rate": 74.7,
-      "count": 3327
+      "count": 3325
     },
     {
       "label": "Sunday",
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 74.9,
-      "count": 2503
+      "count": 2502
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 15237
+      "count": 15245
     }
   ],
   "by_hour": [
@@ -86,8 +86,8 @@
     },
     {
       "label": "17:00",
-      "rate": 73.1,
-      "count": 3950
+      "rate": 73.2,
+      "count": 3949
     },
     {
       "label": "18:00",
@@ -96,13 +96,13 @@
     },
     {
       "label": "19:00",
-      "rate": 73.4,
-      "count": 6959
+      "rate": 73.3,
+      "count": 6960
     },
     {
       "label": "20:00",
       "rate": 73.9,
-      "count": 2394
+      "count": 2399
     },
     {
       "label": "11:00",
@@ -146,8 +146,8 @@
     },
     {
       "label": "00:00",
-      "rate": 71.8,
-      "count": 262
+      "rate": 71.6,
+      "count": 261
     },
     {
       "label": "21:00",
@@ -207,11 +207,6 @@
       "count": 23
     },
     {
-      "team": "Club Atletico Aldosivi",
-      "rate": 90.62,
-      "count": 32
-    },
-    {
       "team": "Oman FC",
       "rate": 90.48,
       "count": 21
@@ -223,6 +218,11 @@
     },
     {
       "team": "Selangor FA",
+      "rate": 90.32,
+      "count": 31
+    },
+    {
+      "team": "Club Atletico Aldosivi",
       "rate": 90.32,
       "count": 31
     },
@@ -487,17 +487,17 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 741,
+      "won": 740,
       "lost": 224,
-      "rate": 76.79,
-      "count": 965
+      "rate": 76.76,
+      "count": 964
     },
     {
       "name": "Match Result 2",
-      "won": 349,
+      "won": 350,
       "lost": 107,
-      "rate": 76.54,
-      "count": 456
+      "rate": 76.59,
+      "count": 457
     },
     {
       "name": "1st Half Double Chance 1X",
@@ -521,18 +521,18 @@
       "count": 1283
     },
     {
+      "name": "Double Chance 12",
+      "won": 5835,
+      "lost": 2008,
+      "rate": 74.4,
+      "count": 7843
+    },
+    {
       "name": "Double Chance 1X",
       "won": 3139,
       "lost": 1080,
       "rate": 74.4,
       "count": 4219
-    },
-    {
-      "name": "Double Chance 12",
-      "won": 5834,
-      "lost": 2008,
-      "rate": 74.39,
-      "count": 7842
     },
     {
       "name": "1st Half Double Chance X2",
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.15,
-      "count": 2066
+      "rate": 77.13,
+      "count": 2068
     },
     {
       "odd": 1.09,
@@ -628,6 +628,11 @@
       "count": 52
     },
     {
+      "odd": 1.75,
+      "rate": 74.65,
+      "count": 71
+    },
+    {
       "odd": 1.11,
       "rate": 74.61,
       "count": 2005
@@ -641,11 +646,6 @@
       "odd": 1.14,
       "rate": 74.37,
       "count": 1736
-    },
-    {
-      "odd": 1.75,
-      "rate": 74.32,
-      "count": 74
     },
     {
       "odd": 1.15,
