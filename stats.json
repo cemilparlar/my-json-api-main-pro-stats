@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 34097,
-    "lost": 12275,
+    "won": 34099,
+    "lost": 12276,
     "rate": 73.5,
-    "total": 46372,
+    "total": 46375,
     "last_24h": {
-      "won": 1244,
-      "lost": 473,
-      "rate": 72.5,
-      "total": 1717
+      "won": 1246,
+      "lost": 474,
+      "rate": 72.4,
+      "total": 1720
     }
   },
   "by_day": [
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 15278
+      "count": 15281
     }
   ],
   "by_hour": [
@@ -152,7 +152,7 @@
     {
       "label": "21:00",
       "rate": 76.0,
-      "count": 758
+      "count": 761
     },
     {
       "label": "02:00",
@@ -200,11 +200,6 @@
       "team": "Asteras Tripol",
       "rate": 91.43,
       "count": 35
-    },
-    {
-      "team": "Audax Italiano",
-      "rate": 91.3,
-      "count": 23
     },
     {
       "team": "Los Angeles FC",
@@ -270,6 +265,11 @@
       "team": "Auckland",
       "rate": 89.13,
       "count": 46
+    },
+    {
+      "team": "Cruz Azul",
+      "rate": 88.46,
+      "count": 26
     }
   ],
   "top_leagues": [
@@ -502,9 +502,9 @@
     {
       "name": "1st Half Double Chance 1X",
       "won": 2586,
-      "lost": 851,
-      "rate": 75.24,
-      "count": 3437
+      "lost": 852,
+      "rate": 75.22,
+      "count": 3438
     },
     {
       "name": "1st Half Under 0.5",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 5839,
+      "won": 5840,
       "lost": 2009,
       "rate": 74.4,
-      "count": 7848
+      "count": 7849
     },
     {
       "name": "Double Chance 1X",
@@ -644,8 +644,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.32,
-      "count": 1737
+      "rate": 74.34,
+      "count": 1738
     },
     {
       "odd": 1.15,
