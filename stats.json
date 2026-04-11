@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 33996,
-    "lost": 12241,
+    "won": 34005,
+    "lost": 12242,
     "rate": 73.5,
-    "total": 46237,
+    "total": 46247,
     "last_24h": {
-      "won": 1161,
-      "lost": 446,
-      "rate": 72.2,
-      "total": 1607
+      "won": 1169,
+      "lost": 452,
+      "rate": 72.1,
+      "total": 1621
     }
   },
   "by_day": [
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 74.9,
-      "count": 2504
+      "count": 2503
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 15140
+      "count": 15151
     }
   ],
   "by_hour": [
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 73.0,
-      "count": 3347
+      "count": 3348
     },
     {
       "label": "13:00",
       "rate": 72.8,
-      "count": 4545
+      "count": 4544
     },
     {
       "label": "14:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 72.5,
-      "count": 2849
+      "count": 2848
     },
     {
       "label": "17:00",
@@ -92,12 +92,12 @@
     {
       "label": "18:00",
       "rate": 73.6,
-      "count": 3314
+      "count": 3324
     },
     {
       "label": "19:00",
       "rate": 73.3,
-      "count": 6913
+      "count": 6914
     },
     {
       "label": "20:00",
@@ -172,14 +172,14 @@
   ],
   "top_teams": [
     {
+      "team": "CD Feirense",
+      "rate": 96.55,
+      "count": 29
+    },
+    {
       "team": "ND Primorje",
       "rate": 96.0,
       "count": 25
-    },
-    {
-      "team": "CD Feirense",
-      "rate": 93.33,
-      "count": 30
     },
     {
       "team": "Shanghai Shenhua",
@@ -501,10 +501,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2578,
+      "won": 2579,
       "lost": 848,
-      "rate": 75.25,
-      "count": 3426
+      "rate": 75.26,
+      "count": 3427
     },
     {
       "name": "1st Half Under 0.5",
@@ -522,31 +522,24 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 5825,
+      "won": 5826,
       "lost": 2006,
-      "rate": 74.38,
-      "count": 7831
+      "rate": 74.39,
+      "count": 7832
     },
     {
       "name": "Double Chance 1X",
-      "won": 3133,
-      "lost": 1081,
-      "rate": 74.35,
-      "count": 4214
+      "won": 3135,
+      "lost": 1080,
+      "rate": 74.38,
+      "count": 4215
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1766,
+      "won": 1767,
       "lost": 612,
-      "rate": 74.26,
-      "count": 2378
-    },
-    {
-      "name": "Handicap (0:1) 1",
-      "won": 95,
-      "lost": 33,
-      "rate": 74.22,
-      "count": 128
+      "rate": 74.27,
+      "count": 2379
     },
     {
       "name": "Handicap (0:1) 2",
@@ -554,6 +547,13 @@
       "lost": 279,
       "rate": 74.12,
       "count": 1078
+    },
+    {
+      "name": "Under 3.5 Goals",
+      "won": 2610,
+      "lost": 912,
+      "rate": 74.11,
+      "count": 3522
     }
   ],
   "top_odds": [
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.64,
-      "count": 1320
+      "rate": 78.65,
+      "count": 1321
     },
     {
       "odd": 1.94,
@@ -594,8 +594,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 77.08,
-      "count": 3238
+      "rate": 77.06,
+      "count": 3239
     },
     {
       "odd": 1.1,
@@ -619,8 +619,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.31,
-      "count": 2527
+      "rate": 75.32,
+      "count": 2528
     },
     {
       "odd": 1.7,
@@ -639,13 +639,13 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.29,
-      "count": 1731
+      "rate": 74.32,
+      "count": 1733
     },
     {
       "odd": 1.15,
-      "rate": 74.24,
-      "count": 2329
+      "rate": 74.25,
+      "count": 2330
     },
     {
       "odd": 1.75,
