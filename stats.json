@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 34795,
+    "won": 34798,
     "lost": 12533,
     "rate": 73.5,
-    "total": 47328,
+    "total": 47331,
     "last_24h": {
-      "won": 689,
-      "lost": 237,
-      "rate": 74.4,
-      "total": 926
+      "won": 692,
+      "lost": 239,
+      "rate": 74.3,
+      "total": 931
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 11225
+      "count": 11228
     },
     {
       "label": "Thursday",
@@ -77,12 +77,12 @@
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 5590
+      "count": 5589
     },
     {
       "label": "16:00",
       "rate": 72.6,
-      "count": 2899
+      "count": 2904
     },
     {
       "label": "17:00",
@@ -116,8 +116,8 @@
     },
     {
       "label": "09:00",
-      "rate": 72.1,
-      "count": 341
+      "rate": 72.4,
+      "count": 340
     },
     {
       "label": "22:00",
@@ -217,11 +217,6 @@
       "count": 32
     },
     {
-      "team": "Oman FC",
-      "rate": 90.48,
-      "count": 21
-    },
-    {
       "team": "FK Jesenice",
       "rate": 90.48,
       "count": 21
@@ -270,6 +265,11 @@
       "team": "Auckland",
       "rate": 89.13,
       "count": 46
+    },
+    {
+      "team": "Antoniano",
+      "rate": 88.89,
+      "count": 27
     }
   ],
   "top_leagues": [
@@ -549,18 +549,18 @@
       "count": 93
     },
     {
-      "name": "Handicap (0:1) 2",
-      "won": 816,
-      "lost": 287,
+      "name": "Under 3.5 Goals",
+      "won": 2664,
+      "lost": 937,
       "rate": 73.98,
-      "count": 1103
+      "count": 3601
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
       "rate": 79.69,
-      "count": 2673
+      "count": 2674
     },
     {
       "odd": 1.05,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 74.68,
-      "count": 2062
+      "rate": 74.7,
+      "count": 2063
     },
     {
       "odd": 1.75,
