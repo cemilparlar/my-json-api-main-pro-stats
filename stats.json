@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 34862,
-    "lost": 12567,
+    "won": 34884,
+    "lost": 12583,
     "rate": 73.5,
-    "total": 47429,
+    "total": 47467,
     "last_24h": {
-      "won": 719,
-      "lost": 256,
-      "rate": 73.7,
-      "total": 975
+      "won": 741,
+      "lost": 260,
+      "rate": 74.0,
+      "total": 1001
     }
   },
   "by_day": [
@@ -24,13 +24,13 @@
     },
     {
       "label": "Wednesday",
-      "rate": 74.6,
-      "count": 3333
+      "rate": 74.5,
+      "count": 3339
     },
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 11330
+      "count": 11356
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 7041
+      "count": 7042
     },
     {
       "label": "Saturday",
-      "rate": 73.5,
-      "count": 15347
+      "rate": 73.4,
+      "count": 15352
     }
   ],
   "by_hour": [
@@ -67,32 +67,32 @@
     {
       "label": "13:00",
       "rate": 72.8,
-      "count": 4632
+      "count": 4629
     },
     {
       "label": "14:00",
       "rate": 73.8,
-      "count": 4786
+      "count": 4787
     },
     {
       "label": "15:00",
-      "rate": 73.7,
-      "count": 5594
+      "rate": 73.6,
+      "count": 5595
     },
     {
       "label": "16:00",
       "rate": 72.5,
-      "count": 2944
+      "count": 2945
     },
     {
       "label": "17:00",
       "rate": 73.2,
-      "count": 3998
+      "count": 4002
     },
     {
       "label": "18:00",
       "rate": 73.5,
-      "count": 3367
+      "count": 3393
     },
     {
       "label": "19:00",
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 75.9,
-      "count": 659
+      "rate": 75.7,
+      "count": 666
     },
     {
       "label": "01:00",
@@ -136,8 +136,8 @@
     },
     {
       "label": "07:00",
-      "rate": 70.3,
-      "count": 481
+      "rate": 70.1,
+      "count": 482
     },
     {
       "label": "23:00",
@@ -192,6 +192,11 @@
       "count": 33
     },
     {
+      "team": "Los Andes",
+      "rate": 93.33,
+      "count": 30
+    },
+    {
       "team": "Shanghai Shenhua",
       "rate": 92.86,
       "count": 28
@@ -200,11 +205,6 @@
       "team": "FK Skalica",
       "rate": 92.31,
       "count": 26
-    },
-    {
-      "team": "Los Andes",
-      "rate": 91.67,
-      "count": 24
     },
     {
       "team": "Asteras Tripol",
@@ -248,8 +248,8 @@
     },
     {
       "team": "Murcia",
-      "rate": 89.66,
-      "count": 29
+      "rate": 89.29,
+      "count": 28
     },
     {
       "team": "DRB Oued Akbou",
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 813,
+      "won": 814,
       "lost": 222,
-      "rate": 78.55,
-      "count": 1035
+      "rate": 78.57,
+      "count": 1036
     },
     {
       "name": "Match Result X",
@@ -486,13 +486,6 @@
       "count": 383
     },
     {
-      "name": "Match Result 2",
-      "won": 356,
-      "lost": 109,
-      "rate": 76.56,
-      "count": 465
-    },
-    {
       "name": "Handicap (0:2) 2",
       "won": 754,
       "lost": 232,
@@ -500,25 +493,25 @@
       "count": 986
     },
     {
-      "name": "1st Half Double Chance 1X",
-      "won": 2658,
-      "lost": 883,
-      "rate": 75.06,
-      "count": 3541
+      "name": "Match Result 2",
+      "won": 357,
+      "lost": 110,
+      "rate": 76.45,
+      "count": 467
     },
     {
-      "name": "Match Result 1",
-      "won": 976,
-      "lost": 333,
-      "rate": 74.56,
-      "count": 1309
+      "name": "1st Half Double Chance 1X",
+      "won": 2660,
+      "lost": 883,
+      "rate": 75.08,
+      "count": 3543
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1816,
+      "won": 1818,
       "lost": 620,
-      "rate": 74.55,
-      "count": 2436
+      "rate": 74.57,
+      "count": 2438
     },
     {
       "name": "Handicap (0:1) 1",
@@ -528,49 +521,51 @@
       "count": 129
     },
     {
+      "name": "Match Result 1",
+      "won": 977,
+      "lost": 336,
+      "rate": 74.41,
+      "count": 1313
+    },
+    {
       "name": "Double Chance 12",
-      "won": 6000,
-      "lost": 2065,
-      "rate": 74.4,
-      "count": 8065
+      "won": 6001,
+      "lost": 2066,
+      "rate": 74.39,
+      "count": 8067
     },
     {
       "name": "Double Chance 1X",
-      "won": 3203,
+      "won": 3205,
       "lost": 1105,
-      "rate": 74.35,
-      "count": 4308
-    },
-    {
-      "name": "1st Half Under 0.5",
-      "won": 69,
-      "lost": 24,
-      "rate": 74.19,
-      "count": 93
+      "rate": 74.36,
+      "count": 4310
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 2671,
-      "lost": 936,
-      "rate": 74.05,
-      "count": 3607
+      "won": 2672,
+      "lost": 937,
+      "rate": 74.04,
+      "count": 3609
+    },
+    {
+      "name": "Handicap (0:1) 2",
+      "won": 819,
+      "lost": 288,
+      "rate": 73.98,
+      "count": 1107
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.74,
-      "count": 2680
+      "rate": 79.75,
+      "count": 2681
     },
     {
       "odd": 1.05,
-      "rate": 78.52,
-      "count": 1369
-    },
-    {
-      "odd": 1.68,
-      "rate": 77.68,
-      "count": 112
+      "rate": 78.54,
+      "count": 1370
     },
     {
       "odd": 1.94,
@@ -583,9 +578,14 @@
       "count": 2108
     },
     {
+      "odd": 1.68,
+      "rate": 76.99,
+      "count": 113
+    },
+    {
       "odd": 1.09,
-      "rate": 76.9,
-      "count": 3360
+      "rate": 76.92,
+      "count": 3362
     },
     {
       "odd": 1.7,
@@ -603,14 +603,14 @@
       "count": 97
     },
     {
-      "odd": 1.08,
-      "rate": 76.25,
-      "count": 2025
+      "odd": 1.12,
+      "rate": 76.26,
+      "count": 2009
     },
     {
-      "odd": 1.12,
-      "rate": 76.25,
-      "count": 2008
+      "odd": 1.08,
+      "rate": 76.23,
+      "count": 2028
     },
     {
       "odd": 1.98,
@@ -633,14 +633,14 @@
       "count": 2579
     },
     {
-      "odd": 1.55,
-      "rate": 75.0,
-      "count": 64
+      "odd": 1.11,
+      "rate": 74.62,
+      "count": 2065
     },
     {
-      "odd": 1.11,
-      "rate": 74.66,
-      "count": 2064
+      "odd": 1.84,
+      "rate": 74.42,
+      "count": 43
     },
     {
       "odd": 1.75,
@@ -972,6 +972,14 @@
       "date": "22.03.2026 16:15"
     },
     {
+      "match": "Newells Old Boys vs Estudiantes de La Plata",
+      "ht": "0 - 0",
+      "ft": "0 - 2",
+      "odds": "4.54",
+      "prediction": "HT/FT X/2",
+      "date": "25.02.2026 22:30"
+    },
+    {
       "match": "Stade Rennais vs FC Metz",
       "ht": "0 - 0",
       "ft": "0 - 0",
@@ -1050,14 +1058,6 @@
       "odds": "4.33",
       "prediction": "1st Half Result 1",
       "date": "18.01.2026 20:00"
-    },
-    {
-      "match": "Central Coast Mariners vs Melbourne Victory",
-      "ht": "1 - 0",
-      "ft": "1 - 0",
-      "odds": "4.31",
-      "prediction": "Match Result 1",
-      "date": "01.02.2026 06:00"
     }
   ]
 }
