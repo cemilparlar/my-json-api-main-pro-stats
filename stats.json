@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 34944,
-    "lost": 12609,
+    "won": 34985,
+    "lost": 12626,
     "rate": 73.5,
-    "total": 47553,
+    "total": 47611,
     "last_24h": {
-      "won": 797,
-      "lost": 290,
-      "rate": 73.3,
-      "total": 1087
+      "won": 834,
+      "lost": 293,
+      "rate": 74.0,
+      "total": 1127
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 73.0,
-      "count": 3354
+      "count": 3355
     },
     {
       "label": "Tuesday",
@@ -24,13 +24,13 @@
     },
     {
       "label": "Wednesday",
-      "rate": 74.5,
-      "count": 3341
+      "rate": 74.4,
+      "count": 3344
     },
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 11441
+      "count": 11490
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.4,
-      "count": 15354
+      "count": 15359
     }
   ],
   "by_hour": [
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 73.2,
-      "count": 3498
+      "count": 3499
     },
     {
       "label": "13:00",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.8,
-      "count": 4786
+      "count": 4788
     },
     {
       "label": "15:00",
@@ -92,7 +92,7 @@
     {
       "label": "18:00",
       "rate": 73.3,
-      "count": 3428
+      "count": 3429
     },
     {
       "label": "19:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 73.9,
-      "count": 2440
+      "count": 2465
     },
     {
       "label": "11:00",
@@ -141,8 +141,8 @@
     },
     {
       "label": "23:00",
-      "rate": 75.2,
-      "count": 556
+      "rate": 75.0,
+      "count": 557
     },
     {
       "label": "00:00",
@@ -151,8 +151,8 @@
     },
     {
       "label": "21:00",
-      "rate": 75.7,
-      "count": 770
+      "rate": 75.8,
+      "count": 798
     },
     {
       "label": "02:00",
@@ -175,11 +175,6 @@
       "team": "ND Primorje",
       "rate": 96.0,
       "count": 25
-    },
-    {
-      "team": "AFC Leopards",
-      "rate": 95.24,
-      "count": 21
     },
     {
       "team": "Dhofar Club",
@@ -210,6 +205,11 @@
       "team": "Asteras Tripol",
       "rate": 91.43,
       "count": 35
+    },
+    {
+      "team": "AFC Leopards",
+      "rate": 90.91,
+      "count": 22
     },
     {
       "team": "Los Angeles FC",
@@ -416,18 +416,18 @@
   ],
   "top_predictions": [
     {
-      "name": "HT/FT X/X",
-      "won": 15,
+      "name": "Under 0.5 Goals",
+      "won": 8,
       "lost": 0,
       "rate": 100.0,
-      "count": 15
+      "count": 8
     },
     {
-      "name": "Under 0.5 Goals",
-      "won": 7,
-      "lost": 0,
-      "rate": 100.0,
-      "count": 7
+      "name": "HT/FT X/X",
+      "won": 16,
+      "lost": 2,
+      "rate": 88.89,
+      "count": 18
     },
     {
       "name": "Over 0.5 Goals",
@@ -465,13 +465,6 @@
       "count": 1036
     },
     {
-      "name": "Match Result X",
-      "won": 44,
-      "lost": 13,
-      "rate": 77.19,
-      "count": 57
-    },
-    {
       "name": "Handicap (2:0) 1",
       "won": 295,
       "lost": 88,
@@ -493,6 +486,13 @@
       "count": 988
     },
     {
+      "name": "Match Result X",
+      "won": 45,
+      "lost": 14,
+      "rate": 76.27,
+      "count": 59
+    },
+    {
       "name": "HT/FT 1/1",
       "won": 47,
       "lost": 15,
@@ -501,10 +501,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2663,
+      "won": 2666,
       "lost": 885,
-      "rate": 75.06,
-      "count": 3548
+      "rate": 75.08,
+      "count": 3551
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -515,10 +515,10 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1821,
+      "won": 1823,
       "lost": 625,
-      "rate": 74.45,
-      "count": 2446
+      "rate": 74.47,
+      "count": 2448
     },
     {
       "name": "Match Result 1",
@@ -536,36 +536,36 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 6007,
-      "lost": 2067,
-      "rate": 74.4,
-      "count": 8074
+      "won": 6009,
+      "lost": 2070,
+      "rate": 74.38,
+      "count": 8079
     },
     {
       "name": "Double Chance 1X",
-      "won": 3212,
-      "lost": 1109,
-      "rate": 74.33,
-      "count": 4321
+      "won": 3213,
+      "lost": 1110,
+      "rate": 74.32,
+      "count": 4323
     },
     {
-      "name": "Under 3.5 Goals",
-      "won": 2674,
-      "lost": 939,
-      "rate": 74.01,
-      "count": 3613
+      "name": "Handicap (0:1) 2",
+      "won": 824,
+      "lost": 289,
+      "rate": 74.03,
+      "count": 1113
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.69,
-      "count": 2684
+      "rate": 79.7,
+      "count": 2685
     },
     {
       "odd": 1.05,
-      "rate": 78.6,
-      "count": 1374
+      "rate": 78.62,
+      "count": 1375
     },
     {
       "odd": 1.94,
@@ -574,13 +574,13 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.38,
-      "count": 2109
+      "rate": 77.39,
+      "count": 2110
     },
     {
       "odd": 1.09,
-      "rate": 76.93,
-      "count": 3364
+      "rate": 76.97,
+      "count": 3369
     },
     {
       "odd": 1.7,
@@ -629,13 +629,13 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.2,
-      "count": 2585
+      "rate": 75.22,
+      "count": 2587
     },
     {
       "odd": 1.11,
-      "rate": 74.62,
-      "count": 2065
+      "rate": 74.6,
+      "count": 2067
     },
     {
       "odd": 1.84,
@@ -810,6 +810,14 @@
       "odds": "5.66",
       "prediction": "HT/FT X/X",
       "date": "24.01.2026 18:00"
+    },
+    {
+      "match": "Atletico Tucuman vs Club Atletico Tigre",
+      "ht": "0 - 0",
+      "ft": "0 - 0",
+      "odds": "5.64",
+      "prediction": "Under 0.5 Goals",
+      "date": "12.04.2026 20:30"
     },
     {
       "match": "SE Palmeiras vs Vitoria Bahia",
@@ -1050,14 +1058,6 @@
       "odds": "4.35",
       "prediction": "Match Result 2",
       "date": "03.02.2026 16:00"
-    },
-    {
-      "match": "Real Sociedad vs FC Barcelona",
-      "ht": "1 - 0",
-      "ft": "2 - 1",
-      "odds": "4.33",
-      "prediction": "1st Half Result 1",
-      "date": "18.01.2026 20:00"
     }
   ]
 }
