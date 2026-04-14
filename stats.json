@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 35250,
-    "lost": 12725,
+    "won": 35263,
+    "lost": 12729,
     "rate": 73.5,
-    "total": 47975,
+    "total": 47992,
     "last_24h": {
-      "won": 55,
-      "lost": 30,
-      "rate": 64.7,
-      "total": 85
+      "won": 70,
+      "lost": 36,
+      "rate": 66.0,
+      "total": 106
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.4,
-      "count": 4595
+      "count": 4614
     },
     {
       "label": "Wednesday",
@@ -34,8 +34,8 @@
     },
     {
       "label": "Thursday",
-      "rate": 75.0,
-      "count": 2501
+      "rate": 75.1,
+      "count": 2500
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.4,
-      "count": 15353
+      "count": 15352
     }
   ],
   "by_hour": [
@@ -56,33 +56,33 @@
     },
     {
       "label": "10:00",
-      "rate": 73.9,
-      "count": 1163
+      "rate": 74.0,
+      "count": 1162
     },
     {
       "label": "12:00",
-      "rate": 73.1,
-      "count": 3529
+      "rate": 73.2,
+      "count": 3528
     },
     {
       "label": "13:00",
-      "rate": 72.9,
-      "count": 4643
+      "rate": 73.0,
+      "count": 4640
     },
     {
       "label": "14:00",
       "rate": 73.7,
-      "count": 4834
+      "count": 4833
     },
     {
       "label": "15:00",
-      "rate": 73.7,
-      "count": 5609
+      "rate": 73.6,
+      "count": 5621
     },
     {
       "label": "16:00",
       "rate": 72.4,
-      "count": 2959
+      "count": 2969
     },
     {
       "label": "17:00",
@@ -92,7 +92,7 @@
     {
       "label": "18:00",
       "rate": 73.2,
-      "count": 3500
+      "count": 3501
     },
     {
       "label": "19:00",
@@ -175,6 +175,11 @@
       "team": "ND Primorje",
       "rate": 96.0,
       "count": 25
+    },
+    {
+      "team": "Birkirkara",
+      "rate": 95.24,
+      "count": 21
     },
     {
       "team": "Dhofar Club",
@@ -265,11 +270,6 @@
       "team": "DRB Oued Akbou",
       "rate": 89.29,
       "count": 28
-    },
-    {
-      "team": "Yeovil Town",
-      "rate": 89.19,
-      "count": 74
     }
   ],
   "top_leagues": [
@@ -500,18 +500,18 @@
       "count": 62
     },
     {
+      "name": "1st Half Double Chance 1X",
+      "won": 2685,
+      "lost": 895,
+      "rate": 75.0,
+      "count": 3580
+    },
+    {
       "name": "Home Team 1st Half Under 0.5",
       "won": 12,
       "lost": 4,
       "rate": 75.0,
       "count": 16
-    },
-    {
-      "name": "1st Half Double Chance 1X",
-      "won": 2683,
-      "lost": 895,
-      "rate": 74.99,
-      "count": 3578
     },
     {
       "name": "Handicap (1:0) 2",
@@ -522,10 +522,10 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1846,
+      "won": 1847,
       "lost": 633,
-      "rate": 74.47,
-      "count": 2479
+      "rate": 74.48,
+      "count": 2480
     },
     {
       "name": "Handicap (0:1) 1",
@@ -536,17 +536,17 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 6052,
-      "lost": 2085,
-      "rate": 74.38,
-      "count": 8137
+      "won": 6055,
+      "lost": 2087,
+      "rate": 74.37,
+      "count": 8142
     },
     {
       "name": "Double Chance 1X",
-      "won": 3230,
-      "lost": 1119,
-      "rate": 74.27,
-      "count": 4349
+      "won": 3231,
+      "lost": 1120,
+      "rate": 74.26,
+      "count": 4351
     },
     {
       "name": "Match Result 1",
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.45,
-      "count": 2129
+      "rate": 77.46,
+      "count": 2130
     },
     {
       "odd": 1.94,
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 77.02,
-      "count": 3399
+      "rate": 76.99,
+      "count": 3403
     },
     {
       "odd": 1.55,
@@ -603,19 +603,19 @@
       "count": 2025
     },
     {
+      "odd": 1.1,
+      "rate": 76.3,
+      "count": 2089
+    },
+    {
       "odd": 1.76,
       "rate": 76.29,
       "count": 97
     },
     {
-      "odd": 1.1,
-      "rate": 76.28,
-      "count": 2087
-    },
-    {
       "odd": 1.08,
-      "rate": 76.14,
-      "count": 2058
+      "rate": 76.15,
+      "count": 2059
     },
     {
       "odd": 1.77,
