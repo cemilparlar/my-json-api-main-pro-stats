@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 35437,
-    "lost": 12809,
-    "rate": 73.5,
-    "total": 48246,
+    "won": 35446,
+    "lost": 12816,
+    "rate": 73.4,
+    "total": 48262,
     "last_24h": {
-      "won": 59,
-      "lost": 24,
-      "rate": 71.1,
-      "total": 83
+      "won": 70,
+      "lost": 31,
+      "rate": 69.3,
+      "total": 101
     }
   },
   "by_day": [
@@ -24,13 +24,13 @@
     },
     {
       "label": "Wednesday",
-      "rate": 74.2,
-      "count": 3430
+      "rate": 74.1,
+      "count": 3448
     },
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 11547
+      "count": 11548
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 7045
+      "count": 7044
     },
     {
       "label": "Saturday",
       "rate": 73.4,
-      "count": 15351
+      "count": 15349
     }
   ],
   "by_hour": [
@@ -67,7 +67,7 @@
     {
       "label": "13:00",
       "rate": 73.0,
-      "count": 4643
+      "count": 4642
     },
     {
       "label": "14:00",
@@ -82,12 +82,12 @@
     {
       "label": "16:00",
       "rate": 72.3,
-      "count": 3014
+      "count": 3016
     },
     {
       "label": "17:00",
       "rate": 73.2,
-      "count": 4081
+      "count": 4096
     },
     {
       "label": "18:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.3,
-      "count": 7049
+      "count": 7048
     },
     {
       "label": "20:00",
@@ -131,8 +131,8 @@
     },
     {
       "label": "06:00",
-      "rate": 70.4,
-      "count": 355
+      "rate": 70.2,
+      "count": 356
     },
     {
       "label": "07:00",
@@ -365,13 +365,6 @@
       "count": 7
     },
     {
-      "name": "ŞMP-K",
-      "won": 35,
-      "lost": 6,
-      "rate": 85.37,
-      "count": 41
-    },
-    {
       "name": "MLTAK",
       "won": 11,
       "lost": 2,
@@ -380,13 +373,6 @@
     },
     {
       "name": "KİRLK",
-      "won": 11,
-      "lost": 2,
-      "rate": 84.62,
-      "count": 13
-    },
-    {
-      "name": " BLRK",
       "won": 11,
       "lost": 2,
       "rate": 84.62,
@@ -412,6 +398,20 @@
       "lost": 5,
       "rate": 83.33,
       "count": 30
+    },
+    {
+      "name": "ŞMP-K",
+      "won": 35,
+      "lost": 7,
+      "rate": 83.33,
+      "count": 42
+    },
+    {
+      "name": "JWEL",
+      "won": 15,
+      "lost": 3,
+      "rate": 83.33,
+      "count": 18
     }
   ],
   "top_predictions": [
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 827,
+      "won": 828,
       "lost": 227,
-      "rate": 78.46,
-      "count": 1054
+      "rate": 78.48,
+      "count": 1055
     },
     {
       "name": "Handicap (2:0) 1",
@@ -479,18 +479,18 @@
       "count": 476
     },
     {
-      "name": "Handicap (0:2) 2",
-      "won": 762,
-      "lost": 237,
-      "rate": 76.28,
-      "count": 999
-    },
-    {
       "name": "Match Result X",
       "won": 45,
       "lost": 14,
       "rate": 76.27,
       "count": 59
+    },
+    {
+      "name": "Handicap (0:2) 2",
+      "won": 763,
+      "lost": 238,
+      "rate": 76.22,
+      "count": 1001
     },
     {
       "name": "HT/FT 1/1",
@@ -501,10 +501,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2706,
-      "lost": 900,
-      "rate": 75.04,
-      "count": 3606
+      "won": 2708,
+      "lost": 901,
+      "rate": 75.03,
+      "count": 3609
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -523,16 +523,16 @@
     {
       "name": "1st Half Double Chance X2",
       "won": 1856,
-      "lost": 639,
-      "rate": 74.39,
-      "count": 2495
+      "lost": 640,
+      "rate": 74.36,
+      "count": 2496
     },
     {
       "name": "Double Chance 12",
-      "won": 6085,
-      "lost": 2102,
-      "rate": 74.33,
-      "count": 8187
+      "won": 6087,
+      "lost": 2105,
+      "rate": 74.3,
+      "count": 8192
     },
     {
       "name": "Double Chance 1X",
@@ -550,32 +550,32 @@
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 2708,
+      "won": 2709,
       "lost": 949,
-      "rate": 74.05,
-      "count": 3657
+      "rate": 74.06,
+      "count": 3658
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.85,
-      "count": 2720
+      "rate": 79.83,
+      "count": 2722
     },
     {
       "odd": 1.05,
-      "rate": 78.4,
-      "count": 1403
+      "rate": 78.36,
+      "count": 1405
     },
     {
       "odd": 1.07,
-      "rate": 77.6,
-      "count": 2143
+      "rate": 77.57,
+      "count": 2144
     },
     {
       "odd": 1.09,
       "rate": 76.86,
-      "count": 3432
+      "count": 3435
     },
     {
       "odd": 1.94,
@@ -604,8 +604,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.1,
-      "count": 2071
+      "rate": 76.11,
+      "count": 2072
     },
     {
       "odd": 1.75,
@@ -649,8 +649,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 74.5,
-      "count": 2086
+      "rate": 74.49,
+      "count": 2089
     },
     {
       "odd": 1.95,
