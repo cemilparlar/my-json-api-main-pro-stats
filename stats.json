@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 35486,
-    "lost": 12832,
+    "won": 35501,
+    "lost": 12838,
     "rate": 73.4,
-    "total": 48318,
+    "total": 48339,
     "last_24h": {
-      "won": 105,
-      "lost": 48,
-      "rate": 68.6,
-      "total": 153
+      "won": 119,
+      "lost": 54,
+      "rate": 68.8,
+      "total": 173
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 74.0,
-      "count": 3506
+      "count": 3526
     },
     {
       "label": "Sunday",
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 75.0,
-      "count": 2501
+      "count": 2502
     },
     {
       "label": "Friday",
@@ -91,8 +91,8 @@
     },
     {
       "label": "18:00",
-      "rate": 73.1,
-      "count": 3620
+      "rate": 73.0,
+      "count": 3621
     },
     {
       "label": "19:00",
@@ -122,7 +122,7 @@
     {
       "label": "22:00",
       "rate": 75.5,
-      "count": 690
+      "count": 710
     },
     {
       "label": "01:00",
@@ -222,11 +222,6 @@
       "count": 32
     },
     {
-      "team": "Caracas FC",
-      "rate": 90.48,
-      "count": 21
-    },
-    {
       "team": "FK Jesenice",
       "rate": 90.48,
       "count": 21
@@ -270,6 +265,11 @@
       "team": "DRB Oued Akbou",
       "rate": 89.29,
       "count": 28
+    },
+    {
+      "team": "Yeovil Town",
+      "rate": 89.19,
+      "count": 74
     }
   ],
   "top_leagues": [
@@ -479,18 +479,11 @@
       "count": 478
     },
     {
-      "name": "Match Result X",
-      "won": 45,
-      "lost": 14,
-      "rate": 76.27,
-      "count": 59
-    },
-    {
       "name": "Handicap (0:2) 2",
-      "won": 763,
+      "won": 765,
       "lost": 238,
-      "rate": 76.22,
-      "count": 1001
+      "rate": 76.27,
+      "count": 1003
     },
     {
       "name": "HT/FT 1/1",
@@ -505,6 +498,13 @@
       "lost": 901,
       "rate": 75.03,
       "count": 3609
+    },
+    {
+      "name": "Match Result X",
+      "won": 45,
+      "lost": 15,
+      "rate": 75.0,
+      "count": 60
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -529,17 +529,17 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 6098,
+      "won": 6099,
       "lost": 2109,
-      "rate": 74.3,
-      "count": 8207
+      "rate": 74.31,
+      "count": 8208
     },
     {
       "name": "Double Chance 1X",
       "won": 3252,
-      "lost": 1126,
-      "rate": 74.28,
-      "count": 4378
+      "lost": 1127,
+      "rate": 74.26,
+      "count": 4379
     },
     {
       "name": "Match Result 1",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 2710,
+      "won": 2711,
       "lost": 949,
-      "rate": 74.06,
-      "count": 3659
+      "rate": 74.07,
+      "count": 3660
     }
   ],
   "top_odds": [
@@ -564,18 +564,18 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.39,
-      "count": 1407
+      "rate": 78.41,
+      "count": 1408
     },
     {
       "odd": 1.07,
-      "rate": 77.5,
-      "count": 2147
+      "rate": 77.51,
+      "count": 2148
     },
     {
       "odd": 1.09,
-      "rate": 76.84,
-      "count": 3442
+      "rate": 76.85,
+      "count": 3443
     },
     {
       "odd": 1.94,
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.12,
-      "rate": 76.36,
-      "count": 2039
+      "rate": 76.37,
+      "count": 2040
     },
     {
       "odd": 1.75,
@@ -599,18 +599,13 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.27,
-      "count": 2111
-    },
-    {
-      "odd": 1.55,
-      "rate": 76.12,
-      "count": 67
+      "rate": 76.28,
+      "count": 2112
     },
     {
       "odd": 1.08,
-      "rate": 76.02,
-      "count": 2077
+      "rate": 76.03,
+      "count": 2078
     },
     {
       "odd": 1.77,
@@ -634,13 +629,18 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.11,
-      "count": 2615
+      "rate": 75.09,
+      "count": 2617
     },
     {
       "odd": 1.68,
       "rate": 75.0,
       "count": 116
+    },
+    {
+      "odd": 1.55,
+      "rate": 75.0,
+      "count": 68
     },
     {
       "odd": 1.98,
