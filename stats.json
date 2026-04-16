@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 35545,
-    "lost": 12849,
+    "won": 35570,
+    "lost": 12859,
     "rate": 73.4,
-    "total": 48394,
+    "total": 48429,
     "last_24h": {
-      "won": 42,
-      "lost": 16,
-      "rate": 72.4,
-      "total": 58
+      "won": 61,
+      "lost": 22,
+      "rate": 73.5,
+      "total": 83
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 74.0,
-      "count": 3529
+      "count": 3530
     },
     {
       "label": "Sunday",
@@ -35,12 +35,12 @@
     {
       "label": "Thursday",
       "rate": 75.0,
-      "count": 2558
+      "count": 2591
     },
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 7039
+      "count": 7040
     },
     {
       "label": "Saturday",
@@ -97,12 +97,12 @@
     {
       "label": "19:00",
       "rate": 73.3,
-      "count": 7054
+      "count": 7089
     },
     {
       "label": "20:00",
       "rate": 73.8,
-      "count": 2467
+      "count": 2466
     },
     {
       "label": "11:00",
@@ -146,8 +146,8 @@
     },
     {
       "label": "00:00",
-      "rate": 72.3,
-      "count": 260
+      "rate": 72.0,
+      "count": 261
     },
     {
       "label": "21:00",
@@ -487,17 +487,17 @@
     },
     {
       "name": "HT/FT 1/1",
-      "won": 47,
+      "won": 48,
       "lost": 15,
-      "rate": 75.81,
-      "count": 62
+      "rate": 76.19,
+      "count": 63
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2713,
+      "won": 2714,
       "lost": 902,
-      "rate": 75.05,
-      "count": 3615
+      "rate": 75.06,
+      "count": 3616
     },
     {
       "name": "Match Result X",
@@ -515,52 +515,52 @@
     },
     {
       "name": "Handicap (0:1) 1",
-      "won": 96,
+      "won": 97,
       "lost": 33,
-      "rate": 74.42,
-      "count": 129
+      "rate": 74.62,
+      "count": 130
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 1860,
-      "lost": 642,
-      "rate": 74.34,
-      "count": 2502
+      "won": 1861,
+      "lost": 643,
+      "rate": 74.32,
+      "count": 2504
     },
     {
       "name": "Double Chance 12",
-      "won": 6108,
+      "won": 6110,
       "lost": 2112,
       "rate": 74.31,
-      "count": 8220
+      "count": 8222
     },
     {
       "name": "Double Chance 1X",
-      "won": 3255,
-      "lost": 1128,
-      "rate": 74.26,
-      "count": 4383
+      "won": 3256,
+      "lost": 1129,
+      "rate": 74.25,
+      "count": 4385
     },
     {
       "name": "Match Result 1",
-      "won": 985,
+      "won": 986,
       "lost": 344,
-      "rate": 74.12,
-      "count": 1329
+      "rate": 74.14,
+      "count": 1330
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 2712,
-      "lost": 951,
-      "rate": 74.04,
-      "count": 3663
+      "won": 2713,
+      "lost": 952,
+      "rate": 74.02,
+      "count": 3665
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.83,
-      "count": 2732
+      "rate": 79.84,
+      "count": 2733
     },
     {
       "odd": 1.05,
@@ -569,13 +569,13 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.53,
-      "count": 2150
+      "rate": 77.51,
+      "count": 2152
     },
     {
       "odd": 1.09,
-      "rate": 76.86,
-      "count": 3448
+      "rate": 76.87,
+      "count": 3450
     },
     {
       "odd": 1.94,
@@ -599,8 +599,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.25,
-      "count": 2114
+      "rate": 76.28,
+      "count": 2116
     },
     {
       "odd": 1.84,
@@ -611,6 +611,11 @@
       "odd": 1.08,
       "rate": 76.02,
       "count": 2081
+    },
+    {
+      "odd": 1.98,
+      "rate": 75.76,
+      "count": 33
     },
     {
       "odd": 1.77,
@@ -648,14 +653,9 @@
       "count": 68
     },
     {
-      "odd": 1.98,
-      "rate": 75.0,
-      "count": 32
-    },
-    {
       "odd": 1.11,
-      "rate": 74.59,
-      "count": 2090
+      "rate": 74.62,
+      "count": 2092
     }
   ],
   "top_matches": [
@@ -1028,6 +1028,14 @@
       "date": "01.03.2026 13:30"
     },
     {
+      "match": "Crystal Palace vs ACF Fiorentina",
+      "ht": "2 - 0",
+      "ft": "3 - 0",
+      "odds": "4.46",
+      "prediction": "Handicap (0:2) 1",
+      "date": "09.04.2026 19:00"
+    },
+    {
       "match": "Sandefjord vs Sarpsborg 08",
       "ht": "0 - 2",
       "ft": "0 - 2",
@@ -1050,14 +1058,6 @@
       "odds": "4.38",
       "prediction": "HT/FT X/X",
       "date": "22.01.2026 20:00"
-    },
-    {
-      "match": "MC Oran vs DRB Oued Akbou",
-      "ht": "0 - 0",
-      "ft": "0 - 1",
-      "odds": "4.35",
-      "prediction": "Match Result 2",
-      "date": "03.02.2026 16:00"
     }
   ]
 }
