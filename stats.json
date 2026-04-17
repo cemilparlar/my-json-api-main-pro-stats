@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 35590,
-    "lost": 12870,
+    "won": 35592,
+    "lost": 12869,
     "rate": 73.4,
-    "total": 48460,
+    "total": 48461,
     "last_24h": {
-      "won": 66,
-      "lost": 30,
-      "rate": 68.8,
-      "total": 96
+      "won": 68,
+      "lost": 31,
+      "rate": 68.7,
+      "total": 99
     }
   },
   "by_day": [
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 7060
+      "count": 7062
     },
     {
       "label": "Saturday",
       "rate": 73.4,
-      "count": 15349
+      "count": 15348
     }
   ],
   "by_hour": [
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 73.8,
-      "count": 1167
+      "count": 1169
     },
     {
       "label": "12:00",
@@ -91,8 +91,8 @@
     },
     {
       "label": "18:00",
-      "rate": 73.1,
-      "count": 3623
+      "rate": 73.2,
+      "count": 3622
     },
     {
       "label": "19:00",
@@ -217,6 +217,11 @@
       "count": 23
     },
     {
+      "team": "Melbourne Knights",
+      "rate": 90.91,
+      "count": 22
+    },
+    {
       "team": "Los Angeles FC",
       "rate": 90.62,
       "count": 32
@@ -235,11 +240,6 @@
       "team": "Selangor FA",
       "rate": 90.0,
       "count": 30
-    },
-    {
-      "team": "Melbourne Knights",
-      "rate": 90.0,
-      "count": 20
     },
     {
       "team": "Newtown AFC",
@@ -494,10 +494,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2716,
+      "won": 2717,
       "lost": 903,
-      "rate": 75.05,
-      "count": 3619
+      "rate": 75.06,
+      "count": 3620
     },
     {
       "name": "Match Result X",
@@ -536,17 +536,17 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 3260,
+      "won": 3261,
       "lost": 1129,
       "rate": 74.28,
-      "count": 4389
+      "count": 4390
     },
     {
       "name": "Match Result 1",
       "won": 987,
-      "lost": 344,
-      "rate": 74.15,
-      "count": 1331
+      "lost": 343,
+      "rate": 74.21,
+      "count": 1330
     },
     {
       "name": "Under 3.5 Goals",
@@ -559,13 +559,13 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.85,
-      "count": 2735
+      "rate": 79.86,
+      "count": 2736
     },
     {
       "odd": 1.05,
-      "rate": 78.34,
-      "count": 1413
+      "rate": 78.36,
+      "count": 1414
     },
     {
       "odd": 1.07,
