@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 37982,
-    "lost": 13722,
+    "won": 37991,
+    "lost": 13720,
     "rate": 73.5,
-    "total": 51704,
+    "total": 51711,
     "last_24h": {
-      "won": 731,
-      "lost": 244,
-      "rate": 75.0,
-      "total": 975
+      "won": 740,
+      "lost": 248,
+      "rate": 74.9,
+      "total": 988
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 12529
+      "count": 12539
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.4,
-      "count": 17045
+      "count": 17042
     }
   ],
   "by_hour": [
@@ -91,18 +91,18 @@
     },
     {
       "label": "18:00",
-      "rate": 73.0,
-      "count": 3947
+      "rate": 73.1,
+      "count": 3956
     },
     {
       "label": "19:00",
       "rate": 73.3,
-      "count": 7152
+      "count": 7151
     },
     {
       "label": "20:00",
-      "rate": 73.9,
-      "count": 2485
+      "rate": 74.0,
+      "count": 2484
     },
     {
       "label": "11:00",
@@ -202,6 +202,11 @@
       "count": 30
     },
     {
+      "team": "CD Feirense",
+      "rate": 91.89,
+      "count": 37
+    },
+    {
       "team": "Asteras Tripol",
       "rate": 91.43,
       "count": 35
@@ -242,9 +247,9 @@
       "count": 29
     },
     {
-      "team": "CD Feirense",
-      "rate": 89.47,
-      "count": 38
+      "team": "All Boys",
+      "rate": 89.66,
+      "count": 29
     },
     {
       "team": "Singida Black Stars",
@@ -265,11 +270,6 @@
       "team": "Antoniano",
       "rate": 88.89,
       "count": 27
-    },
-    {
-      "team": "Auckland",
-      "rate": 88.89,
-      "count": 45
     }
   ],
   "top_leagues": [
@@ -508,10 +508,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 3488,
+      "won": 3490,
       "lost": 1193,
-      "rate": 74.51,
-      "count": 4681
+      "rate": 74.52,
+      "count": 4683
     },
     {
       "name": "1st Half Double Chance X2",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 6575,
+      "won": 6577,
       "lost": 2272,
       "rate": 74.32,
-      "count": 8847
+      "count": 8849
     },
     {
       "name": "Handicap (0:1) 1",
@@ -543,24 +543,24 @@
     },
     {
       "name": "Match Result 1",
-      "won": 1043,
+      "won": 1044,
       "lost": 365,
-      "rate": 74.08,
-      "count": 1408
+      "rate": 74.1,
+      "count": 1409
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 2984,
+      "won": 2985,
       "lost": 1045,
-      "rate": 74.06,
-      "count": 4029
+      "rate": 74.07,
+      "count": 4030
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
       "rate": 79.7,
-      "count": 2891
+      "count": 2892
     },
     {
       "odd": 1.75,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.61,
-      "count": 2314
+      "rate": 77.62,
+      "count": 2315
     },
     {
       "odd": 1.7,
@@ -604,8 +604,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.56,
-      "count": 3793
+      "rate": 76.58,
+      "count": 3796
     },
     {
       "odd": 1.1,
@@ -634,13 +634,13 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.27,
-      "count": 2277
+      "rate": 75.24,
+      "count": 2278
     },
     {
       "odd": 1.13,
-      "rate": 75.08,
-      "count": 2749
+      "rate": 75.09,
+      "count": 2750
     },
     {
       "odd": 1.15,
