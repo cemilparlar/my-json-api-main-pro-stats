@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 37838,
-    "lost": 13663,
+    "won": 37850,
+    "lost": 13669,
     "rate": 73.5,
-    "total": 51501,
+    "total": 51519,
     "last_24h": {
-      "won": 649,
-      "lost": 215,
-      "rate": 75.1,
-      "total": 864
+      "won": 665,
+      "lost": 222,
+      "rate": 75.0,
+      "total": 887
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.7,
-      "count": 3595
+      "count": 3594
     },
     {
       "label": "Tuesday",
@@ -24,13 +24,13 @@
     },
     {
       "label": "Wednesday",
-      "rate": 73.9,
-      "count": 3537
+      "rate": 73.8,
+      "count": 3540
     },
     {
       "label": "Sunday",
-      "rate": 73.5,
-      "count": 12339
+      "rate": 73.4,
+      "count": 12358
     },
     {
       "label": "Thursday",
@@ -39,13 +39,13 @@
     },
     {
       "label": "Friday",
-      "rate": 73.3,
-      "count": 7609
+      "rate": 73.2,
+      "count": 7610
     },
     {
       "label": "Saturday",
       "rate": 73.4,
-      "count": 17041
+      "count": 17037
     }
   ],
   "by_hour": [
@@ -67,22 +67,22 @@
     {
       "label": "13:00",
       "rate": 73.1,
-      "count": 4946
+      "count": 4945
     },
     {
       "label": "14:00",
       "rate": 73.5,
-      "count": 5424
+      "count": 5421
     },
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 5924
+      "count": 5941
     },
     {
       "label": "16:00",
       "rate": 72.4,
-      "count": 3145
+      "count": 3146
     },
     {
       "label": "17:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.3,
-      "count": 7146
+      "count": 7150
     },
     {
       "label": "20:00",
@@ -227,6 +227,11 @@
       "count": 32
     },
     {
+      "team": "FK Javor Ivanjica",
+      "rate": 90.0,
+      "count": 20
+    },
+    {
       "team": "Newtown AFC",
       "rate": 90.0,
       "count": 20
@@ -265,11 +270,6 @@
       "team": "Auckland",
       "rate": 88.89,
       "count": 45
-    },
-    {
-      "team": "Kolding IF",
-      "rate": 88.89,
-      "count": 36
     }
   ],
   "top_leagues": [
@@ -453,9 +453,9 @@
     {
       "name": "1st Half Under 2.5",
       "won": 197,
-      "lost": 48,
-      "rate": 80.41,
-      "count": 245
+      "lost": 49,
+      "rate": 80.08,
+      "count": 246
     },
     {
       "name": "Under 4.5 Goals",
@@ -473,10 +473,17 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 811,
+      "won": 812,
       "lost": 257,
-      "rate": 75.94,
-      "count": 1068
+      "rate": 75.96,
+      "count": 1069
+    },
+    {
+      "name": "Match Result 2",
+      "won": 394,
+      "lost": 125,
+      "rate": 75.92,
+      "count": 519
     },
     {
       "name": "Handicap (2:0) 1",
@@ -486,25 +493,11 @@
       "count": 415
     },
     {
-      "name": "Match Result 2",
-      "won": 393,
-      "lost": 125,
-      "rate": 75.87,
-      "count": 518
-    },
-    {
-      "name": "HT/FT 1/1",
-      "won": 46,
-      "lost": 15,
-      "rate": 75.41,
-      "count": 61
-    },
-    {
       "name": "1st Half Double Chance 1X",
-      "won": 2918,
+      "won": 2919,
       "lost": 957,
-      "rate": 75.3,
-      "count": 3875
+      "rate": 75.31,
+      "count": 3876
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -514,38 +507,45 @@
       "count": 16
     },
     {
-      "name": "Handicap (0:1) 1",
-      "won": 104,
-      "lost": 35,
-      "rate": 74.82,
-      "count": 139
-    },
-    {
       "name": "Double Chance 1X",
-      "won": 3474,
-      "lost": 1189,
+      "won": 3477,
+      "lost": 1190,
       "rate": 74.5,
-      "count": 4663
+      "count": 4667
     },
     {
       "name": "Double Chance 12",
-      "won": 6549,
-      "lost": 2264,
+      "won": 6552,
+      "lost": 2265,
       "rate": 74.31,
-      "count": 8813
+      "count": 8817
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2005,
-      "lost": 693,
-      "rate": 74.31,
-      "count": 2698
+      "won": 2006,
+      "lost": 694,
+      "rate": 74.3,
+      "count": 2700
+    },
+    {
+      "name": "Handicap (0:1) 1",
+      "won": 104,
+      "lost": 36,
+      "rate": 74.29,
+      "count": 140
+    },
+    {
+      "name": "HT/FT 1/1",
+      "won": 46,
+      "lost": 16,
+      "rate": 74.19,
+      "count": 62
     },
     {
       "name": "Match Result 1",
-      "won": 1041,
-      "lost": 363,
-      "rate": 74.15,
+      "won": 1040,
+      "lost": 364,
+      "rate": 74.07,
       "count": 1404
     },
     {
@@ -559,13 +559,13 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.71,
-      "count": 2883
+      "rate": 79.72,
+      "count": 2885
     },
     {
       "odd": 1.05,
-      "rate": 78.09,
-      "count": 1579
+      "rate": 78.12,
+      "count": 1581
     },
     {
       "odd": 1.98,
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.65,
-      "count": 2304
+      "rate": 77.66,
+      "count": 2305
     },
     {
       "odd": 1.75,
@@ -604,13 +604,13 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.55,
-      "count": 3787
+      "rate": 76.56,
+      "count": 3788
     },
     {
       "odd": 1.1,
-      "rate": 76.53,
-      "count": 2275
+      "rate": 76.5,
+      "count": 2277
     },
     {
       "odd": 1.08,
@@ -619,8 +619,8 @@
     },
     {
       "odd": 1.12,
-      "rate": 76.42,
-      "count": 2176
+      "rate": 76.45,
+      "count": 2178
     },
     {
       "odd": 1.76,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.22,
-      "count": 2260
+      "rate": 75.24,
+      "count": 2262
     },
     {
       "odd": 1.13,
@@ -648,14 +648,14 @@
       "count": 32
     },
     {
-      "odd": 1.15,
-      "rate": 74.03,
-      "count": 2649
+      "odd": 1.14,
+      "rate": 74.02,
+      "count": 1921
     },
     {
-      "odd": 1.14,
-      "rate": 74.01,
-      "count": 1920
+      "odd": 1.15,
+      "rate": 74.0,
+      "count": 2654
     }
   ],
   "top_matches": [
