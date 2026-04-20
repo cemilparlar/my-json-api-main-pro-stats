@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 38122,
-    "lost": 13758,
+    "won": 38128,
+    "lost": 13759,
     "rate": 73.5,
-    "total": 51880,
+    "total": 51887,
     "last_24h": {
-      "won": 133,
-      "lost": 46,
-      "rate": 74.3,
-      "total": 179
+      "won": 140,
+      "lost": 47,
+      "rate": 74.9,
+      "total": 187
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.7,
-      "count": 3616
+      "count": 3624
     },
     {
       "label": "Tuesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 12692
+      "count": 12691
     },
     {
       "label": "Thursday",
@@ -67,7 +67,7 @@
     {
       "label": "13:00",
       "rate": 73.1,
-      "count": 4941
+      "count": 4950
     },
     {
       "label": "14:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.3,
-      "count": 7196
+      "count": 7195
     },
     {
       "label": "20:00",
@@ -151,8 +151,8 @@
     },
     {
       "label": "21:00",
-      "rate": 75.9,
-      "count": 910
+      "rate": 76.0,
+      "count": 909
     },
     {
       "label": "02:00",
@@ -222,6 +222,11 @@
       "count": 22
     },
     {
+      "team": "Pamba Jiji",
+      "rate": 90.0,
+      "count": 20
+    },
+    {
       "team": "FK Javor Ivanjica",
       "rate": 90.0,
       "count": 20
@@ -265,11 +270,6 @@
       "team": "Antoniano",
       "rate": 88.89,
       "count": 27
-    },
-    {
-      "team": "Auckland",
-      "rate": 88.89,
-      "count": 45
     }
   ],
   "top_leagues": [
@@ -445,10 +445,10 @@
     },
     {
       "name": "HT/FT 2/2",
-      "won": 18,
+      "won": 19,
       "lost": 4,
-      "rate": 81.82,
-      "count": 22
+      "rate": 82.61,
+      "count": 23
     },
     {
       "name": "1st Half Under 2.5",
@@ -494,10 +494,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2937,
+      "won": 2938,
       "lost": 964,
       "rate": 75.29,
-      "count": 3901
+      "count": 3902
     },
     {
       "name": "HT/FT 1/1",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 3503,
+      "won": 3504,
       "lost": 1195,
-      "rate": 74.56,
-      "count": 4698
+      "rate": 74.57,
+      "count": 4699
     },
     {
       "name": "Handicap (0:1) 1",
@@ -536,17 +536,17 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 6596,
-      "lost": 2279,
+      "won": 6597,
+      "lost": 2280,
       "rate": 74.32,
-      "count": 8875
+      "count": 8877
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 2998,
+      "won": 2999,
       "lost": 1047,
       "rate": 74.12,
-      "count": 4045
+      "count": 4046
     },
     {
       "name": "Under 3.5 Goals",
@@ -598,11 +598,6 @@
       "count": 57
     },
     {
-      "odd": 1.77,
-      "rate": 76.71,
-      "count": 73
-    },
-    {
       "odd": 1.09,
       "rate": 76.67,
       "count": 3806
@@ -633,6 +628,11 @@
       "count": 101
     },
     {
+      "odd": 1.77,
+      "rate": 75.68,
+      "count": 74
+    },
+    {
       "odd": 1.11,
       "rate": 75.23,
       "count": 2285
@@ -654,8 +654,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 74.1,
-      "count": 2672
+      "rate": 74.11,
+      "count": 2673
     }
   ],
   "top_matches": [
