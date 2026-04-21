@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 38237,
+    "won": 38241,
     "lost": 13788,
     "rate": 73.5,
-    "total": 52025,
+    "total": 52029,
     "last_24h": {
-      "won": 128,
+      "won": 132,
       "lost": 38,
-      "rate": 77.1,
-      "total": 166
+      "rate": 77.6,
+      "total": 170
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.9,
-      "count": 3765
+      "count": 3769
     },
     {
       "label": "Tuesday",
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 74.8,
-      "count": 759
+      "rate": 75.0,
+      "count": 763
     },
     {
       "label": "01:00",
@@ -535,6 +535,13 @@
       "count": 62
     },
     {
+      "name": "Handicap (0:1) 1",
+      "won": 106,
+      "lost": 37,
+      "rate": 74.13,
+      "count": 143
+    },
+    {
       "name": "Over 1.5 Goals",
       "won": 3009,
       "lost": 1054,
@@ -547,13 +554,6 @@
       "lost": 322,
       "rate": 74.05,
       "count": 1241
-    },
-    {
-      "name": "Under 3.5 Goals",
-      "won": 2932,
-      "lost": 1029,
-      "rate": 74.02,
-      "count": 3961
     }
   ],
   "top_odds": [
