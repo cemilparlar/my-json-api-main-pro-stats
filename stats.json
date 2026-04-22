@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 38600,
-    "lost": 13893,
+    "won": 38610,
+    "lost": 13898,
     "rate": 73.5,
-    "total": 52493,
+    "total": 52508,
     "last_24h": {
-      "won": 130,
-      "lost": 45,
-      "rate": 74.3,
-      "total": 175
+      "won": 138,
+      "lost": 46,
+      "rate": 75.0,
+      "total": 184
     }
   },
   "by_day": [
@@ -24,13 +24,13 @@
     },
     {
       "label": "Wednesday",
-      "rate": 74.1,
-      "count": 3689
+      "rate": 74.0,
+      "count": 3702
     },
     {
       "label": "Sunday",
       "rate": 73.6,
-      "count": 12676
+      "count": 12678
     },
     {
       "label": "Thursday",
@@ -72,17 +72,17 @@
     {
       "label": "14:00",
       "rate": 73.7,
-      "count": 5462
+      "count": 5463
     },
     {
       "label": "15:00",
       "rate": 73.8,
-      "count": 6000
+      "count": 6004
     },
     {
       "label": "16:00",
       "rate": 72.9,
-      "count": 3319
+      "count": 3328
     },
     {
       "label": "17:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.3,
-      "count": 7226
+      "count": 7227
     },
     {
       "label": "20:00",
@@ -316,13 +316,6 @@
       "count": 30
     },
     {
-      "name": "AZERK",
-      "won": 17,
-      "lost": 2,
-      "rate": 89.47,
-      "count": 19
-    },
-    {
       "name": "MOLDK",
       "won": 8,
       "lost": 1,
@@ -412,6 +405,13 @@
       "lost": 1,
       "rate": 83.33,
       "count": 6
+    },
+    {
+      "name": "KATEK",
+      "won": 24,
+      "lost": 5,
+      "rate": 82.76,
+      "count": 29
     }
   ],
   "top_predictions": [
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 905,
+      "won": 906,
       "lost": 247,
-      "rate": 78.56,
-      "count": 1152
+      "rate": 78.58,
+      "count": 1153
     },
     {
       "name": "Match Result 2",
@@ -487,10 +487,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 2977,
+      "won": 2978,
       "lost": 972,
       "rate": 75.39,
-      "count": 3949
+      "count": 3950
     },
     {
       "name": "HT/FT 1/1",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 3554,
+      "won": 3555,
       "lost": 1214,
       "rate": 74.54,
-      "count": 4768
+      "count": 4769
     },
     {
       "name": "1st Half Double Chance X2",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 6672,
+      "won": 6673,
       "lost": 2308,
       "rate": 74.3,
-      "count": 8980
+      "count": 8981
     },
     {
       "name": "Handicap (0:1) 2",
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.66,
-      "count": 2935
+      "rate": 79.67,
+      "count": 2936
     },
     {
       "odd": 1.71,
@@ -629,13 +629,13 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.31,
-      "count": 2309
+      "rate": 75.32,
+      "count": 2310
     },
     {
       "odd": 1.13,
-      "rate": 75.12,
-      "count": 2781
+      "rate": 75.13,
+      "count": 2782
     },
     {
       "odd": 1.14,
@@ -649,8 +649,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 74.01,
-      "count": 2720
+      "rate": 74.02,
+      "count": 2721
     },
     {
       "odd": 1.68,
