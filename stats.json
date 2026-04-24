@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 38959,
-    "lost": 14045,
+    "won": 38960,
+    "lost": 14046,
     "rate": 73.5,
-    "total": 53004,
+    "total": 53006,
     "last_24h": {
-      "won": 164,
-      "lost": 65,
+      "won": 166,
+      "lost": 66,
       "rate": 71.6,
-      "total": 229
+      "total": 232
     }
   },
   "by_day": [
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.2,
-      "count": 7673
+      "count": 7675
     },
     {
       "label": "Saturday",
@@ -56,8 +56,8 @@
     },
     {
       "label": "10:00",
-      "rate": 73.1,
-      "count": 1307
+      "rate": 73.0,
+      "count": 1309
     },
     {
       "label": "12:00",
@@ -537,9 +537,9 @@
     {
       "name": "Double Chance 12",
       "won": 6731,
-      "lost": 2332,
-      "rate": 74.27,
-      "count": 9063
+      "lost": 2333,
+      "rate": 74.26,
+      "count": 9064
     },
     {
       "name": "HT/FT 1/1",
@@ -558,6 +558,11 @@
   ],
   "top_odds": [
     {
+      "odd": 1.71,
+      "rate": 80.0,
+      "count": 50
+    },
+    {
       "odd": 1.98,
       "rate": 80.0,
       "count": 35
@@ -566,11 +571,6 @@
       "odd": 1.06,
       "rate": 79.65,
       "count": 2953
-    },
-    {
-      "odd": 1.71,
-      "rate": 79.59,
-      "count": 49
     },
     {
       "odd": 1.95,
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.39,
-      "count": 2375
+      "rate": 77.36,
+      "count": 2376
     },
     {
       "odd": 1.75,
