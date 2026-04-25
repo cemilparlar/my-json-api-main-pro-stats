@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 39374,
-    "lost": 14211,
+    "won": 39398,
+    "lost": 14215,
     "rate": 73.5,
-    "total": 53585,
+    "total": 53613,
     "last_24h": {
-      "won": 396,
-      "lost": 147,
-      "rate": 72.9,
-      "total": 543
+      "won": 420,
+      "lost": 150,
+      "rate": 73.7,
+      "total": 570
     }
   },
   "by_day": [
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.3,
-      "count": 8159
+      "count": 8158
     },
     {
       "label": "Saturday",
       "rate": 73.4,
-      "count": 17130
+      "count": 17159
     }
   ],
   "by_hour": [
@@ -67,12 +67,12 @@
     {
       "label": "13:00",
       "rate": 73.1,
-      "count": 4998
+      "count": 4997
     },
     {
       "label": "14:00",
-      "rate": 73.7,
-      "count": 5508
+      "rate": 73.6,
+      "count": 5510
     },
     {
       "label": "15:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 72.9,
-      "count": 3472
+      "count": 3471
     },
     {
       "label": "17:00",
@@ -102,17 +102,17 @@
     {
       "label": "20:00",
       "rate": 73.7,
-      "count": 2517
+      "count": 2516
     },
     {
       "label": "11:00",
       "rate": 74.0,
-      "count": 2998
+      "count": 2997
     },
     {
       "label": "05:00",
-      "rate": 74.2,
-      "count": 1259
+      "rate": 74.1,
+      "count": 1261
     },
     {
       "label": "09:00",
@@ -131,13 +131,13 @@
     },
     {
       "label": "06:00",
-      "rate": 70.1,
-      "count": 371
+      "rate": 69.9,
+      "count": 372
     },
     {
       "label": "07:00",
-      "rate": 71.7,
-      "count": 559
+      "rate": 72.5,
+      "count": 586
     },
     {
       "label": "23:00",
@@ -212,6 +212,11 @@
       "count": 24
     },
     {
+      "team": "UNSW FC",
+      "rate": 91.3,
+      "count": 23
+    },
+    {
       "team": "Melbourne Knights",
       "rate": 90.91,
       "count": 22
@@ -265,11 +270,6 @@
       "team": "CD Teruel",
       "rate": 89.19,
       "count": 37
-    },
-    {
-      "team": "Yeovil Town",
-      "rate": 89.19,
-      "count": 74
     }
   ],
   "top_leagues": [
@@ -293,6 +293,13 @@
       "lost": 0,
       "rate": 100.0,
       "count": 5
+    },
+    {
+      "name": "VİETK",
+      "won": 11,
+      "lost": 1,
+      "rate": 91.67,
+      "count": 12
     },
     {
       "name": " ABDK",
@@ -356,13 +363,6 @@
       "lost": 1,
       "rate": 85.71,
       "count": 7
-    },
-    {
-      "name": "VİETK",
-      "won": 11,
-      "lost": 2,
-      "rate": 84.62,
-      "count": 13
     },
     {
       "name": "MLTAK",
@@ -487,10 +487,10 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 841,
+      "won": 842,
       "lost": 268,
-      "rate": 75.83,
-      "count": 1109
+      "rate": 75.86,
+      "count": 1110
     },
     {
       "name": "Handicap (0:1) 1",
@@ -514,13 +514,6 @@
       "count": 16
     },
     {
-      "name": "Handicap (0:1) 2",
-      "won": 946,
-      "lost": 322,
-      "rate": 74.61,
-      "count": 1268
-    },
-    {
       "name": "Match Result X",
       "won": 47,
       "lost": 16,
@@ -528,25 +521,32 @@
       "count": 63
     },
     {
-      "name": "Double Chance 1X",
-      "won": 3617,
-      "lost": 1241,
-      "rate": 74.45,
-      "count": 4858
+      "name": "Handicap (0:1) 2",
+      "won": 947,
+      "lost": 323,
+      "rate": 74.57,
+      "count": 1270
     },
     {
-      "name": "1st Half Double Chance X2",
-      "won": 2093,
-      "lost": 724,
-      "rate": 74.3,
-      "count": 2817
+      "name": "Double Chance 1X",
+      "won": 3618,
+      "lost": 1241,
+      "rate": 74.46,
+      "count": 4859
     },
     {
       "name": "Double Chance 12",
-      "won": 6818,
-      "lost": 2359,
-      "rate": 74.29,
-      "count": 9177
+      "won": 6822,
+      "lost": 2358,
+      "rate": 74.31,
+      "count": 9180
+    },
+    {
+      "name": "1st Half Double Chance X2",
+      "won": 2094,
+      "lost": 724,
+      "rate": 74.31,
+      "count": 2818
     },
     {
       "name": "HT/FT 1/1",
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.63,
-      "count": 2985
+      "rate": 79.64,
+      "count": 2986
     },
     {
       "odd": 1.95,
@@ -579,8 +579,13 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.16,
-      "count": 1676
+      "rate": 78.12,
+      "count": 1677
+    },
+    {
+      "odd": 1.07,
+      "rate": 77.34,
+      "count": 2405
     },
     {
       "odd": 1.75,
@@ -588,24 +593,19 @@
       "count": 75
     },
     {
-      "odd": 1.07,
-      "rate": 77.32,
-      "count": 2403
+      "odd": 1.09,
+      "rate": 76.87,
+      "count": 3977
     },
     {
-      "odd": 1.09,
-      "rate": 76.84,
-      "count": 3972
+      "odd": 1.08,
+      "rate": 76.6,
+      "count": 2342
     },
     {
       "odd": 1.1,
       "rate": 76.6,
       "count": 2380
-    },
-    {
-      "odd": 1.08,
-      "rate": 76.59,
-      "count": 2341
     },
     {
       "odd": 1.12,
@@ -624,18 +624,18 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.54,
-      "count": 2363
+      "rate": 75.56,
+      "count": 2365
     },
     {
       "odd": 1.13,
-      "rate": 75.15,
-      "count": 2813
+      "rate": 75.16,
+      "count": 2814
     },
     {
       "odd": 1.14,
-      "rate": 74.34,
-      "count": 1999
+      "rate": 74.37,
+      "count": 1998
     },
     {
       "odd": 1.94,
