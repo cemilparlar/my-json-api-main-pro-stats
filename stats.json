@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 40028,
-    "lost": 14452,
+    "won": 40046,
+    "lost": 14460,
     "rate": 73.5,
-    "total": 54480,
+    "total": 54506,
     "last_24h": {
-      "won": 727,
-      "lost": 268,
-      "rate": 73.1,
-      "total": 995
+      "won": 748,
+      "lost": 281,
+      "rate": 72.7,
+      "total": 1029
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.9,
-      "count": 3775
+      "count": 3773
     },
     {
       "label": "Tuesday",
       "rate": 73.8,
-      "count": 5080
+      "count": 5079
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 12691
+      "count": 12692
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 18028
+      "count": 18056
     }
   ],
   "by_hour": [
@@ -66,23 +66,23 @@
     },
     {
       "label": "13:00",
-      "rate": 73.1,
-      "count": 5124
+      "rate": 73.0,
+      "count": 5127
     },
     {
       "label": "14:00",
-      "rate": 73.7,
-      "count": 5766
+      "rate": 73.6,
+      "count": 5796
     },
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 6055
+      "count": 6053
     },
     {
       "label": "16:00",
-      "rate": 72.8,
-      "count": 3473
+      "rate": 72.9,
+      "count": 3472
     },
     {
       "label": "17:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 7305
+      "count": 7303
     },
     {
       "label": "20:00",
@@ -111,8 +111,8 @@
     },
     {
       "label": "05:00",
-      "rate": 74.1,
-      "count": 1262
+      "rate": 74.2,
+      "count": 1260
     },
     {
       "label": "09:00",
@@ -182,6 +182,11 @@
       "count": 20
     },
     {
+      "team": "Ashton United",
+      "rate": 95.0,
+      "count": 20
+    },
+    {
       "team": "Shanghai Shenhua",
       "rate": 94.59,
       "count": 37
@@ -215,11 +220,6 @@
       "team": "Melbourne Knights",
       "rate": 90.91,
       "count": 22
-    },
-    {
-      "team": "Ashton United",
-      "rate": 90.48,
-      "count": 21
     },
     {
       "team": "FK Javor Ivanjica",
@@ -479,31 +479,31 @@
       "count": 531
     },
     {
-      "name": "Handicap (2:0) 1",
-      "won": 335,
-      "lost": 106,
-      "rate": 75.96,
-      "count": 441
+      "name": "Handicap (0:2) 2",
+      "won": 854,
+      "lost": 271,
+      "rate": 75.91,
+      "count": 1125
     },
     {
-      "name": "Handicap (0:2) 2",
-      "won": 853,
-      "lost": 271,
-      "rate": 75.89,
-      "count": 1124
+      "name": "Handicap (2:0) 1",
+      "won": 335,
+      "lost": 107,
+      "rate": 75.79,
+      "count": 442
     },
     {
       "name": "Handicap (0:1) 1",
-      "won": 107,
+      "won": 106,
       "lost": 34,
-      "rate": 75.89,
-      "count": 141
+      "rate": 75.71,
+      "count": 140
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 3094,
-      "lost": 1011,
-      "rate": 75.37,
+      "won": 3095,
+      "lost": 1010,
+      "rate": 75.4,
       "count": 4105
     },
     {
@@ -529,38 +529,43 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 3669,
-      "lost": 1252,
-      "rate": 74.56,
-      "count": 4921
+      "won": 3671,
+      "lost": 1253,
+      "rate": 74.55,
+      "count": 4924
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2136,
+      "won": 2137,
       "lost": 738,
-      "rate": 74.32,
-      "count": 2874
+      "rate": 74.33,
+      "count": 2875
     },
     {
       "name": "Double Chance 12",
-      "won": 6936,
-      "lost": 2406,
-      "rate": 74.25,
-      "count": 9342
+      "won": 6943,
+      "lost": 2410,
+      "rate": 74.23,
+      "count": 9353
     },
     {
       "name": "Over 1.5 Goals",
       "won": 3143,
-      "lost": 1099,
-      "rate": 74.09,
-      "count": 4242
+      "lost": 1102,
+      "rate": 74.04,
+      "count": 4245
     }
   ],
   "top_odds": [
     {
+      "odd": 1.98,
+      "rate": 80.56,
+      "count": 36
+    },
+    {
       "odd": 1.06,
-      "rate": 79.58,
-      "count": 3022
+      "rate": 79.59,
+      "count": 3023
     },
     {
       "odd": 1.71,
@@ -573,14 +578,9 @@
       "count": 47
     },
     {
-      "odd": 1.98,
-      "rate": 78.38,
-      "count": 37
-    },
-    {
       "odd": 1.05,
-      "rate": 77.91,
-      "count": 1720
+      "rate": 77.92,
+      "count": 1721
     },
     {
       "odd": 1.75,
@@ -589,28 +589,28 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.29,
-      "count": 2462
+      "rate": 77.3,
+      "count": 2463
     },
     {
       "odd": 1.09,
-      "rate": 76.93,
-      "count": 4074
+      "rate": 76.91,
+      "count": 4075
     },
     {
       "odd": 1.08,
-      "rate": 76.61,
-      "count": 2381
+      "rate": 76.63,
+      "count": 2383
     },
     {
       "odd": 1.1,
-      "rate": 76.47,
-      "count": 2427
+      "rate": 76.48,
+      "count": 2432
     },
     {
       "odd": 1.12,
-      "rate": 76.4,
-      "count": 2292
+      "rate": 76.46,
+      "count": 2294
     },
     {
       "odd": 1.76,
@@ -629,8 +629,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.12,
-      "count": 2846
+      "rate": 75.14,
+      "count": 2848
     },
     {
       "odd": 1.94,
@@ -638,14 +638,14 @@
       "count": 35
     },
     {
-      "odd": 1.14,
-      "rate": 74.14,
-      "count": 2030
-    },
-    {
       "odd": 1.55,
       "rate": 74.12,
       "count": 85
+    },
+    {
+      "odd": 1.14,
+      "rate": 74.1,
+      "count": 2031
     },
     {
       "odd": 1.88,
@@ -654,8 +654,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.75,
-      "count": 2838
+      "rate": 73.74,
+      "count": 2841
     }
   ],
   "top_matches": [
