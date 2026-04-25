@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 40212,
-    "lost": 14518,
+    "won": 40217,
+    "lost": 14519,
     "rate": 73.5,
-    "total": 54730,
+    "total": 54736,
     "last_24h": {
-      "won": 905,
-      "lost": 328,
-      "rate": 73.4,
-      "total": 1233
+      "won": 910,
+      "lost": 331,
+      "rate": 73.3,
+      "total": 1241
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 12693
+      "count": 12691
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.3,
-      "count": 8154
+      "count": 8155
     },
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 18280
+      "count": 18287
     }
   ],
   "by_hour": [
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.7,
-      "count": 5823
+      "count": 5822
     },
     {
       "label": "15:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 72.9,
-      "count": 3597
+      "count": 3603
     },
     {
       "label": "17:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 7304
+      "count": 7305
     },
     {
       "label": "20:00",
@@ -537,9 +537,16 @@
     {
       "name": "Double Chance 12",
       "won": 6968,
-      "lost": 2420,
-      "rate": 74.22,
-      "count": 9388
+      "lost": 2421,
+      "rate": 74.21,
+      "count": 9389
+    },
+    {
+      "name": "Under 3.5 Goals",
+      "won": 3118,
+      "lost": 1095,
+      "rate": 74.01,
+      "count": 4213
     },
     {
       "name": "Over 1.5 Goals",
@@ -547,13 +554,6 @@
       "lost": 1108,
       "rate": 73.99,
       "count": 4260
-    },
-    {
-      "name": "Under 3.5 Goals",
-      "won": 3118,
-      "lost": 1096,
-      "rate": 73.99,
-      "count": 4214
     }
   ],
   "top_odds": [
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 77.98,
-      "count": 1730
+      "rate": 77.99,
+      "count": 1731
     },
     {
       "odd": 1.75,
