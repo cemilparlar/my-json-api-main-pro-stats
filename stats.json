@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 40552,
-    "lost": 14645,
+    "won": 40601,
+    "lost": 14660,
     "rate": 73.5,
-    "total": 55197,
+    "total": 55261,
     "last_24h": {
-      "won": 435,
-      "lost": 162,
+      "won": 484,
+      "lost": 180,
       "rate": 72.9,
-      "total": 597
+      "total": 664
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.9,
-      "count": 3775
+      "count": 3774
     },
     {
       "label": "Tuesday",
@@ -30,22 +30,22 @@
     {
       "label": "Sunday",
       "rate": 73.6,
-      "count": 12834
+      "count": 12902
     },
     {
       "label": "Thursday",
       "rate": 74.3,
-      "count": 2833
+      "count": 2834
     },
     {
       "label": "Friday",
       "rate": 73.3,
-      "count": 8156
+      "count": 8155
     },
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 18610
+      "count": 18607
     }
   ],
   "by_hour": [
@@ -56,13 +56,13 @@
     },
     {
       "label": "10:00",
-      "rate": 73.3,
-      "count": 1346
+      "rate": 73.4,
+      "count": 1410
     },
     {
       "label": "12:00",
       "rate": 73.2,
-      "count": 4115
+      "count": 4114
     },
     {
       "label": "13:00",
@@ -81,8 +81,8 @@
     },
     {
       "label": "16:00",
-      "rate": 72.8,
-      "count": 3613
+      "rate": 72.9,
+      "count": 3611
     },
     {
       "label": "17:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.7,
-      "count": 3270
+      "count": 3272
     },
     {
       "label": "05:00",
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 75.5,
-      "count": 807
+      "rate": 75.4,
+      "count": 808
     },
     {
       "label": "01:00",
@@ -242,6 +242,11 @@
       "count": 21
     },
     {
+      "team": "CD San Sebastian de los Reyes",
+      "rate": 90.32,
+      "count": 31
+    },
+    {
       "team": "DRB Oued Akbou",
       "rate": 90.0,
       "count": 30
@@ -263,11 +268,6 @@
     },
     {
       "team": "Newtown AFC",
-      "rate": 90.0,
-      "count": 20
-    },
-    {
-      "team": "Baranovichi",
       "rate": 90.0,
       "count": 20
     }
@@ -501,10 +501,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 3142,
+      "won": 3149,
       "lost": 1028,
-      "rate": 75.35,
-      "count": 4170
+      "rate": 75.39,
+      "count": 4177
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 3718,
-      "lost": 1269,
-      "rate": 74.55,
-      "count": 4987
+      "won": 3725,
+      "lost": 1272,
+      "rate": 74.54,
+      "count": 4997
     },
     {
       "name": "Handicap (0:1) 2",
@@ -529,31 +529,31 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2162,
-      "lost": 745,
-      "rate": 74.37,
-      "count": 2907
+      "won": 2164,
+      "lost": 749,
+      "rate": 74.29,
+      "count": 2913
     },
     {
       "name": "Double Chance 12",
-      "won": 7036,
-      "lost": 2452,
+      "won": 7054,
+      "lost": 2458,
       "rate": 74.16,
-      "count": 9488
+      "count": 9512
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 3149,
-      "lost": 1102,
-      "rate": 74.08,
-      "count": 4251
+      "won": 3150,
+      "lost": 1103,
+      "rate": 74.07,
+      "count": 4253
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 3181,
-      "lost": 1116,
-      "rate": 74.03,
-      "count": 4297
+      "won": 3182,
+      "lost": 1117,
+      "rate": 74.02,
+      "count": 4299
     }
   ],
   "top_odds": [
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.64,
-      "count": 3055
+      "rate": 79.65,
+      "count": 3057
     },
     {
       "odd": 1.95,
@@ -578,39 +578,39 @@
       "count": 47
     },
     {
+      "odd": 1.05,
+      "rate": 77.93,
+      "count": 1758
+    },
+    {
       "odd": 1.75,
       "rate": 77.92,
       "count": 77
     },
     {
-      "odd": 1.05,
-      "rate": 77.91,
-      "count": 1752
-    },
-    {
       "odd": 1.07,
-      "rate": 77.3,
-      "count": 2498
+      "rate": 77.31,
+      "count": 2499
     },
     {
       "odd": 1.09,
       "rate": 76.9,
-      "count": 4126
+      "count": 4135
     },
     {
       "odd": 1.08,
-      "rate": 76.62,
-      "count": 2417
+      "rate": 76.63,
+      "count": 2422
     },
     {
       "odd": 1.1,
-      "rate": 76.49,
-      "count": 2471
+      "rate": 76.53,
+      "count": 2475
     },
     {
       "odd": 1.12,
-      "rate": 76.46,
-      "count": 2332
+      "rate": 76.44,
+      "count": 2334
     },
     {
       "odd": 1.76,
@@ -620,7 +620,7 @@
     {
       "odd": 1.11,
       "rate": 75.62,
-      "count": 2457
+      "count": 2461
     },
     {
       "odd": 1.77,
@@ -630,7 +630,7 @@
     {
       "odd": 1.13,
       "rate": 75.1,
-      "count": 2884
+      "count": 2887
     },
     {
       "odd": 1.55,
@@ -639,13 +639,13 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.1,
-      "count": 2062
+      "rate": 74.12,
+      "count": 2063
     },
     {
       "odd": 1.15,
-      "rate": 73.57,
-      "count": 2879
+      "rate": 73.54,
+      "count": 2887
     },
     {
       "odd": 1.88,
@@ -654,8 +654,8 @@
     },
     {
       "odd": 1.17,
-      "rate": 73.38,
-      "count": 1281
+      "rate": 73.4,
+      "count": 1282
     }
   ],
   "top_matches": [
