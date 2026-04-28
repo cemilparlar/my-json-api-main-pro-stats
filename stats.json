@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 41600,
-    "lost": 15018,
+    "won": 41604,
+    "lost": 15020,
     "rate": 73.5,
-    "total": 56618,
+    "total": 56624,
     "last_24h": {
-      "won": 14,
-      "lost": 6,
-      "rate": 70.0,
-      "total": 20
+      "won": 16,
+      "lost": 8,
+      "rate": 66.7,
+      "total": 24
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.7,
-      "count": 5086
+      "count": 5091
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 13943
+      "count": 13942
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 18617
+      "count": 18619
     }
   ],
   "by_hour": [
@@ -72,12 +72,12 @@
     {
       "label": "14:00",
       "rate": 73.6,
-      "count": 6037
+      "count": 6036
     },
     {
       "label": "15:00",
       "rate": 73.8,
-      "count": 6255
+      "count": 6261
     },
     {
       "label": "16:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 73.1,
-      "count": 4990
+      "count": 4991
     },
     {
       "label": "18:00",
@@ -493,18 +493,18 @@
       "count": 453
     },
     {
-      "name": "Match Result 2",
-      "won": 422,
-      "lost": 137,
-      "rate": 75.49,
-      "count": 559
-    },
-    {
       "name": "1st Half Double Chance 1X",
       "won": 3236,
       "lost": 1054,
       "rate": 75.43,
       "count": 4290
+    },
+    {
+      "name": "Match Result 2",
+      "won": 422,
+      "lost": 138,
+      "rate": 75.36,
+      "count": 560
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.67,
-      "count": 3129
+      "rate": 79.65,
+      "count": 3130
     },
     {
       "odd": 1.95,
@@ -629,8 +629,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.0,
-      "count": 2940
+      "rate": 75.03,
+      "count": 2939
     },
     {
       "odd": 1.97,
