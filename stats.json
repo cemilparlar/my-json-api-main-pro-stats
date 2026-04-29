@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 41764,
-    "lost": 15072,
+    "won": 41766,
+    "lost": 15073,
     "rate": 73.5,
-    "total": 56836,
+    "total": 56839,
     "last_24h": {
-      "won": 102,
-      "lost": 24,
-      "rate": 81.0,
-      "total": 126
+      "won": 104,
+      "lost": 25,
+      "rate": 80.6,
+      "total": 129
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 74.1,
-      "count": 4022
+      "count": 4025
     },
     {
       "label": "Sunday",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.6,
-      "count": 6038
+      "count": 6041
     },
     {
       "label": "15:00",
@@ -393,6 +393,13 @@
       "count": 6
     },
     {
+      "name": " FİK",
+      "won": 5,
+      "lost": 1,
+      "rate": 83.33,
+      "count": 6
+    },
+    {
       "name": "KATEK",
       "won": 24,
       "lost": 5,
@@ -405,13 +412,6 @@
       "lost": 7,
       "rate": 82.5,
       "count": 40
-    },
-    {
-      "name": " ABDK",
-      "won": 14,
-      "lost": 3,
-      "rate": 82.35,
-      "count": 17
     }
   ],
   "top_predictions": [
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 422,
+      "won": 423,
       "lost": 140,
-      "rate": 75.09,
-      "count": 562
+      "rate": 75.13,
+      "count": 563
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -604,8 +604,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.77,
-      "count": 2488
+      "rate": 76.78,
+      "count": 2489
     },
     {
       "odd": 1.12,
