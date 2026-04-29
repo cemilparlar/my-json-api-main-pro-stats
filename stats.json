@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 41669,
+    "won": 41674,
     "lost": 15046,
     "rate": 73.5,
-    "total": 56715,
+    "total": 56720,
     "last_24h": {
-      "won": 76,
-      "lost": 32,
-      "rate": 70.4,
-      "total": 108
+      "won": 80,
+      "lost": 34,
+      "rate": 70.2,
+      "total": 114
     }
   },
   "by_day": [
@@ -20,12 +20,12 @@
     {
       "label": "Tuesday",
       "rate": 73.6,
-      "count": 5184
+      "count": 5190
     },
     {
       "label": "Wednesday",
       "rate": 73.9,
-      "count": 3916
+      "count": 3915
     },
     {
       "label": "Sunday",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 72.8,
-      "count": 3765
+      "count": 3764
     },
     {
       "label": "17:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 7424
+      "count": 7423
     },
     {
       "label": "20:00",
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 75.9,
-      "count": 843
+      "rate": 76.0,
+      "count": 845
     },
     {
       "label": "01:00",
@@ -141,8 +141,8 @@
     },
     {
       "label": "23:00",
-      "rate": 73.9,
-      "count": 720
+      "rate": 73.8,
+      "count": 725
     },
     {
       "label": "00:00",
@@ -302,13 +302,6 @@
       "count": 12
     },
     {
-      "name": " ABDK",
-      "won": 11,
-      "lost": 1,
-      "rate": 91.67,
-      "count": 12
-    },
-    {
       "name": "İSVK",
       "won": 27,
       "lost": 3,
@@ -412,6 +405,13 @@
       "lost": 7,
       "rate": 82.5,
       "count": 40
+    },
+    {
+      "name": " ABDK",
+      "won": 14,
+      "lost": 3,
+      "rate": 82.35,
+      "count": 17
     }
   ],
   "top_predictions": [
@@ -495,9 +495,9 @@
     {
       "name": "1st Half Double Chance 1X",
       "won": 3245,
-      "lost": 1055,
-      "rate": 75.47,
-      "count": 4300
+      "lost": 1056,
+      "rate": 75.45,
+      "count": 4301
     },
     {
       "name": "Match Result 2",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 7233,
+      "won": 7234,
       "lost": 2526,
       "rate": 74.12,
-      "count": 9759
+      "count": 9760
     },
     {
       "name": "Handicap (0:1) 2",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 3222,
+      "won": 3223,
       "lost": 1129,
-      "rate": 74.05,
-      "count": 4351
+      "rate": 74.06,
+      "count": 4352
     }
   ],
   "top_odds": [
@@ -604,8 +604,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.78,
-      "count": 2481
+      "rate": 76.75,
+      "count": 2482
     },
     {
       "odd": 1.12,
@@ -624,13 +624,13 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.57,
-      "count": 2522
+      "rate": 75.58,
+      "count": 2523
     },
     {
       "odd": 1.13,
-      "rate": 75.07,
-      "count": 2944
+      "rate": 75.04,
+      "count": 2945
     },
     {
       "odd": 1.97,
