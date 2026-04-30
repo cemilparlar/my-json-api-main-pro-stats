@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 41854,
+    "won": 41857,
     "lost": 15111,
     "rate": 73.5,
-    "total": 56965,
+    "total": 56968,
     "last_24h": {
       "won": 64,
-      "lost": 28,
-      "rate": 69.6,
-      "total": 92
+      "lost": 29,
+      "rate": 68.8,
+      "total": 93
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.6,
-      "count": 5186
+      "count": 5187
     },
     {
       "label": "Wednesday",
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 74.3,
-      "count": 2834
+      "count": 2836
     },
     {
       "label": "Friday",
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 73.4,
-      "count": 1454
+      "count": 1457
     },
     {
       "label": "12:00",
@@ -67,7 +67,7 @@
     {
       "label": "13:00",
       "rate": 72.9,
-      "count": 5272
+      "count": 5271
     },
     {
       "label": "14:00",
@@ -126,8 +126,8 @@
     },
     {
       "label": "01:00",
-      "rate": 76.1,
-      "count": 272
+      "rate": 75.8,
+      "count": 273
     },
     {
       "label": "06:00",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 3853,
+      "won": 3854,
       "lost": 1311,
-      "rate": 74.61,
-      "count": 5164
+      "rate": 74.62,
+      "count": 5165
     },
     {
       "name": "1st Half Double Chance X2",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 3276,
-      "lost": 1137,
-      "rate": 74.24,
-      "count": 4413
+      "won": 3277,
+      "lost": 1138,
+      "rate": 74.22,
+      "count": 4415
     },
     {
       "name": "Double Chance 12",
@@ -633,11 +633,6 @@
       "count": 2956
     },
     {
-      "odd": 1.64,
-      "rate": 74.29,
-      "count": 70
-    },
-    {
       "odd": 1.97,
       "rate": 74.19,
       "count": 31
@@ -656,6 +651,11 @@
       "odd": 1.15,
       "rate": 73.49,
       "count": 2980
+    },
+    {
+      "odd": 1.88,
+      "rate": 73.44,
+      "count": 64
     }
   ],
   "top_matches": [
