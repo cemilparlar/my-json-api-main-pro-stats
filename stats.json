@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 42167,
-    "lost": 15239,
+    "won": 42170,
+    "lost": 15240,
     "rate": 73.5,
-    "total": 57406,
+    "total": 57410,
     "last_24h": {
-      "won": 234,
-      "lost": 94,
-      "rate": 71.3,
-      "total": 328
+      "won": 227,
+      "lost": 90,
+      "rate": 71.6,
+      "total": 317
     }
   },
   "by_day": [
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.3,
-      "count": 8449
+      "count": 8453
     },
     {
       "label": "Saturday",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 72.6,
-      "count": 3845
+      "count": 3849
     },
     {
       "label": "17:00",
@@ -536,10 +536,17 @@
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 3260,
-      "lost": 1136,
-      "rate": 74.16,
-      "count": 4396
+      "won": 3261,
+      "lost": 1137,
+      "rate": 74.15,
+      "count": 4398
+    },
+    {
+      "name": "Over 1.5 Goals",
+      "won": 3292,
+      "lost": 1152,
+      "rate": 74.08,
+      "count": 4444
     },
     {
       "name": "Double Chance 12",
@@ -547,13 +554,6 @@
       "lost": 2560,
       "rate": 74.08,
       "count": 9878
-    },
-    {
-      "name": "Over 1.5 Goals",
-      "won": 3291,
-      "lost": 1152,
-      "rate": 74.07,
-      "count": 4443
     }
   ],
   "top_odds": [
@@ -614,8 +614,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.51,
-      "count": 2576
+      "rate": 76.52,
+      "count": 2577
     },
     {
       "odd": 1.11,
