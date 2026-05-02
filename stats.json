@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 42584,
-    "lost": 15403,
+    "won": 42633,
+    "lost": 15416,
     "rate": 73.4,
-    "total": 57987,
+    "total": 58049,
     "last_24h": {
-      "won": 381,
-      "lost": 123,
-      "rate": 75.6,
-      "total": 504
+      "won": 436,
+      "lost": 145,
+      "rate": 75.0,
+      "total": 581
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 73.3,
-      "count": 4062
+      "count": 4061
     },
     {
       "label": "Tuesday",
@@ -24,28 +24,28 @@
     },
     {
       "label": "Wednesday",
-      "rate": 73.8,
-      "count": 4164
+      "rate": 73.9,
+      "count": 4162
     },
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 13964
+      "count": 13963
     },
     {
       "label": "Thursday",
       "rate": 74.3,
-      "count": 2965
+      "count": 2963
     },
     {
       "label": "Friday",
       "rate": 73.3,
-      "count": 8704
+      "count": 8705
     },
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 18936
+      "count": 19003
     }
   ],
   "by_hour": [
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 73.1,
-      "count": 4308
+      "count": 4377
     },
     {
       "label": "13:00",
       "rate": 72.9,
-      "count": 5350
+      "count": 5349
     },
     {
       "label": "14:00",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.8,
-      "count": 6324
+      "count": 6321
     },
     {
       "label": "16:00",
@@ -86,8 +86,8 @@
     },
     {
       "label": "17:00",
-      "rate": 73.0,
-      "count": 5131
+      "rate": 73.1,
+      "count": 5129
     },
     {
       "label": "18:00",
@@ -107,12 +107,12 @@
     {
       "label": "11:00",
       "rate": 73.9,
-      "count": 3614
+      "count": 3615
     },
     {
       "label": "05:00",
-      "rate": 74.4,
-      "count": 1447
+      "rate": 74.5,
+      "count": 1445
     },
     {
       "label": "09:00",
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1014,
-      "lost": 268,
-      "rate": 79.1,
-      "count": 1282
+      "won": 1016,
+      "lost": 271,
+      "rate": 78.94,
+      "count": 1287
     },
     {
       "name": "Handicap (0:1) 1",
@@ -473,10 +473,10 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 899,
+      "won": 901,
       "lost": 280,
-      "rate": 76.25,
-      "count": 1179
+      "rate": 76.29,
+      "count": 1181
     },
     {
       "name": "Handicap (2:0) 1",
@@ -487,10 +487,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 3329,
-      "lost": 1094,
-      "rate": 75.27,
-      "count": 4423
+      "won": 3335,
+      "lost": 1097,
+      "rate": 75.25,
+      "count": 4432
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -508,24 +508,24 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 3925,
+      "won": 3932,
       "lost": 1341,
-      "rate": 74.53,
-      "count": 5266
+      "rate": 74.57,
+      "count": 5273
     },
     {
       "name": "Match Result 2",
-      "won": 433,
+      "won": 434,
       "lost": 149,
-      "rate": 74.4,
-      "count": 582
+      "rate": 74.44,
+      "count": 583
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2271,
+      "won": 2275,
       "lost": 782,
-      "rate": 74.39,
-      "count": 3053
+      "rate": 74.42,
+      "count": 3057
     },
     {
       "name": "Handicap (0:1) 2",
@@ -536,17 +536,17 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 7404,
-      "lost": 2586,
-      "rate": 74.11,
-      "count": 9990
+      "won": 7418,
+      "lost": 2589,
+      "rate": 74.13,
+      "count": 10007
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 3325,
-      "lost": 1165,
-      "rate": 74.05,
-      "count": 4490
+      "won": 3326,
+      "lost": 1166,
+      "rate": 74.04,
+      "count": 4492
     },
     {
       "name": "Under 3.5 Goals",
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.73,
-      "count": 3187
+      "rate": 79.72,
+      "count": 3190
     },
     {
       "odd": 1.95,
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.0,
-      "count": 1882
+      "rate": 77.93,
+      "count": 1885
     },
     {
       "odd": 1.75,
@@ -594,28 +594,28 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.18,
-      "count": 2638
+      "rate": 77.21,
+      "count": 2642
     },
     {
       "odd": 1.09,
-      "rate": 76.72,
-      "count": 4433
+      "rate": 76.7,
+      "count": 4447
     },
     {
       "odd": 1.08,
-      "rate": 76.68,
-      "count": 2543
+      "rate": 76.69,
+      "count": 2553
     },
     {
       "odd": 1.1,
-      "rate": 76.55,
-      "count": 2601
+      "rate": 76.51,
+      "count": 2605
     },
     {
       "odd": 1.12,
-      "rate": 76.48,
-      "count": 2470
+      "rate": 76.51,
+      "count": 2473
     },
     {
       "odd": 1.11,
@@ -624,8 +624,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.88,
-      "count": 2994
+      "rate": 74.9,
+      "count": 2996
     },
     {
       "odd": 1.77,
@@ -638,14 +638,14 @@
       "count": 2166
     },
     {
+      "odd": 1.15,
+      "rate": 73.48,
+      "count": 3043
+    },
+    {
       "odd": 1.17,
       "rate": 73.48,
       "count": 1335
-    },
-    {
-      "odd": 1.15,
-      "rate": 73.47,
-      "count": 3038
     },
     {
       "odd": 1.82,
@@ -654,8 +654,8 @@
     },
     {
       "odd": 1.23,
-      "rate": 73.13,
-      "count": 871
+      "rate": 73.08,
+      "count": 873
     }
   ],
   "top_matches": [
@@ -722,6 +722,14 @@
       "odds": "8.67",
       "prediction": "Under 0.5 Goals",
       "date": "18.01.2026 11:30"
+    },
+    {
+      "match": "Sv Meppen vs Bremer SV",
+      "ht": "1 - 1",
+      "ft": "2 - 3",
+      "odds": "8.46",
+      "prediction": "Match Result 2",
+      "date": "02.05.2026 12:00"
     },
     {
       "match": "Dinamo Zagreb vs NK Slaven Belupo",
@@ -1050,14 +1058,6 @@
       "odds": "4.47",
       "prediction": "HT/FT X/X",
       "date": "18.01.2026 11:30"
-    },
-    {
-      "match": "Mamelodi Sundowns vs Sekhukhune United",
-      "ht": "1 - 0",
-      "ft": "3 - 1",
-      "odds": "4.47",
-      "prediction": "Total Goals 4-5",
-      "date": "01.03.2026 13:30"
     }
   ]
 }
