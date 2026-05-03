@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 43337,
-    "lost": 15675,
+    "won": 43340,
+    "lost": 15676,
     "rate": 73.4,
-    "total": 59012,
+    "total": 59016,
     "last_24h": {
-      "won": 992,
+      "won": 995,
       "lost": 389,
-      "rate": 71.8,
-      "total": 1381
+      "rate": 71.9,
+      "total": 1384
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 13966
+      "count": 13967
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 19968
+      "count": 19971
     }
   ],
   "by_hour": [
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 72.8,
-      "count": 1495
+      "count": 1496
     },
     {
       "label": "12:00",
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 75.8,
-      "count": 886
+      "rate": 75.9,
+      "count": 887
     },
     {
       "label": "01:00",
@@ -141,8 +141,8 @@
     },
     {
       "label": "23:00",
-      "rate": 74.2,
-      "count": 736
+      "rate": 74.3,
+      "count": 738
     },
     {
       "label": "00:00",
@@ -247,6 +247,11 @@
       "count": 21
     },
     {
+      "team": "Cienciano",
+      "rate": 90.48,
+      "count": 21
+    },
+    {
       "team": "CD San Sebastian de los Reyes",
       "rate": 90.32,
       "count": 31
@@ -258,11 +263,6 @@
     },
     {
       "team": "Ha Noi FC",
-      "rate": 90.0,
-      "count": 20
-    },
-    {
-      "team": "Cienciano",
       "rate": 90.0,
       "count": 20
     },
@@ -536,10 +536,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 7549,
-      "lost": 2628,
-      "rate": 74.18,
-      "count": 10177
+      "won": 7550,
+      "lost": 2629,
+      "rate": 74.17,
+      "count": 10179
     },
     {
       "name": "Over 1.5 Goals",
@@ -599,8 +599,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.7,
-      "count": 2597
+      "rate": 76.71,
+      "count": 2598
     },
     {
       "odd": 1.09,
