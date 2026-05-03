@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 44157,
-    "lost": 15979,
+    "won": 44156,
+    "lost": 15981,
     "rate": 73.4,
-    "total": 60136,
+    "total": 60137,
     "last_24h": {
-      "won": 792,
-      "lost": 261,
-      "rate": 75.2,
-      "total": 1053
+      "won": 794,
+      "lost": 264,
+      "rate": 75.0,
+      "total": 1058
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 15037
+      "count": 15038
     },
     {
       "label": "Thursday",
@@ -76,8 +76,8 @@
     },
     {
       "label": "15:00",
-      "rate": 74.1,
-      "count": 6557
+      "rate": 74.0,
+      "count": 6558
     },
     {
       "label": "16:00",
@@ -92,17 +92,17 @@
     {
       "label": "18:00",
       "rate": 73.3,
-      "count": 4971
+      "count": 4972
     },
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 7574
+      "count": 7570
     },
     {
       "label": "20:00",
       "rate": 73.7,
-      "count": 2568
+      "count": 2572
     },
     {
       "label": "11:00",
@@ -141,8 +141,8 @@
     },
     {
       "label": "23:00",
-      "rate": 74.2,
-      "count": 747
+      "rate": 74.3,
+      "count": 746
     },
     {
       "label": "00:00",
@@ -509,9 +509,9 @@
     {
       "name": "Double Chance 1X",
       "won": 4070,
-      "lost": 1383,
-      "rate": 74.64,
-      "count": 5453
+      "lost": 1382,
+      "rate": 74.65,
+      "count": 5452
     },
     {
       "name": "Handicap (1:0) 2",
@@ -537,9 +537,16 @@
     {
       "name": "Double Chance 12",
       "won": 7700,
-      "lost": 2673,
-      "rate": 74.23,
-      "count": 10373
+      "lost": 2675,
+      "rate": 74.22,
+      "count": 10375
+    },
+    {
+      "name": "Under 3.5 Goals",
+      "won": 3411,
+      "lost": 1198,
+      "rate": 74.01,
+      "count": 4609
     },
     {
       "name": "Over 1.5 Goals",
@@ -547,13 +554,6 @@
       "lost": 1204,
       "rate": 74.0,
       "count": 4630
-    },
-    {
-      "name": "Under 3.5 Goals",
-      "won": 3410,
-      "lost": 1198,
-      "rate": 74.0,
-      "count": 4608
     }
   ],
   "top_odds": [
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.59,
-      "count": 3298
+      "rate": 79.6,
+      "count": 3299
     },
     {
       "odd": 1.95,
@@ -619,8 +619,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.44,
-      "count": 2679
+      "rate": 75.41,
+      "count": 2680
     },
     {
       "odd": 1.13,
