@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 44414,
-    "lost": 16101,
+    "won": 44429,
+    "lost": 16109,
     "rate": 73.4,
-    "total": 60515,
+    "total": 60538,
     "last_24h": {
-      "won": 68,
-      "lost": 28,
-      "rate": 70.8,
-      "total": 96
+      "won": 83,
+      "lost": 32,
+      "rate": 72.2,
+      "total": 115
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.6,
-      "count": 5233
+      "count": 5252
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 15116
+      "count": 15117
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 19999
+      "count": 20002
     }
   ],
   "by_hour": [
@@ -57,12 +57,12 @@
     {
       "label": "10:00",
       "rate": 73.0,
-      "count": 1616
+      "count": 1617
     },
     {
       "label": "12:00",
       "rate": 72.9,
-      "count": 4582
+      "count": 4598
     },
     {
       "label": "13:00",
@@ -106,8 +106,8 @@
     },
     {
       "label": "11:00",
-      "rate": 73.9,
-      "count": 3691
+      "rate": 73.8,
+      "count": 3697
     },
     {
       "label": "05:00",
@@ -257,17 +257,17 @@
       "count": 30
     },
     {
+      "team": "Karvan",
+      "rate": 90.0,
+      "count": 20
+    },
+    {
       "team": "Ha Noi FC",
       "rate": 90.0,
       "count": 20
     },
     {
       "team": "Sport Boys",
-      "rate": 90.0,
-      "count": 20
-    },
-    {
-      "team": "Newtown AFC",
       "rate": 90.0,
       "count": 20
     }
@@ -487,10 +487,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 3479,
+      "won": 3480,
       "lost": 1146,
-      "rate": 75.22,
-      "count": 4625
+      "rate": 75.23,
+      "count": 4626
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 4104,
-      "lost": 1392,
-      "rate": 74.67,
-      "count": 5496
+      "won": 4105,
+      "lost": 1393,
+      "rate": 74.66,
+      "count": 5498
     },
     {
       "name": "Handicap (1:0) 2",
@@ -514,6 +514,13 @@
       "count": 63
     },
     {
+      "name": "Match Result 2",
+      "won": 458,
+      "lost": 158,
+      "rate": 74.35,
+      "count": 616
+    },
+    {
       "name": "1st Half Double Chance X2",
       "won": 2372,
       "lost": 819,
@@ -521,18 +528,11 @@
       "count": 3191
     },
     {
-      "name": "Match Result 2",
-      "won": 456,
-      "lost": 158,
-      "rate": 74.27,
-      "count": 614
-    },
-    {
       "name": "Double Chance 12",
       "won": 7744,
-      "lost": 2695,
+      "lost": 2696,
       "rate": 74.18,
-      "count": 10439
+      "count": 10440
     },
     {
       "name": "1st Half Under 0.5",
@@ -544,16 +544,16 @@
     {
       "name": "Over 1.5 Goals",
       "won": 3445,
-      "lost": 1208,
-      "rate": 74.04,
-      "count": 4653
+      "lost": 1209,
+      "rate": 74.02,
+      "count": 4654
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 3429,
+      "won": 3430,
       "lost": 1212,
-      "rate": 73.88,
-      "count": 4641
+      "rate": 73.89,
+      "count": 4642
     }
   ],
   "top_odds": [
@@ -580,7 +580,7 @@
     {
       "odd": 1.07,
       "rate": 77.39,
-      "count": 2755
+      "count": 2756
     },
     {
       "odd": 1.75,
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.45,
-      "count": 2713
+      "rate": 76.46,
+      "count": 2714
     },
     {
       "odd": 1.09,
@@ -624,13 +624,13 @@
     },
     {
       "odd": 1.13,
-      "rate": 75.12,
-      "count": 3079
+      "rate": 75.13,
+      "count": 3080
     },
     {
       "odd": 1.14,
-      "rate": 74.03,
-      "count": 2260
+      "rate": 74.04,
+      "count": 2261
     },
     {
       "odd": 1.17,
@@ -644,8 +644,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.49,
-      "count": 3165
+      "rate": 73.51,
+      "count": 3167
     },
     {
       "odd": 1.77,
