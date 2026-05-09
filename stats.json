@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 45414,
-    "lost": 16477,
+    "won": 45500,
+    "lost": 16505,
     "rate": 73.4,
-    "total": 61891,
+    "total": 62005,
     "last_24h": {
-      "won": 346,
-      "lost": 165,
-      "rate": 67.7,
-      "total": 511
+      "won": 430,
+      "lost": 181,
+      "rate": 70.4,
+      "total": 611
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.6,
-      "count": 5399
+      "count": 5398
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 15127
+      "count": 15131
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.2,
-      "count": 9169
+      "count": 9166
     },
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 20321
+      "count": 20435
     }
   ],
   "by_hour": [
@@ -61,13 +61,13 @@
     },
     {
       "label": "12:00",
-      "rate": 72.9,
-      "count": 4622
+      "rate": 73.0,
+      "count": 4732
     },
     {
       "label": "13:00",
       "rate": 72.9,
-      "count": 5633
+      "count": 5635
     },
     {
       "label": "14:00",
@@ -76,18 +76,18 @@
     },
     {
       "label": "15:00",
-      "rate": 74.0,
-      "count": 6704
+      "rate": 73.9,
+      "count": 6705
     },
     {
       "label": "16:00",
       "rate": 72.6,
-      "count": 4254
+      "count": 4255
     },
     {
       "label": "17:00",
       "rate": 73.0,
-      "count": 5534
+      "count": 5532
     },
     {
       "label": "18:00",
@@ -106,8 +106,8 @@
     },
     {
       "label": "11:00",
-      "rate": 73.6,
-      "count": 3852
+      "rate": 73.5,
+      "count": 3854
     },
     {
       "label": "05:00",
@@ -232,6 +232,11 @@
       "count": 22
     },
     {
+      "team": "Barakaldo CF",
+      "rate": 90.57,
+      "count": 53
+    },
+    {
       "team": "Cienciano",
       "rate": 90.48,
       "count": 21
@@ -265,11 +270,6 @@
       "team": "Vjs",
       "rate": 90.0,
       "count": 30
-    },
-    {
-      "team": "CSKA-Sofia",
-      "rate": 89.66,
-      "count": 29
     }
   ],
   "top_leagues": [
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1073,
+      "won": 1075,
       "lost": 298,
-      "rate": 78.26,
-      "count": 1371
+      "rate": 78.3,
+      "count": 1373
     },
     {
       "name": "Handicap (2:0) 1",
@@ -473,10 +473,10 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 947,
-      "lost": 297,
-      "rate": 76.13,
-      "count": 1244
+      "won": 950,
+      "lost": 298,
+      "rate": 76.12,
+      "count": 1248
     },
     {
       "name": "Handicap (0:1) 1",
@@ -487,10 +487,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 3566,
-      "lost": 1172,
-      "rate": 75.26,
-      "count": 4738
+      "won": 3577,
+      "lost": 1174,
+      "rate": 75.29,
+      "count": 4751
     },
     {
       "name": "1st Half Under 0.5",
@@ -507,6 +507,13 @@
       "count": 68
     },
     {
+      "name": "Handicap (2:0) 2",
+      "won": 9,
+      "lost": 3,
+      "rate": 75.0,
+      "count": 12
+    },
+    {
       "name": "Home Team 1st Half Under 0.5",
       "won": 12,
       "lost": 4,
@@ -515,45 +522,38 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 4190,
-      "lost": 1424,
-      "rate": 74.63,
-      "count": 5614
+      "won": 4200,
+      "lost": 1430,
+      "rate": 74.6,
+      "count": 5630
     },
     {
       "name": "Double Chance 12",
-      "won": 7947,
-      "lost": 2769,
+      "won": 7961,
+      "lost": 2774,
       "rate": 74.16,
-      "count": 10716
+      "count": 10735
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 3521,
-      "lost": 1230,
-      "rate": 74.11,
-      "count": 4751
+      "won": 3526,
+      "lost": 1231,
+      "rate": 74.12,
+      "count": 4757
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2423,
-      "lost": 856,
-      "rate": 73.89,
-      "count": 3279
+      "won": 2429,
+      "lost": 858,
+      "rate": 73.9,
+      "count": 3287
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 3509,
-      "lost": 1240,
-      "rate": 73.89,
-      "count": 4749
-    },
-    {
-      "name": "Match Result 1",
-      "won": 1251,
-      "lost": 448,
-      "rate": 73.63,
-      "count": 1699
+      "won": 3515,
+      "lost": 1244,
+      "rate": 73.86,
+      "count": 4759
     }
   ],
   "top_odds": [
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.6,
-      "count": 3378
+      "rate": 79.57,
+      "count": 3382
     },
     {
       "odd": 1.71,
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.12,
-      "count": 2043
+      "rate": 78.14,
+      "count": 2049
     },
     {
       "odd": 1.76,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.3,
-      "count": 2828
+      "rate": 77.34,
+      "count": 2838
     },
     {
       "odd": 1.95,
@@ -599,33 +599,33 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.71,
-      "count": 2722
+      "rate": 76.73,
+      "count": 2724
     },
     {
       "odd": 1.1,
-      "rate": 76.52,
-      "count": 2790
+      "rate": 76.6,
+      "count": 2799
     },
     {
       "odd": 1.09,
-      "rate": 76.46,
-      "count": 4826
+      "rate": 76.5,
+      "count": 4842
     },
     {
       "odd": 1.12,
-      "rate": 76.32,
-      "count": 2618
+      "rate": 76.3,
+      "count": 2620
     },
     {
       "odd": 1.13,
-      "rate": 75.14,
-      "count": 3133
+      "rate": 75.09,
+      "count": 3143
     },
     {
       "odd": 1.11,
-      "rate": 75.0,
-      "count": 2764
+      "rate": 74.99,
+      "count": 2771
     },
     {
       "odd": 1.97,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.04,
-      "count": 2296
+      "rate": 74.01,
+      "count": 2297
     },
     {
       "odd": 1.77,
@@ -644,13 +644,13 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.56,
-      "count": 3256
+      "rate": 73.59,
+      "count": 3260
     },
     {
       "odd": 1.17,
-      "rate": 73.45,
-      "count": 1420
+      "rate": 73.54,
+      "count": 1421
     },
     {
       "odd": 1.68,
@@ -730,14 +730,6 @@
       "odds": "8.59",
       "prediction": "Total Goals 0-1",
       "date": "02.05.2026 14:00"
-    },
-    {
-      "match": "Sv Meppen vs Bremer SV",
-      "ht": "1 - 1",
-      "ft": "2 - 3",
-      "odds": "8.46",
-      "prediction": "Match Result 2",
-      "date": "02.05.2026 12:00"
     },
     {
       "match": "Dinamo Zagreb vs NK Slaven Belupo",
@@ -1058,6 +1050,14 @@
       "odds": "4.54",
       "prediction": "HT/FT X/2",
       "date": "25.02.2026 22:30"
+    },
+    {
+      "match": "Stade Rennais vs FC Metz",
+      "ht": "0 - 0",
+      "ft": "0 - 0",
+      "odds": "4.53",
+      "prediction": "Under 1.5 Goals",
+      "date": "22.03.2026 16:15"
     }
   ]
 }
