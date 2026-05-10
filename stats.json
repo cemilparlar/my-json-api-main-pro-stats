@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 46165,
-    "lost": 16763,
+    "won": 46174,
+    "lost": 16768,
     "rate": 73.4,
-    "total": 62928,
+    "total": 62942,
     "last_24h": {
-      "won": 952,
-      "lost": 363,
-      "rate": 72.4,
-      "total": 1315
+      "won": 961,
+      "lost": 364,
+      "rate": 72.5,
+      "total": 1325
     }
   },
   "by_day": [
@@ -35,17 +35,17 @@
     {
       "label": "Thursday",
       "rate": 74.2,
-      "count": 3099
+      "count": 3100
     },
     {
       "label": "Friday",
       "rate": 73.2,
-      "count": 9165
+      "count": 9167
     },
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 21353
+      "count": 21364
     }
   ],
   "by_hour": [
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.3,
-      "count": 6799
+      "count": 6800
     },
     {
       "label": "15:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 73.9,
-      "count": 2623
+      "count": 2624
     },
     {
       "label": "11:00",
@@ -122,7 +122,7 @@
     {
       "label": "22:00",
       "rate": 74.9,
-      "count": 985
+      "count": 988
     },
     {
       "label": "01:00",
@@ -152,7 +152,7 @@
     {
       "label": "21:00",
       "rate": 75.2,
-      "count": 1087
+      "count": 1096
     },
     {
       "label": "02:00",
@@ -379,13 +379,6 @@
       "count": 7
     },
     {
-      "name": " KOLK",
-      "won": 6,
-      "lost": 1,
-      "rate": 85.71,
-      "count": 7
-    },
-    {
       "name": "KİRLK",
       "won": 11,
       "lost": 2,
@@ -412,6 +405,13 @@
       "lost": 1,
       "rate": 83.33,
       "count": 6
+    },
+    {
+      "name": "NOK",
+      "won": 39,
+      "lost": 8,
+      "rate": 82.98,
+      "count": 47
     }
   ],
   "top_predictions": [
@@ -487,10 +487,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 3642,
+      "won": 3644,
       "lost": 1191,
-      "rate": 75.36,
-      "count": 4833
+      "rate": 75.37,
+      "count": 4835
     },
     {
       "name": "Handicap (1:0) 2",
@@ -523,16 +523,16 @@
     {
       "name": "Double Chance 1X",
       "won": 4269,
-      "lost": 1452,
-      "rate": 74.62,
-      "count": 5721
+      "lost": 1453,
+      "rate": 74.61,
+      "count": 5722
     },
     {
       "name": "Double Chance 12",
-      "won": 8072,
-      "lost": 2811,
+      "won": 8074,
+      "lost": 2812,
       "rate": 74.17,
-      "count": 10883
+      "count": 10886
     },
     {
       "name": "Over 1.5 Goals",
@@ -550,10 +550,10 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2459,
-      "lost": 875,
-      "rate": 73.76,
-      "count": 3334
+      "won": 2460,
+      "lost": 876,
+      "rate": 73.74,
+      "count": 3336
     }
   ],
   "top_odds": [
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.49,
-      "count": 3428
+      "rate": 79.47,
+      "count": 3429
     },
     {
       "odd": 1.71,
@@ -593,24 +593,24 @@
       "count": 2880
     },
     {
-      "odd": 1.1,
-      "rate": 76.67,
-      "count": 2851
-    },
-    {
       "odd": 1.08,
       "rate": 76.66,
       "count": 2759
     },
     {
+      "odd": 1.1,
+      "rate": 76.65,
+      "count": 2852
+    },
+    {
       "odd": 1.09,
-      "rate": 76.59,
-      "count": 4930
+      "rate": 76.6,
+      "count": 4931
     },
     {
       "odd": 1.12,
-      "rate": 76.2,
-      "count": 2656
+      "rate": 76.21,
+      "count": 2657
     },
     {
       "odd": 1.95,
@@ -619,8 +619,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.86,
-      "count": 3178
+      "rate": 74.87,
+      "count": 3180
     },
     {
       "odd": 1.11,
@@ -638,14 +638,14 @@
       "count": 35
     },
     {
-      "odd": 1.17,
-      "rate": 73.68,
-      "count": 1436
-    },
-    {
       "odd": 1.77,
       "rate": 73.68,
       "count": 76
+    },
+    {
+      "odd": 1.17,
+      "rate": 73.64,
+      "count": 1438
     },
     {
       "odd": 1.15,
