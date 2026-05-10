@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 46762,
-    "lost": 16970,
+    "won": 46789,
+    "lost": 16977,
     "rate": 73.4,
-    "total": 63732,
+    "total": 63766,
     "last_24h": {
-      "won": 607,
-      "lost": 216,
-      "rate": 73.8,
-      "total": 823
+      "won": 635,
+      "lost": 222,
+      "rate": 74.1,
+      "total": 857
     }
   },
   "by_day": [
@@ -25,12 +25,12 @@
     {
       "label": "Wednesday",
       "rate": 74.1,
-      "count": 4457
+      "count": 4456
     },
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 15926
+      "count": 15960
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 21361
+      "count": 21362
     }
   ],
   "by_hour": [
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.3,
-      "count": 6952
+      "count": 6950
     },
     {
       "label": "15:00",
@@ -81,8 +81,8 @@
     },
     {
       "label": "16:00",
-      "rate": 72.4,
-      "count": 4370
+      "rate": 72.5,
+      "count": 4407
     },
     {
       "label": "17:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.8,
-      "count": 3925
+      "count": 3924
     },
     {
       "label": "05:00",
@@ -192,11 +192,6 @@
       "count": 20
     },
     {
-      "team": "Fc Tatabánya",
-      "rate": 95.0,
-      "count": 20
-    },
-    {
       "team": "Budaors",
       "rate": 95.0,
       "count": 20
@@ -217,12 +212,22 @@
       "count": 23
     },
     {
+      "team": "Fc Tatabánya",
+      "rate": 91.3,
+      "count": 23
+    },
+    {
       "team": "CD San Sebastian de los Reyes",
       "rate": 91.18,
       "count": 34
     },
     {
       "team": "Melbourne Knights",
+      "rate": 90.91,
+      "count": 22
+    },
+    {
+      "team": "Balatonfuredi",
       "rate": 90.91,
       "count": 22
     },
@@ -238,11 +243,6 @@
     },
     {
       "team": "Nantong Zhiyun",
-      "rate": 90.48,
-      "count": 21
-    },
-    {
-      "team": "Balatonfuredi",
       "rate": 90.48,
       "count": 21
     },
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1114,
+      "won": 1115,
       "lost": 309,
-      "rate": 78.29,
-      "count": 1423
+      "rate": 78.3,
+      "count": 1424
     },
     {
       "name": "Handicap (2:0) 1",
@@ -501,10 +501,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 3696,
+      "won": 3699,
       "lost": 1216,
-      "rate": 75.24,
-      "count": 4912
+      "rate": 75.26,
+      "count": 4915
     },
     {
       "name": "Handicap (2:0) 2",
@@ -522,38 +522,38 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 4319,
+      "won": 4322,
       "lost": 1470,
-      "rate": 74.61,
-      "count": 5789
+      "rate": 74.62,
+      "count": 5792
     },
     {
       "name": "Double Chance 12",
-      "won": 8210,
-      "lost": 2848,
-      "rate": 74.24,
-      "count": 11058
+      "won": 8215,
+      "lost": 2849,
+      "rate": 74.25,
+      "count": 11064
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 3617,
+      "won": 3620,
       "lost": 1268,
-      "rate": 74.04,
-      "count": 4885
-    },
-    {
-      "name": "Under 3.5 Goals",
-      "won": 3613,
-      "lost": 1275,
-      "rate": 73.92,
+      "rate": 74.06,
       "count": 4888
     },
     {
+      "name": "Under 3.5 Goals",
+      "won": 3615,
+      "lost": 1277,
+      "rate": 73.9,
+      "count": 4892
+    },
+    {
       "name": "1st Half Double Chance X2",
-      "won": 2498,
+      "won": 2500,
       "lost": 890,
-      "rate": 73.73,
-      "count": 3388
+      "rate": 73.75,
+      "count": 3390
     }
   ],
   "top_odds": [
@@ -565,7 +565,7 @@
     {
       "odd": 1.06,
       "rate": 79.52,
-      "count": 3471
+      "count": 3472
     },
     {
       "odd": 1.71,
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.35,
-      "count": 2120
+      "rate": 78.4,
+      "count": 2125
     },
     {
       "odd": 1.98,
@@ -585,7 +585,7 @@
     {
       "odd": 1.07,
       "rate": 77.45,
-      "count": 2922
+      "count": 2923
     },
     {
       "odd": 1.76,
@@ -593,24 +593,24 @@
       "count": 106
     },
     {
-      "odd": 1.09,
+      "odd": 1.08,
       "rate": 76.76,
-      "count": 5012
+      "count": 2801
     },
     {
-      "odd": 1.08,
-      "rate": 76.75,
-      "count": 2800
+      "odd": 1.09,
+      "rate": 76.76,
+      "count": 5013
     },
     {
       "odd": 1.1,
-      "rate": 76.49,
-      "count": 2888
+      "rate": 76.47,
+      "count": 2890
     },
     {
       "odd": 1.12,
-      "rate": 76.36,
-      "count": 2712
+      "rate": 76.38,
+      "count": 2714
     },
     {
       "odd": 1.95,
@@ -619,13 +619,13 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.98,
-      "count": 3217
+      "rate": 74.95,
+      "count": 3218
     },
     {
       "odd": 1.11,
-      "rate": 74.87,
-      "count": 2841
+      "rate": 74.89,
+      "count": 2844
     },
     {
       "odd": 1.97,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.22,
-      "count": 2366
+      "rate": 74.23,
+      "count": 2367
     },
     {
       "odd": 1.77,
@@ -654,8 +654,8 @@
     },
     {
       "odd": 1.17,
-      "rate": 73.36,
-      "count": 1449
+      "rate": 73.38,
+      "count": 1450
     }
   ],
   "top_matches": [
