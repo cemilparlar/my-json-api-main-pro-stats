@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 47055,
-    "lost": 17068,
+    "won": 47076,
+    "lost": 17079,
     "rate": 73.4,
-    "total": 64123,
+    "total": 64155,
     "last_24h": {
-      "won": 58,
-      "lost": 24,
-      "rate": 70.7,
-      "total": 82
+      "won": 79,
+      "lost": 36,
+      "rate": 68.7,
+      "total": 115
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.8,
-      "count": 4385
+      "count": 4416
     },
     {
       "label": "Tuesday",
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 74.2,
-      "count": 3101
+      "count": 3099
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 21357
+      "count": 21360
     }
   ],
   "by_hour": [
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 73.0,
-      "count": 4877
+      "count": 4880
     },
     {
       "label": "13:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 73.1,
-      "count": 5683
+      "count": 5713
     },
     {
       "label": "18:00",
@@ -101,8 +101,8 @@
     },
     {
       "label": "20:00",
-      "rate": 73.7,
-      "count": 2653
+      "rate": 73.8,
+      "count": 2652
     },
     {
       "label": "11:00",
@@ -262,14 +262,14 @@
       "count": 20
     },
     {
-      "team": "Odds Bk",
-      "rate": 90.0,
-      "count": 20
-    },
-    {
       "team": "FK Skalica",
       "rate": 89.74,
       "count": 39
+    },
+    {
+      "team": "CSKA-Sofia",
+      "rate": 89.66,
+      "count": 29
     }
   ],
   "top_leagues": [
@@ -289,10 +289,10 @@
     },
     {
       "name": " AVUL",
-      "won": 11,
+      "won": 10,
       "lost": 0,
       "rate": 100.0,
-      "count": 11
+      "count": 10
     },
     {
       "name": " U20EL",
@@ -300,13 +300,6 @@
       "lost": 0,
       "rate": 100.0,
       "count": 5
-    },
-    {
-      "name": " TP1L",
-      "won": 6,
-      "lost": 0,
-      "rate": 100.0,
-      "count": 6
     },
     {
       "name": " FİK",
@@ -412,6 +405,13 @@
       "lost": 8,
       "rate": 82.98,
       "count": 47
+    },
+    {
+      "name": "CZYRK",
+      "won": 23,
+      "lost": 5,
+      "rate": 82.14,
+      "count": 28
     }
   ],
   "top_predictions": [
@@ -452,17 +452,17 @@
     },
     {
       "name": "1st Half Under 2.5",
-      "won": 232,
+      "won": 233,
       "lost": 58,
-      "rate": 80.0,
-      "count": 290
+      "rate": 80.07,
+      "count": 291
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1121,
+      "won": 1122,
       "lost": 310,
-      "rate": 78.34,
-      "count": 1431
+      "rate": 78.35,
+      "count": 1432
     },
     {
       "name": "Handicap (2:0) 1",
@@ -473,10 +473,10 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 983,
+      "won": 984,
       "lost": 309,
-      "rate": 76.08,
-      "count": 1292
+      "rate": 76.1,
+      "count": 1293
     },
     {
       "name": "Handicap (0:1) 1",
@@ -494,10 +494,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 3715,
+      "won": 3717,
       "lost": 1228,
-      "rate": 75.16,
-      "count": 4943
+      "rate": 75.17,
+      "count": 4945
     },
     {
       "name": "1st Half Under 0.5",
@@ -522,38 +522,38 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 4352,
-      "lost": 1477,
-      "rate": 74.66,
-      "count": 5829
+      "won": 4353,
+      "lost": 1479,
+      "rate": 74.64,
+      "count": 5832
     },
     {
       "name": "Double Chance 12",
-      "won": 8261,
-      "lost": 2869,
-      "rate": 74.22,
-      "count": 11130
+      "won": 8265,
+      "lost": 2870,
+      "rate": 74.23,
+      "count": 11135
     },
     {
       "name": "Over 1.5 Goals",
       "won": 3640,
-      "lost": 1273,
-      "rate": 74.09,
-      "count": 4913
+      "lost": 1275,
+      "rate": 74.06,
+      "count": 4915
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 3638,
-      "lost": 1284,
+      "won": 3641,
+      "lost": 1285,
       "rate": 73.91,
-      "count": 4922
+      "count": 4926
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2516,
-      "lost": 897,
-      "rate": 73.72,
-      "count": 3413
+      "won": 2518,
+      "lost": 898,
+      "rate": 73.71,
+      "count": 3416
     }
   ],
   "top_odds": [
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.47,
-      "count": 3488
+      "rate": 79.48,
+      "count": 3490
     },
     {
       "odd": 1.71,
@@ -593,14 +593,14 @@
       "count": 2942
     },
     {
-      "odd": 1.09,
-      "rate": 76.75,
-      "count": 5046
+      "odd": 1.08,
+      "rate": 76.76,
+      "count": 2814
     },
     {
-      "odd": 1.08,
-      "rate": 76.74,
-      "count": 2812
+      "odd": 1.09,
+      "rate": 76.73,
+      "count": 5050
     },
     {
       "odd": 1.95,
@@ -609,23 +609,23 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.54,
-      "count": 2911
+      "rate": 76.5,
+      "count": 2915
     },
     {
       "odd": 1.12,
-      "rate": 76.41,
-      "count": 2726
+      "rate": 76.43,
+      "count": 2728
     },
     {
       "odd": 1.11,
       "rate": 75.01,
-      "count": 2853
+      "count": 2857
     },
     {
       "odd": 1.13,
-      "rate": 74.95,
-      "count": 3225
+      "rate": 74.88,
+      "count": 3228
     },
     {
       "odd": 1.97,
@@ -649,13 +649,13 @@
     },
     {
       "odd": 1.17,
-      "rate": 73.47,
-      "count": 1459
+      "rate": 73.37,
+      "count": 1461
     },
     {
       "odd": 1.15,
-      "rate": 73.31,
-      "count": 3394
+      "rate": 73.29,
+      "count": 3396
     }
   ],
   "top_matches": [
