@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 47274,
+    "won": 47276,
     "lost": 17158,
     "rate": 73.4,
-    "total": 64432,
+    "total": 64434,
     "last_24h": {
-      "won": 128,
+      "won": 130,
       "lost": 55,
-      "rate": 69.9,
-      "total": 183
+      "rate": 70.3,
+      "total": 185
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.5,
-      "count": 5582
+      "count": 5584
     },
     {
       "label": "Wednesday",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 7853
+      "count": 7855
     },
     {
       "label": "20:00",
@@ -372,6 +372,13 @@
       "count": 7
     },
     {
+      "name": " KOLK",
+      "won": 12,
+      "lost": 2,
+      "rate": 85.71,
+      "count": 14
+    },
+    {
       "name": "KİRLK",
       "won": 11,
       "lost": 2,
@@ -398,13 +405,6 @@
       "lost": 1,
       "rate": 83.33,
       "count": 6
-    },
-    {
-      "name": " KOLK",
-      "won": 10,
-      "lost": 2,
-      "rate": 83.33,
-      "count": 12
     },
     {
       "name": "NOK",
@@ -529,10 +529,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 8296,
+      "won": 8297,
       "lost": 2885,
       "rate": 74.2,
-      "count": 11181
+      "count": 11182
     },
     {
       "name": "Over 1.5 Goals",
