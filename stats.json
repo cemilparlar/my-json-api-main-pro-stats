@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 47140,
-    "lost": 17100,
+    "won": 47149,
+    "lost": 17104,
     "rate": 73.4,
-    "total": 64240,
+    "total": 64253,
     "last_24h": {
-      "won": 135,
-      "lost": 61,
-      "rate": 68.9,
-      "total": 196
+      "won": 144,
+      "lost": 62,
+      "rate": 69.9,
+      "total": 206
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.7,
-      "count": 4507
+      "count": 4518
     },
     {
       "label": "Tuesday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 21358
+      "count": 21360
     }
   ],
   "by_hour": [
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 72.5,
-      "count": 4492
+      "count": 4493
     },
     {
       "label": "17:00",
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 74.8,
-      "count": 1005
+      "rate": 74.9,
+      "count": 1016
     },
     {
       "label": "01:00",
@@ -141,8 +141,8 @@
     },
     {
       "label": "23:00",
-      "rate": 74.1,
-      "count": 767
+      "rate": 74.0,
+      "count": 768
     },
     {
       "label": "00:00",
@@ -202,11 +202,6 @@
       "count": 20
     },
     {
-      "team": "Nueva Chicago",
-      "rate": 92.59,
-      "count": 27
-    },
-    {
       "team": "Jyvaskyla",
       "rate": 92.0,
       "count": 25
@@ -220,6 +215,11 @@
       "team": "Fc Tatabánya",
       "rate": 91.3,
       "count": 23
+    },
+    {
+      "team": "Nueva Chicago",
+      "rate": 90.91,
+      "count": 33
     },
     {
       "team": "Melbourne Knights",
@@ -529,17 +529,17 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 8277,
+      "won": 8278,
       "lost": 2874,
       "rate": 74.23,
-      "count": 11151
+      "count": 11152
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 3647,
+      "won": 3649,
       "lost": 1276,
-      "rate": 74.08,
-      "count": 4923
+      "rate": 74.09,
+      "count": 4925
     },
     {
       "name": "Under 3.5 Goals",
@@ -550,10 +550,10 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2523,
+      "won": 2524,
       "lost": 900,
       "rate": 73.71,
-      "count": 3423
+      "count": 3424
     }
   ],
   "top_odds": [
@@ -649,8 +649,8 @@
     },
     {
       "odd": 1.17,
-      "rate": 73.41,
-      "count": 1463
+      "rate": 73.43,
+      "count": 1464
     },
     {
       "odd": 1.15,
