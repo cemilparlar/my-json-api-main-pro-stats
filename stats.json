@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 47221,
-    "lost": 17136,
+    "won": 47228,
+    "lost": 17137,
     "rate": 73.4,
-    "total": 64357,
+    "total": 64365,
     "last_24h": {
-      "won": 77,
+      "won": 83,
       "lost": 36,
-      "rate": 68.1,
-      "total": 113
+      "rate": 69.7,
+      "total": 119
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.7,
-      "count": 4517
+      "count": 4518
     },
     {
       "label": "Tuesday",
       "rate": 73.5,
-      "count": 5509
+      "count": 5515
     },
     {
       "label": "Wednesday",
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 74.2,
-      "count": 3099
+      "count": 3100
     },
     {
       "label": "Friday",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 73.1,
-      "count": 5745
+      "count": 5753
     },
     {
       "label": "18:00",
@@ -289,10 +289,10 @@
     },
     {
       "name": " AVUL",
-      "won": 10,
+      "won": 11,
       "lost": 0,
       "rate": 100.0,
-      "count": 10
+      "count": 11
     },
     {
       "name": " U20EL",
@@ -529,17 +529,17 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 8291,
+      "won": 8292,
       "lost": 2882,
       "rate": 74.21,
-      "count": 11173
+      "count": 11174
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 3652,
+      "won": 3653,
       "lost": 1278,
       "rate": 74.08,
-      "count": 4930
+      "count": 4931
     },
     {
       "name": "Under 3.5 Goals",
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.12,
-      "rate": 76.48,
-      "count": 2738
+      "rate": 76.49,
+      "count": 2739
     },
     {
       "odd": 1.1,
@@ -653,9 +653,9 @@
       "count": 1464
     },
     {
-      "odd": 1.15,
-      "rate": 73.28,
-      "count": 3410
+      "odd": 2.03,
+      "rate": 73.33,
+      "count": 30
     }
   ],
   "top_matches": [
