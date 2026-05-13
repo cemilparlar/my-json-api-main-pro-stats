@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 47456,
+    "won": 47457,
     "lost": 17240,
     "rate": 73.4,
-    "total": 64696,
+    "total": 64697,
     "last_24h": {
-      "won": 161,
+      "won": 162,
       "lost": 66,
-      "rate": 70.9,
-      "total": 227
+      "rate": 71.1,
+      "total": 228
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 73.8,
-      "count": 4691
+      "count": 4692
     },
     {
       "label": "Sunday",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 73.7,
-      "count": 2665
+      "count": 2666
     },
     {
       "label": "11:00",
@@ -351,6 +351,13 @@
       "count": 8
     },
     {
+      "name": " İZK",
+      "won": 7,
+      "lost": 1,
+      "rate": 87.5,
+      "count": 8
+    },
+    {
       "name": " ÇİNK",
       "won": 7,
       "lost": 1,
@@ -366,13 +373,6 @@
     },
     {
       "name": "ŞİLİSK",
-      "won": 6,
-      "lost": 1,
-      "rate": 85.71,
-      "count": 7
-    },
-    {
-      "name": " İZK",
       "won": 6,
       "lost": 1,
       "rate": 85.71,
@@ -639,8 +639,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.21,
-      "count": 2404
+      "rate": 74.22,
+      "count": 2405
     },
     {
       "odd": 1.68,
