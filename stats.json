@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 47331,
-    "lost": 17176,
+    "won": 47339,
+    "lost": 17175,
     "rate": 73.4,
-    "total": 64507,
+    "total": 64514,
     "last_24h": {
-      "won": 92,
+      "won": 100,
       "lost": 30,
-      "rate": 75.4,
-      "total": 122
+      "rate": 76.9,
+      "total": 130
     }
   },
   "by_day": [
@@ -24,8 +24,8 @@
     },
     {
       "label": "Wednesday",
-      "rate": 74.1,
-      "count": 4503
+      "rate": 74.2,
+      "count": 4511
     },
     {
       "label": "Sunday",
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.2,
-      "count": 9163
+      "count": 9162
     },
     {
       "label": "Saturday",
@@ -61,13 +61,13 @@
     },
     {
       "label": "12:00",
-      "rate": 73.0,
-      "count": 4885
+      "rate": 73.1,
+      "count": 4889
     },
     {
       "label": "13:00",
       "rate": 72.8,
-      "count": 5838
+      "count": 5841
     },
     {
       "label": "14:00",
@@ -330,6 +330,13 @@
       "count": 8
     },
     {
+      "name": "AFCAKŞ",
+      "won": 42,
+      "lost": 6,
+      "rate": 87.5,
+      "count": 48
+    },
+    {
       "name": "T2L-K",
       "won": 7,
       "lost": 1,
@@ -356,13 +363,6 @@
       "lost": 4,
       "rate": 87.1,
       "count": 31
-    },
-    {
-      "name": "AFCAKŞ",
-      "won": 38,
-      "lost": 6,
-      "rate": 86.36,
-      "count": 44
     },
     {
       "name": "ŞİLİSK",
@@ -529,17 +529,17 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 8305,
+      "won": 8306,
       "lost": 2886,
       "rate": 74.21,
-      "count": 11191
+      "count": 11192
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 3663,
+      "won": 3664,
       "lost": 1281,
-      "rate": 74.09,
-      "count": 4944
+      "rate": 74.1,
+      "count": 4945
     },
     {
       "name": "Under 3.5 Goals",
@@ -550,10 +550,10 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2535,
+      "won": 2536,
       "lost": 904,
-      "rate": 73.71,
-      "count": 3439
+      "rate": 73.72,
+      "count": 3440
     }
   ],
   "top_odds": [
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.43,
-      "count": 3510
+      "rate": 79.44,
+      "count": 3511
     },
     {
       "odd": 1.71,
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.48,
-      "count": 2165
+      "rate": 78.49,
+      "count": 2166
     },
     {
       "odd": 1.98,
@@ -620,12 +620,17 @@
     {
       "odd": 1.11,
       "rate": 74.9,
-      "count": 2872
+      "count": 2873
     },
     {
       "odd": 1.13,
-      "rate": 74.87,
-      "count": 3243
+      "rate": 74.88,
+      "count": 3244
+    },
+    {
+      "odd": 1.77,
+      "rate": 74.36,
+      "count": 78
     },
     {
       "odd": 1.97,
@@ -636,11 +641,6 @@
       "odd": 1.14,
       "rate": 74.19,
       "count": 2398
-    },
-    {
-      "odd": 1.77,
-      "rate": 74.03,
-      "count": 77
     },
     {
       "odd": 1.68,
