@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 48387,
-    "lost": 17608,
+    "won": 48390,
+    "lost": 17600,
     "rate": 73.3,
-    "total": 65995,
+    "total": 65990,
     "last_24h": {
-      "won": 403,
-      "lost": 142,
-      "rate": 73.9,
-      "total": 545
+      "won": 412,
+      "lost": 149,
+      "rate": 73.4,
+      "total": 561
     }
   },
   "by_day": [
@@ -30,22 +30,22 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 16257
+      "count": 16256
     },
     {
       "label": "Thursday",
       "rate": 73.7,
-      "count": 3346
+      "count": 3345
     },
     {
       "label": "Friday",
       "rate": 73.2,
-      "count": 9491
+      "count": 9490
     },
     {
       "label": "Saturday",
-      "rate": 73.1,
-      "count": 21802
+      "rate": 73.2,
+      "count": 21800
     }
   ],
   "by_hour": [
@@ -61,18 +61,18 @@
     },
     {
       "label": "12:00",
-      "rate": 73.0,
-      "count": 5065
+      "rate": 72.9,
+      "count": 5070
     },
     {
       "label": "13:00",
       "rate": 72.8,
-      "count": 5922
+      "count": 5920
     },
     {
       "label": "14:00",
       "rate": 73.2,
-      "count": 7092
+      "count": 7090
     },
     {
       "label": "15:00",
@@ -102,12 +102,12 @@
     {
       "label": "20:00",
       "rate": 73.6,
-      "count": 2676
+      "count": 2675
     },
     {
       "label": "11:00",
       "rate": 73.7,
-      "count": 4101
+      "count": 4098
     },
     {
       "label": "05:00",
@@ -136,8 +136,8 @@
     },
     {
       "label": "07:00",
-      "rate": 72.6,
-      "count": 864
+      "rate": 72.7,
+      "count": 863
     },
     {
       "label": "23:00",
@@ -146,8 +146,8 @@
     },
     {
       "label": "00:00",
-      "rate": 72.5,
-      "count": 265
+      "rate": 72.7,
+      "count": 264
     },
     {
       "label": "21:00",
@@ -267,9 +267,9 @@
       "count": 39
     },
     {
-      "team": "Yeovil Town",
-      "rate": 89.61,
-      "count": 77
+      "team": "Fa 2000",
+      "rate": 89.66,
+      "count": 29
     }
   ],
   "top_leagues": [
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1166,
+      "won": 1168,
       "lost": 318,
-      "rate": 78.57,
-      "count": 1484
+      "rate": 78.6,
+      "count": 1486
     },
     {
       "name": "Handicap (2:0) 1",
@@ -473,10 +473,10 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 1011,
+      "won": 1012,
       "lost": 320,
-      "rate": 75.96,
-      "count": 1331
+      "rate": 75.98,
+      "count": 1332
     },
     {
       "name": "Handicap (0:1) 1",
@@ -495,9 +495,9 @@
     {
       "name": "1st Half Double Chance 1X",
       "won": 3799,
-      "lost": 1271,
-      "rate": 74.93,
-      "count": 5070
+      "lost": 1270,
+      "rate": 74.95,
+      "count": 5069
     },
     {
       "name": "1st Half Under 0.5",
@@ -515,17 +515,17 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 4468,
+      "won": 4469,
       "lost": 1533,
-      "rate": 74.45,
-      "count": 6001
+      "rate": 74.46,
+      "count": 6002
     },
     {
       "name": "Double Chance 12",
-      "won": 8528,
-      "lost": 2946,
+      "won": 8531,
+      "lost": 2947,
       "rate": 74.32,
-      "count": 11474
+      "count": 11478
     },
     {
       "name": "Over 1.5 Goals",
@@ -535,25 +535,25 @@
       "count": 5031
     },
     {
-      "name": "Match Result 2",
-      "won": 516,
-      "lost": 182,
-      "rate": 73.93,
-      "count": 698
-    },
-    {
       "name": "Under 3.5 Goals",
       "won": 3732,
-      "lost": 1323,
-      "rate": 73.83,
-      "count": 5055
+      "lost": 1322,
+      "rate": 73.84,
+      "count": 5054
     },
     {
       "name": "1st Half Double Chance X2",
       "won": 2603,
-      "lost": 924,
-      "rate": 73.8,
-      "count": 3527
+      "lost": 925,
+      "rate": 73.78,
+      "count": 3528
+    },
+    {
+      "name": "Match Result 2",
+      "won": 512,
+      "lost": 182,
+      "rate": 73.78,
+      "count": 694
     }
   ],
   "top_odds": [
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.58,
-      "count": 2246
+      "rate": 78.59,
+      "count": 2247
     },
     {
       "odd": 1.98,
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.55,
-      "count": 3025
+      "rate": 77.56,
+      "count": 3026
     },
     {
       "odd": 1.76,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.88,
-      "count": 2919
+      "rate": 76.85,
+      "count": 2920
     },
     {
       "odd": 1.71,
@@ -599,13 +599,13 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.63,
-      "count": 5216
+      "rate": 76.64,
+      "count": 5218
     },
     {
       "odd": 1.1,
-      "rate": 76.45,
-      "count": 2993
+      "rate": 76.43,
+      "count": 2995
     },
     {
       "odd": 1.12,
@@ -614,8 +614,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 74.96,
-      "count": 2947
+      "rate": 74.97,
+      "count": 2948
     },
     {
       "odd": 1.13,
@@ -633,14 +633,14 @@
       "count": 2441
     },
     {
+      "odd": 1.17,
+      "rate": 73.49,
+      "count": 1490
+    },
+    {
       "odd": 1.95,
       "rate": 73.47,
       "count": 49
-    },
-    {
-      "odd": 1.17,
-      "rate": 73.44,
-      "count": 1491
     },
     {
       "odd": 1.68,
@@ -738,14 +738,6 @@
       "odds": "8.59",
       "prediction": "Total Goals 0-1",
       "date": "02.05.2026 14:00"
-    },
-    {
-      "match": "Sv Meppen vs Bremer SV",
-      "ht": "1 - 1",
-      "ft": "2 - 3",
-      "odds": "8.46",
-      "prediction": "Match Result 2",
-      "date": "02.05.2026 12:00"
     },
     {
       "match": "Dinamo Zagreb vs NK Slaven Belupo",
@@ -1058,6 +1050,14 @@
       "odds": "4.75",
       "prediction": "1st Half Over 2.5",
       "date": "07.01.2026 15:45"
+    },
+    {
+      "match": "FC Lausanne-Sport vs FC Zurich",
+      "ht": "3 - 0",
+      "ft": "3 - 0",
+      "odds": "4.62",
+      "prediction": "Handicap (0:2) 1",
+      "date": "25.04.2026 16:00"
     }
   ]
 }
