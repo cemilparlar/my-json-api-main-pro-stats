@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 48244,
-    "lost": 17555,
+    "won": 48285,
+    "lost": 17572,
     "rate": 73.3,
-    "total": 65799,
+    "total": 65857,
     "last_24h": {
-      "won": 301,
-      "lost": 104,
-      "rate": 74.3,
-      "total": 405
+      "won": 335,
+      "lost": 115,
+      "rate": 74.4,
+      "total": 450
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.5,
-      "count": 5643
+      "count": 5645
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.5,
-      "count": 16264
+      "count": 16266
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 21601
+      "count": 21655
     }
   ],
   "by_hour": [
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 73.0,
-      "count": 4941
+      "count": 4942
     },
     {
       "label": "13:00",
       "rate": 72.8,
-      "count": 5921
+      "count": 5922
     },
     {
       "label": "14:00",
@@ -82,12 +82,12 @@
     {
       "label": "16:00",
       "rate": 72.6,
-      "count": 4682
+      "count": 4681
     },
     {
       "label": "17:00",
       "rate": 72.9,
-      "count": 5986
+      "count": 5987
     },
     {
       "label": "18:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 7907
+      "count": 7908
     },
     {
       "label": "20:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.7,
-      "count": 4026
+      "count": 4081
     },
     {
       "label": "05:00",
@@ -452,31 +452,31 @@
     },
     {
       "name": "1st Half Under 2.5",
-      "won": 238,
+      "won": 240,
       "lost": 60,
-      "rate": 79.87,
-      "count": 298
+      "rate": 80.0,
+      "count": 300
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1156,
-      "lost": 316,
-      "rate": 78.53,
-      "count": 1472
+      "won": 1159,
+      "lost": 317,
+      "rate": 78.52,
+      "count": 1476
     },
     {
       "name": "Handicap (2:0) 1",
-      "won": 399,
-      "lost": 121,
-      "rate": 76.73,
-      "count": 520
+      "won": 400,
+      "lost": 122,
+      "rate": 76.63,
+      "count": 522
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 1011,
-      "lost": 316,
-      "rate": 76.19,
-      "count": 1327
+      "won": 1012,
+      "lost": 320,
+      "rate": 75.98,
+      "count": 1332
     },
     {
       "name": "Handicap (0:1) 1",
@@ -495,9 +495,9 @@
     {
       "name": "1st Half Double Chance 1X",
       "won": 3792,
-      "lost": 1269,
-      "rate": 74.93,
-      "count": 5061
+      "lost": 1270,
+      "rate": 74.91,
+      "count": 5062
     },
     {
       "name": "1st Half Under 0.5",
@@ -509,16 +509,16 @@
     {
       "name": "Double Chance 1X",
       "won": 4455,
-      "lost": 1524,
-      "rate": 74.51,
-      "count": 5979
+      "lost": 1526,
+      "rate": 74.49,
+      "count": 5981
     },
     {
       "name": "Double Chance 12",
-      "won": 8503,
+      "won": 8507,
       "lost": 2940,
-      "rate": 74.31,
-      "count": 11443
+      "rate": 74.32,
+      "count": 11447
     },
     {
       "name": "Handicap (1:0) 2",
@@ -529,31 +529,31 @@
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 3720,
-      "lost": 1304,
+      "won": 3721,
+      "lost": 1305,
       "rate": 74.04,
-      "count": 5024
+      "count": 5026
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2594,
-      "lost": 920,
+      "won": 2597,
+      "lost": 921,
       "rate": 73.82,
-      "count": 3514
-    },
-    {
-      "name": "Match Result 2",
-      "won": 510,
-      "lost": 181,
-      "rate": 73.81,
-      "count": 691
+      "count": 3518
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 3727,
+      "won": 3731,
       "lost": 1323,
-      "rate": 73.8,
-      "count": 5050
+      "rate": 73.82,
+      "count": 5054
+    },
+    {
+      "name": "Match Result 2",
+      "won": 512,
+      "lost": 182,
+      "rate": 73.78,
+      "count": 694
     }
   ],
   "top_odds": [
@@ -564,13 +564,13 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.41,
-      "count": 3575
+      "rate": 79.42,
+      "count": 3577
     },
     {
       "odd": 1.05,
-      "rate": 78.52,
-      "count": 2239
+      "rate": 78.53,
+      "count": 2240
     },
     {
       "odd": 1.98,
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.5,
-      "count": 3014
+      "rate": 77.49,
+      "count": 3017
     },
     {
       "odd": 1.76,
@@ -599,13 +599,13 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.64,
-      "count": 5198
+      "rate": 76.62,
+      "count": 5202
     },
     {
       "odd": 1.12,
       "rate": 76.42,
-      "count": 2790
+      "count": 2791
     },
     {
       "odd": 1.1,
@@ -614,13 +614,13 @@
     },
     {
       "odd": 1.11,
-      "rate": 74.93,
-      "count": 2936
+      "rate": 74.94,
+      "count": 2941
     },
     {
       "odd": 1.13,
-      "rate": 74.78,
-      "count": 3291
+      "rate": 74.79,
+      "count": 3292
     },
     {
       "odd": 1.97,
@@ -629,8 +629,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.0,
-      "count": 2435
+      "rate": 73.98,
+      "count": 2437
     },
     {
       "odd": 1.95,
@@ -644,8 +644,8 @@
     },
     {
       "odd": 1.17,
-      "rate": 73.39,
-      "count": 1488
+      "rate": 73.4,
+      "count": 1489
     },
     {
       "odd": 2.07,
@@ -654,8 +654,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.29,
-      "count": 3508
+      "rate": 73.3,
+      "count": 3510
     }
   ],
   "top_matches": [
@@ -868,6 +868,14 @@
       "date": "05.02.2026 00:30"
     },
     {
+      "match": "Jahn Regensburg vs Energie Cottbus",
+      "ht": "0 - 1",
+      "ft": "0 - 1",
+      "odds": "5.59",
+      "prediction": "Under 1.5 Goals",
+      "date": "16.05.2026 11:30"
+    },
+    {
       "match": "SC Bastia vs Montpellier HSC",
       "ht": "0 - 1",
       "ft": "0 - 2",
@@ -938,6 +946,14 @@
       "odds": "5.16",
       "prediction": "Under 1.5 Goals",
       "date": "14.02.2026 17:00"
+    },
+    {
+      "match": "Kauno Zalgiris vs Fa Siauliai",
+      "ht": "0 - 0",
+      "ft": "0 - 0",
+      "odds": "5.11",
+      "prediction": "Match Result X",
+      "date": "16.05.2026 11:15"
     },
     {
       "match": "US Sassuolo vs Como 1907",
@@ -1042,22 +1058,6 @@
       "odds": "4.62",
       "prediction": "Handicap (0:2) 1",
       "date": "25.04.2026 16:00"
-    },
-    {
-      "match": "Stade Rennais vs FC Metz",
-      "ht": "0 - 0",
-      "ft": "0 - 0",
-      "odds": "4.55",
-      "prediction": "Total Goals 0-1",
-      "date": "22.03.2026 16:15"
-    },
-    {
-      "match": "Newells Old Boys vs Estudiantes de La Plata",
-      "ht": "0 - 0",
-      "ft": "0 - 2",
-      "odds": "4.54",
-      "prediction": "HT/FT X/2",
-      "date": "25.02.2026 22:30"
     }
   ]
 }
