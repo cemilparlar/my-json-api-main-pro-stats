@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 49119,
-    "lost": 17870,
+    "won": 49127,
+    "lost": 17869,
     "rate": 73.3,
-    "total": 66989,
+    "total": 66996,
     "last_24h": {
-      "won": 322,
-      "lost": 119,
-      "rate": 73.0,
-      "total": 441
+      "won": 332,
+      "lost": 125,
+      "rate": 72.6,
+      "total": 457
     }
   },
   "by_day": [
@@ -25,12 +25,12 @@
     {
       "label": "Wednesday",
       "rate": 73.8,
-      "count": 4939
+      "count": 4938
     },
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 16476
+      "count": 16485
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 22587
+      "count": 22586
     }
   ],
   "by_hour": [
@@ -57,12 +57,12 @@
     {
       "label": "10:00",
       "rate": 73.0,
-      "count": 1898
+      "count": 1897
     },
     {
       "label": "12:00",
       "rate": 72.9,
-      "count": 5084
+      "count": 5085
     },
     {
       "label": "13:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 72.5,
-      "count": 4795
+      "count": 4794
     },
     {
       "label": "17:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.8,
-      "count": 4123
+      "count": 4133
     },
     {
       "label": "05:00",
@@ -116,8 +116,8 @@
     },
     {
       "label": "09:00",
-      "rate": 72.8,
-      "count": 618
+      "rate": 72.9,
+      "count": 617
     },
     {
       "label": "22:00",
@@ -136,8 +136,8 @@
     },
     {
       "label": "07:00",
-      "rate": 72.5,
-      "count": 888
+      "rate": 72.6,
+      "count": 887
     },
     {
       "label": "23:00",
@@ -257,6 +257,11 @@
       "count": 21
     },
     {
+      "team": "Ha Noi FC",
+      "rate": 90.0,
+      "count": 20
+    },
+    {
       "team": "Sport Boys",
       "rate": 90.0,
       "count": 20
@@ -265,11 +270,6 @@
       "team": "Newtown AFC",
       "rate": 90.0,
       "count": 20
-    },
-    {
-      "team": "Fa 2000",
-      "rate": 89.66,
-      "count": 29
     }
   ],
   "top_leagues": [
@@ -460,9 +460,9 @@
     {
       "name": "Under 4.5 Goals",
       "won": 1198,
-      "lost": 327,
-      "rate": 78.56,
-      "count": 1525
+      "lost": 328,
+      "rate": 78.51,
+      "count": 1526
     },
     {
       "name": "Handicap (2:0) 1",
@@ -473,17 +473,17 @@
     },
     {
       "name": "Handicap (0:1) 1",
-      "won": 128,
+      "won": 127,
       "lost": 40,
-      "rate": 76.19,
-      "count": 168
+      "rate": 76.05,
+      "count": 167
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 1023,
+      "won": 1024,
       "lost": 326,
-      "rate": 75.83,
-      "count": 1349
+      "rate": 75.85,
+      "count": 1350
     },
     {
       "name": "1st Half Under 0.5",
@@ -501,10 +501,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 3851,
-      "lost": 1302,
-      "rate": 74.73,
-      "count": 5153
+      "won": 3852,
+      "lost": 1303,
+      "rate": 74.72,
+      "count": 5155
     },
     {
       "name": "Handicap (1:0) 2",
@@ -515,24 +515,17 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 8681,
+      "won": 8683,
       "lost": 2985,
-      "rate": 74.41,
-      "count": 11666
+      "rate": 74.42,
+      "count": 11668
     },
     {
       "name": "Double Chance 1X",
-      "won": 4531,
+      "won": 4532,
       "lost": 1560,
       "rate": 74.39,
-      "count": 6091
-    },
-    {
-      "name": "Over 1.5 Goals",
-      "won": 3776,
-      "lost": 1326,
-      "rate": 74.01,
-      "count": 5102
+      "count": 6092
     },
     {
       "name": "Match Result 2",
@@ -542,11 +535,18 @@
       "count": 704
     },
     {
+      "name": "Over 1.5 Goals",
+      "won": 3777,
+      "lost": 1327,
+      "rate": 74.0,
+      "count": 5104
+    },
+    {
       "name": "1st Half Double Chance X2",
-      "won": 2636,
+      "won": 2637,
       "lost": 937,
       "rate": 73.78,
-      "count": 3573
+      "count": 3574
     },
     {
       "name": "Under 3.5 Goals",
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.4,
-      "count": 3057
+      "rate": 77.42,
+      "count": 3060
     },
     {
       "odd": 1.76,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.59,
-      "count": 5332
+      "rate": 76.58,
+      "count": 5334
     },
     {
       "odd": 1.12,
@@ -599,8 +599,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.23,
-      "count": 3038
+      "rate": 76.25,
+      "count": 3040
     },
     {
       "odd": 1.98,
@@ -614,18 +614,18 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.08,
-      "count": 2981
+      "rate": 75.05,
+      "count": 2982
     },
     {
       "odd": 1.13,
-      "rate": 74.72,
-      "count": 3335
+      "rate": 74.73,
+      "count": 3336
     },
     {
       "odd": 1.14,
-      "rate": 74.06,
-      "count": 2479
+      "rate": 74.03,
+      "count": 2480
     },
     {
       "odd": 1.95,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.17,
-      "rate": 73.56,
-      "count": 1509
+      "rate": 73.61,
+      "count": 1508
     },
     {
       "odd": 1.77,
@@ -645,7 +645,7 @@
     {
       "odd": 1.15,
       "rate": 73.41,
-      "count": 3576
+      "count": 3577
     },
     {
       "odd": 2.07,
