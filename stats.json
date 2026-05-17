@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 49127,
-    "lost": 17869,
+    "won": 49138,
+    "lost": 17871,
     "rate": 73.3,
-    "total": 66996,
+    "total": 67009,
     "last_24h": {
-      "won": 309,
-      "lost": 114,
-      "rate": 73.0,
-      "total": 423
+      "won": 322,
+      "lost": 120,
+      "rate": 72.9,
+      "total": 442
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.5,
-      "count": 5646
+      "count": 5645
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 16485
+      "count": 16500
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 22586
+      "count": 22585
     }
   ],
   "by_hour": [
@@ -61,8 +61,8 @@
     },
     {
       "label": "12:00",
-      "rate": 72.9,
-      "count": 5085
+      "rate": 72.8,
+      "count": 5093
     },
     {
       "label": "13:00",
@@ -77,12 +77,12 @@
     {
       "label": "15:00",
       "rate": 73.8,
-      "count": 7280
+      "count": 7278
     },
     {
       "label": "16:00",
-      "rate": 72.5,
-      "count": 4794
+      "rate": 72.6,
+      "count": 4790
     },
     {
       "label": "17:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 7954
+      "count": 7953
     },
     {
       "label": "20:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.8,
-      "count": 4133
+      "count": 4145
     },
     {
       "label": "05:00",
@@ -116,8 +116,8 @@
     },
     {
       "label": "09:00",
-      "rate": 72.9,
-      "count": 617
+      "rate": 73.1,
+      "count": 616
     },
     {
       "label": "22:00",
@@ -136,8 +136,8 @@
     },
     {
       "label": "07:00",
-      "rate": 72.6,
-      "count": 887
+      "rate": 72.5,
+      "count": 888
     },
     {
       "label": "23:00",
@@ -501,10 +501,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 3852,
+      "won": 3855,
       "lost": 1303,
-      "rate": 74.72,
-      "count": 5155
+      "rate": 74.74,
+      "count": 5158
     },
     {
       "name": "Handicap (1:0) 2",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 8683,
-      "lost": 2985,
+      "won": 8686,
+      "lost": 2986,
       "rate": 74.42,
-      "count": 11668
+      "count": 11672
     },
     {
       "name": "Double Chance 1X",
@@ -529,10 +529,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 521,
+      "won": 522,
       "lost": 183,
-      "rate": 74.01,
-      "count": 704
+      "rate": 74.04,
+      "count": 705
     },
     {
       "name": "Over 1.5 Goals",
@@ -543,17 +543,17 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2637,
+      "won": 2638,
       "lost": 937,
-      "rate": 73.78,
-      "count": 3574
+      "rate": 73.79,
+      "count": 3575
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 3778,
+      "won": 3780,
       "lost": 1345,
-      "rate": 73.75,
-      "count": 5123
+      "rate": 73.76,
+      "count": 5125
     }
   ],
   "top_odds": [
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.34,
-      "count": 3654
+      "rate": 79.32,
+      "count": 3655
     },
     {
       "odd": 1.05,
@@ -584,13 +584,13 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.76,
-      "count": 2969
+      "rate": 76.75,
+      "count": 2972
     },
     {
       "odd": 1.09,
-      "rate": 76.58,
-      "count": 5334
+      "rate": 76.59,
+      "count": 5336
     },
     {
       "odd": 1.12,
@@ -614,13 +614,13 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.05,
+      "rate": 75.12,
       "count": 2982
     },
     {
       "odd": 1.13,
-      "rate": 74.73,
-      "count": 3336
+      "rate": 74.72,
+      "count": 3335
     },
     {
       "odd": 1.14,
@@ -638,14 +638,14 @@
       "count": 1508
     },
     {
+      "odd": 1.15,
+      "rate": 73.42,
+      "count": 3578
+    },
+    {
       "odd": 1.77,
       "rate": 73.42,
       "count": 79
-    },
-    {
-      "odd": 1.15,
-      "rate": 73.41,
-      "count": 3577
     },
     {
       "odd": 2.07,
@@ -762,6 +762,14 @@
       "odds": "8.18",
       "prediction": "Match Result 1",
       "date": "14.01.2026 20:00"
+    },
+    {
+      "match": "Bss Monor vs Honved Ii",
+      "ht": "0 - 0",
+      "ft": "0 - 1",
+      "odds": "8.06",
+      "prediction": "Match Result 2",
+      "date": "17.05.2026 12:00"
     },
     {
       "match": "FC Groningen vs FC Utrecht",
@@ -1050,14 +1058,6 @@
       "odds": "4.75",
       "prediction": "1st Half Over 2.5",
       "date": "07.01.2026 15:45"
-    },
-    {
-      "match": "FC Lausanne-Sport vs FC Zurich",
-      "ht": "3 - 0",
-      "ft": "3 - 0",
-      "odds": "4.62",
-      "prediction": "Handicap (0:2) 1",
-      "date": "25.04.2026 16:00"
     }
   ]
 }
