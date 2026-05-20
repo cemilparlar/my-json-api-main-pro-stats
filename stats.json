@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 49907,
-    "lost": 18174,
+    "won": 49924,
+    "lost": 18183,
     "rate": 73.3,
-    "total": 68081,
+    "total": 68107,
     "last_24h": {
-      "won": 42,
-      "lost": 14,
-      "rate": 75.0,
-      "total": 56
+      "won": 59,
+      "lost": 21,
+      "rate": 73.8,
+      "total": 80
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 73.9,
-      "count": 4988
+      "count": 5012
     },
     {
       "label": "Sunday",
@@ -39,8 +39,8 @@
     },
     {
       "label": "Friday",
-      "rate": 73.2,
-      "count": 9496
+      "rate": 73.1,
+      "count": 9498
     },
     {
       "label": "Saturday",
@@ -72,22 +72,22 @@
     {
       "label": "14:00",
       "rate": 73.2,
-      "count": 7402
+      "count": 7405
     },
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 7431
+      "count": 7436
     },
     {
       "label": "16:00",
       "rate": 72.6,
-      "count": 4881
+      "count": 4897
     },
     {
       "label": "17:00",
-      "rate": 73.0,
-      "count": 6204
+      "rate": 72.9,
+      "count": 6205
     },
     {
       "label": "18:00",
@@ -116,8 +116,8 @@
     },
     {
       "label": "09:00",
-      "rate": 72.5,
-      "count": 621
+      "rate": 72.3,
+      "count": 622
     },
     {
       "label": "22:00",
@@ -202,6 +202,11 @@
       "count": 20
     },
     {
+      "team": "Dziugas Telsia",
+      "rate": 92.31,
+      "count": 26
+    },
+    {
       "team": "Fc Tatabánya",
       "rate": 92.31,
       "count": 26
@@ -213,11 +218,6 @@
     },
     {
       "team": "Niger Tornadoes",
-      "rate": 91.3,
-      "count": 23
-    },
-    {
-      "team": "Dziugas Telsia",
       "rate": 91.3,
       "count": 23
     },
@@ -323,6 +323,13 @@
       "count": 20
     },
     {
+      "name": " LITK",
+      "won": 8,
+      "lost": 1,
+      "rate": 88.89,
+      "count": 9
+    },
+    {
       "name": "UMMSK",
       "won": 7,
       "lost": 1,
@@ -365,6 +372,13 @@
       "count": 7
     },
     {
+      "name": " USL2",
+      "won": 6,
+      "lost": 1,
+      "rate": 85.71,
+      "count": 7
+    },
+    {
       "name": "VİETK",
       "won": 11,
       "lost": 2,
@@ -398,20 +412,6 @@
       "lost": 8,
       "rate": 82.98,
       "count": 47
-    },
-    {
-      "name": "AFCAKŞ",
-      "won": 51,
-      "lost": 11,
-      "rate": 82.26,
-      "count": 62
-    },
-    {
-      "name": "CZYRK",
-      "won": 23,
-      "lost": 5,
-      "rate": 82.14,
-      "count": 28
     }
   ],
   "top_predictions": [
@@ -431,10 +431,10 @@
     },
     {
       "name": "HT/FT 2/2",
-      "won": 22,
+      "won": 23,
       "lost": 3,
-      "rate": 88.0,
-      "count": 25
+      "rate": 88.46,
+      "count": 26
     },
     {
       "name": "HT/FT X/X",
@@ -453,16 +453,16 @@
     {
       "name": "1st Half Under 2.5",
       "won": 261,
-      "lost": 61,
-      "rate": 81.06,
-      "count": 322
+      "lost": 62,
+      "rate": 80.8,
+      "count": 323
     },
     {
       "name": "Under 4.5 Goals",
       "won": 1220,
-      "lost": 337,
-      "rate": 78.36,
-      "count": 1557
+      "lost": 338,
+      "rate": 78.31,
+      "count": 1558
     },
     {
       "name": "Handicap (2:0) 1",
@@ -508,10 +508,17 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 3918,
+      "won": 3919,
       "lost": 1325,
       "rate": 74.73,
-      "count": 5243
+      "count": 5244
+    },
+    {
+      "name": "Handicap (1:0) 2",
+      "won": 56,
+      "lost": 19,
+      "rate": 74.67,
+      "count": 75
     },
     {
       "name": "Double Chance 1X",
@@ -522,38 +529,31 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 8814,
+      "won": 8817,
       "lost": 3040,
-      "rate": 74.35,
-      "count": 11854
-    },
-    {
-      "name": "Handicap (1:0) 2",
-      "won": 55,
-      "lost": 19,
-      "rate": 74.32,
-      "count": 74
+      "rate": 74.36,
+      "count": 11857
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 3828,
-      "lost": 1343,
-      "rate": 74.03,
-      "count": 5171
+      "won": 3829,
+      "lost": 1344,
+      "rate": 74.02,
+      "count": 5173
     },
     {
       "name": "Match Result 2",
-      "won": 530,
-      "lost": 186,
-      "rate": 74.02,
-      "count": 716
+      "won": 532,
+      "lost": 187,
+      "rate": 73.99,
+      "count": 719
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 2683,
+      "won": 2684,
       "lost": 952,
-      "rate": 73.81,
-      "count": 3635
+      "rate": 73.82,
+      "count": 3636
     }
   ],
   "top_odds": [
@@ -564,18 +564,18 @@
     },
     {
       "odd": 1.06,
-      "rate": 79.29,
-      "count": 3718
+      "rate": 79.3,
+      "count": 3720
     },
     {
       "odd": 1.05,
-      "rate": 78.53,
-      "count": 2343
+      "rate": 78.54,
+      "count": 2344
     },
     {
       "odd": 1.07,
-      "rate": 77.22,
-      "count": 3117
+      "rate": 77.23,
+      "count": 3118
     },
     {
       "odd": 1.76,
@@ -589,18 +589,18 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.54,
-      "count": 5427
+      "rate": 76.53,
+      "count": 5429
     },
     {
       "odd": 1.12,
-      "rate": 76.25,
-      "count": 2876
+      "rate": 76.27,
+      "count": 2878
     },
     {
       "odd": 1.1,
-      "rate": 76.1,
-      "count": 3088
+      "rate": 76.12,
+      "count": 3090
     },
     {
       "odd": 1.98,
@@ -624,8 +624,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.61,
-      "count": 3376
+      "rate": 74.59,
+      "count": 3377
     },
     {
       "odd": 1.14,
@@ -639,8 +639,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.45,
-      "count": 3639
+      "rate": 73.44,
+      "count": 3641
     },
     {
       "odd": 2.07,
@@ -653,9 +653,9 @@
       "count": 30
     },
     {
-      "odd": 1.17,
-      "rate": 73.09,
-      "count": 1542
+      "odd": 1.23,
+      "rate": 73.11,
+      "count": 1030
     }
   ],
   "top_matches": [
