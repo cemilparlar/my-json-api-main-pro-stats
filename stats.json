@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 50014,
-    "lost": 18238,
+    "won": 50015,
+    "lost": 18242,
     "rate": 73.3,
-    "total": 68252,
+    "total": 68257,
     "last_24h": {
-      "won": 143,
+      "won": 144,
       "lost": 66,
-      "rate": 68.4,
-      "total": 209
+      "rate": 68.6,
+      "total": 210
     }
   },
   "by_day": [
@@ -20,12 +20,12 @@
     {
       "label": "Tuesday",
       "rate": 73.5,
-      "count": 5760
+      "count": 5761
     },
     {
       "label": "Wednesday",
       "rate": 73.6,
-      "count": 5149
+      "count": 5153
     },
     {
       "label": "Sunday",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 7437
+      "count": 7438
     },
     {
       "label": "16:00",
@@ -92,7 +92,7 @@
     {
       "label": "18:00",
       "rate": 72.9,
-      "count": 5785
+      "count": 5787
     },
     {
       "label": "19:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 73.8,
-      "count": 2704
+      "count": 2706
     },
     {
       "label": "11:00",
@@ -351,13 +351,6 @@
       "count": 8
     },
     {
-      "name": " FİK",
-      "won": 21,
-      "lost": 3,
-      "rate": 87.5,
-      "count": 24
-    },
-    {
       "name": "ŞİLİSK",
       "won": 6,
       "lost": 1,
@@ -391,6 +384,13 @@
       "lost": 2,
       "rate": 84.62,
       "count": 13
+    },
+    {
+      "name": " FİK",
+      "won": 21,
+      "lost": 4,
+      "rate": 84.0,
+      "count": 25
     },
     {
       "name": "CON",
@@ -542,18 +542,18 @@
       "count": 5183
     },
     {
-      "name": "Match Result 2",
-      "won": 534,
-      "lost": 189,
-      "rate": 73.86,
-      "count": 723
-    },
-    {
       "name": "1st Half Double Chance X2",
       "won": 2691,
       "lost": 955,
       "rate": 73.81,
       "count": 3646
+    },
+    {
+      "name": "Match Result 2",
+      "won": 534,
+      "lost": 190,
+      "rate": 73.76,
+      "count": 724
     }
   ],
   "top_odds": [
