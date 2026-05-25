@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 51699,
-    "lost": 18801,
+    "won": 51698,
+    "lost": 18802,
     "rate": 73.3,
     "total": 70500,
     "last_24h": {
       "won": 439,
-      "lost": 179,
-      "rate": 71.0,
-      "total": 618
+      "lost": 180,
+      "rate": 70.9,
+      "total": 619
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 17870
+      "count": 17871
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 23842
+      "count": 23841
     }
   ],
   "by_hour": [
@@ -121,7 +121,7 @@
     },
     {
       "label": "22:00",
-      "rate": 74.5,
+      "rate": 74.4,
       "count": 1122
     },
     {
@@ -530,9 +530,9 @@
     {
       "name": "Over 1.5 Goals",
       "won": 3951,
-      "lost": 1381,
-      "rate": 74.1,
-      "count": 5332
+      "lost": 1382,
+      "rate": 74.09,
+      "count": 5333
     },
     {
       "name": "Match Result 2",
