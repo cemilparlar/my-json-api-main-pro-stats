@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 51956,
-    "lost": 18904,
+    "won": 51960,
+    "lost": 18906,
     "rate": 73.3,
-    "total": 70860,
+    "total": 70866,
     "last_24h": {
-      "won": 29,
-      "lost": 9,
-      "rate": 76.3,
-      "total": 38
+      "won": 33,
+      "lost": 10,
+      "rate": 76.7,
+      "total": 43
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 73.6,
-      "count": 5170
+      "count": 5176
     },
     {
       "label": "Sunday",
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 73.0,
-      "count": 5383
+      "count": 5386
     },
     {
       "label": "13:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 8218
+      "count": 8219
     },
     {
       "label": "20:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.8,
-      "count": 4366
+      "count": 4368
     },
     {
       "label": "05:00",
@@ -393,6 +393,13 @@
       "count": 47
     },
     {
+      "name": "AFCAKŞ",
+      "won": 53,
+      "lost": 11,
+      "rate": 82.81,
+      "count": 64
+    },
+    {
       "name": "MLTAK",
       "won": 14,
       "lost": 3,
@@ -405,13 +412,6 @@
       "lost": 3,
       "rate": 82.35,
       "count": 17
-    },
-    {
-      "name": "AFCAKŞ",
-      "won": 51,
-      "lost": 11,
-      "rate": 82.26,
-      "count": 62
     }
   ],
   "top_predictions": [
@@ -523,16 +523,16 @@
     {
       "name": "Double Chance 12",
       "won": 9227,
-      "lost": 3180,
-      "rate": 74.37,
-      "count": 12407
+      "lost": 3181,
+      "rate": 74.36,
+      "count": 12408
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 3964,
+      "won": 3965,
       "lost": 1389,
-      "rate": 74.05,
-      "count": 5353
+      "rate": 74.06,
+      "count": 5354
     },
     {
       "name": "Match Result 2",
@@ -559,8 +559,8 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.5,
-      "count": 3863
+      "rate": 79.48,
+      "count": 3865
     },
     {
       "odd": 1.75,
@@ -575,7 +575,7 @@
     {
       "odd": 1.07,
       "rate": 77.36,
-      "count": 3246
+      "count": 3247
     },
     {
       "odd": 1.98,
@@ -640,7 +640,7 @@
     {
       "odd": 1.15,
       "rate": 73.27,
-      "count": 3793
+      "count": 3794
     },
     {
       "odd": 1.17,
