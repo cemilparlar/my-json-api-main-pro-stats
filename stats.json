@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 52741,
-    "lost": 19198,
+    "won": 52754,
+    "lost": 19205,
     "rate": 73.3,
-    "total": 71939,
+    "total": 71959,
     "last_24h": {
-      "won": 85,
-      "lost": 33,
-      "rate": 72.0,
-      "total": 118
+      "won": 98,
+      "lost": 40,
+      "rate": 71.0,
+      "total": 138
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.9,
-      "count": 4851
+      "count": 4852
     },
     {
       "label": "Tuesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 17910
+      "count": 17928
     },
     {
       "label": "Thursday",
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.2,
-      "count": 10079
+      "count": 10080
     },
     {
       "label": "Saturday",
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 72.6,
-      "count": 1987
+      "count": 1989
     },
     {
       "label": "12:00",
@@ -102,12 +102,12 @@
     {
       "label": "20:00",
       "rate": 73.6,
-      "count": 2761
+      "count": 2762
     },
     {
       "label": "11:00",
       "rate": 73.5,
-      "count": 4489
+      "count": 4507
     },
     {
       "label": "05:00",
@@ -136,8 +136,8 @@
     },
     {
       "label": "07:00",
-      "rate": 72.5,
-      "count": 997
+      "rate": 72.6,
+      "count": 996
     },
     {
       "label": "23:00",
@@ -237,11 +237,6 @@
       "count": 24
     },
     {
-      "team": "Ha Noi FC",
-      "rate": 91.3,
-      "count": 23
-    },
-    {
       "team": "NK Bilje",
       "rate": 91.3,
       "count": 23
@@ -270,6 +265,11 @@
       "team": "Angby",
       "rate": 90.48,
       "count": 21
+    },
+    {
+      "team": "Excelsior Maassluis",
+      "rate": 90.0,
+      "count": 20
     }
   ],
   "top_leagues": [
@@ -460,9 +460,9 @@
     {
       "name": "Under 4.5 Goals",
       "won": 1318,
-      "lost": 366,
-      "rate": 78.27,
-      "count": 1684
+      "lost": 367,
+      "rate": 78.22,
+      "count": 1685
     },
     {
       "name": "1st Half Under 0.5",
@@ -515,10 +515,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4167,
-      "lost": 1401,
+      "won": 4170,
+      "lost": 1402,
       "rate": 74.84,
-      "count": 5568
+      "count": 5572
     },
     {
       "name": "Double Chance 1X",
@@ -536,31 +536,31 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 9393,
-      "lost": 3243,
-      "rate": 74.34,
-      "count": 12636
+      "won": 9396,
+      "lost": 3245,
+      "rate": 74.33,
+      "count": 12641
     },
     {
       "name": "Over 1.5 Goals",
       "won": 4017,
-      "lost": 1419,
-      "rate": 73.9,
-      "count": 5436
+      "lost": 1420,
+      "rate": 73.88,
+      "count": 5437
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 4044,
-      "lost": 1430,
-      "rate": 73.88,
-      "count": 5474
+      "won": 4045,
+      "lost": 1431,
+      "rate": 73.87,
+      "count": 5476
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.6,
-      "count": 3917
+      "rate": 79.61,
+      "count": 3918
     },
     {
       "odd": 1.75,
@@ -580,27 +580,27 @@
     {
       "odd": 1.07,
       "rate": 77.33,
-      "count": 3321
+      "count": 3322
     },
     {
       "odd": 1.09,
-      "rate": 76.64,
-      "count": 5791
+      "rate": 76.63,
+      "count": 5794
     },
     {
       "odd": 1.08,
       "rate": 76.41,
-      "count": 3269
+      "count": 3272
     },
     {
       "odd": 1.1,
       "rate": 76.34,
-      "count": 3254
+      "count": 3255
     },
     {
       "odd": 1.12,
-      "rate": 76.23,
-      "count": 3038
+      "rate": 76.18,
+      "count": 3040
     },
     {
       "odd": 1.98,
@@ -615,7 +615,7 @@
     {
       "odd": 1.11,
       "rate": 75.02,
-      "count": 3226
+      "count": 3227
     },
     {
       "odd": 1.13,
@@ -640,7 +640,7 @@
     {
       "odd": 1.15,
       "rate": 73.36,
-      "count": 3862
+      "count": 3863
     },
     {
       "odd": 2.07,
