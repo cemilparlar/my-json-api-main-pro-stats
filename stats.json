@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 53040,
-    "lost": 19303,
+    "won": 53041,
+    "lost": 19301,
     "rate": 73.3,
-    "total": 72343,
+    "total": 72342,
     "last_24h": {
-      "won": 81,
-      "lost": 34,
-      "rate": 70.4,
-      "total": 115
+      "won": 82,
+      "lost": 36,
+      "rate": 69.5,
+      "total": 118
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 73.0,
-      "count": 4852
+      "count": 4853
     },
     {
       "label": "Tuesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 18305
+      "count": 18304
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 24381
+      "count": 24380
     }
   ],
   "by_hour": [
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 73.0,
-      "count": 5510
+      "count": 5509
     },
     {
       "label": "13:00",
@@ -77,12 +77,12 @@
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 8055
+      "count": 8054
     },
     {
       "label": "16:00",
       "rate": 72.6,
-      "count": 5263
+      "count": 5262
     },
     {
       "label": "17:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 8337
+      "count": 8336
     },
     {
       "label": "20:00",
@@ -106,8 +106,8 @@
     },
     {
       "label": "11:00",
-      "rate": 73.6,
-      "count": 4526
+      "rate": 73.5,
+      "count": 4529
     },
     {
       "label": "05:00",
@@ -530,9 +530,16 @@
     {
       "name": "Double Chance 12",
       "won": 9448,
-      "lost": 3260,
-      "rate": 74.35,
-      "count": 12708
+      "lost": 3261,
+      "rate": 74.34,
+      "count": 12709
+    },
+    {
+      "name": "Handicap (0:1) 1",
+      "won": 130,
+      "lost": 45,
+      "rate": 74.29,
+      "count": 175
     },
     {
       "name": "Under 3.5 Goals",
@@ -547,13 +554,6 @@
       "lost": 1429,
       "rate": 73.86,
       "count": 5466
-    },
-    {
-      "name": "Handicap (0:1) 1",
-      "won": 130,
-      "lost": 46,
-      "rate": 73.86,
-      "count": 176
     }
   ],
   "top_odds": [
@@ -594,13 +594,13 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.37,
-      "count": 3271
+      "rate": 76.38,
+      "count": 3272
     },
     {
       "odd": 1.12,
-      "rate": 76.18,
-      "count": 3056
+      "rate": 76.15,
+      "count": 3057
     },
     {
       "odd": 1.77,
