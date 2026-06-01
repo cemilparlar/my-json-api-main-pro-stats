@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 53038,
-    "lost": 19301,
+    "won": 53040,
+    "lost": 19303,
     "rate": 73.3,
-    "total": 72339,
+    "total": 72343,
     "last_24h": {
-      "won": 97,
-      "lost": 42,
-      "rate": 69.8,
-      "total": 139
+      "won": 81,
+      "lost": 34,
+      "rate": 70.4,
+      "total": 115
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 73.0,
-      "count": 4848
+      "count": 4852
     },
     {
       "label": "Tuesday",
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 72.7,
-      "count": 1988
+      "count": 1992
     },
     {
       "label": "12:00",
@@ -222,17 +222,17 @@
       "count": 26
     },
     {
+      "team": "Melbourne Knights",
+      "rate": 92.31,
+      "count": 26
+    },
+    {
       "team": "Fc Tatabánya",
       "rate": 92.31,
       "count": 26
     },
     {
       "team": "Niger Tornadoes",
-      "rate": 91.67,
-      "count": 24
-    },
-    {
-      "team": "Melbourne Knights",
       "rate": 91.67,
       "count": 24
     },
@@ -529,17 +529,17 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 9447,
+      "won": 9448,
       "lost": 3260,
-      "rate": 74.34,
-      "count": 12707
+      "rate": 74.35,
+      "count": 12708
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 4061,
+      "won": 4062,
       "lost": 1436,
       "rate": 73.88,
-      "count": 5497
+      "count": 5498
     },
     {
       "name": "Over 1.5 Goals",
@@ -580,7 +580,7 @@
     {
       "odd": 1.07,
       "rate": 77.34,
-      "count": 3336
+      "count": 3337
     },
     {
       "odd": 1.09,
@@ -633,14 +633,14 @@
       "count": 53
     },
     {
-      "odd": 1.15,
-      "rate": 73.44,
-      "count": 3890
-    },
-    {
       "odd": 1.71,
       "rate": 73.44,
       "count": 64
+    },
+    {
+      "odd": 1.15,
+      "rate": 73.43,
+      "count": 3891
     },
     {
       "odd": 2.07,
