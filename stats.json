@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 53100,
-    "lost": 19332,
+    "won": 53110,
+    "lost": 19337,
     "rate": 73.3,
-    "total": 72432,
+    "total": 72447,
     "last_24h": {
-      "won": 17,
-      "lost": 6,
-      "rate": 73.9,
-      "total": 23
+      "won": 24,
+      "lost": 9,
+      "rate": 72.7,
+      "total": 33
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.8,
-      "count": 4917
+      "count": 4918
     },
     {
       "label": "Tuesday",
-      "rate": 73.4,
-      "count": 5898
+      "rate": 73.5,
+      "count": 5911
     },
     {
       "label": "Wednesday",
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.2,
-      "count": 10086
+      "count": 10087
     },
     {
       "label": "Saturday",
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 72.7,
-      "count": 1993
+      "count": 1996
     },
     {
       "label": "12:00",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.6,
-      "count": 8075
+      "count": 8087
     },
     {
       "label": "16:00",
@@ -202,11 +202,6 @@
       "count": 20
     },
     {
-      "team": "Vjs",
-      "rate": 94.59,
-      "count": 37
-    },
-    {
       "team": "Dziugas Telsia",
       "rate": 94.12,
       "count": 34
@@ -215,6 +210,11 @@
       "team": "Kvik Halden",
       "rate": 92.59,
       "count": 27
+    },
+    {
+      "team": "Vjs",
+      "rate": 92.5,
+      "count": 40
     },
     {
       "team": "Quick Boys",
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1328,
+      "won": 1329,
       "lost": 377,
-      "rate": 77.89,
-      "count": 1705
+      "rate": 77.9,
+      "count": 1706
     },
     {
       "name": "1st Half Under 0.5",
@@ -508,10 +508,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4200,
+      "won": 4201,
       "lost": 1410,
       "rate": 74.87,
-      "count": 5610
+      "count": 5611
     },
     {
       "name": "Handicap (1:0) 2",
@@ -522,17 +522,17 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 4910,
+      "won": 4912,
       "lost": 1673,
       "rate": 74.59,
-      "count": 6583
+      "count": 6585
     },
     {
       "name": "Double Chance 12",
-      "won": 9463,
-      "lost": 3267,
-      "rate": 74.34,
-      "count": 12730
+      "won": 9465,
+      "lost": 3269,
+      "rate": 74.33,
+      "count": 12734
     },
     {
       "name": "Handicap (0:1) 1",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 4038,
-      "lost": 1430,
-      "rate": 73.85,
-      "count": 5468
+      "won": 4039,
+      "lost": 1431,
+      "rate": 73.84,
+      "count": 5470
     }
   ],
   "top_odds": [
@@ -579,23 +579,23 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.35,
-      "count": 3338
+      "rate": 77.36,
+      "count": 3339
     },
     {
       "odd": 1.09,
       "rate": 76.61,
-      "count": 5837
+      "count": 5839
     },
     {
       "odd": 1.1,
       "rate": 76.4,
-      "count": 3275
+      "count": 3276
     },
     {
       "odd": 1.08,
-      "rate": 76.37,
-      "count": 3297
+      "rate": 76.38,
+      "count": 3298
     },
     {
       "odd": 1.12,
@@ -610,7 +610,12 @@
     {
       "odd": 1.11,
       "rate": 74.98,
-      "count": 3253
+      "count": 3254
+    },
+    {
+      "odd": 1.13,
+      "rate": 74.7,
+      "count": 3522
     },
     {
       "odd": 1.77,
@@ -618,14 +623,9 @@
       "count": 83
     },
     {
-      "odd": 1.13,
-      "rate": 74.69,
-      "count": 3521
-    },
-    {
       "odd": 1.14,
-      "rate": 74.05,
-      "count": 2651
+      "rate": 74.06,
+      "count": 2652
     },
     {
       "odd": 1.95,
@@ -639,8 +639,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.42,
-      "count": 3898
+      "rate": 73.4,
+      "count": 3899
     },
     {
       "odd": 2.07,
