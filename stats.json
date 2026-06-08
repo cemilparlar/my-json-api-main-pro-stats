@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 53856,
-    "lost": 19622,
+    "won": 53858,
+    "lost": 19624,
     "rate": 73.3,
-    "total": 73478,
+    "total": 73482,
     "last_24h": {
-      "won": 10,
-      "lost": 5,
-      "rate": 66.7,
-      "total": 15
+      "won": 12,
+      "lost": 9,
+      "rate": 57.1,
+      "total": 21
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.9,
-      "count": 4927
+      "count": 4933
     },
     {
       "label": "Tuesday",
       "rate": 73.5,
-      "count": 5938
+      "count": 5937
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 18518
+      "count": 18517
     },
     {
       "label": "Thursday",
@@ -92,7 +92,7 @@
     {
       "label": "18:00",
       "rate": 72.8,
-      "count": 6222
+      "count": 6223
     },
     {
       "label": "19:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 73.4,
-      "count": 2802
+      "count": 2806
     },
     {
       "label": "11:00",
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 74.4,
-      "count": 1219
+      "rate": 74.5,
+      "count": 1218
     },
     {
       "label": "01:00",
@@ -551,9 +551,9 @@
     {
       "name": "Over 1.5 Goals",
       "won": 4083,
-      "lost": 1447,
-      "rate": 73.83,
-      "count": 5530
+      "lost": 1448,
+      "rate": 73.82,
+      "count": 5531
     }
   ],
   "top_odds": [
@@ -585,7 +585,7 @@
     {
       "odd": 1.09,
       "rate": 76.68,
-      "count": 5938
+      "count": 5939
     },
     {
       "odd": 1.98,
@@ -633,11 +633,6 @@
       "count": 3942
     },
     {
-      "odd": 1.71,
-      "rate": 73.44,
-      "count": 64
-    },
-    {
       "odd": 1.77,
       "rate": 72.94,
       "count": 85
@@ -651,6 +646,11 @@
       "odd": 1.97,
       "rate": 72.5,
       "count": 40
+    },
+    {
+      "odd": 1.71,
+      "rate": 72.31,
+      "count": 65
     },
     {
       "odd": 1.19,
