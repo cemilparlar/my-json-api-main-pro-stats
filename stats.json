@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 53865,
-    "lost": 19626,
+    "won": 53868,
+    "lost": 19628,
     "rate": 73.3,
-    "total": 73491,
+    "total": 73496,
     "last_24h": {
-      "won": 11,
+      "won": 14,
       "lost": 5,
-      "rate": 68.8,
-      "total": 16
+      "rate": 73.7,
+      "total": 19
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.5,
-      "count": 5945
+      "count": 5950
     },
     {
       "label": "Wednesday",
@@ -61,8 +61,8 @@
     },
     {
       "label": "12:00",
-      "rate": 72.9,
-      "count": 5574
+      "rate": 73.0,
+      "count": 5577
     },
     {
       "label": "13:00",
@@ -82,12 +82,12 @@
     {
       "label": "16:00",
       "rate": 72.6,
-      "count": 5368
+      "count": 5369
     },
     {
       "label": "17:00",
       "rate": 72.8,
-      "count": 6647
+      "count": 6648
     },
     {
       "label": "18:00",
@@ -197,6 +197,11 @@
       "count": 20
     },
     {
+      "team": "FC Oleksandria",
+      "rate": 95.0,
+      "count": 20
+    },
+    {
       "team": "Fittja",
       "rate": 95.0,
       "count": 20
@@ -265,11 +270,6 @@
       "team": "Orn Horten",
       "rate": 90.48,
       "count": 21
-    },
-    {
-      "team": "UNSW FC",
-      "rate": 90.32,
-      "count": 31
     }
   ],
   "top_leagues": [
@@ -508,10 +508,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4278,
+      "won": 4279,
       "lost": 1434,
-      "rate": 74.89,
-      "count": 5712
+      "rate": 74.9,
+      "count": 5713
     },
     {
       "name": "Total Goals 0-1",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 9612,
+      "won": 9613,
       "lost": 3325,
       "rate": 74.3,
-      "count": 12937
+      "count": 12938
     },
     {
       "name": "Under 3.5 Goals",
@@ -570,7 +570,7 @@
     {
       "odd": 1.05,
       "rate": 78.53,
-      "count": 2631
+      "count": 2632
     },
     {
       "odd": 1.07,
@@ -629,8 +629,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.62,
-      "count": 3943
+      "rate": 73.63,
+      "count": 3944
     },
     {
       "odd": 1.77,
