@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 54003,
-    "lost": 19675,
+    "won": 54011,
+    "lost": 19678,
     "rate": 73.3,
-    "total": 73678,
+    "total": 73689,
     "last_24h": {
-      "won": 16,
-      "lost": 6,
-      "rate": 72.7,
-      "total": 22
+      "won": 24,
+      "lost": 7,
+      "rate": 77.4,
+      "total": 31
     }
   },
   "by_day": [
@@ -34,13 +34,13 @@
     },
     {
       "label": "Thursday",
-      "rate": 74.0,
-      "count": 3655
+      "rate": 74.1,
+      "count": 3665
     },
     {
       "label": "Friday",
       "rate": 73.0,
-      "count": 10294
+      "count": 10295
     },
     {
       "label": "Saturday",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.4,
-      "count": 7958
+      "count": 7959
     },
     {
       "label": "15:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 8424
+      "count": 8433
     },
     {
       "label": "20:00",
@@ -146,8 +146,8 @@
     },
     {
       "label": "00:00",
-      "rate": 72.9,
-      "count": 295
+      "rate": 72.6,
+      "count": 296
     },
     {
       "label": "21:00",
@@ -316,6 +316,13 @@
       "count": 9
     },
     {
+      "name": " DK",
+      "won": 8,
+      "lost": 1,
+      "rate": 88.89,
+      "count": 9
+    },
+    {
       "name": "UMMSK",
       "won": 7,
       "lost": 1,
@@ -405,13 +412,6 @@
       "lost": 2,
       "rate": 83.33,
       "count": 12
-    },
-    {
-      "name": "NOK",
-      "won": 39,
-      "lost": 8,
-      "rate": 82.98,
-      "count": 47
     }
   ],
   "top_predictions": [
@@ -481,9 +481,9 @@
     {
       "name": "Handicap (0:2) 2",
       "won": 1103,
-      "lost": 355,
-      "rate": 75.65,
-      "count": 1458
+      "lost": 356,
+      "rate": 75.6,
+      "count": 1459
     },
     {
       "name": "HT/FT 1/1",
@@ -536,10 +536,17 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 9634,
-      "lost": 3335,
+      "won": 9635,
+      "lost": 3336,
       "rate": 74.28,
-      "count": 12969
+      "count": 12971
+    },
+    {
+      "name": "Under 3.5 Goals",
+      "won": 4140,
+      "lost": 1466,
+      "rate": 73.85,
+      "count": 5606
     },
     {
       "name": "Over 1.5 Goals",
@@ -547,13 +554,6 @@
       "lost": 1450,
       "rate": 73.84,
       "count": 5542
-    },
-    {
-      "name": "Under 3.5 Goals",
-      "won": 4139,
-      "lost": 1466,
-      "rate": 73.84,
-      "count": 5605
     }
   ],
   "top_odds": [
@@ -574,13 +574,13 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.4,
-      "count": 3394
+      "rate": 77.39,
+      "count": 3396
     },
     {
       "odd": 1.09,
       "rate": 76.64,
-      "count": 5958
+      "count": 5959
     },
     {
       "odd": 1.76,
