@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 54106,
+    "won": 54107,
     "lost": 19695,
     "rate": 73.3,
-    "total": 73801,
+    "total": 73802,
     "last_24h": {
-      "won": 98,
+      "won": 99,
       "lost": 37,
-      "rate": 72.6,
-      "total": 135
+      "rate": 72.8,
+      "total": 136
     }
   },
   "by_day": [
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 10414
+      "count": 10415
     },
     {
       "label": "Saturday",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 73.4,
-      "count": 2810
+      "count": 2811
     },
     {
       "label": "11:00",
@@ -372,6 +372,13 @@
       "count": 13
     },
     {
+      "name": " İZK",
+      "won": 11,
+      "lost": 2,
+      "rate": 84.62,
+      "count": 13
+    },
+    {
       "name": " AL2P",
       "won": 11,
       "lost": 2,
@@ -405,13 +412,6 @@
       "lost": 1,
       "rate": 83.33,
       "count": 6
-    },
-    {
-      "name": " İZK",
-      "won": 10,
-      "lost": 2,
-      "rate": 83.33,
-      "count": 12
     }
   ],
   "top_predictions": [
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1348,
+      "won": 1349,
       "lost": 383,
-      "rate": 77.87,
-      "count": 1731
+      "rate": 77.89,
+      "count": 1732
     },
     {
       "name": "Handicap (2:0) 1",
