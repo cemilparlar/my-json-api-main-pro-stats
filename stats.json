@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 54151,
-    "lost": 19715,
+    "won": 54166,
+    "lost": 19719,
     "rate": 73.3,
-    "total": 73866,
+    "total": 73885,
     "last_24h": {
-      "won": 92,
-      "lost": 37,
-      "rate": 71.3,
-      "total": 129
+      "won": 102,
+      "lost": 45,
+      "rate": 69.4,
+      "total": 147
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 18516
+      "count": 18514
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 24850
+      "count": 24871
     }
   ],
   "by_hour": [
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 72.9,
-      "count": 2091
+      "count": 2093
     },
     {
       "label": "12:00",
@@ -67,7 +67,7 @@
     {
       "label": "13:00",
       "rate": 73.2,
-      "count": 6586
+      "count": 6592
     },
     {
       "label": "14:00",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 8228
+      "count": 8225
     },
     {
       "label": "16:00",
@@ -107,12 +107,12 @@
     {
       "label": "11:00",
       "rate": 73.4,
-      "count": 4609
+      "count": 4622
     },
     {
       "label": "05:00",
       "rate": 74.1,
-      "count": 2072
+      "count": 2073
     },
     {
       "label": "09:00",
@@ -460,9 +460,9 @@
     {
       "name": "Under 4.5 Goals",
       "won": 1349,
-      "lost": 383,
-      "rate": 77.89,
-      "count": 1732
+      "lost": 384,
+      "rate": 77.84,
+      "count": 1733
     },
     {
       "name": "Handicap (2:0) 1",
@@ -480,10 +480,10 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 1104,
+      "won": 1105,
       "lost": 357,
-      "rate": 75.56,
-      "count": 1461
+      "rate": 75.58,
+      "count": 1462
     },
     {
       "name": "HT/FT 1/1",
@@ -515,24 +515,24 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4306,
-      "lost": 1445,
+      "won": 4307,
+      "lost": 1446,
       "rate": 74.87,
-      "count": 5751
+      "count": 5753
     },
     {
       "name": "Double Chance 1X",
-      "won": 5018,
-      "lost": 1717,
-      "rate": 74.51,
-      "count": 6735
+      "won": 5021,
+      "lost": 1716,
+      "rate": 74.53,
+      "count": 6737
     },
     {
       "name": "Double Chance 12",
-      "won": 9668,
-      "lost": 3340,
-      "rate": 74.32,
-      "count": 13008
+      "won": 9672,
+      "lost": 3341,
+      "rate": 74.33,
+      "count": 13013
     },
     {
       "name": "Handicap (1:0) 2",
@@ -559,13 +559,13 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.53,
-      "count": 4026
+      "rate": 79.54,
+      "count": 4027
     },
     {
       "odd": 1.05,
-      "rate": 78.5,
-      "count": 2651
+      "rate": 78.51,
+      "count": 2653
     },
     {
       "odd": 1.75,
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.68,
-      "count": 5978
+      "rate": 76.69,
+      "count": 5980
     },
     {
       "odd": 1.76,
@@ -594,8 +594,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.45,
-      "count": 3342
+      "rate": 76.41,
+      "count": 3345
     },
     {
       "odd": 1.08,
@@ -614,8 +614,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.73,
-      "count": 3577
+      "rate": 74.71,
+      "count": 3579
     },
     {
       "odd": 1.95,
@@ -624,13 +624,13 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.03,
-      "count": 2695
+      "rate": 74.04,
+      "count": 2696
     },
     {
       "odd": 1.15,
       "rate": 73.71,
-      "count": 3967
+      "count": 3968
     },
     {
       "odd": 1.9,
@@ -900,6 +900,14 @@
       "date": "04.02.2026 19:45"
     },
     {
+      "match": "Gamle Oslo vs Frigg",
+      "ht": "0 - 3",
+      "ft": "1 - 3",
+      "odds": "5.45",
+      "prediction": "Match Result 2",
+      "date": "30.05.2026 13:30"
+    },
+    {
       "match": "Feyenoord vs Go Ahead Eagles",
       "ht": "0 - 0",
       "ft": "1 - 0",
@@ -1050,14 +1058,6 @@
       "odds": "4.76",
       "prediction": "HT/FT X/X",
       "date": "31.01.2026 15:00"
-    },
-    {
-      "match": "Al Bataeh vs Shabab Al Ahli",
-      "ht": "0 - 3",
-      "ft": "0 - 4",
-      "odds": "4.75",
-      "prediction": "1st Half Over 2.5",
-      "date": "07.01.2026 15:45"
     }
   ]
 }
