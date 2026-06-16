@@ -6,9 +6,9 @@
     "total": 74523,
     "last_24h": {
       "won": 62,
-      "lost": 14,
-      "rate": 81.6,
-      "total": 76
+      "lost": 16,
+      "rate": 79.5,
+      "total": 78
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.5,
-      "count": 6077
+      "count": 6079
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 18799
+      "count": 18797
     },
     {
       "label": "Thursday",
@@ -372,13 +372,6 @@
       "count": 13
     },
     {
-      "name": " DK",
-      "won": 27,
-      "lost": 5,
-      "rate": 84.38,
-      "count": 32
-    },
-    {
       "name": "AFK",
       "won": 21,
       "lost": 4,
@@ -412,6 +405,13 @@
       "lost": 8,
       "rate": 82.98,
       "count": 47
+    },
+    {
+      "name": "AFCAKŞ",
+      "won": 53,
+      "lost": 11,
+      "rate": 82.81,
+      "count": 64
     }
   ],
   "top_predictions": [
@@ -629,8 +629,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.66,
-      "count": 4005
+      "rate": 73.64,
+      "count": 4006
     },
     {
       "odd": 1.9,
