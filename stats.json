@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 54664,
+    "won": 54666,
     "lost": 19912,
     "rate": 73.3,
-    "total": 74576,
+    "total": 74578,
     "last_24h": {
-      "won": 39,
-      "lost": 10,
-      "rate": 79.6,
-      "total": 49
+      "won": 41,
+      "lost": 11,
+      "rate": 78.8,
+      "total": 52
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.4,
-      "count": 6131
+      "count": 6133
     },
     {
       "label": "Wednesday",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 72.5,
-      "count": 5472
+      "count": 5473
     },
     {
       "label": "17:00",
@@ -92,7 +92,7 @@
     {
       "label": "18:00",
       "rate": 72.9,
-      "count": 6299
+      "count": 6300
     },
     {
       "label": "19:00",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 5074,
+      "won": 5075,
       "lost": 1732,
-      "rate": 74.55,
-      "count": 6806
+      "rate": 74.56,
+      "count": 6807
     },
     {
       "name": "Double Chance 12",
@@ -618,6 +618,11 @@
       "count": 3594
     },
     {
+      "odd": 1.97,
+      "rate": 74.36,
+      "count": 39
+    },
+    {
       "odd": 1.95,
       "rate": 74.07,
       "count": 54
@@ -651,11 +656,6 @@
       "odd": 1.71,
       "rate": 72.73,
       "count": 66
-    },
-    {
-      "odd": 1.97,
-      "rate": 72.5,
-      "count": 40
     }
   ],
   "top_matches": [
