@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 54838,
+    "won": 54839,
     "lost": 19971,
     "rate": 73.3,
-    "total": 74809,
+    "total": 74810,
     "last_24h": {
-      "won": 62,
-      "lost": 15,
-      "rate": 80.5,
-      "total": 77
+      "won": 63,
+      "lost": 17,
+      "rate": 78.8,
+      "total": 80
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 73.5,
-      "count": 5532
+      "count": 5530
     },
     {
       "label": "Sunday",
@@ -34,8 +34,8 @@
     },
     {
       "label": "Thursday",
-      "rate": 74.1,
-      "count": 3754
+      "rate": 74.0,
+      "count": 3757
     },
     {
       "label": "Friday",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.5,
-      "count": 8519
+      "count": 8521
     },
     {
       "label": "20:00",
@@ -166,8 +166,8 @@
     },
     {
       "label": "04:00",
-      "rate": 81.4,
-      "count": 70
+      "rate": 82.6,
+      "count": 69
     }
   ],
   "top_teams": [
@@ -648,14 +648,14 @@
       "count": 85
     },
     {
-      "odd": 1.17,
-      "rate": 72.75,
-      "count": 1699
-    },
-    {
       "odd": 1.71,
       "rate": 72.73,
       "count": 66
+    },
+    {
+      "odd": 1.17,
+      "rate": 72.71,
+      "count": 1700
     }
   ],
   "top_matches": [
