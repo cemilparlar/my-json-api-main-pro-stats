@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 54867,
-    "lost": 19983,
+    "won": 54864,
+    "lost": 19981,
     "rate": 73.3,
-    "total": 74850,
+    "total": 74845,
     "last_24h": {
       "won": 77,
-      "lost": 18,
-      "rate": 81.1,
-      "total": 95
+      "lost": 20,
+      "rate": 79.4,
+      "total": 97
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 18798
+      "count": 18796
     },
     {
       "label": "Thursday",
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 10444
+      "count": 10441
     },
     {
       "label": "Saturday",
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 73.0,
-      "count": 5670
+      "count": 5669
     },
     {
       "label": "13:00",
-      "rate": 73.1,
-      "count": 6674
+      "rate": 73.2,
+      "count": 6672
     },
     {
       "label": "14:00",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.8,
-      "count": 8314
+      "count": 8313
     },
     {
       "label": "16:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 72.9,
-      "count": 6859
+      "count": 6858
     },
     {
       "label": "18:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 8527
+      "count": 8526
     },
     {
       "label": "20:00",
@@ -126,8 +126,8 @@
     },
     {
       "label": "01:00",
-      "rate": 76.4,
-      "count": 292
+      "rate": 76.1,
+      "count": 293
     },
     {
       "label": "06:00",
@@ -136,7 +136,7 @@
     },
     {
       "label": "07:00",
-      "rate": 73.0,
+      "rate": 72.9,
       "count": 1052
     },
     {
@@ -515,10 +515,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 5098,
+      "won": 5097,
       "lost": 1734,
       "rate": 74.62,
-      "count": 6832
+      "count": 6831
     },
     {
       "name": "Double Chance 12",
@@ -542,18 +542,18 @@
       "count": 5611
     },
     {
+      "name": "Match Result 2",
+      "won": 578,
+      "lost": 205,
+      "rate": 73.82,
+      "count": 783
+    },
+    {
       "name": "1st Half Double Chance X2",
       "won": 2984,
       "lost": 1062,
       "rate": 73.75,
       "count": 4046
-    },
-    {
-      "name": "Under 3.5 Goals",
-      "won": 4195,
-      "lost": 1493,
-      "rate": 73.75,
-      "count": 5688
     }
   ],
   "top_odds": [
