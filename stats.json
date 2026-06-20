@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 55122,
-    "lost": 20055,
+    "won": 55123,
+    "lost": 20054,
     "rate": 73.3,
     "total": 75177,
     "last_24h": {
-      "won": 175,
-      "lost": 70,
-      "rate": 71.4,
-      "total": 245
+      "won": 176,
+      "lost": 71,
+      "rate": 71.3,
+      "total": 247
     }
   },
   "by_day": [
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 10554
+      "count": 10552
     },
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 25357
+      "count": 25359
     }
   ],
   "by_hour": [
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1363,
+      "won": 1364,
       "lost": 388,
-      "rate": 77.84,
-      "count": 1751
+      "rate": 77.85,
+      "count": 1752
     },
     {
       "name": "HT/FT 1/1",
@@ -648,14 +648,14 @@
       "count": 1706
     },
     {
+      "odd": 1.25,
+      "rate": 72.33,
+      "count": 994
+    },
+    {
       "odd": 1.23,
       "rate": 72.3,
       "count": 1137
-    },
-    {
-      "odd": 1.25,
-      "rate": 72.26,
-      "count": 995
     }
   ],
   "top_matches": [
