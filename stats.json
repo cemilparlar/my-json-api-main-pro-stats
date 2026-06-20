@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 55127,
-    "lost": 20061,
+    "won": 55136,
+    "lost": 20064,
     "rate": 73.3,
-    "total": 75188,
+    "total": 75200,
     "last_24h": {
-      "won": 175,
-      "lost": 72,
-      "rate": 70.9,
-      "total": 247
+      "won": 184,
+      "lost": 79,
+      "rate": 70.0,
+      "total": 263
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 73.6,
-      "count": 5529
+      "count": 5531
     },
     {
       "label": "Sunday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 10552
+      "count": 10551
     },
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 25368
+      "count": 25379
     }
   ],
   "by_hour": [
@@ -87,17 +87,17 @@
     {
       "label": "17:00",
       "rate": 72.8,
-      "count": 6880
+      "count": 6877
     },
     {
       "label": "18:00",
-      "rate": 72.9,
-      "count": 6342
+      "rate": 72.8,
+      "count": 6359
     },
     {
       "label": "19:00",
       "rate": 73.5,
-      "count": 8544
+      "count": 8542
     },
     {
       "label": "20:00",
@@ -232,11 +232,6 @@
       "count": 24
     },
     {
-      "team": "Ciudad De Bolí",
-      "rate": 91.67,
-      "count": 24
-    },
-    {
       "team": "Schwaben Augsbu",
       "rate": 91.67,
       "count": 24
@@ -270,6 +265,11 @@
       "team": "Kryvbas Kryvyi Rih",
       "rate": 90.0,
       "count": 20
+    },
+    {
+      "team": "Kvik Halden",
+      "rate": 90.0,
+      "count": 30
     }
   ],
   "top_leagues": [
@@ -372,13 +372,6 @@
       "count": 13
     },
     {
-      "name": "AFK",
-      "won": 21,
-      "lost": 4,
-      "rate": 84.0,
-      "count": 25
-    },
-    {
       "name": " İNGU21PO",
       "won": 21,
       "lost": 4,
@@ -412,6 +405,13 @@
       "lost": 11,
       "rate": 82.81,
       "count": 64
+    },
+    {
+      "name": "MLTAK",
+      "won": 14,
+      "lost": 3,
+      "rate": 82.35,
+      "count": 17
     }
   ],
   "top_predictions": [
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1364,
+      "won": 1365,
       "lost": 388,
-      "rate": 77.85,
-      "count": 1752
+      "rate": 77.87,
+      "count": 1753
     },
     {
       "name": "HT/FT 1/1",
@@ -501,38 +501,45 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4392,
+      "won": 4393,
       "lost": 1474,
-      "rate": 74.87,
-      "count": 5866
-    },
-    {
-      "name": "1st Half Under 0.5",
-      "won": 97,
-      "lost": 33,
-      "rate": 74.62,
-      "count": 130
+      "rate": 74.88,
+      "count": 5867
     },
     {
       "name": "Double Chance 1X",
-      "won": 5120,
+      "won": 5121,
       "lost": 1745,
       "rate": 74.58,
-      "count": 6865
+      "count": 6866
+    },
+    {
+      "name": "1st Half Under 0.5",
+      "won": 96,
+      "lost": 33,
+      "rate": 74.42,
+      "count": 129
     },
     {
       "name": "Double Chance 12",
-      "won": 9862,
-      "lost": 3398,
-      "rate": 74.37,
-      "count": 13260
+      "won": 9864,
+      "lost": 3397,
+      "rate": 74.38,
+      "count": 13261
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 4156,
+      "won": 4157,
       "lost": 1469,
-      "rate": 73.88,
-      "count": 5625
+      "rate": 73.89,
+      "count": 5626
+    },
+    {
+      "name": "Match Result 2",
+      "won": 583,
+      "lost": 206,
+      "rate": 73.89,
+      "count": 789
     },
     {
       "name": "Handicap (0:1) 2",
@@ -540,13 +547,6 @@
       "lost": 445,
       "rate": 73.88,
       "count": 1704
-    },
-    {
-      "name": "Match Result 2",
-      "won": 582,
-      "lost": 206,
-      "rate": 73.86,
-      "count": 788
     },
     {
       "name": "Under 3.5 Goals",
@@ -559,13 +559,13 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.5,
-      "count": 4102
+      "rate": 79.48,
+      "count": 4103
     },
     {
       "odd": 1.05,
-      "rate": 78.55,
-      "count": 2709
+      "rate": 78.56,
+      "count": 2710
     },
     {
       "odd": 1.07,
@@ -599,8 +599,8 @@
     },
     {
       "odd": 1.12,
-      "rate": 76.11,
-      "count": 3152
+      "rate": 76.1,
+      "count": 3155
     },
     {
       "odd": 1.76,
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.03,
-      "count": 3368
+      "rate": 75.04,
+      "count": 3369
     },
     {
       "odd": 1.13,
