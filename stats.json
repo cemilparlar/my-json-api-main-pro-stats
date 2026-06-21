@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 55343,
-    "lost": 20115,
+    "won": 55356,
+    "lost": 20122,
     "rate": 73.3,
-    "total": 75458,
+    "total": 75478,
     "last_24h": {
-      "won": 180,
-      "lost": 60,
+      "won": 192,
+      "lost": 64,
       "rate": 75.0,
-      "total": 240
+      "total": 256
     }
   },
   "by_day": [
@@ -20,27 +20,27 @@
     {
       "label": "Tuesday",
       "rate": 73.5,
-      "count": 6146
+      "count": 6145
     },
     {
       "label": "Wednesday",
-      "rate": 73.5,
-      "count": 5533
+      "rate": 73.6,
+      "count": 5530
     },
     {
       "label": "Sunday",
-      "rate": 73.5,
-      "count": 18986
+      "rate": 73.4,
+      "count": 19010
     },
     {
       "label": "Thursday",
-      "rate": 74.0,
-      "count": 3772
+      "rate": 74.1,
+      "count": 3771
     },
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 10548
+      "count": 10549
     },
     {
       "label": "Saturday",
@@ -62,22 +62,22 @@
     {
       "label": "12:00",
       "rate": 73.1,
-      "count": 5703
+      "count": 5704
     },
     {
       "label": "13:00",
       "rate": 73.2,
-      "count": 6733
+      "count": 6734
     },
     {
       "label": "14:00",
       "rate": 73.4,
-      "count": 8190
+      "count": 8200
     },
     {
       "label": "15:00",
       "rate": 73.8,
-      "count": 8344
+      "count": 8352
     },
     {
       "label": "16:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 72.8,
-      "count": 6878
+      "count": 6877
     },
     {
       "label": "18:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.5,
-      "count": 4717
+      "count": 4718
     },
     {
       "label": "05:00",
@@ -172,14 +172,14 @@
   ],
   "top_teams": [
     {
-      "team": "Budaors",
+      "team": "Karela",
       "rate": 95.45,
       "count": 22
     },
     {
-      "team": "Karela",
-      "rate": 95.24,
-      "count": 21
+      "team": "Budaors",
+      "rate": 95.45,
+      "count": 22
     },
     {
       "team": "Middelfart",
@@ -451,6 +451,13 @@
       "count": 42
     },
     {
+      "name": "Handicap (2:0) 2",
+      "won": 9,
+      "lost": 2,
+      "rate": 81.82,
+      "count": 11
+    },
+    {
       "name": "1st Half Under 2.5",
       "won": 283,
       "lost": 67,
@@ -486,13 +493,6 @@
       "count": 1475
     },
     {
-      "name": "Handicap (2:0) 2",
-      "won": 9,
-      "lost": 3,
-      "rate": 75.0,
-      "count": 12
-    },
-    {
       "name": "Home Team 1st Half Under 0.5",
       "won": 12,
       "lost": 4,
@@ -501,17 +501,17 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4420,
-      "lost": 1477,
-      "rate": 74.95,
-      "count": 5897
+      "won": 4421,
+      "lost": 1478,
+      "rate": 74.94,
+      "count": 5899
     },
     {
       "name": "Double Chance 1X",
-      "won": 5139,
-      "lost": 1751,
-      "rate": 74.59,
-      "count": 6890
+      "won": 5140,
+      "lost": 1752,
+      "rate": 74.58,
+      "count": 6892
     },
     {
       "name": "Double Chance 12",
@@ -528,18 +528,18 @@
       "count": 129
     },
     {
-      "name": "Over 1.5 Goals",
-      "won": 4162,
-      "lost": 1467,
-      "rate": 73.94,
-      "count": 5629
+      "name": "Handicap (0:1) 2",
+      "won": 1263,
+      "lost": 445,
+      "rate": 73.95,
+      "count": 1708
     },
     {
-      "name": "Handicap (0:1) 2",
-      "won": 1262,
-      "lost": 445,
+      "name": "Over 1.5 Goals",
+      "won": 4164,
+      "lost": 1468,
       "rate": 73.93,
-      "count": 1707
+      "count": 5632
     },
     {
       "name": "Match Result 2",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 4221,
-      "lost": 1506,
+      "won": 4223,
+      "lost": 1507,
       "rate": 73.7,
-      "count": 5727
+      "count": 5730
     }
   ],
   "top_odds": [
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.57,
-      "count": 2721
+      "rate": 78.55,
+      "count": 2722
     },
     {
       "odd": 1.07,
@@ -594,13 +594,13 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.45,
-      "count": 3456
+      "rate": 76.46,
+      "count": 3458
     },
     {
       "odd": 1.12,
-      "rate": 76.19,
-      "count": 3159
+      "rate": 76.22,
+      "count": 3158
     },
     {
       "odd": 1.76,
@@ -609,13 +609,13 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.02,
-      "count": 3391
+      "rate": 75.0,
+      "count": 3392
     },
     {
       "odd": 1.13,
-      "rate": 74.68,
-      "count": 3626
+      "rate": 74.69,
+      "count": 3627
     },
     {
       "odd": 1.14,
@@ -629,8 +629,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.68,
-      "count": 4039
+      "rate": 73.66,
+      "count": 4043
     },
     {
       "odd": 1.95,
