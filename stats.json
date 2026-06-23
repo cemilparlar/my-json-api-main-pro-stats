@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 55482,
-    "lost": 20173,
+    "won": 55483,
+    "lost": 20176,
     "rate": 73.3,
-    "total": 75655,
+    "total": 75659,
     "last_24h": {
-      "won": 19,
-      "lost": 3,
-      "rate": 86.4,
-      "total": 22
+      "won": 20,
+      "lost": 5,
+      "rate": 80.0,
+      "total": 25
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.6,
-      "count": 6165
+      "count": 6168
     },
     {
       "label": "Wednesday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 25454
+      "count": 25455
     }
   ],
   "by_hour": [
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 72.9,
-      "count": 2123
+      "count": 2124
     },
     {
       "label": "12:00",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.8,
-      "count": 8374
+      "count": 8377
     },
     {
       "label": "16:00",
@@ -202,11 +202,6 @@
       "count": 39
     },
     {
-      "team": "Minija",
-      "rate": 94.12,
-      "count": 34
-    },
-    {
       "team": "Oppsal",
       "rate": 92.86,
       "count": 28
@@ -270,6 +265,11 @@
       "team": "Kryvbas Kryvyi Rih",
       "rate": 90.0,
       "count": 20
+    },
+    {
+      "team": "Kvik Halden",
+      "rate": 90.0,
+      "count": 30
     }
   ],
   "top_leagues": [
@@ -307,13 +307,6 @@
       "lost": 2,
       "rate": 90.0,
       "count": 20
-    },
-    {
-      "name": " LITK",
-      "won": 8,
-      "lost": 1,
-      "rate": 88.89,
-      "count": 9
     },
     {
       "name": "UMMSK",
@@ -408,6 +401,13 @@
     },
     {
       "name": "MLTAK",
+      "won": 14,
+      "lost": 3,
+      "rate": 82.35,
+      "count": 17
+    },
+    {
+      "name": "LIBER20",
       "won": 14,
       "lost": 3,
       "rate": 82.35,
@@ -537,9 +537,9 @@
     {
       "name": "Over 1.5 Goals",
       "won": 4178,
-      "lost": 1474,
-      "rate": 73.92,
-      "count": 5652
+      "lost": 1475,
+      "rate": 73.91,
+      "count": 5653
     },
     {
       "name": "Match Result 2",
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.75,
-      "count": 6145
+      "rate": 76.73,
+      "count": 6146
     },
     {
       "odd": 1.1,
@@ -629,8 +629,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.65,
-      "count": 4049
+      "rate": 73.63,
+      "count": 4050
     },
     {
       "odd": 1.95,
