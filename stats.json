@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 55494,
-    "lost": 20181,
+    "won": 55501,
+    "lost": 20185,
     "rate": 73.3,
-    "total": 75675,
+    "total": 75686,
     "last_24h": {
-      "won": 27,
-      "lost": 13,
-      "rate": 67.5,
-      "total": 40
+      "won": 32,
+      "lost": 15,
+      "rate": 68.1,
+      "total": 47
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.8,
-      "count": 5077
+      "count": 5081
     },
     {
       "label": "Tuesday",
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 73.6,
-      "count": 5528
+      "count": 5535
     },
     {
       "label": "Sunday",
@@ -67,7 +67,7 @@
     {
       "label": "13:00",
       "rate": 73.2,
-      "count": 6735
+      "count": 6734
     },
     {
       "label": "14:00",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.8,
-      "count": 8377
+      "count": 8376
     },
     {
       "label": "16:00",
@@ -146,8 +146,8 @@
     },
     {
       "label": "00:00",
-      "rate": 74.1,
-      "count": 352
+      "rate": 73.4,
+      "count": 365
     },
     {
       "label": "21:00",
@@ -509,16 +509,16 @@
     {
       "name": "Double Chance 1X",
       "won": 5154,
-      "lost": 1755,
-      "rate": 74.6,
-      "count": 6909
+      "lost": 1756,
+      "rate": 74.59,
+      "count": 6910
     },
     {
       "name": "Double Chance 12",
-      "won": 9937,
+      "won": 9938,
       "lost": 3416,
       "rate": 74.42,
-      "count": 13353
+      "count": 13354
     },
     {
       "name": "1st Half Under 0.5",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 588,
-      "lost": 208,
-      "rate": 73.87,
-      "count": 796
+      "won": 589,
+      "lost": 209,
+      "rate": 73.81,
+      "count": 798
     },
     {
       "name": "Under 3.5 Goals",
@@ -560,12 +560,12 @@
     {
       "odd": 1.06,
       "rate": 79.5,
-      "count": 4131
+      "count": 4132
     },
     {
       "odd": 1.05,
-      "rate": 78.4,
-      "count": 2732
+      "rate": 78.41,
+      "count": 2733
     },
     {
       "odd": 1.75,
@@ -584,13 +584,13 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.52,
-      "count": 3433
+      "rate": 76.53,
+      "count": 3434
     },
     {
       "odd": 1.08,
-      "rate": 76.5,
-      "count": 3468
+      "rate": 76.48,
+      "count": 3469
     },
     {
       "odd": 1.98,
@@ -956,6 +956,14 @@
       "date": "02.05.2026 14:00"
     },
     {
+      "match": "Club Atletico Tigre vs Gimnasia La Plata",
+      "ht": "1 - 2",
+      "ft": "2 - 2",
+      "odds": "5.17",
+      "prediction": "Over 3.5 Goals",
+      "date": "02.03.2026 00:30"
+    },
+    {
       "match": "FC St Gallen vs Grasshopper Club Zurich",
       "ht": "0 - 0",
       "ft": "0 - 0",
@@ -1050,14 +1058,6 @@
       "odds": "4.79",
       "prediction": "Total Goals 4-5",
       "date": "07.02.2026 23:00"
-    },
-    {
-      "match": "St Mirren vs Dundee",
-      "ht": "0 - 0",
-      "ft": "0 - 0",
-      "odds": "4.76",
-      "prediction": "HT/FT X/X",
-      "date": "31.01.2026 15:00"
     }
   ]
 }
