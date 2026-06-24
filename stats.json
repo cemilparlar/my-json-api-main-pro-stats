@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 55501,
-    "lost": 20185,
+    "won": 55499,
+    "lost": 20186,
     "rate": 73.3,
-    "total": 75686,
+    "total": 75685,
     "last_24h": {
       "won": 32,
-      "lost": 15,
-      "rate": 68.1,
-      "total": 47
+      "lost": 17,
+      "rate": 65.3,
+      "total": 49
     }
   },
   "by_day": [
@@ -24,7 +24,7 @@
     },
     {
       "label": "Wednesday",
-      "rate": 73.6,
+      "rate": 73.5,
       "count": 5535
     },
     {
@@ -34,8 +34,8 @@
     },
     {
       "label": "Thursday",
-      "rate": 74.0,
-      "count": 3771
+      "rate": 74.1,
+      "count": 3770
     },
     {
       "label": "Friday",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.5,
-      "count": 8591
+      "count": 8590
     },
     {
       "label": "20:00",
@@ -126,8 +126,8 @@
     },
     {
       "label": "01:00",
-      "rate": 76.7,
-      "count": 300
+      "rate": 76.6,
+      "count": 299
     },
     {
       "label": "06:00",
@@ -156,8 +156,8 @@
     },
     {
       "label": "02:00",
-      "rate": 76.4,
-      "count": 123
+      "rate": 75.0,
+      "count": 124
     },
     {
       "label": "03:00",
@@ -528,18 +528,18 @@
       "count": 129
     },
     {
-      "name": "Over 1.5 Goals",
-      "won": 4179,
-      "lost": 1474,
-      "rate": 73.93,
-      "count": 5653
-    },
-    {
       "name": "Handicap (0:1) 2",
       "won": 1265,
       "lost": 446,
       "rate": 73.93,
       "count": 1711
+    },
+    {
+      "name": "Over 1.5 Goals",
+      "won": 4179,
+      "lost": 1475,
+      "rate": 73.91,
+      "count": 5654
     },
     {
       "name": "Match Result 2",
@@ -623,14 +623,14 @@
       "count": 2749
     },
     {
-      "odd": 1.71,
-      "rate": 73.91,
-      "count": 69
-    },
-    {
       "odd": 1.15,
       "rate": 73.62,
       "count": 4053
+    },
+    {
+      "odd": 1.71,
+      "rate": 73.53,
+      "count": 68
     },
     {
       "odd": 1.95,
