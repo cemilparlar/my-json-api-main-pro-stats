@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 55666,
-    "lost": 20248,
+    "won": 55688,
+    "lost": 20251,
     "rate": 73.3,
-    "total": 75914,
+    "total": 75939,
     "last_24h": {
-      "won": 59,
-      "lost": 23,
-      "rate": 72.0,
-      "total": 82
+      "won": 74,
+      "lost": 25,
+      "rate": 74.7,
+      "total": 99
     }
   },
   "by_day": [
@@ -39,13 +39,13 @@
     },
     {
       "label": "Friday",
-      "rate": 73.1,
-      "count": 10614
+      "rate": 73.2,
+      "count": 10637
     },
     {
       "label": "Saturday",
       "rate": 73.2,
-      "count": 25452
+      "count": 25454
     }
   ],
   "by_hour": [
@@ -57,12 +57,12 @@
     {
       "label": "10:00",
       "rate": 72.9,
-      "count": 2140
+      "count": 2141
     },
     {
       "label": "12:00",
       "rate": 73.2,
-      "count": 5712
+      "count": 5713
     },
     {
       "label": "13:00",
@@ -82,12 +82,12 @@
     {
       "label": "16:00",
       "rate": 72.5,
-      "count": 5551
+      "count": 5571
     },
     {
       "label": "17:00",
-      "rate": 72.7,
-      "count": 6946
+      "rate": 72.8,
+      "count": 6948
     },
     {
       "label": "18:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.4,
-      "count": 4730
+      "count": 4731
     },
     {
       "label": "05:00",
@@ -466,10 +466,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1377,
+      "won": 1378,
       "lost": 393,
-      "rate": 77.8,
-      "count": 1770
+      "rate": 77.81,
+      "count": 1771
     },
     {
       "name": "HT/FT 1/1",
@@ -501,24 +501,24 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4453,
+      "won": 4456,
       "lost": 1487,
-      "rate": 74.97,
-      "count": 5940
+      "rate": 74.98,
+      "count": 5943
     },
     {
       "name": "Double Chance 1X",
-      "won": 5170,
-      "lost": 1762,
-      "rate": 74.58,
-      "count": 6932
+      "won": 5171,
+      "lost": 1763,
+      "rate": 74.57,
+      "count": 6934
     },
     {
       "name": "Double Chance 12",
-      "won": 9983,
+      "won": 9985,
       "lost": 3429,
-      "rate": 74.43,
-      "count": 13412
+      "rate": 74.44,
+      "count": 13414
     },
     {
       "name": "1st Half Under 0.5",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 4238,
+      "won": 4242,
       "lost": 1511,
-      "rate": 73.72,
-      "count": 5749
+      "rate": 73.74,
+      "count": 5753
     },
     {
       "name": "Total Goals 0-1",
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.42,
-      "count": 2743
+      "rate": 78.4,
+      "count": 2746
     },
     {
       "odd": 1.75,
@@ -575,17 +575,17 @@
     {
       "odd": 1.07,
       "rate": 77.33,
-      "count": 3502
+      "count": 3503
     },
     {
       "odd": 1.09,
       "rate": 76.81,
-      "count": 6174
+      "count": 6175
     },
     {
       "odd": 1.1,
-      "rate": 76.56,
-      "count": 3447
+      "rate": 76.57,
+      "count": 3449
     },
     {
       "odd": 1.98,
@@ -599,8 +599,8 @@
     },
     {
       "odd": 1.12,
-      "rate": 76.04,
-      "count": 3180
+      "rate": 76.05,
+      "count": 3181
     },
     {
       "odd": 1.76,
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.02,
-      "count": 3403
+      "rate": 75.0,
+      "count": 3404
     },
     {
       "odd": 1.13,
@@ -628,14 +628,14 @@
       "count": 2763
     },
     {
-      "odd": 1.15,
-      "rate": 73.64,
-      "count": 4063
+      "odd": 1.95,
+      "rate": 73.68,
+      "count": 57
     },
     {
-      "odd": 1.95,
-      "rate": 73.21,
-      "count": 56
+      "odd": 1.15,
+      "rate": 73.65,
+      "count": 4065
     },
     {
       "odd": 1.17,
@@ -648,14 +648,14 @@
       "count": 88
     },
     {
+      "odd": 1.23,
+      "rate": 72.51,
+      "count": 1153
+    },
+    {
       "odd": 1.97,
       "rate": 72.5,
       "count": 40
-    },
-    {
-      "odd": 1.23,
-      "rate": 72.48,
-      "count": 1152
     }
   ],
   "top_matches": [
