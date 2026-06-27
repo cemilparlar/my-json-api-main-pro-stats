@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 55981,
-    "lost": 20329,
+    "won": 55988,
+    "lost": 20328,
     "rate": 73.4,
-    "total": 76310,
+    "total": 76316,
     "last_24h": {
-      "won": 249,
-      "lost": 83,
-      "rate": 75.0,
-      "total": 332
+      "won": 258,
+      "lost": 90,
+      "rate": 74.1,
+      "total": 348
     }
   },
   "by_day": [
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 10724
+      "count": 10723
     },
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 25751
+      "count": 25758
     }
   ],
   "by_hour": [
@@ -62,27 +62,27 @@
     {
       "label": "12:00",
       "rate": 73.2,
-      "count": 5758
+      "count": 5757
     },
     {
       "label": "13:00",
       "rate": 73.3,
-      "count": 6786
+      "count": 6785
     },
     {
       "label": "14:00",
       "rate": 73.5,
-      "count": 8262
+      "count": 8264
     },
     {
       "label": "15:00",
       "rate": 73.8,
-      "count": 8400
+      "count": 8407
     },
     {
       "label": "16:00",
       "rate": 72.5,
-      "count": 5573
+      "count": 5572
     },
     {
       "label": "17:00",
@@ -267,9 +267,9 @@
       "count": 20
     },
     {
-      "team": "If Karlstad Ii",
+      "team": "Eker Orebro",
       "rate": 90.0,
-      "count": 20
+      "count": 30
     }
   ],
   "top_leagues": [
@@ -481,9 +481,9 @@
     {
       "name": "Handicap (0:2) 2",
       "won": 1123,
-      "lost": 366,
-      "rate": 75.42,
-      "count": 1489
+      "lost": 365,
+      "rate": 75.47,
+      "count": 1488
     },
     {
       "name": "Home Team 1st Half Under 0.5",
@@ -494,10 +494,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4490,
+      "won": 4491,
       "lost": 1498,
-      "rate": 74.98,
-      "count": 5988
+      "rate": 74.99,
+      "count": 5989
     },
     {
       "name": "HT/FT 1/1",
@@ -508,17 +508,17 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 5202,
+      "won": 5203,
       "lost": 1768,
-      "rate": 74.63,
-      "count": 6970
+      "rate": 74.64,
+      "count": 6971
     },
     {
       "name": "Double Chance 12",
-      "won": 10054,
-      "lost": 3444,
-      "rate": 74.49,
-      "count": 13498
+      "won": 10057,
+      "lost": 3446,
+      "rate": 74.48,
+      "count": 13503
     },
     {
       "name": "1st Half Under 0.5",
@@ -528,18 +528,18 @@
       "count": 131
     },
     {
+      "name": "Handicap (0:1) 2",
+      "won": 1269,
+      "lost": 445,
+      "rate": 74.04,
+      "count": 1714
+    },
+    {
       "name": "Handicap (1:0) 2",
       "won": 57,
       "lost": 20,
       "rate": 74.03,
       "count": 77
-    },
-    {
-      "name": "Handicap (0:1) 2",
-      "won": 1269,
-      "lost": 446,
-      "rate": 73.99,
-      "count": 1715
     },
     {
       "name": "Over 1.5 Goals",
@@ -551,21 +551,21 @@
     {
       "name": "Under 3.5 Goals",
       "won": 4261,
-      "lost": 1516,
-      "rate": 73.76,
-      "count": 5777
+      "lost": 1517,
+      "rate": 73.75,
+      "count": 5778
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.52,
-      "count": 4175
+      "rate": 79.53,
+      "count": 4176
     },
     {
       "odd": 1.05,
-      "rate": 78.38,
-      "count": 2771
+      "rate": 78.4,
+      "count": 2773
     },
     {
       "odd": 1.75,
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 76.76,
-      "count": 6223
+      "rate": 76.77,
+      "count": 6225
     },
     {
       "odd": 1.1,
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.61,
-      "count": 3663
+      "rate": 74.63,
+      "count": 3662
     },
     {
       "odd": 1.14,
@@ -624,8 +624,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.66,
-      "count": 4089
+      "rate": 73.67,
+      "count": 4090
     },
     {
       "odd": 1.98,
@@ -644,7 +644,7 @@
     },
     {
       "odd": 1.17,
-      "rate": 72.76,
+      "rate": 72.82,
       "count": 1729
     },
     {
