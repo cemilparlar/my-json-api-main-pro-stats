@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 56175,
+    "won": 56177,
     "lost": 20407,
     "rate": 73.4,
-    "total": 76582,
+    "total": 76584,
     "last_24h": {
-      "won": 118,
-      "lost": 40,
-      "rate": 74.7,
-      "total": 158
+      "won": 113,
+      "lost": 38,
+      "rate": 74.8,
+      "total": 151
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 19239
+      "count": 19241
     },
     {
       "label": "Thursday",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.8,
-      "count": 8484
+      "count": 8486
     },
     {
       "label": "16:00",
@@ -187,6 +187,11 @@
       "count": 21
     },
     {
+      "team": "Dziugas Telsia",
+      "rate": 95.12,
+      "count": 41
+    },
+    {
       "team": "Ashton United",
       "rate": 95.0,
       "count": 20
@@ -195,11 +200,6 @@
       "team": "FC Oleksandria",
       "rate": 95.0,
       "count": 20
-    },
-    {
-      "team": "Dziugas Telsia",
-      "rate": 94.87,
-      "count": 39
     },
     {
       "team": "Quick Boys",
@@ -580,7 +580,7 @@
     {
       "odd": 1.09,
       "rate": 76.79,
-      "count": 6246
+      "count": 6247
     },
     {
       "odd": 1.1,
