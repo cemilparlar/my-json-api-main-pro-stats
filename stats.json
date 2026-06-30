@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 56301,
+    "won": 56306,
     "lost": 20441,
     "rate": 73.4,
-    "total": 76742,
+    "total": 76747,
     "last_24h": {
-      "won": 21,
+      "won": 26,
       "lost": 4,
-      "rate": 84.0,
-      "total": 25
+      "rate": 86.7,
+      "total": 30
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.7,
-      "count": 6222
+      "count": 6227
     },
     {
       "label": "Wednesday",
@@ -151,8 +151,8 @@
     },
     {
       "label": "21:00",
-      "rate": 74.8,
-      "count": 1273
+      "rate": 74.9,
+      "count": 1278
     },
     {
       "label": "02:00",
@@ -171,6 +171,11 @@
     }
   ],
   "top_teams": [
+    {
+      "team": "France",
+      "rate": 95.83,
+      "count": 24
+    },
     {
       "team": "Karela",
       "rate": 95.45,
@@ -265,11 +270,6 @@
       "team": "Eker Orebro",
       "rate": 90.0,
       "count": 30
-    },
-    {
-      "team": "Barakaldo CF",
-      "rate": 89.66,
-      "count": 58
     }
   ],
   "top_leagues": [
@@ -466,10 +466,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1400,
+      "won": 1401,
       "lost": 410,
-      "rate": 77.35,
-      "count": 1810
+      "rate": 77.36,
+      "count": 1811
     },
     {
       "name": "Handicap (2:0) 1",
@@ -589,13 +589,13 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.52,
-      "count": 3527
+      "rate": 76.53,
+      "count": 3528
     },
     {
       "odd": 1.12,
-      "rate": 75.96,
-      "count": 3224
+      "rate": 75.97,
+      "count": 3225
     },
     {
       "odd": 1.76,
@@ -604,8 +604,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 74.96,
-      "count": 3443
+      "rate": 74.97,
+      "count": 3444
     },
     {
       "odd": 1.13,
