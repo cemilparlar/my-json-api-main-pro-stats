@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 56456,
-    "lost": 20485,
+    "won": 56458,
+    "lost": 20486,
     "rate": 73.4,
-    "total": 76941,
+    "total": 76944,
     "last_24h": {
-      "won": 55,
-      "lost": 19,
-      "rate": 74.3,
-      "total": 74
+      "won": 57,
+      "lost": 20,
+      "rate": 74.0,
+      "total": 77
     }
   },
   "by_day": [
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 73.8,
-      "count": 3944
+      "count": 3947
     },
     {
       "label": "Friday",
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 74.6,
-      "count": 1293
+      "rate": 74.5,
+      "count": 1296
     },
     {
       "label": "01:00",
@@ -493,6 +493,13 @@
       "count": 1498
     },
     {
+      "name": "1st Half Double Chance 1X",
+      "won": 4526,
+      "lost": 1509,
+      "rate": 75.0,
+      "count": 6035
+    },
+    {
       "name": "Home Team 1st Half Under 0.5",
       "won": 12,
       "lost": 4,
@@ -500,18 +507,11 @@
       "count": 16
     },
     {
-      "name": "1st Half Double Chance 1X",
-      "won": 4525,
-      "lost": 1509,
-      "rate": 74.99,
-      "count": 6034
-    },
-    {
       "name": "Double Chance 1X",
       "won": 5247,
-      "lost": 1782,
-      "rate": 74.65,
-      "count": 7029
+      "lost": 1783,
+      "rate": 74.64,
+      "count": 7030
     },
     {
       "name": "Double Chance 12",
@@ -590,7 +590,7 @@
     {
       "odd": 1.08,
       "rate": 76.53,
-      "count": 3536
+      "count": 3537
     },
     {
       "odd": 1.12,
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.68,
-      "count": 3677
+      "rate": 74.66,
+      "count": 3678
     },
     {
       "odd": 1.14,
