@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 57403,
-    "lost": 20858,
+    "won": 57406,
+    "lost": 20860,
     "rate": 73.3,
-    "total": 78261,
+    "total": 78266,
     "last_24h": {
-      "won": 40,
+      "won": 41,
       "lost": 16,
-      "rate": 71.4,
-      "total": 56
+      "rate": 71.9,
+      "total": 57
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 73.7,
-      "count": 5760
+      "count": 5763
     },
     {
       "label": "Sunday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 11074
+      "count": 11075
     },
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 26319
+      "count": 26320
     }
   ],
   "by_hour": [
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.7,
-      "count": 8756
+      "count": 8760
     },
     {
       "label": "20:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.4,
-      "count": 4857
+      "count": 4858
     },
     {
       "label": "05:00",
@@ -507,13 +507,6 @@
       "count": 56
     },
     {
-      "name": "Home Team 1st Half Under 0.5",
-      "won": 12,
-      "lost": 4,
-      "rate": 75.0,
-      "count": 16
-    },
-    {
       "name": "Double Chance 1X",
       "won": 5337,
       "lost": 1805,
@@ -554,6 +547,13 @@
       "lost": 1512,
       "rate": 73.9,
       "count": 5794
+    },
+    {
+      "name": "1st Half Double Chance X2",
+      "won": 3152,
+      "lost": 1128,
+      "rate": 73.64,
+      "count": 4280
     }
   ],
   "top_odds": [
