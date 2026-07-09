@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 57412,
+    "won": 57413,
     "lost": 20863,
     "rate": 73.3,
-    "total": 78275,
+    "total": 78276,
     "last_24h": {
-      "won": 44,
+      "won": 45,
       "lost": 15,
-      "rate": 74.6,
-      "total": 59
+      "rate": 75.0,
+      "total": 60
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 73.7,
-      "count": 5769
+      "count": 5770
     },
     {
       "label": "Sunday",
@@ -122,7 +122,7 @@
     {
       "label": "22:00",
       "rate": 74.7,
-      "count": 1322
+      "count": 1323
     },
     {
       "label": "01:00",
@@ -386,6 +386,13 @@
       "count": 6
     },
     {
+      "name": " EKVK",
+      "won": 5,
+      "lost": 1,
+      "rate": 83.33,
+      "count": 6
+    },
+    {
       "name": " GURCSK",
       "won": 5,
       "lost": 1,
@@ -405,13 +412,6 @@
       "lost": 11,
       "rate": 82.81,
       "count": 64
-    },
-    {
-      "name": "NOK",
-      "won": 38,
-      "lost": 8,
-      "rate": 82.61,
-      "count": 46
     }
   ],
   "top_predictions": [
