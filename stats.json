@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 57613,
-    "lost": 20929,
+    "won": 57626,
+    "lost": 20935,
     "rate": 73.4,
-    "total": 78542,
+    "total": 78561,
     "last_24h": {
-      "won": 86,
+      "won": 95,
       "lost": 34,
-      "rate": 71.7,
-      "total": 120
+      "rate": 73.6,
+      "total": 129
     }
   },
   "by_day": [
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.2,
-      "count": 11193
+      "count": 11194
     },
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 26325
+      "count": 26343
     }
   ],
   "by_hour": [
@@ -111,13 +111,13 @@
     },
     {
       "label": "05:00",
-      "rate": 73.8,
-      "count": 2184
+      "rate": 73.7,
+      "count": 2200
     },
     {
       "label": "09:00",
-      "rate": 71.2,
-      "count": 845
+      "rate": 71.3,
+      "count": 846
     },
     {
       "label": "22:00",
@@ -137,7 +137,7 @@
     {
       "label": "07:00",
       "rate": 73.1,
-      "count": 1122
+      "count": 1123
     },
     {
       "label": "23:00",
@@ -166,8 +166,8 @@
     },
     {
       "label": "04:00",
-      "rate": 76.6,
-      "count": 111
+      "rate": 75.9,
+      "count": 112
     }
   ],
   "top_teams": [
@@ -247,6 +247,11 @@
       "count": 22
     },
     {
+      "team": "Belconnen Unite",
+      "rate": 90.91,
+      "count": 22
+    },
+    {
       "team": "Oppsal",
       "rate": 90.91,
       "count": 33
@@ -265,11 +270,6 @@
       "team": "Kryvbas Kryvyi Rih",
       "rate": 90.0,
       "count": 20
-    },
-    {
-      "team": "Eker Orebro",
-      "rate": 90.0,
-      "count": 30
     }
   ],
   "top_leagues": [
@@ -494,10 +494,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4639,
-      "lost": 1542,
-      "rate": 75.05,
-      "count": 6181
+      "won": 4642,
+      "lost": 1544,
+      "rate": 75.04,
+      "count": 6186
     },
     {
       "name": "Total Goals 0-1",
@@ -508,10 +508,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 5362,
+      "won": 5365,
       "lost": 1809,
-      "rate": 74.77,
-      "count": 7171
+      "rate": 74.78,
+      "count": 7174
     },
     {
       "name": "Match Result 2",
@@ -559,8 +559,8 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.39,
-      "count": 4285
+      "rate": 79.4,
+      "count": 4286
     },
     {
       "odd": 1.05,
@@ -569,13 +569,13 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.29,
-      "count": 3633
+      "rate": 77.3,
+      "count": 3634
     },
     {
       "odd": 1.09,
       "rate": 76.83,
-      "count": 6439
+      "count": 6440
     },
     {
       "odd": 1.1,
@@ -605,7 +605,7 @@
     {
       "odd": 1.11,
       "rate": 74.96,
-      "count": 3530
+      "count": 3531
     },
     {
       "odd": 1.13,
