@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 57729,
-    "lost": 20992,
+    "won": 57774,
+    "lost": 21010,
     "rate": 73.3,
-    "total": 78721,
+    "total": 78784,
     "last_24h": {
-      "won": 133,
-      "lost": 54,
-      "rate": 71.1,
-      "total": 187
+      "won": 174,
+      "lost": 63,
+      "rate": 73.4,
+      "total": 237
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.7,
-      "count": 6326
+      "count": 6327
     },
     {
       "label": "Wednesday",
@@ -30,22 +30,22 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 19592
+      "count": 19591
     },
     {
       "label": "Thursday",
       "rate": 73.9,
-      "count": 4137
+      "count": 4136
     },
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 11202
+      "count": 11203
     },
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 26492
+      "count": 26555
     }
   ],
   "by_hour": [
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.5,
-      "count": 8376
+      "count": 8434
     },
     {
       "label": "15:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 72.7,
-      "count": 7221
+      "count": 7222
     },
     {
       "label": "18:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.7,
-      "count": 8783
+      "count": 8784
     },
     {
       "label": "20:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.4,
-      "count": 4894
+      "count": 4895
     },
     {
       "label": "05:00",
@@ -136,8 +136,8 @@
     },
     {
       "label": "07:00",
-      "rate": 73.1,
-      "count": 1131
+      "rate": 73.0,
+      "count": 1133
     },
     {
       "label": "23:00",
@@ -466,10 +466,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1431,
-      "lost": 434,
-      "rate": 76.73,
-      "count": 1865
+      "won": 1437,
+      "lost": 438,
+      "rate": 76.64,
+      "count": 1875
     },
     {
       "name": "HT/FT 1/1",
@@ -480,24 +480,24 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 1140,
-      "lost": 370,
-      "rate": 75.5,
-      "count": 1510
+      "won": 1141,
+      "lost": 371,
+      "rate": 75.46,
+      "count": 1512
     },
     {
       "name": "Handicap (2:0) 1",
-      "won": 452,
+      "won": 453,
       "lost": 148,
-      "rate": 75.33,
-      "count": 600
+      "rate": 75.37,
+      "count": 601
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4655,
+      "won": 4656,
       "lost": 1545,
       "rate": 75.08,
-      "count": 6200
+      "count": 6201
     },
     {
       "name": "Total Goals 0-1",
@@ -515,17 +515,17 @@
     },
     {
       "name": "Match Result 2",
-      "won": 625,
-      "lost": 213,
-      "rate": 74.58,
-      "count": 838
+      "won": 627,
+      "lost": 214,
+      "rate": 74.55,
+      "count": 841
     },
     {
       "name": "Double Chance 12",
-      "won": 10421,
-      "lost": 3566,
+      "won": 10426,
+      "lost": 3568,
       "rate": 74.5,
-      "count": 13987
+      "count": 13994
     },
     {
       "name": "Handicap (1:0) 2",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1287,
+      "won": 1288,
       "lost": 445,
-      "rate": 74.31,
-      "count": 1732
+      "rate": 74.32,
+      "count": 1733
     },
     {
       "name": "Over 1.5 Goals",
@@ -550,32 +550,32 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 3170,
+      "won": 3171,
       "lost": 1136,
       "rate": 73.62,
-      "count": 4306
+      "count": 4307
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.4,
-      "count": 4291
+      "rate": 79.37,
+      "count": 4295
     },
     {
       "odd": 1.05,
-      "rate": 78.39,
-      "count": 2906
+      "rate": 78.42,
+      "count": 2910
     },
     {
       "odd": 1.07,
-      "rate": 77.3,
-      "count": 3643
+      "rate": 77.28,
+      "count": 3645
     },
     {
       "odd": 1.09,
-      "rate": 76.8,
-      "count": 6458
+      "rate": 76.82,
+      "count": 6463
     },
     {
       "odd": 1.1,
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.51,
-      "count": 3636
+      "rate": 76.5,
+      "count": 3639
     },
     {
       "odd": 1.12,
@@ -599,23 +599,18 @@
     },
     {
       "odd": 1.11,
-      "rate": 74.96,
-      "count": 3539
-    },
-    {
-      "odd": 1.13,
-      "rate": 74.57,
-      "count": 3760
+      "rate": 74.98,
+      "count": 3541
     },
     {
       "odd": 1.76,
-      "rate": 74.56,
-      "count": 114
+      "rate": 74.78,
+      "count": 115
     },
     {
-      "odd": 1.14,
-      "rate": 74.08,
-      "count": 2832
+      "odd": 1.13,
+      "rate": 74.55,
+      "count": 3761
     },
     {
       "odd": 1.98,
@@ -623,9 +618,14 @@
       "count": 54
     },
     {
+      "odd": 1.14,
+      "rate": 74.06,
+      "count": 2834
+    },
+    {
       "odd": 1.15,
-      "rate": 73.57,
-      "count": 4241
+      "rate": 73.56,
+      "count": 4243
     },
     {
       "odd": 1.97,
@@ -634,8 +634,13 @@
     },
     {
       "odd": 1.17,
-      "rate": 72.79,
-      "count": 1768
+      "rate": 72.77,
+      "count": 1770
+    },
+    {
+      "odd": 1.25,
+      "rate": 72.51,
+      "count": 1033
     },
     {
       "odd": 1.72,
@@ -643,14 +648,9 @@
       "count": 80
     },
     {
-      "odd": 1.25,
-      "rate": 72.48,
-      "count": 1032
-    },
-    {
       "odd": 1.19,
-      "rate": 72.46,
-      "count": 1503
+      "rate": 72.49,
+      "count": 1505
     },
     {
       "odd": 1.95,
@@ -778,6 +778,14 @@
       "odds": "7.77",
       "prediction": "HT/FT X/2",
       "date": "14.02.2026 20:00"
+    },
+    {
+      "match": "Inverness CT vs East Fife",
+      "ht": "0 - 1",
+      "ft": "1 - 1",
+      "odds": "6.97",
+      "prediction": "1st Half Result 2",
+      "date": "11.07.2026 14:00"
     },
     {
       "match": "Rivadavia vs Gimnasia y Esgrima Mendoza",
@@ -1050,14 +1058,6 @@
       "odds": "4.96",
       "prediction": "Handicap (0:2) X",
       "date": "06.05.2026 16:45"
-    },
-    {
-      "match": "FC Groningen vs FC Utrecht",
-      "ht": "0 - 0",
-      "ft": "1 - 2",
-      "odds": "4.84",
-      "prediction": "Handicap (1:0) X",
-      "date": "14.02.2026 20:00"
     }
   ]
 }
