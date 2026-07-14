@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 58172,
-    "lost": 21128,
+    "won": 58185,
+    "lost": 21135,
     "rate": 73.4,
-    "total": 79300,
+    "total": 79320,
     "last_24h": {
-      "won": 85,
-      "lost": 40,
-      "rate": 68.0,
-      "total": 125
+      "won": 96,
+      "lost": 44,
+      "rate": 68.6,
+      "total": 140
     }
   },
   "by_day": [
@@ -20,12 +20,12 @@
     {
       "label": "Tuesday",
       "rate": 73.7,
-      "count": 6439
+      "count": 6458
     },
     {
       "label": "Wednesday",
       "rate": 73.8,
-      "count": 5810
+      "count": 5811
     },
     {
       "label": "Sunday",
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 73.2,
-      "count": 5925
+      "count": 5926
     },
     {
       "label": "13:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 72.7,
-      "count": 5808
+      "count": 5809
     },
     {
       "label": "17:00",
@@ -97,12 +97,12 @@
     {
       "label": "19:00",
       "rate": 73.6,
-      "count": 8844
+      "count": 8862
     },
     {
       "label": "20:00",
       "rate": 73.2,
-      "count": 2898
+      "count": 2899
     },
     {
       "label": "11:00",
@@ -121,8 +121,8 @@
     },
     {
       "label": "22:00",
-      "rate": 74.7,
-      "count": 1332
+      "rate": 74.8,
+      "count": 1331
     },
     {
       "label": "01:00",
@@ -171,11 +171,6 @@
     }
   ],
   "top_teams": [
-    {
-      "team": "France",
-      "rate": 96.0,
-      "count": 25
-    },
     {
       "team": "Middelfart",
       "rate": 95.65,
@@ -270,6 +265,11 @@
       "team": "Eker Orebro",
       "rate": 90.0,
       "count": 30
+    },
+    {
+      "team": "Algeria",
+      "rate": 89.74,
+      "count": 39
     }
   ],
   "top_leagues": [
@@ -488,9 +488,9 @@
     {
       "name": "1st Half Double Chance 1X",
       "won": 4699,
-      "lost": 1551,
-      "rate": 75.18,
-      "count": 6250
+      "lost": 1552,
+      "rate": 75.17,
+      "count": 6251
     },
     {
       "name": "Handicap (2:0) 2",
@@ -509,9 +509,9 @@
     {
       "name": "Double Chance 1X",
       "won": 5418,
-      "lost": 1826,
-      "rate": 74.79,
-      "count": 7244
+      "lost": 1827,
+      "rate": 74.78,
+      "count": 7245
     },
     {
       "name": "Handicap (1:0) 2",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 10506,
+      "won": 10507,
       "lost": 3594,
       "rate": 74.51,
-      "count": 14100
+      "count": 14101
     },
     {
       "name": "Match Result 2",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 4327,
+      "won": 4329,
       "lost": 1519,
-      "rate": 74.02,
-      "count": 5846
+      "rate": 74.03,
+      "count": 5848
     },
     {
       "name": "1st Half Under 0.5",
@@ -580,17 +580,17 @@
     {
       "odd": 1.1,
       "rate": 76.72,
-      "count": 3608
+      "count": 3609
     },
     {
       "odd": 1.08,
-      "rate": 76.58,
-      "count": 3672
+      "rate": 76.59,
+      "count": 3673
     },
     {
       "odd": 1.12,
       "rate": 75.89,
-      "count": 3330
+      "count": 3331
     },
     {
       "odd": 1.75,
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.66,
-      "count": 3776
+      "rate": 74.64,
+      "count": 3778
     },
     {
       "odd": 1.98,
@@ -629,8 +629,8 @@
     },
     {
       "odd": 1.17,
-      "rate": 72.79,
-      "count": 1775
+      "rate": 72.8,
+      "count": 1776
     },
     {
       "odd": 1.19,
