@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 58108,
-    "lost": 21102,
+    "won": 58115,
+    "lost": 21108,
     "rate": 73.4,
-    "total": 79210,
+    "total": 79223,
     "last_24h": {
-      "won": 26,
-      "lost": 7,
-      "rate": 78.8,
-      "total": 33
+      "won": 32,
+      "lost": 13,
+      "rate": 71.1,
+      "total": 45
     }
   },
   "by_day": [
@@ -19,13 +19,13 @@
     },
     {
       "label": "Tuesday",
-      "rate": 73.8,
-      "count": 6349
+      "rate": 73.7,
+      "count": 6360
     },
     {
       "label": "Wednesday",
       "rate": 73.8,
-      "count": 5809
+      "count": 5810
     },
     {
       "label": "Sunday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 26672
+      "count": 26673
     }
   ],
   "by_hour": [
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.5,
-      "count": 8469
+      "count": 8470
     },
     {
       "label": "15:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 72.7,
-      "count": 5791
+      "count": 5802
     },
     {
       "label": "17:00",
@@ -92,7 +92,7 @@
     {
       "label": "18:00",
       "rate": 72.8,
-      "count": 6654
+      "count": 6655
     },
     {
       "label": "19:00",
@@ -177,6 +177,11 @@
       "count": 25
     },
     {
+      "team": "Middelfart",
+      "rate": 95.65,
+      "count": 23
+    },
+    {
       "team": "Karela",
       "rate": 95.45,
       "count": 22
@@ -185,11 +190,6 @@
       "team": "Budaors",
       "rate": 95.45,
       "count": 22
-    },
-    {
-      "team": "Middelfart",
-      "rate": 95.24,
-      "count": 21
     },
     {
       "team": "Ashton United",
@@ -460,9 +460,9 @@
     {
       "name": "Under 4.5 Goals",
       "won": 1449,
-      "lost": 439,
-      "rate": 76.75,
-      "count": 1888
+      "lost": 441,
+      "rate": 76.67,
+      "count": 1890
     },
     {
       "name": "HT/FT 1/1",
@@ -487,10 +487,10 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4695,
+      "won": 4696,
       "lost": 1551,
       "rate": 75.17,
-      "count": 6246
+      "count": 6247
     },
     {
       "name": "Handicap (2:0) 2",
@@ -508,24 +508,24 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 5412,
-      "lost": 1825,
+      "won": 5414,
+      "lost": 1826,
       "rate": 74.78,
-      "count": 7237
+      "count": 7240
+    },
+    {
+      "name": "Double Chance 12",
+      "won": 10493,
+      "lost": 3587,
+      "rate": 74.52,
+      "count": 14080
     },
     {
       "name": "Match Result 2",
       "won": 634,
-      "lost": 216,
-      "rate": 74.59,
-      "count": 850
-    },
-    {
-      "name": "Double Chance 12",
-      "won": 10491,
-      "lost": 3587,
-      "rate": 74.52,
-      "count": 14078
+      "lost": 218,
+      "rate": 74.41,
+      "count": 852
     },
     {
       "name": "Handicap (1:0) 2",
@@ -559,13 +559,13 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.36,
-      "count": 4317
+      "rate": 79.35,
+      "count": 4319
     },
     {
       "odd": 1.05,
-      "rate": 78.52,
-      "count": 2937
+      "rate": 78.44,
+      "count": 2940
     },
     {
       "odd": 1.07,
@@ -575,7 +575,7 @@
     {
       "odd": 1.09,
       "rate": 76.85,
-      "count": 6497
+      "count": 6498
     },
     {
       "odd": 1.1,
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.58,
-      "count": 3663
+      "rate": 76.59,
+      "count": 3665
     },
     {
       "odd": 1.12,
@@ -619,8 +619,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 74.04,
-      "count": 2847
+      "rate": 74.06,
+      "count": 2849
     },
     {
       "odd": 1.15,
