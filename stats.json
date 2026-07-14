@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 58085,
-    "lost": 21098,
+    "won": 58087,
+    "lost": 21099,
     "rate": 73.4,
-    "total": 79183,
+    "total": 79186,
     "last_24h": {
-      "won": 23,
+      "won": 24,
       "lost": 8,
-      "rate": 74.2,
-      "total": 31
+      "rate": 75.0,
+      "total": 32
     }
   },
   "by_day": [
@@ -20,12 +20,12 @@
     {
       "label": "Tuesday",
       "rate": 73.7,
-      "count": 6324
+      "count": 6325
     },
     {
       "label": "Wednesday",
       "rate": 73.8,
-      "count": 5807
+      "count": 5809
     },
     {
       "label": "Sunday",
@@ -147,7 +147,7 @@
     {
       "label": "00:00",
       "rate": 74.0,
-      "count": 458
+      "count": 461
     },
     {
       "label": "21:00",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1294,
+      "won": 1295,
       "lost": 447,
-      "rate": 74.33,
-      "count": 1741
+      "rate": 74.34,
+      "count": 1742
     },
     {
       "name": "Over 1.5 Goals",
