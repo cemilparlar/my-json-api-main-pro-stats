@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 58902,
-    "lost": 21389,
+    "won": 58914,
+    "lost": 21394,
     "rate": 73.4,
-    "total": 80291,
+    "total": 80308,
     "last_24h": {
-      "won": 324,
-      "lost": 114,
-      "rate": 74.0,
-      "total": 438
+      "won": 335,
+      "lost": 117,
+      "rate": 74.1,
+      "total": 452
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 19852
+      "count": 19853
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 11503
+      "count": 11504
     },
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 27050
+      "count": 27065
     }
   ],
   "by_hour": [
@@ -72,12 +72,12 @@
     {
       "label": "14:00",
       "rate": 73.7,
-      "count": 8558
+      "count": 8574
     },
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 8756
+      "count": 8757
     },
     {
       "label": "16:00",
@@ -452,10 +452,10 @@
     },
     {
       "name": "1st Half Under 2.5",
-      "won": 305,
+      "won": 306,
       "lost": 78,
-      "rate": 79.63,
-      "count": 383
+      "rate": 79.69,
+      "count": 384
     },
     {
       "name": "Handicap (2:0) 2",
@@ -466,10 +466,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1485,
+      "won": 1486,
       "lost": 451,
-      "rate": 76.7,
-      "count": 1936
+      "rate": 76.72,
+      "count": 1937
     },
     {
       "name": "Handicap (2:0) 1",
@@ -481,9 +481,9 @@
     {
       "name": "Handicap (0:2) 2",
       "won": 1153,
-      "lost": 375,
-      "rate": 75.46,
-      "count": 1528
+      "lost": 377,
+      "rate": 75.36,
+      "count": 1530
     },
     {
       "name": "HT/FT 1/1",
@@ -521,25 +521,25 @@
       "count": 14273
     },
     {
-      "name": "Match Result 2",
-      "won": 649,
-      "lost": 222,
-      "rate": 74.51,
-      "count": 871
+      "name": "Handicap (0:1) 2",
+      "won": 1307,
+      "lost": 449,
+      "rate": 74.43,
+      "count": 1756
     },
     {
-      "name": "Handicap (0:1) 2",
-      "won": 1306,
-      "lost": 449,
-      "rate": 74.42,
-      "count": 1755
+      "name": "Match Result 2",
+      "won": 651,
+      "lost": 224,
+      "rate": 74.4,
+      "count": 875
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 4365,
+      "won": 4366,
       "lost": 1533,
       "rate": 74.01,
-      "count": 5898
+      "count": 5899
     },
     {
       "name": "1st Half Double Chance X2",
@@ -559,8 +559,8 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.47,
-      "count": 4389
+      "rate": 79.48,
+      "count": 4390
     },
     {
       "odd": 1.05,
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.43,
-      "count": 3722
+      "rate": 77.44,
+      "count": 3723
     },
     {
       "odd": 1.75,
@@ -609,18 +609,18 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.61,
-      "count": 3808
+      "rate": 74.59,
+      "count": 3809
     },
     {
       "odd": 1.14,
-      "rate": 73.99,
-      "count": 2880
+      "rate": 74.0,
+      "count": 2881
     },
     {
       "odd": 1.15,
-      "rate": 73.66,
-      "count": 4313
+      "rate": 73.64,
+      "count": 4314
     },
     {
       "odd": 1.98,
@@ -631,11 +631,6 @@
       "odd": 1.72,
       "rate": 72.94,
       "count": 85
-    },
-    {
-      "odd": 1.71,
-      "rate": 72.86,
-      "count": 70
     },
     {
       "odd": 1.17,
@@ -656,6 +651,11 @@
       "odd": 1.77,
       "rate": 72.22,
       "count": 90
+    },
+    {
+      "odd": 1.23,
+      "rate": 72.12,
+      "count": 1205
     }
   ],
   "top_matches": [
