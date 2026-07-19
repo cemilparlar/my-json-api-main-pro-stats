@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 59099,
-    "lost": 21462,
+    "won": 59101,
+    "lost": 21464,
     "rate": 73.4,
-    "total": 80561,
+    "total": 80565,
     "last_24h": {
-      "won": 136,
+      "won": 138,
       "lost": 50,
-      "rate": 73.1,
-      "total": 186
+      "rate": 73.4,
+      "total": 188
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 19891
+      "count": 19895
     },
     {
       "label": "Thursday",
@@ -57,12 +57,12 @@
     {
       "label": "10:00",
       "rate": 72.6,
-      "count": 2401
+      "count": 2403
     },
     {
       "label": "12:00",
       "rate": 73.2,
-      "count": 5987
+      "count": 5988
     },
     {
       "label": "13:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.4,
-      "count": 4965
+      "count": 4966
     },
     {
       "label": "05:00",
@@ -197,11 +197,6 @@
       "count": 20
     },
     {
-      "team": "Skanste",
-      "rate": 95.0,
-      "count": 20
-    },
-    {
       "team": "Zimbru",
       "rate": 93.33,
       "count": 30
@@ -268,6 +263,11 @@
     },
     {
       "team": "Balatonfuredi",
+      "rate": 90.48,
+      "count": 21
+    },
+    {
+      "team": "Skanste",
       "rate": 90.48,
       "count": 21
     }
@@ -508,17 +508,17 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 5500,
-      "lost": 1858,
-      "rate": 74.75,
-      "count": 7358
+      "won": 5501,
+      "lost": 1859,
+      "rate": 74.74,
+      "count": 7360
     },
     {
       "name": "Double Chance 12",
-      "won": 10676,
+      "won": 10677,
       "lost": 3646,
       "rate": 74.54,
-      "count": 14322
+      "count": 14323
     },
     {
       "name": "Handicap (0:1) 2",
@@ -559,8 +559,8 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.48,
-      "count": 4401
+      "rate": 79.49,
+      "count": 4402
     },
     {
       "odd": 1.05,
@@ -580,7 +580,7 @@
     {
       "odd": 1.09,
       "rate": 76.89,
-      "count": 6633
+      "count": 6634
     },
     {
       "odd": 1.1,
