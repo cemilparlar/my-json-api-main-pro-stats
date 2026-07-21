@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 59258,
+    "won": 59262,
     "lost": 21532,
     "rate": 73.3,
-    "total": 80790,
+    "total": 80794,
     "last_24h": {
-      "won": 28,
-      "lost": 18,
-      "rate": 60.9,
-      "total": 46
+      "won": 32,
+      "lost": 19,
+      "rate": 62.7,
+      "total": 51
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.7,
-      "count": 6496
+      "count": 6502
     },
     {
       "label": "Wednesday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 11503
+      "count": 11502
     },
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 27276
+      "count": 27275
     }
   ],
   "by_hour": [
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 73.2,
-      "count": 5997
+      "count": 6000
     },
     {
       "label": "13:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 73.2,
-      "count": 2908
+      "count": 2909
     },
     {
       "label": "11:00",
@@ -407,11 +407,11 @@
       "count": 6
     },
     {
-      "name": " AVUK",
-      "won": 10,
-      "lost": 2,
-      "rate": 83.33,
-      "count": 12
+      "name": "AFCAKŞ",
+      "won": 53,
+      "lost": 11,
+      "rate": 82.81,
+      "count": 64
     }
   ],
   "top_predictions": [
@@ -459,10 +459,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1492,
+      "won": 1493,
       "lost": 451,
-      "rate": 76.79,
-      "count": 1943
+      "rate": 76.8,
+      "count": 1944
     },
     {
       "name": "Handicap (1:0) 2",
@@ -508,10 +508,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 10709,
+      "won": 10710,
       "lost": 3659,
-      "rate": 74.53,
-      "count": 14368
+      "rate": 74.54,
+      "count": 14369
     },
     {
       "name": "Handicap (0:1) 2",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 662,
+      "won": 663,
       "lost": 229,
-      "rate": 74.3,
-      "count": 891
+      "rate": 74.33,
+      "count": 892
     },
     {
       "name": "Over 1.5 Goals",
@@ -559,8 +559,8 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.49,
-      "count": 4418
+      "rate": 79.5,
+      "count": 4420
     },
     {
       "odd": 1.05,
@@ -575,7 +575,7 @@
     {
       "odd": 1.07,
       "rate": 77.35,
-      "count": 3752
+      "count": 3753
     },
     {
       "odd": 1.09,
@@ -618,6 +618,11 @@
       "count": 2905
     },
     {
+      "odd": 1.71,
+      "rate": 73.91,
+      "count": 69
+    },
+    {
       "odd": 1.15,
       "rate": 73.66,
       "count": 4332
@@ -636,11 +641,6 @@
       "odd": 1.17,
       "rate": 72.86,
       "count": 1798
-    },
-    {
-      "odd": 1.71,
-      "rate": 72.86,
-      "count": 70
     },
     {
       "odd": 1.19,
