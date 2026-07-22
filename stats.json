@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 59432,
-    "lost": 21591,
+    "won": 59442,
+    "lost": 21594,
     "rate": 73.4,
-    "total": 81023,
+    "total": 81036,
     "last_24h": {
-      "won": 187,
-      "lost": 55,
+      "won": 197,
+      "lost": 58,
       "rate": 77.3,
-      "total": 242
+      "total": 255
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 73.7,
-      "count": 5934
+      "count": 5947
     },
     {
       "label": "Sunday",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 8840
+      "count": 8839
     },
     {
       "label": "16:00",
@@ -146,8 +146,8 @@
     },
     {
       "label": "00:00",
-      "rate": 73.7,
-      "count": 509
+      "rate": 73.6,
+      "count": 523
     },
     {
       "label": "21:00",
@@ -472,13 +472,6 @@
       "count": 87
     },
     {
-      "name": "Handicap (2:0) 1",
-      "won": 461,
-      "lost": 151,
-      "rate": 75.33,
-      "count": 612
-    },
-    {
       "name": "Handicap (0:2) 2",
       "won": 1159,
       "lost": 380,
@@ -493,18 +486,25 @@
       "count": 85
     },
     {
+      "name": "Handicap (2:0) 1",
+      "won": 461,
+      "lost": 152,
+      "rate": 75.2,
+      "count": 613
+    },
+    {
       "name": "1st Half Double Chance 1X",
-      "won": 4795,
+      "won": 4796,
       "lost": 1589,
       "rate": 75.11,
-      "count": 6384
+      "count": 6385
     },
     {
       "name": "Double Chance 1X",
-      "won": 5527,
-      "lost": 1866,
-      "rate": 74.76,
-      "count": 7393
+      "won": 5528,
+      "lost": 1867,
+      "rate": 74.75,
+      "count": 7395
     },
     {
       "name": "Double Chance 12",
@@ -522,17 +522,17 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1308,
-      "lost": 452,
-      "rate": 74.32,
-      "count": 1760
+      "won": 1309,
+      "lost": 453,
+      "rate": 74.29,
+      "count": 1762
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 4390,
+      "won": 4392,
       "lost": 1541,
-      "rate": 74.02,
-      "count": 5931
+      "rate": 74.03,
+      "count": 5933
     },
     {
       "name": "1st Half Under 0.5",
@@ -565,7 +565,7 @@
     {
       "odd": 1.05,
       "rate": 78.41,
-      "count": 3052
+      "count": 3053
     },
     {
       "odd": 1.75,
@@ -575,12 +575,12 @@
     {
       "odd": 1.07,
       "rate": 77.38,
-      "count": 3766
+      "count": 3767
     },
     {
       "odd": 1.09,
       "rate": 76.84,
-      "count": 6684
+      "count": 6685
     },
     {
       "odd": 1.08,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.54,
-      "count": 3674
+      "rate": 76.52,
+      "count": 3675
     },
     {
       "odd": 1.12,
@@ -639,13 +639,13 @@
     },
     {
       "odd": 1.17,
-      "rate": 72.89,
-      "count": 1800
+      "rate": 72.9,
+      "count": 1801
     },
     {
       "odd": 1.19,
-      "rate": 72.76,
-      "count": 1531
+      "rate": 72.78,
+      "count": 1532
     },
     {
       "odd": 1.77,
