@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 59480,
-    "lost": 21607,
+    "won": 59482,
+    "lost": 21608,
     "rate": 73.4,
-    "total": 81087,
+    "total": 81090,
     "last_24h": {
-      "won": 63,
-      "lost": 21,
-      "rate": 75.0,
-      "total": 84
+      "won": 65,
+      "lost": 22,
+      "rate": 74.7,
+      "total": 87
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 73.8,
-      "count": 5993
+      "count": 5996
     },
     {
       "label": "Sunday",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 8839
+      "count": 8842
     },
     {
       "label": "16:00",
@@ -472,18 +472,18 @@
       "count": 87
     },
     {
-      "name": "Handicap (0:2) 2",
-      "won": 1161,
-      "lost": 381,
-      "rate": 75.29,
-      "count": 1542
-    },
-    {
       "name": "HT/FT 1/1",
       "won": 64,
       "lost": 21,
       "rate": 75.29,
       "count": 85
+    },
+    {
+      "name": "Handicap (0:2) 2",
+      "won": 1161,
+      "lost": 382,
+      "rate": 75.24,
+      "count": 1543
     },
     {
       "name": "Handicap (2:0) 1",
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.54,
-      "count": 3768
+      "rate": 76.55,
+      "count": 3769
     },
     {
       "odd": 1.1,
