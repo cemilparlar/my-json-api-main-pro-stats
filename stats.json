@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 60001,
+    "won": 60004,
     "lost": 21784,
     "rate": 73.4,
-    "total": 81785,
+    "total": 81788,
     "last_24h": {
-      "won": 0,
+      "won": 3,
       "lost": 0,
-      "rate": 0,
-      "total": 0
+      "rate": 100.0,
+      "total": 3
     }
   },
   "by_day": [
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 74.0,
-      "count": 4291
+      "count": 4294
     },
     {
       "label": "Friday",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.6,
-      "count": 8650
+      "count": 8653
     },
     {
       "label": "15:00",
@@ -466,10 +466,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1529,
+      "won": 1530,
       "lost": 458,
-      "rate": 76.95,
-      "count": 1987
+      "rate": 76.96,
+      "count": 1988
     },
     {
       "name": "Handicap (2:0) 1",
@@ -508,10 +508,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 10854,
+      "won": 10855,
       "lost": 3699,
       "rate": 74.58,
-      "count": 14553
+      "count": 14554
     },
     {
       "name": "HT/FT 1/1",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 4415,
+      "won": 4416,
       "lost": 1551,
-      "rate": 74.0,
-      "count": 5966
+      "rate": 74.01,
+      "count": 5967
     },
     {
       "name": "1st Half Under 0.5",
@@ -560,12 +560,12 @@
     {
       "odd": 1.06,
       "rate": 79.6,
-      "count": 4480
+      "count": 4481
     },
     {
       "odd": 1.05,
-      "rate": 78.38,
-      "count": 3099
+      "rate": 78.39,
+      "count": 3101
     },
     {
       "odd": 1.75,
