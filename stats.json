@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 60013,
-    "lost": 21792,
+    "won": 60042,
+    "lost": 21801,
     "rate": 73.4,
-    "total": 81805,
+    "total": 81843,
     "last_24h": {
-      "won": 13,
-      "lost": 6,
-      "rate": 68.4,
-      "total": 19
+      "won": 40,
+      "lost": 16,
+      "rate": 71.4,
+      "total": 56
     }
   },
   "by_day": [
@@ -35,12 +35,12 @@
     {
       "label": "Thursday",
       "rate": 73.9,
-      "count": 4309
+      "count": 4348
     },
     {
       "label": "Friday",
       "rate": 73.2,
-      "count": 11712
+      "count": 11711
     },
     {
       "label": "Saturday",
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 72.6,
-      "count": 2467
+      "count": 2465
     },
     {
       "label": "12:00",
@@ -81,23 +81,23 @@
     },
     {
       "label": "16:00",
-      "rate": 72.8,
-      "count": 6095
+      "rate": 72.9,
+      "count": 6131
     },
     {
       "label": "17:00",
       "rate": 72.7,
-      "count": 7584
+      "count": 7586
     },
     {
       "label": "18:00",
       "rate": 72.9,
-      "count": 7152
+      "count": 7154
     },
     {
       "label": "19:00",
       "rate": 73.5,
-      "count": 9005
+      "count": 9004
     },
     {
       "label": "20:00",
@@ -126,8 +126,8 @@
     },
     {
       "label": "01:00",
-      "rate": 76.3,
-      "count": 401
+      "rate": 76.1,
+      "count": 402
     },
     {
       "label": "06:00",
@@ -197,11 +197,6 @@
       "count": 20
     },
     {
-      "team": "Zimbru",
-      "rate": 93.33,
-      "count": 30
-    },
-    {
       "team": "Quick Boys",
       "rate": 92.31,
       "count": 26
@@ -245,6 +240,11 @@
       "team": "52 Orduspor FK",
       "rate": 90.91,
       "count": 22
+    },
+    {
+      "team": "Zimbru",
+      "rate": 90.91,
+      "count": 33
     },
     {
       "team": "Belconnen Unite",
@@ -452,10 +452,10 @@
     },
     {
       "name": "1st Half Under 2.5",
-      "won": 317,
+      "won": 318,
       "lost": 80,
-      "rate": 79.85,
-      "count": 397
+      "rate": 79.9,
+      "count": 398
     },
     {
       "name": "Handicap (1:0) 2",
@@ -466,59 +466,52 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1530,
+      "won": 1531,
       "lost": 458,
-      "rate": 76.96,
-      "count": 1988
+      "rate": 76.97,
+      "count": 1989
     },
     {
       "name": "Handicap (2:0) 1",
-      "won": 468,
+      "won": 469,
       "lost": 153,
-      "rate": 75.36,
-      "count": 621
+      "rate": 75.4,
+      "count": 622
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 1168,
+      "won": 1170,
       "lost": 385,
-      "rate": 75.21,
-      "count": 1553
+      "rate": 75.24,
+      "count": 1555
     },
     {
       "name": "1st Half Double Chance 1X",
       "won": 4833,
-      "lost": 1598,
-      "rate": 75.15,
-      "count": 6431
+      "lost": 1599,
+      "rate": 75.14,
+      "count": 6432
     },
     {
       "name": "Double Chance 1X",
-      "won": 5574,
+      "won": 5575,
       "lost": 1877,
       "rate": 74.81,
-      "count": 7451
+      "count": 7452
     },
     {
       "name": "Match Result 2",
-      "won": 677,
-      "lost": 230,
-      "rate": 74.64,
+      "won": 678,
+      "lost": 229,
+      "rate": 74.75,
       "count": 907
     },
     {
       "name": "Double Chance 12",
-      "won": 10856,
-      "lost": 3700,
+      "won": 10859,
+      "lost": 3701,
       "rate": 74.58,
-      "count": 14556
-    },
-    {
-      "name": "HT/FT 1/1",
-      "won": 64,
-      "lost": 22,
-      "rate": 74.42,
-      "count": 86
+      "count": 14560
     },
     {
       "name": "Handicap (0:1) 2",
@@ -535,11 +528,18 @@
       "count": 58
     },
     {
+      "name": "HT/FT 1/1",
+      "won": 63,
+      "lost": 22,
+      "rate": 74.12,
+      "count": 85
+    },
+    {
       "name": "Over 1.5 Goals",
-      "won": 4417,
-      "lost": 1551,
+      "won": 4420,
+      "lost": 1552,
       "rate": 74.01,
-      "count": 5968
+      "count": 5972
     },
     {
       "name": "1st Half Under 0.5",
@@ -559,13 +559,13 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.61,
-      "count": 4483
+      "rate": 79.6,
+      "count": 4485
     },
     {
       "odd": 1.05,
-      "rate": 78.39,
-      "count": 3101
+      "rate": 78.4,
+      "count": 3102
     },
     {
       "odd": 1.75,
@@ -574,18 +574,18 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.37,
-      "count": 3805
+      "rate": 77.36,
+      "count": 3808
     },
     {
       "odd": 1.09,
-      "rate": 76.9,
-      "count": 6765
+      "rate": 76.91,
+      "count": 6768
     },
     {
       "odd": 1.08,
-      "rate": 76.63,
-      "count": 3813
+      "rate": 76.65,
+      "count": 3816
     },
     {
       "odd": 1.1,
@@ -599,8 +599,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.02,
-      "count": 3675
+      "rate": 75.0,
+      "count": 3676
     },
     {
       "odd": 1.76,
@@ -629,13 +629,13 @@
     },
     {
       "odd": 1.14,
-      "rate": 73.91,
-      "count": 2932
+      "rate": 73.89,
+      "count": 2934
     },
     {
       "odd": 1.15,
-      "rate": 73.62,
-      "count": 4378
+      "rate": 73.59,
+      "count": 4381
     },
     {
       "odd": 1.72,
@@ -644,8 +644,8 @@
     },
     {
       "odd": 1.19,
-      "rate": 72.92,
-      "count": 1536
+      "rate": 72.93,
+      "count": 1537
     },
     {
       "odd": 1.17,
