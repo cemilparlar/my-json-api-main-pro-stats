@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 60557,
-    "lost": 22023,
+    "won": 60586,
+    "lost": 22037,
     "rate": 73.3,
-    "total": 82580,
+    "total": 82623,
     "last_24h": {
-      "won": 70,
-      "lost": 37,
-      "rate": 65.4,
-      "total": 107
+      "won": 98,
+      "lost": 47,
+      "rate": 67.6,
+      "total": 145
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.9,
-      "count": 6905
+      "count": 6906
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 20049
+      "count": 20085
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 27439
+      "count": 27445
     }
   ],
   "by_hour": [
@@ -97,12 +97,12 @@
     {
       "label": "19:00",
       "rate": 73.5,
-      "count": 9032
+      "count": 9033
     },
     {
       "label": "20:00",
       "rate": 73.2,
-      "count": 2928
+      "count": 2927
     },
     {
       "label": "11:00",
@@ -126,8 +126,8 @@
     },
     {
       "label": "01:00",
-      "rate": 76.3,
-      "count": 418
+      "rate": 75.9,
+      "count": 436
     },
     {
       "label": "06:00",
@@ -142,12 +142,12 @@
     {
       "label": "23:00",
       "rate": 73.3,
-      "count": 1263
+      "count": 1268
     },
     {
       "label": "00:00",
-      "rate": 74.8,
-      "count": 614
+      "rate": 74.7,
+      "count": 632
     },
     {
       "label": "21:00",
@@ -161,8 +161,8 @@
     },
     {
       "label": "03:00",
-      "rate": 75.2,
-      "count": 125
+      "rate": 74.8,
+      "count": 127
     },
     {
       "label": "04:00",
@@ -295,13 +295,6 @@
       "count": 5
     },
     {
-      "name": " CONCACAF U20",
-      "won": 11,
-      "lost": 1,
-      "rate": 91.67,
-      "count": 12
-    },
-    {
       "name": "İSVK",
       "won": 28,
       "lost": 3,
@@ -370,6 +363,13 @@
       "lost": 3,
       "rate": 85.71,
       "count": 21
+    },
+    {
+      "name": " CONCACAF U20",
+      "won": 12,
+      "lost": 2,
+      "rate": 85.71,
+      "count": 14
     },
     {
       "name": "KİRLK",
@@ -453,16 +453,16 @@
     {
       "name": "1st Half Under 2.5",
       "won": 323,
-      "lost": 80,
-      "rate": 80.15,
-      "count": 403
+      "lost": 81,
+      "rate": 79.95,
+      "count": 404
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1557,
-      "lost": 464,
+      "won": 1560,
+      "lost": 465,
       "rate": 77.04,
-      "count": 2021
+      "count": 2025
     },
     {
       "name": "Handicap (1:0) 2",
@@ -473,17 +473,17 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 1183,
+      "won": 1185,
       "lost": 388,
-      "rate": 75.3,
-      "count": 1571
+      "rate": 75.33,
+      "count": 1573
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 4875,
-      "lost": 1622,
-      "rate": 75.03,
-      "count": 6497
+      "won": 4876,
+      "lost": 1624,
+      "rate": 75.02,
+      "count": 6500
     },
     {
       "name": "HT/FT 1/1",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 5615,
-      "lost": 1886,
-      "rate": 74.86,
-      "count": 7501
+      "won": 5617,
+      "lost": 1888,
+      "rate": 74.84,
+      "count": 7505
     },
     {
       "name": "Match Result 2",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 10970,
+      "won": 10974,
       "lost": 3756,
-      "rate": 74.49,
-      "count": 14726
+      "rate": 74.5,
+      "count": 14730
     },
     {
       "name": "Handicap (0:1) 2",
@@ -536,17 +536,17 @@
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 4447,
+      "won": 4448,
       "lost": 1555,
-      "rate": 74.09,
-      "count": 6002
+      "rate": 74.1,
+      "count": 6003
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 3342,
-      "lost": 1190,
-      "rate": 73.74,
-      "count": 4532
+      "won": 3343,
+      "lost": 1191,
+      "rate": 73.73,
+      "count": 4534
     },
     {
       "name": "Handicap (0:1) 1",
@@ -569,13 +569,13 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.47,
-      "count": 3140
+      "rate": 78.42,
+      "count": 3142
     },
     {
       "odd": 1.07,
-      "rate": 77.28,
-      "count": 3855
+      "rate": 77.27,
+      "count": 3858
     },
     {
       "odd": 1.09,
@@ -585,22 +585,22 @@
     {
       "odd": 1.08,
       "rate": 76.61,
-      "count": 3856
+      "count": 3857
     },
     {
       "odd": 1.1,
       "rate": 76.55,
-      "count": 3752
-    },
-    {
-      "odd": 1.12,
-      "rate": 75.65,
-      "count": 3470
+      "count": 3753
     },
     {
       "odd": 1.76,
       "rate": 75.61,
       "count": 123
+    },
+    {
+      "odd": 1.12,
+      "rate": 75.6,
+      "count": 3475
     },
     {
       "odd": 1.98,
@@ -610,7 +610,7 @@
     {
       "odd": 1.11,
       "rate": 75.11,
-      "count": 3709
+      "count": 3712
     },
     {
       "odd": 1.9,
@@ -625,17 +625,17 @@
     {
       "odd": 1.13,
       "rate": 74.54,
-      "count": 3888
+      "count": 3889
     },
     {
       "odd": 1.14,
-      "rate": 73.83,
-      "count": 2958
+      "rate": 73.86,
+      "count": 2961
     },
     {
       "odd": 1.15,
-      "rate": 73.61,
-      "count": 4415
+      "rate": 73.63,
+      "count": 4418
     },
     {
       "odd": 2.02,
@@ -649,13 +649,13 @@
     },
     {
       "odd": 1.19,
-      "rate": 72.86,
-      "count": 1544
+      "rate": 72.88,
+      "count": 1545
     },
     {
       "odd": 1.17,
-      "rate": 72.74,
-      "count": 1823
+      "rate": 72.7,
+      "count": 1824
     }
   ],
   "top_matches": [
