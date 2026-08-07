@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 61649,
-    "lost": 22421,
+    "won": 61660,
+    "lost": 22424,
     "rate": 73.3,
-    "total": 84070,
+    "total": 84084,
     "last_24h": {
-      "won": 131,
-      "lost": 47,
-      "rate": 73.6,
-      "total": 178
+      "won": 143,
+      "lost": 51,
+      "rate": 73.7,
+      "total": 194
     }
   },
   "by_day": [
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 12229
+      "count": 12243
     },
     {
       "label": "Saturday",
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 73.3,
-      "count": 6081
+      "count": 6097
     },
     {
       "label": "13:00",
       "rate": 73.5,
-      "count": 7121
+      "count": 7120
     },
     {
       "label": "14:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 73.1,
-      "count": 6401
+      "count": 6400
     },
     {
       "label": "17:00",
@@ -452,10 +452,10 @@
     },
     {
       "name": "1st Half Under 2.5",
-      "won": 333,
+      "won": 334,
       "lost": 85,
-      "rate": 79.67,
-      "count": 418
+      "rate": 79.71,
+      "count": 419
     },
     {
       "name": "Handicap (1:0) 2",
@@ -487,17 +487,24 @@
     },
     {
       "name": "Handicap (2:0) 1",
-      "won": 479,
+      "won": 480,
       "lost": 160,
-      "rate": 74.96,
-      "count": 639
+      "rate": 75.0,
+      "count": 640
+    },
+    {
+      "name": "Handicap (0:1) 1",
+      "won": 144,
+      "lost": 48,
+      "rate": 75.0,
+      "count": 192
     },
     {
       "name": "Double Chance 1X",
-      "won": 5701,
+      "won": 5702,
       "lost": 1922,
       "rate": 74.79,
-      "count": 7623
+      "count": 7624
     },
     {
       "name": "Match Result 2",
@@ -507,25 +514,11 @@
       "count": 935
     },
     {
-      "name": "Handicap (0:1) 1",
-      "won": 144,
-      "lost": 49,
-      "rate": 74.61,
-      "count": 193
-    },
-    {
       "name": "Double Chance 12",
-      "won": 11186,
+      "won": 11187,
       "lost": 3812,
       "rate": 74.58,
-      "count": 14998
-    },
-    {
-      "name": "Total Goals 0-1",
-      "won": 44,
-      "lost": 15,
-      "rate": 74.58,
-      "count": 59
+      "count": 14999
     },
     {
       "name": "Handicap (0:1) 2",
@@ -533,6 +526,13 @@
       "lost": 456,
       "rate": 74.45,
       "count": 1785
+    },
+    {
+      "name": "Total Goals 0-1",
+      "won": 43,
+      "lost": 15,
+      "rate": 74.14,
+      "count": 58
     },
     {
       "name": "Over 1.5 Goals",
@@ -549,11 +549,11 @@
       "count": 4622
     },
     {
-      "name": "Under 3.5 Goals",
-      "won": 4687,
-      "lost": 1687,
-      "rate": 73.53,
-      "count": 6374
+      "name": "HT/FT 1/1",
+      "won": 67,
+      "lost": 24,
+      "rate": 73.63,
+      "count": 91
     }
   ],
   "top_odds": [
@@ -575,7 +575,7 @@
     {
       "odd": 1.07,
       "rate": 77.32,
-      "count": 3924
+      "count": 3925
     },
     {
       "odd": 1.09,
@@ -584,13 +584,13 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.7,
-      "count": 3923
+      "rate": 76.71,
+      "count": 3924
     },
     {
       "odd": 1.1,
-      "rate": 76.6,
-      "count": 3825
+      "rate": 76.61,
+      "count": 3826
     },
     {
       "odd": 1.76,
@@ -654,8 +654,8 @@
     },
     {
       "odd": 1.23,
-      "rate": 72.13,
-      "count": 1245
+      "rate": 72.15,
+      "count": 1246
     }
   ],
   "top_matches": [
@@ -1044,20 +1044,20 @@
       "date": "01.08.2026 23:30"
     },
     {
+      "match": "Aston Villa vs Bayern Munich",
+      "ht": "1 - 0",
+      "ft": "2 - 1",
+      "odds": "4.97",
+      "prediction": "Handicap (0:1) X",
+      "date": "07.08.2026 12:00"
+    },
+    {
       "match": "Istres vs Stade Lavalois",
       "ht": "0 - 1",
       "ft": "0 - 2",
       "odds": "4.96",
       "prediction": "Handicap (2:0) X",
       "date": "10.01.2026 17:00"
-    },
-    {
-      "match": "Melbourne Victory vs Wellington Phoenix",
-      "ht": "0 - 0",
-      "ft": "0 - 1",
-      "odds": "4.96",
-      "prediction": "Under 1.5 Goals",
-      "date": "05.04.2026 05:00"
     }
   ]
 }
