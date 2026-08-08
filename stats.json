@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 62796,
-    "lost": 22817,
-    "rate": 73.3,
-    "total": 85613,
+    "won": 62851,
+    "lost": 22835,
+    "rate": 73.4,
+    "total": 85686,
     "last_24h": {
-      "won": 852,
-      "lost": 280,
+      "won": 902,
+      "lost": 296,
       "rate": 75.3,
-      "total": 1132
+      "total": 1198
     }
   },
   "by_day": [
@@ -25,12 +25,12 @@
     {
       "label": "Wednesday",
       "rate": 73.7,
-      "count": 6399
+      "count": 6400
     },
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 20546
+      "count": 20547
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 28579
+      "count": 28650
     }
   ],
   "by_hour": [
@@ -67,22 +67,22 @@
     {
       "label": "13:00",
       "rate": 73.5,
-      "count": 7255
+      "count": 7256
     },
     {
       "label": "14:00",
       "rate": 73.7,
-      "count": 9188
+      "count": 9191
     },
     {
       "label": "15:00",
       "rate": 73.6,
-      "count": 9214
+      "count": 9281
     },
     {
       "label": "16:00",
       "rate": 73.0,
-      "count": 6455
+      "count": 6456
     },
     {
       "label": "17:00",
@@ -91,8 +91,8 @@
     },
     {
       "label": "18:00",
-      "rate": 72.8,
-      "count": 7635
+      "rate": 72.7,
+      "count": 7636
     },
     {
       "label": "19:00",
@@ -106,8 +106,8 @@
     },
     {
       "label": "11:00",
-      "rate": 73.3,
-      "count": 5210
+      "rate": 73.2,
+      "count": 5211
     },
     {
       "label": "05:00",
@@ -116,8 +116,8 @@
     },
     {
       "label": "09:00",
-      "rate": 71.4,
-      "count": 949
+      "rate": 71.5,
+      "count": 948
     },
     {
       "label": "22:00",
@@ -222,14 +222,14 @@
       "count": 24
     },
     {
-      "team": "Schwaben Augsbu",
+      "team": "NK Bilje",
       "rate": 91.67,
       "count": 24
     },
     {
-      "team": "NK Bilje",
-      "rate": 91.3,
-      "count": 23
+      "team": "Schwaben Augsbu",
+      "rate": 91.67,
+      "count": 24
     },
     {
       "team": "52 Orduspor FK",
@@ -466,17 +466,17 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1645,
-      "lost": 484,
-      "rate": 77.27,
-      "count": 2129
+      "won": 1647,
+      "lost": 485,
+      "rate": 77.25,
+      "count": 2132
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 1229,
-      "lost": 400,
-      "rate": 75.45,
-      "count": 1629
+      "won": 1230,
+      "lost": 401,
+      "rate": 75.41,
+      "count": 1631
     },
     {
       "name": "Handicap (2:0) 1",
@@ -486,6 +486,13 @@
       "count": 647
     },
     {
+      "name": "1st Half Double Chance 1X",
+      "won": 5082,
+      "lost": 1694,
+      "rate": 75.0,
+      "count": 6776
+    },
+    {
       "name": "Total Goals 0-1",
       "won": 42,
       "lost": 14,
@@ -493,46 +500,39 @@
       "count": 56
     },
     {
-      "name": "1st Half Double Chance 1X",
-      "won": 5074,
-      "lost": 1692,
-      "rate": 74.99,
-      "count": 6766
-    },
-    {
       "name": "Double Chance 1X",
-      "won": 5795,
-      "lost": 1957,
-      "rate": 74.75,
-      "count": 7752
+      "won": 5801,
+      "lost": 1956,
+      "rate": 74.78,
+      "count": 7757
     },
     {
       "name": "Double Chance 12",
-      "won": 11420,
-      "lost": 3883,
-      "rate": 74.63,
-      "count": 15303
+      "won": 11436,
+      "lost": 3884,
+      "rate": 74.65,
+      "count": 15320
+    },
+    {
+      "name": "Match Result 2",
+      "won": 711,
+      "lost": 242,
+      "rate": 74.61,
+      "count": 953
     },
     {
       "name": "Handicap (0:1) 2",
       "won": 1349,
-      "lost": 459,
-      "rate": 74.61,
-      "count": 1808
-    },
-    {
-      "name": "Match Result 2",
-      "won": 710,
-      "lost": 242,
-      "rate": 74.58,
-      "count": 952
+      "lost": 460,
+      "rate": 74.57,
+      "count": 1809
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 4597,
-      "lost": 1617,
+      "won": 4602,
+      "lost": 1619,
       "rate": 73.98,
-      "count": 6214
+      "count": 6221
     },
     {
       "name": "Handicap (0:1) 1",
@@ -559,8 +559,8 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.42,
-      "count": 4772
+      "rate": 79.44,
+      "count": 4780
     },
     {
       "odd": 1.05,
@@ -569,18 +569,18 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.32,
-      "count": 3994
+      "rate": 77.31,
+      "count": 3998
     },
     {
       "odd": 1.09,
-      "rate": 76.99,
-      "count": 7023
+      "rate": 76.98,
+      "count": 7029
     },
     {
       "odd": 1.08,
-      "rate": 76.71,
-      "count": 3997
+      "rate": 76.69,
+      "count": 4003
     },
     {
       "odd": 1.75,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.61,
-      "count": 3890
+      "rate": 76.63,
+      "count": 3894
     },
     {
       "odd": 1.98,
@@ -599,13 +599,13 @@
     },
     {
       "odd": 1.12,
-      "rate": 75.38,
-      "count": 3749
+      "rate": 75.37,
+      "count": 3760
     },
     {
       "odd": 1.11,
-      "rate": 75.15,
-      "count": 3871
+      "rate": 75.17,
+      "count": 3874
     },
     {
       "odd": 1.76,
@@ -619,18 +619,18 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.23,
-      "count": 4044
+      "rate": 74.21,
+      "count": 4048
     },
     {
       "odd": 1.14,
-      "rate": 73.71,
-      "count": 3085
+      "rate": 73.72,
+      "count": 3086
     },
     {
       "odd": 1.15,
       "rate": 73.67,
-      "count": 4539
+      "count": 4542
     },
     {
       "odd": 2.04,
@@ -649,13 +649,13 @@
     },
     {
       "odd": 1.19,
-      "rate": 72.82,
-      "count": 1648
+      "rate": 72.79,
+      "count": 1650
     },
     {
       "odd": 1.23,
-      "rate": 72.2,
-      "count": 1266
+      "rate": 72.24,
+      "count": 1268
     }
   ],
   "top_matches": [
