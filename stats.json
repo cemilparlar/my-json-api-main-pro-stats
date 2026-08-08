@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 63034,
-    "lost": 22912,
+    "won": 63087,
+    "lost": 22933,
     "rate": 73.3,
-    "total": 85946,
+    "total": 86020,
     "last_24h": {
-      "won": 1063,
-      "lost": 367,
-      "rate": 74.3,
-      "total": 1430
+      "won": 1108,
+      "lost": 390,
+      "rate": 74.0,
+      "total": 1498
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.8,
-      "count": 5633
+      "count": 5632
     },
     {
       "label": "Tuesday",
       "rate": 73.9,
-      "count": 7053
+      "count": 7054
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 20546
+      "count": 20544
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.0,
-      "count": 12660
+      "count": 12664
     },
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 28914
+      "count": 28986
     }
   ],
   "by_hour": [
@@ -67,7 +67,7 @@
     {
       "label": "13:00",
       "rate": 73.5,
-      "count": 7255
+      "count": 7253
     },
     {
       "label": "14:00",
@@ -81,23 +81,23 @@
     },
     {
       "label": "16:00",
-      "rate": 72.9,
-      "count": 6569
+      "rate": 73.0,
+      "count": 6568
     },
     {
       "label": "17:00",
       "rate": 72.7,
-      "count": 8113
+      "count": 8115
     },
     {
       "label": "18:00",
       "rate": 72.7,
-      "count": 7711
+      "count": 7785
     },
     {
       "label": "19:00",
       "rate": 73.5,
-      "count": 9080
+      "count": 9082
     },
     {
       "label": "20:00",
@@ -131,8 +131,8 @@
     },
     {
       "label": "06:00",
-      "rate": 72.5,
-      "count": 539
+      "rate": 72.7,
+      "count": 538
     },
     {
       "label": "07:00",
@@ -262,12 +262,12 @@
       "count": 21
     },
     {
-      "team": "Nejmeh SC",
+      "team": "City FC Dubai",
       "rate": 90.0,
       "count": 20
     },
     {
-      "team": "Kryvbas Kryvyi Rih",
+      "team": "Nejmeh SC",
       "rate": 90.0,
       "count": 20
     }
@@ -417,10 +417,10 @@
   "top_predictions": [
     {
       "name": "Under 0.5 Goals",
-      "won": 8,
+      "won": 9,
       "lost": 0,
       "rate": 100.0,
-      "count": 8
+      "count": 9
     },
     {
       "name": "HT/FT 2/2",
@@ -438,10 +438,10 @@
     },
     {
       "name": "HT/FT X/X",
-      "won": 18,
+      "won": 19,
       "lost": 3,
-      "rate": 85.71,
-      "count": 21
+      "rate": 86.36,
+      "count": 22
     },
     {
       "name": "Away Team 1st Half Under 0.5",
@@ -472,46 +472,46 @@
       "count": 2140
     },
     {
+      "name": "Total Goals 0-1",
+      "won": 43,
+      "lost": 14,
+      "rate": 75.44,
+      "count": 57
+    },
+    {
       "name": "Handicap (0:2) 2",
-      "won": 1238,
-      "lost": 406,
-      "rate": 75.3,
-      "count": 1644
+      "won": 1241,
+      "lost": 408,
+      "rate": 75.26,
+      "count": 1649
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 5091,
-      "lost": 1697,
-      "rate": 75.0,
-      "count": 6788
-    },
-    {
-      "name": "Total Goals 0-1",
-      "won": 42,
-      "lost": 14,
-      "rate": 75.0,
-      "count": 56
+      "won": 5092,
+      "lost": 1700,
+      "rate": 74.97,
+      "count": 6792
     },
     {
       "name": "Handicap (2:0) 1",
-      "won": 487,
-      "lost": 163,
-      "rate": 74.92,
-      "count": 650
+      "won": 488,
+      "lost": 164,
+      "rate": 74.85,
+      "count": 652
     },
     {
       "name": "Double Chance 1X",
-      "won": 5813,
-      "lost": 1959,
+      "won": 5818,
+      "lost": 1961,
       "rate": 74.79,
-      "count": 7772
+      "count": 7779
     },
     {
       "name": "Double Chance 12",
-      "won": 11464,
-      "lost": 3899,
-      "rate": 74.62,
-      "count": 15363
+      "won": 11468,
+      "lost": 3902,
+      "rate": 74.61,
+      "count": 15370
     },
     {
       "name": "Match Result 2",
@@ -522,24 +522,24 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1354,
-      "lost": 464,
-      "rate": 74.48,
-      "count": 1818
+      "won": 1357,
+      "lost": 463,
+      "rate": 74.56,
+      "count": 1820
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 4618,
-      "lost": 1624,
+      "won": 4622,
+      "lost": 1626,
       "rate": 73.98,
-      "count": 6242
+      "count": 6248
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 3483,
+      "won": 3484,
       "lost": 1244,
-      "rate": 73.68,
-      "count": 4727
+      "rate": 73.69,
+      "count": 4728
     },
     {
       "name": "Handicap (0:1) 1",
@@ -550,17 +550,17 @@
     },
     {
       "name": "Under 3.5 Goals",
-      "won": 4805,
-      "lost": 1735,
-      "rate": 73.47,
-      "count": 6540
+      "won": 4809,
+      "lost": 1737,
+      "rate": 73.46,
+      "count": 6546
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.45,
-      "count": 4794
+      "rate": 79.43,
+      "count": 4798
     },
     {
       "odd": 1.05,
@@ -570,12 +570,12 @@
     {
       "odd": 1.07,
       "rate": 77.27,
-      "count": 4008
+      "count": 4012
     },
     {
       "odd": 1.09,
-      "rate": 77.01,
-      "count": 7042
+      "rate": 76.99,
+      "count": 7046
     },
     {
       "odd": 1.75,
@@ -584,13 +584,18 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.64,
+      "rate": 76.67,
       "count": 4016
     },
     {
       "odd": 1.1,
-      "rate": 76.63,
-      "count": 3902
+      "rate": 76.61,
+      "count": 3908
+    },
+    {
+      "odd": 1.12,
+      "rate": 75.44,
+      "count": 3786
     },
     {
       "odd": 1.98,
@@ -598,14 +603,9 @@
       "count": 57
     },
     {
-      "odd": 1.12,
-      "rate": 75.42,
-      "count": 3779
-    },
-    {
       "odd": 1.11,
-      "rate": 75.19,
-      "count": 3881
+      "rate": 75.2,
+      "count": 3883
     },
     {
       "odd": 1.9,
@@ -619,8 +619,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.2,
-      "count": 4062
+      "rate": 74.21,
+      "count": 4063
     },
     {
       "odd": 1.14,
@@ -629,8 +629,8 @@
     },
     {
       "odd": 1.15,
-      "rate": 73.66,
-      "count": 4556
+      "rate": 73.68,
+      "count": 4559
     },
     {
       "odd": 2.04,
@@ -644,18 +644,18 @@
     },
     {
       "odd": 1.17,
-      "rate": 72.93,
-      "count": 1906
+      "rate": 72.88,
+      "count": 1910
     },
     {
       "odd": 1.19,
-      "rate": 72.79,
-      "count": 1661
+      "rate": 72.72,
+      "count": 1664
     },
     {
       "odd": 1.25,
-      "rate": 72.18,
-      "count": 1161
+      "rate": 72.19,
+      "count": 1165
     }
   ],
   "top_matches": [
@@ -778,6 +778,14 @@
       "odds": "8.06",
       "prediction": "Match Result 2",
       "date": "17.05.2026 12:00"
+    },
+    {
+      "match": "Clermont Foot vs Stade de Reims",
+      "ht": "0 - 0",
+      "ft": "0 - 0",
+      "odds": "8.03",
+      "prediction": "Under 0.5 Goals",
+      "date": "08.08.2026 18:45"
     },
     {
       "match": "FC Groningen vs FC Utrecht",
@@ -1050,14 +1058,6 @@
       "odds": "4.99",
       "prediction": "Over 4.5 Goals",
       "date": "05.02.2026 00:30"
-    },
-    {
-      "match": "FC Cincinnati vs San Jose Earthquakes",
-      "ht": "1 - 1",
-      "ft": "4 - 2",
-      "odds": "4.98",
-      "prediction": "Handicap (0:2) X",
-      "date": "01.08.2026 23:30"
     }
   ]
 }
