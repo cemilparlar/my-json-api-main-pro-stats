@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 63128,
-    "lost": 22951,
+    "won": 63134,
+    "lost": 22955,
     "rate": 73.3,
-    "total": 86079,
+    "total": 86089,
     "last_24h": {
-      "won": 1134,
-      "lost": 401,
-      "rate": 73.9,
-      "total": 1535
+      "won": 1139,
+      "lost": 405,
+      "rate": 73.8,
+      "total": 1544
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 73.8,
-      "count": 6398
+      "count": 6399
     },
     {
       "label": "Sunday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 29043
+      "count": 29052
     }
   ],
   "by_hour": [
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.6,
-      "count": 9291
+      "count": 9292
     },
     {
       "label": "16:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 72.7,
-      "count": 8117
+      "count": 8124
     },
     {
       "label": "18:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 73.1,
-      "count": 2940
+      "count": 2942
     },
     {
       "label": "11:00",
@@ -197,11 +197,6 @@
       "count": 22
     },
     {
-      "team": "Monagas SC",
-      "rate": 95.0,
-      "count": 20
-    },
-    {
       "team": "Quick Boys",
       "rate": 92.31,
       "count": 26
@@ -268,6 +263,11 @@
     },
     {
       "team": "Nejmeh SC",
+      "rate": 90.0,
+      "count": 20
+    },
+    {
+      "team": "Kryvbas Kryvyi Rih",
       "rate": 90.0,
       "count": 20
     }
@@ -452,10 +452,10 @@
     },
     {
       "name": "1st Half Under 2.5",
-      "won": 341,
+      "won": 342,
       "lost": 85,
-      "rate": 80.05,
-      "count": 426
+      "rate": 80.09,
+      "count": 427
     },
     {
       "name": "Handicap (1:0) 2",
@@ -494,10 +494,10 @@
     },
     {
       "name": "Handicap (2:0) 1",
-      "won": 488,
+      "won": 489,
       "lost": 164,
-      "rate": 74.85,
-      "count": 652
+      "rate": 74.89,
+      "count": 653
     },
     {
       "name": "Double Chance 1X",
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.28,
-      "count": 4014
+      "rate": 77.26,
+      "count": 4015
     },
     {
       "odd": 1.09,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 76.62,
-      "count": 3910
+      "rate": 76.63,
+      "count": 3911
     },
     {
       "odd": 1.12,
