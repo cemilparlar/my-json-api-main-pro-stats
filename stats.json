@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 63834,
-    "lost": 23198,
+    "won": 63837,
+    "lost": 23199,
     "rate": 73.3,
-    "total": 87032,
+    "total": 87036,
     "last_24h": {
-      "won": 601,
-      "lost": 208,
-      "rate": 74.3,
-      "total": 809
+      "won": 604,
+      "lost": 211,
+      "rate": 74.1,
+      "total": 815
     }
   },
   "by_day": [
@@ -30,12 +30,12 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 21392
+      "count": 21397
     },
     {
       "label": "Thursday",
       "rate": 74.0,
-      "count": 4740
+      "count": 4739
     },
     {
       "label": "Friday",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.7,
-      "count": 9308
+      "count": 9307
     },
     {
       "label": "15:00",
@@ -97,12 +97,12 @@
     {
       "label": "19:00",
       "rate": 73.4,
-      "count": 9211
+      "count": 9210
     },
     {
       "label": "20:00",
       "rate": 73.0,
-      "count": 2959
+      "count": 2965
     },
     {
       "label": "11:00",
@@ -529,17 +529,17 @@
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 4671,
+      "won": 4672,
       "lost": 1638,
       "rate": 74.04,
-      "count": 6309
+      "count": 6310
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 3517,
+      "won": 3518,
       "lost": 1258,
-      "rate": 73.65,
-      "count": 4775
+      "rate": 73.66,
+      "count": 4776
     },
     {
       "name": "1st Half Under 0.5",
@@ -638,14 +638,14 @@
       "count": 4596
     },
     {
-      "odd": 1.77,
-      "rate": 73.56,
-      "count": 87
-    },
-    {
       "odd": 2.04,
       "rate": 73.33,
       "count": 30
+    },
+    {
+      "odd": 1.77,
+      "rate": 73.03,
+      "count": 89
     },
     {
       "odd": 1.17,
