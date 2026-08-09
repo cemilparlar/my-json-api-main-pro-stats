@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 63326,
-    "lost": 23020,
+    "won": 63350,
+    "lost": 23034,
     "rate": 73.3,
-    "total": 86346,
+    "total": 86384,
     "last_24h": {
-      "won": 394,
-      "lost": 146,
-      "rate": 73.0,
-      "total": 540
+      "won": 379,
+      "lost": 143,
+      "rate": 72.6,
+      "total": 522
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 73.9,
-      "count": 7056
+      "count": 7055
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 20721
+      "count": 20753
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 29133
+      "count": 29140
     }
   ],
   "by_hour": [
@@ -57,12 +57,12 @@
     {
       "label": "10:00",
       "rate": 72.3,
-      "count": 2640
+      "count": 2639
     },
     {
       "label": "12:00",
-      "rate": 73.4,
-      "count": 6228
+      "rate": 73.3,
+      "count": 6230
     },
     {
       "label": "13:00",
@@ -92,7 +92,7 @@
     {
       "label": "18:00",
       "rate": 72.7,
-      "count": 7795
+      "count": 7796
     },
     {
       "label": "19:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.2,
-      "count": 5249
+      "count": 5284
     },
     {
       "label": "05:00",
@@ -122,7 +122,7 @@
     {
       "label": "22:00",
       "rate": 74.2,
-      "count": 1529
+      "count": 1530
     },
     {
       "label": "01:00",
@@ -453,9 +453,9 @@
     {
       "name": "1st Half Under 2.5",
       "won": 343,
-      "lost": 85,
-      "rate": 80.14,
-      "count": 428
+      "lost": 86,
+      "rate": 79.95,
+      "count": 429
     },
     {
       "name": "Handicap (1:0) 2",
@@ -466,73 +466,73 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1660,
+      "won": 1661,
       "lost": 487,
-      "rate": 77.32,
-      "count": 2147
+      "rate": 77.33,
+      "count": 2148
     },
     {
       "name": "Total Goals 0-1",
-      "won": 43,
-      "lost": 14,
-      "rate": 75.44,
-      "count": 57
+      "won": 42,
+      "lost": 13,
+      "rate": 76.36,
+      "count": 55
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 1243,
-      "lost": 407,
-      "rate": 75.33,
-      "count": 1650
-    },
-    {
-      "name": "1st Half Double Chance 1X",
-      "won": 5119,
-      "lost": 1704,
-      "rate": 75.03,
-      "count": 6823
+      "won": 1244,
+      "lost": 409,
+      "rate": 75.26,
+      "count": 1653
     },
     {
       "name": "Handicap (2:0) 1",
-      "won": 492,
+      "won": 493,
       "lost": 164,
-      "rate": 75.0,
-      "count": 656
+      "rate": 75.04,
+      "count": 657
+    },
+    {
+      "name": "1st Half Double Chance 1X",
+      "won": 5121,
+      "lost": 1704,
+      "rate": 75.03,
+      "count": 6825
     },
     {
       "name": "Double Chance 1X",
-      "won": 5842,
+      "won": 5844,
       "lost": 1964,
-      "rate": 74.84,
-      "count": 7806
+      "rate": 74.85,
+      "count": 7808
     },
     {
       "name": "Match Result 2",
-      "won": 712,
+      "won": 713,
       "lost": 242,
-      "rate": 74.63,
-      "count": 954
+      "rate": 74.66,
+      "count": 955
     },
     {
       "name": "Double Chance 12",
-      "won": 11522,
+      "won": 11525,
       "lost": 3922,
       "rate": 74.61,
-      "count": 15444
+      "count": 15447
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1360,
-      "lost": 466,
-      "rate": 74.48,
-      "count": 1826
+      "won": 1361,
+      "lost": 468,
+      "rate": 74.41,
+      "count": 1829
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 4635,
+      "won": 4640,
       "lost": 1630,
-      "rate": 73.98,
-      "count": 6265
+      "rate": 74.0,
+      "count": 6270
     },
     {
       "name": "1st Half Double Chance X2",
@@ -559,8 +559,8 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.47,
-      "count": 4827
+      "rate": 79.45,
+      "count": 4831
     },
     {
       "odd": 1.05,
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 77.0,
-      "count": 7058
+      "rate": 77.01,
+      "count": 7061
     },
     {
       "odd": 1.75,
@@ -584,18 +584,18 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.71,
-      "count": 4027
+      "rate": 76.72,
+      "count": 4029
     },
     {
       "odd": 1.1,
       "rate": 76.64,
-      "count": 3925
+      "count": 3929
     },
     {
       "odd": 1.12,
       "rate": 75.46,
-      "count": 3819
+      "count": 3822
     },
     {
       "odd": 1.98,
@@ -619,18 +619,23 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.31,
-      "count": 4076
+      "rate": 74.32,
+      "count": 4077
+    },
+    {
+      "odd": 1.71,
+      "rate": 73.97,
+      "count": 73
     },
     {
       "odd": 1.15,
-      "rate": 73.72,
-      "count": 4573
+      "rate": 73.7,
+      "count": 4574
     },
     {
       "odd": 1.14,
-      "rate": 73.7,
-      "count": 3107
+      "rate": 73.69,
+      "count": 3109
     },
     {
       "odd": 2.04,
@@ -638,24 +643,19 @@
       "count": 30
     },
     {
-      "odd": 1.71,
-      "rate": 72.97,
-      "count": 74
+      "odd": 1.77,
+      "rate": 73.26,
+      "count": 86
     },
     {
       "odd": 1.17,
-      "rate": 72.93,
-      "count": 1917
+      "rate": 72.95,
+      "count": 1919
     },
     {
       "odd": 1.19,
-      "rate": 72.8,
-      "count": 1673
-    },
-    {
-      "odd": 1.77,
-      "rate": 72.41,
-      "count": 87
+      "rate": 72.82,
+      "count": 1674
     }
   ],
   "top_matches": [
@@ -956,14 +956,6 @@
       "date": "30.05.2026 13:30"
     },
     {
-      "match": "Feyenoord vs Go Ahead Eagles",
-      "ht": "0 - 0",
-      "ft": "1 - 0",
-      "odds": "5.33",
-      "prediction": "Total Goals 0-1",
-      "date": "15.02.2026 11:15"
-    },
-    {
       "match": "Brentford vs Arsenal",
       "ht": "0 - 0",
       "ft": "1 - 1",
@@ -978,14 +970,6 @@
       "odds": "5.24",
       "prediction": "Total Goals 0-1",
       "date": "14.02.2026 17:00"
-    },
-    {
-      "match": "Feyenoord vs Go Ahead Eagles",
-      "ht": "0 - 0",
-      "ft": "1 - 0",
-      "odds": "5.24",
-      "prediction": "Under 1.5 Goals",
-      "date": "15.02.2026 11:15"
     },
     {
       "match": "Portland Timbers vs Los Angeles FC",
@@ -1058,6 +1042,22 @@
       "odds": "4.99",
       "prediction": "Over 4.5 Goals",
       "date": "05.02.2026 00:30"
+    },
+    {
+      "match": "FC Cincinnati vs San Jose Earthquakes",
+      "ht": "1 - 1",
+      "ft": "4 - 2",
+      "odds": "4.98",
+      "prediction": "Handicap (0:2) X",
+      "date": "01.08.2026 23:30"
+    },
+    {
+      "match": "Aston Villa vs Bayern Munich",
+      "ht": "1 - 0",
+      "ft": "2 - 1",
+      "odds": "4.97",
+      "prediction": "Handicap (0:1) X",
+      "date": "07.08.2026 12:00"
     }
   ]
 }
