@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 66898,
-    "lost": 24285,
+    "won": 66904,
+    "lost": 24287,
     "rate": 73.4,
-    "total": 91183,
+    "total": 91191,
     "last_24h": {
-      "won": 182,
-      "lost": 72,
-      "rate": 71.7,
-      "total": 254
+      "won": 188,
+      "lost": 74,
+      "rate": 71.8,
+      "total": 262
     }
   },
   "by_day": [
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.1,
-      "count": 13284
+      "count": 13292
     },
     {
       "label": "Saturday",
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 73.6,
-      "count": 6451
+      "count": 6453
     },
     {
       "label": "13:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 73.3,
-      "count": 5449
+      "count": 5452
     },
     {
       "label": "05:00",
@@ -116,8 +116,8 @@
     },
     {
       "label": "09:00",
-      "rate": 72.3,
-      "count": 1066
+      "rate": 72.4,
+      "count": 1069
     },
     {
       "label": "22:00",
@@ -281,13 +281,6 @@
       "count": 9
     },
     {
-      "name": "UKRK",
-      "won": 5,
-      "lost": 0,
-      "rate": 100.0,
-      "count": 5
-    },
-    {
       "name": " AVUL",
       "won": 10,
       "lost": 0,
@@ -300,6 +293,13 @@
       "lost": 0,
       "rate": 100.0,
       "count": 5
+    },
+    {
+      "name": "UKRK",
+      "won": 10,
+      "lost": 1,
+      "rate": 90.91,
+      "count": 11
     },
     {
       "name": "İSVK",
@@ -488,9 +488,9 @@
     {
       "name": "1st Half Double Chance 1X",
       "won": 5409,
-      "lost": 1805,
-      "rate": 74.98,
-      "count": 7214
+      "lost": 1806,
+      "rate": 74.97,
+      "count": 7215
     },
     {
       "name": "Handicap (2:0) 1",
@@ -508,17 +508,17 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 12215,
+      "won": 12218,
       "lost": 4122,
       "rate": 74.77,
-      "count": 16337
+      "count": 16340
     },
     {
       "name": "Match Result 2",
-      "won": 761,
+      "won": 762,
       "lost": 263,
-      "rate": 74.32,
-      "count": 1024
+      "rate": 74.34,
+      "count": 1025
     },
     {
       "name": "Over 1.5 Goals",
@@ -559,8 +559,8 @@
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.56,
-      "count": 5236
+      "rate": 79.57,
+      "count": 5237
     },
     {
       "odd": 1.05,
@@ -575,7 +575,7 @@
     {
       "odd": 1.09,
       "rate": 76.95,
-      "count": 7323
+      "count": 7324
     },
     {
       "odd": 1.1,
@@ -589,8 +589,8 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.61,
-      "count": 4246
+      "rate": 76.6,
+      "count": 4247
     },
     {
       "odd": 1.75,
@@ -620,7 +620,7 @@
     {
       "odd": 1.13,
       "rate": 74.23,
-      "count": 4280
+      "count": 4281
     },
     {
       "odd": 1.15,
