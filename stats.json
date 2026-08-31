@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 71792,
+    "won": 71793,
     "lost": 25981,
     "rate": 73.4,
-    "total": 97773,
+    "total": 97774,
     "last_24h": {
-      "won": 95,
-      "lost": 47,
+      "won": 97,
+      "lost": 48,
       "rate": 66.9,
-      "total": 142
+      "total": 145
     }
   },
   "by_day": [
@@ -30,12 +30,12 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 21795
+      "count": 21798
     },
     {
       "label": "Thursday",
       "rate": 73.9,
-      "count": 5763
+      "count": 5762
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.4,
-      "count": 33986
+      "count": 33985
     }
   ],
   "by_hour": [
@@ -142,7 +142,7 @@
     {
       "label": "23:00",
       "rate": 73.4,
-      "count": 1625
+      "count": 1626
     },
     {
       "label": "00:00",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 13019,
+      "won": 13020,
       "lost": 4368,
       "rate": 74.88,
-      "count": 17387
+      "count": 17388
     },
     {
       "name": "Match Result 2",
@@ -535,6 +535,13 @@
       "count": 2086
     },
     {
+      "name": "Handicap (0:1) 1",
+      "won": 160,
+      "lost": 57,
+      "rate": 73.73,
+      "count": 217
+    },
+    {
       "name": "1st Half Under 0.5",
       "won": 129,
       "lost": 46,
@@ -547,13 +554,6 @@
       "lost": 1409,
       "rate": 73.43,
       "count": 5303
-    },
-    {
-      "name": "Handicap (2:0) 1",
-      "won": 557,
-      "lost": 202,
-      "rate": 73.39,
-      "count": 759
     }
   ],
   "top_odds": [
@@ -590,7 +590,7 @@
     {
       "odd": 1.08,
       "rate": 76.84,
-      "count": 4447
+      "count": 4448
     },
     {
       "odd": 1.12,
