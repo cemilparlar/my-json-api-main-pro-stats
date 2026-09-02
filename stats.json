@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 72972,
-    "lost": 26433,
+    "won": 72975,
+    "lost": 26437,
     "rate": 73.4,
-    "total": 99405,
+    "total": 99412,
     "last_24h": {
-      "won": 357,
+      "won": 360,
       "lost": 129,
-      "rate": 73.5,
-      "total": 486
+      "rate": 73.6,
+      "total": 489
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.6,
-      "count": 6918
+      "count": 6920
     },
     {
       "label": "Tuesday",
@@ -25,12 +25,12 @@
     {
       "label": "Wednesday",
       "rate": 74.0,
-      "count": 7835
+      "count": 7839
     },
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 21811
+      "count": 21812
     },
     {
       "label": "Thursday",
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 73.7,
-      "count": 6939
+      "count": 6940
     },
     {
       "label": "13:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 73.2,
-      "count": 7771
+      "count": 7777
     },
     {
       "label": "17:00",
@@ -466,10 +466,10 @@
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1939,
+      "won": 1940,
       "lost": 569,
-      "rate": 77.31,
-      "count": 2508
+      "rate": 77.32,
+      "count": 2509
     },
     {
       "name": "Handicap (1:0) 2",
@@ -500,18 +500,18 @@
       "count": 17650
     },
     {
-      "name": "Match Result 2",
-      "won": 858,
-      "lost": 289,
-      "rate": 74.8,
-      "count": 1147
-    },
-    {
       "name": "Handicap (0:2) 2",
       "won": 1451,
       "lost": 490,
       "rate": 74.76,
       "count": 1941
+    },
+    {
+      "name": "Match Result 2",
+      "won": 859,
+      "lost": 290,
+      "rate": 74.76,
+      "count": 1149
     },
     {
       "name": "1st Half Under 0.5",
