@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 73033,
+    "won": 73038,
     "lost": 26456,
     "rate": 73.4,
-    "total": 99489,
+    "total": 99494,
     "last_24h": {
-      "won": 56,
-      "lost": 26,
-      "rate": 68.3,
-      "total": 82
+      "won": 61,
+      "lost": 28,
+      "rate": 68.5,
+      "total": 89
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.6,
-      "count": 6919
+      "count": 6917
     },
     {
       "label": "Tuesday",
@@ -30,12 +30,12 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 21812
+      "count": 21813
     },
     {
       "label": "Thursday",
       "rate": 73.9,
-      "count": 5801
+      "count": 5808
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 34001
+      "count": 34000
     }
   ],
   "by_hour": [
@@ -76,8 +76,8 @@
     },
     {
       "label": "15:00",
-      "rate": 73.7,
-      "count": 10382
+      "rate": 73.8,
+      "count": 10386
     },
     {
       "label": "16:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 72.9,
-      "count": 5858
+      "count": 5859
     },
     {
       "label": "05:00",
@@ -417,10 +417,10 @@
   "top_predictions": [
     {
       "name": "Over 0.5 Goals",
-      "won": 40,
+      "won": 41,
       "lost": 7,
-      "rate": 85.11,
-      "count": 47
+      "rate": 85.42,
+      "count": 48
     },
     {
       "name": "HT/FT X/X",
@@ -453,9 +453,9 @@
     {
       "name": "Total Goals 0-1",
       "won": 52,
-      "lost": 12,
-      "rate": 81.25,
-      "count": 64
+      "lost": 13,
+      "rate": 80.0,
+      "count": 65
     },
     {
       "name": "1st Half Under 2.5",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 13217,
+      "won": 13218,
       "lost": 4447,
-      "rate": 74.82,
-      "count": 17664
+      "rate": 74.83,
+      "count": 17665
     },
     {
       "name": "Handicap (0:2) 2",
@@ -550,10 +550,10 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 3952,
+      "won": 3953,
       "lost": 1416,
-      "rate": 73.62,
-      "count": 5368
+      "rate": 73.63,
+      "count": 5369
     }
   ],
   "top_odds": [
@@ -570,7 +570,7 @@
     {
       "odd": 1.05,
       "rate": 78.88,
-      "count": 3432
+      "count": 3433
     },
     {
       "odd": 1.75,
@@ -613,19 +613,19 @@
       "count": 32
     },
     {
-      "odd": 1.77,
-      "rate": 74.78,
-      "count": 115
-    },
-    {
       "odd": 1.76,
       "rate": 74.68,
       "count": 154
     },
     {
+      "odd": 1.77,
+      "rate": 74.36,
+      "count": 117
+    },
+    {
       "odd": 1.15,
-      "rate": 74.18,
-      "count": 5012
+      "rate": 74.19,
+      "count": 5014
     },
     {
       "odd": 1.13,
@@ -649,8 +649,8 @@
     },
     {
       "odd": 1.65,
-      "rate": 73.1,
-      "count": 145
+      "rate": 73.29,
+      "count": 146
     },
     {
       "odd": 1.66,
