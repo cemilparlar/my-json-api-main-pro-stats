@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 74958,
-    "lost": 27137,
+    "won": 74989,
+    "lost": 27139,
     "rate": 73.4,
-    "total": 102095,
+    "total": 102128,
     "last_24h": {
-      "won": 130,
-      "lost": 50,
-      "rate": 72.2,
-      "total": 180
+      "won": 159,
+      "lost": 53,
+      "rate": 75.0,
+      "total": 212
     }
   },
   "by_day": [
@@ -20,12 +20,12 @@
     {
       "label": "Tuesday",
       "rate": 74.0,
-      "count": 8209
+      "count": 8245
     },
     {
       "label": "Wednesday",
       "rate": 74.1,
-      "count": 7875
+      "count": 7873
     },
     {
       "label": "Sunday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 34100
+      "count": 34099
     }
   ],
   "by_hour": [
@@ -56,33 +56,33 @@
     },
     {
       "label": "10:00",
-      "rate": 72.6,
-      "count": 3338
+      "rate": 72.7,
+      "count": 3356
     },
     {
       "label": "12:00",
       "rate": 73.8,
-      "count": 7039
+      "count": 7040
     },
     {
       "label": "13:00",
       "rate": 73.5,
-      "count": 8061
+      "count": 8062
     },
     {
       "label": "14:00",
       "rate": 73.8,
-      "count": 11441
+      "count": 11443
     },
     {
       "label": "15:00",
       "rate": 73.8,
-      "count": 10634
+      "count": 10635
     },
     {
       "label": "16:00",
       "rate": 73.2,
-      "count": 8094
+      "count": 8095
     },
     {
       "label": "17:00",
@@ -102,12 +102,12 @@
     {
       "label": "20:00",
       "rate": 72.9,
-      "count": 3065
+      "count": 3066
     },
     {
       "label": "11:00",
       "rate": 72.9,
-      "count": 6018
+      "count": 6026
     },
     {
       "label": "05:00",
@@ -452,31 +452,31 @@
     },
     {
       "name": "Total Goals 0-1",
-      "won": 51,
+      "won": 52,
       "lost": 12,
-      "rate": 80.95,
-      "count": 63
+      "rate": 81.25,
+      "count": 64
     },
     {
       "name": "1st Half Under 2.5",
-      "won": 454,
+      "won": 455,
       "lost": 118,
-      "rate": 79.37,
-      "count": 572
+      "rate": 79.41,
+      "count": 573
     },
     {
       "name": "Under 1.5 Goals",
-      "won": 91,
+      "won": 92,
       "lost": 26,
-      "rate": 77.78,
-      "count": 117
+      "rate": 77.97,
+      "count": 118
     },
     {
       "name": "Under 4.5 Goals",
-      "won": 1995,
-      "lost": 587,
+      "won": 1999,
+      "lost": 588,
       "rate": 77.27,
-      "count": 2582
+      "count": 2587
     },
     {
       "name": "Handicap (1:0) 2",
@@ -494,17 +494,17 @@
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 5953,
+      "won": 5954,
       "lost": 1968,
-      "rate": 75.15,
-      "count": 7921
+      "rate": 75.16,
+      "count": 7922
     },
     {
       "name": "Double Chance 12",
-      "won": 13511,
+      "won": 13514,
       "lost": 4529,
-      "rate": 74.89,
-      "count": 18040
+      "rate": 74.9,
+      "count": 18043
     },
     {
       "name": "Match Result 2",
@@ -515,38 +515,38 @@
     },
     {
       "name": "Handicap (0:2) 2",
-      "won": 1482,
+      "won": 1483,
       "lost": 504,
-      "rate": 74.62,
-      "count": 1986
+      "rate": 74.64,
+      "count": 1987
     },
     {
       "name": "Double Chance 1X",
-      "won": 6928,
-      "lost": 2358,
-      "rate": 74.61,
-      "count": 9286
-    },
-    {
-      "name": "Over 1.5 Goals",
-      "won": 5443,
-      "lost": 1856,
-      "rate": 74.57,
-      "count": 7299
+      "won": 6929,
+      "lost": 2359,
+      "rate": 74.6,
+      "count": 9288
     },
     {
       "name": "1st Half Under 0.5",
-      "won": 134,
+      "won": 135,
       "lost": 46,
-      "rate": 74.44,
-      "count": 180
+      "rate": 74.59,
+      "count": 181
+    },
+    {
+      "name": "Over 1.5 Goals",
+      "won": 5444,
+      "lost": 1856,
+      "rate": 74.58,
+      "count": 7300
     },
     {
       "name": "Handicap (2:0) 1",
-      "won": 586,
+      "won": 587,
       "lost": 205,
-      "rate": 74.08,
-      "count": 791
+      "rate": 74.12,
+      "count": 792
     },
     {
       "name": "1st Half Double Chance X2",
@@ -565,7 +565,7 @@
     {
       "odd": 1.06,
       "rate": 79.76,
-      "count": 5607
+      "count": 5609
     },
     {
       "odd": 1.05,
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 77.19,
-      "count": 8083
+      "rate": 77.18,
+      "count": 8086
     },
     {
       "odd": 1.08,
@@ -594,8 +594,8 @@
     },
     {
       "odd": 1.11,
-      "rate": 75.5,
-      "count": 4507
+      "rate": 75.51,
+      "count": 4508
     },
     {
       "odd": 1.12,
@@ -603,29 +603,29 @@
       "count": 4640
     },
     {
-      "odd": 1.65,
-      "rate": 75.33,
-      "count": 150
-    },
-    {
       "odd": 1.75,
       "rate": 75.21,
       "count": 121
     },
     {
-      "odd": 1.77,
-      "rate": 75.21,
-      "count": 117
+      "odd": 1.65,
+      "rate": 75.17,
+      "count": 149
     },
     {
       "odd": 1.76,
-      "rate": 75.0,
-      "count": 160
+      "rate": 74.84,
+      "count": 159
+    },
+    {
+      "odd": 1.77,
+      "rate": 74.58,
+      "count": 118
     },
     {
       "odd": 1.13,
-      "rate": 74.2,
-      "count": 4652
+      "rate": 74.22,
+      "count": 4654
     },
     {
       "odd": 1.15,
@@ -639,8 +639,8 @@
     },
     {
       "odd": 1.19,
-      "rate": 73.52,
-      "count": 2081
+      "rate": 73.56,
+      "count": 2080
     },
     {
       "odd": 2.21,
@@ -818,6 +818,14 @@
       "odds": "7.67",
       "prediction": "Over 4.5 Goals",
       "date": "28.08.2026 22:00"
+    },
+    {
+      "match": "Ulsan Hyundai vs Not FC Seoul - check data",
+      "ht": "0 - 0",
+      "ft": "1 - 0",
+      "odds": "7.54",
+      "prediction": "HT/FT X/1",
+      "date": "08.09.2026 10:30"
     },
     {
       "match": "Valencia CF vs FC Barcelona",
@@ -1050,14 +1058,6 @@
       "odds": "5.22",
       "prediction": "Handicap (0:1) X",
       "date": "11.04.2026 20:45"
-    },
-    {
-      "match": "Vjs vs Kups Ak.",
-      "ht": "0 - 0",
-      "ft": "0 - 0",
-      "odds": "5.22",
-      "prediction": "Match Result X",
-      "date": "02.05.2026 14:00"
     }
   ]
 }
