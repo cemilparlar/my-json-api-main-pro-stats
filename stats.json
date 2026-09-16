@@ -1,36 +1,36 @@
 {
   "summary": {
-    "won": 77193,
-    "lost": 27919,
+    "won": 77219,
+    "lost": 27929,
     "rate": 73.4,
-    "total": 105112,
+    "total": 105148,
     "last_24h": {
-      "won": 160,
-      "lost": 61,
-      "rate": 72.4,
-      "total": 221
+      "won": 180,
+      "lost": 66,
+      "rate": 73.2,
+      "total": 246
     }
   },
   "by_day": [
     {
       "label": "Monday",
-      "rate": 72.7,
-      "count": 7688
+      "rate": 72.6,
+      "count": 7690
     },
     {
       "label": "Tuesday",
       "rate": 74.1,
-      "count": 8937
+      "count": 8971
     },
     {
       "label": "Wednesday",
       "rate": 74.1,
-      "count": 8327
+      "count": 8328
     },
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 23483
+      "count": 23481
     },
     {
       "label": "Thursday",
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 73.2,
-      "count": 16235
+      "count": 16236
     },
     {
       "label": "Saturday",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 73.4,
-      "count": 8391
+      "count": 8392
     },
     {
       "label": "17:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 73.7,
-      "count": 10379
+      "count": 10395
     },
     {
       "label": "20:00",
@@ -122,7 +122,7 @@
     {
       "label": "22:00",
       "rate": 74.1,
-      "count": 1909
+      "count": 1926
     },
     {
       "label": "01:00",
@@ -146,8 +146,8 @@
     },
     {
       "label": "00:00",
-      "rate": 74.3,
-      "count": 1186
+      "rate": 74.2,
+      "count": 1188
     },
     {
       "label": "21:00",
@@ -452,10 +452,10 @@
     },
     {
       "name": "HT/FT 2/2",
-      "won": 45,
+      "won": 46,
       "lost": 11,
-      "rate": 80.36,
-      "count": 56
+      "rate": 80.7,
+      "count": 57
     },
     {
       "name": "1st Half Under 2.5",
@@ -479,18 +479,11 @@
       "count": 2676
     },
     {
-      "name": "Handicap (1:0) 2",
-      "won": 92,
-      "lost": 30,
-      "rate": 75.41,
-      "count": 122
-    },
-    {
       "name": "1st Half Double Chance 1X",
-      "won": 6099,
+      "won": 6100,
       "lost": 2004,
       "rate": 75.27,
-      "count": 8103
+      "count": 8104
     },
     {
       "name": "1st Half Under 0.5",
@@ -501,38 +494,45 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 13871,
+      "won": 13875,
       "lost": 4651,
       "rate": 74.89,
-      "count": 18522
+      "count": 18526
+    },
+    {
+      "name": "Handicap (1:0) 2",
+      "won": 92,
+      "lost": 31,
+      "rate": 74.8,
+      "count": 123
     },
     {
       "name": "Handicap (0:2) 2",
       "won": 1518,
-      "lost": 513,
-      "rate": 74.74,
-      "count": 2031
+      "lost": 514,
+      "rate": 74.7,
+      "count": 2032
     },
     {
       "name": "Match Result 2",
-      "won": 919,
+      "won": 920,
       "lost": 312,
-      "rate": 74.65,
-      "count": 1231
+      "rate": 74.68,
+      "count": 1232
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 5580,
-      "lost": 1899,
+      "won": 5583,
+      "lost": 1900,
       "rate": 74.61,
-      "count": 7479
+      "count": 7483
     },
     {
       "name": "Double Chance 1X",
-      "won": 7155,
-      "lost": 2440,
-      "rate": 74.57,
-      "count": 9595
+      "won": 7156,
+      "lost": 2441,
+      "rate": 74.56,
+      "count": 9597
     },
     {
       "name": "Handicap (2:0) 1",
@@ -549,28 +549,28 @@
       "count": 5626
     },
     {
-      "name": "Under 3.5 Goals",
-      "won": 5688,
-      "lost": 2063,
-      "rate": 73.38,
-      "count": 7751
+      "name": "HT/FT 1/1",
+      "won": 91,
+      "lost": 33,
+      "rate": 73.39,
+      "count": 124
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.8,
-      "count": 5718
+      "rate": 79.81,
+      "count": 5720
     },
     {
       "odd": 1.05,
       "rate": 78.92,
-      "count": 3624
+      "count": 3625
     },
     {
       "odd": 1.07,
       "rate": 77.83,
-      "count": 4672
+      "count": 4673
     },
     {
       "odd": 1.09,
@@ -613,24 +613,19 @@
       "count": 36
     },
     {
-      "odd": 1.75,
-      "rate": 74.59,
-      "count": 122
-    },
-    {
       "odd": 1.13,
       "rate": 74.19,
       "count": 4747
     },
     {
-      "odd": 1.77,
-      "rate": 74.05,
-      "count": 131
+      "odd": 1.14,
+      "rate": 73.99,
+      "count": 3775
     },
     {
-      "odd": 1.14,
-      "rate": 73.97,
-      "count": 3773
+      "odd": 1.75,
+      "rate": 73.98,
+      "count": 123
     },
     {
       "odd": 1.15,
@@ -651,6 +646,11 @@
       "odd": 1.19,
       "rate": 73.48,
       "count": 2127
+    },
+    {
+      "odd": 1.77,
+      "rate": 73.48,
+      "count": 132
     },
     {
       "odd": 1.65,
@@ -810,6 +810,14 @@
       "odds": "8.18",
       "prediction": "Match Result 1",
       "date": "14.01.2026 20:00"
+    },
+    {
+      "match": "Torino FC vs AC Monza",
+      "ht": "0 - 1",
+      "ft": "0 - 1",
+      "odds": "8.09",
+      "prediction": "HT/FT 2/2",
+      "date": "01.09.2026 19:00"
     },
     {
       "match": "Bss Monor vs Honved Ii",
@@ -1050,14 +1058,6 @@
       "odds": "5.45",
       "prediction": "Match Result 2",
       "date": "30.05.2026 13:30"
-    },
-    {
-      "match": "Austria Lust vs WSG Tirol Wattens",
-      "ht": "0 - 1",
-      "ft": "0 - 4",
-      "odds": "5.34",
-      "prediction": "HT/FT 2/2",
-      "date": "28.08.2026 17:30"
     }
   ]
 }
