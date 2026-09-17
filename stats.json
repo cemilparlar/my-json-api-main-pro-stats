@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 77760,
+    "won": 77762,
     "lost": 28110,
     "rate": 73.4,
-    "total": 105870,
+    "total": 105872,
     "last_24h": {
-      "won": 170,
-      "lost": 59,
-      "rate": 74.2,
-      "total": 229
+      "won": 160,
+      "lost": 57,
+      "rate": 73.7,
+      "total": 217
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.4,
-      "count": 23496
+      "count": 23497
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.3,
-      "count": 34118
+      "count": 34119
     }
   ],
   "by_hour": [
@@ -67,7 +67,7 @@
     {
       "label": "13:00",
       "rate": 73.3,
-      "count": 8188
+      "count": 8189
     },
     {
       "label": "14:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 73.3,
-      "count": 8589
+      "count": 8590
     },
     {
       "label": "17:00",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 5617,
+      "won": 5618,
       "lost": 1913,
-      "rate": 74.59,
-      "count": 7530
+      "rate": 74.6,
+      "count": 7531
     },
     {
       "name": "Double Chance 1X",
