@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 79686,
-    "lost": 28766,
+    "won": 79692,
+    "lost": 28765,
     "rate": 73.5,
-    "total": 108452,
+    "total": 108457,
     "last_24h": {
-      "won": 122,
+      "won": 127,
       "lost": 49,
-      "rate": 71.3,
-      "total": 171
+      "rate": 72.2,
+      "total": 176
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.6,
-      "count": 7731
+      "count": 7733
     },
     {
       "label": "Tuesday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.3,
-      "count": 16990
+      "count": 16992
     },
     {
       "label": "Saturday",
       "rate": 73.4,
-      "count": 35444
+      "count": 35445
     }
   ],
   "by_hour": [
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 73.8,
-      "count": 12041
+      "count": 12046
     },
     {
       "label": "15:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 72.5,
-      "count": 3159
+      "count": 3158
     },
     {
       "label": "11:00",
@@ -117,7 +117,7 @@
     {
       "label": "09:00",
       "rate": 72.2,
-      "count": 1403
+      "count": 1404
     },
     {
       "label": "22:00",
@@ -302,6 +302,13 @@
       "count": 7
     },
     {
+      "name": " BULB",
+      "won": 5,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 5
+    },
+    {
       "name": " KASK",
       "won": 6,
       "lost": 0,
@@ -405,13 +412,6 @@
       "lost": 1,
       "rate": 85.71,
       "count": 7
-    },
-    {
-      "name": " HSK",
-      "won": 6,
-      "lost": 1,
-      "rate": 85.71,
-      "count": 7
     }
   ],
   "top_predictions": [
@@ -487,24 +487,24 @@
     },
     {
       "name": "Match Result 2",
-      "won": 963,
-      "lost": 316,
+      "won": 966,
+      "lost": 317,
       "rate": 75.29,
-      "count": 1279
+      "count": 1283
     },
     {
       "name": "1st Half Double Chance 1X",
       "won": 6255,
-      "lost": 2054,
-      "rate": 75.28,
-      "count": 8309
+      "lost": 2053,
+      "rate": 75.29,
+      "count": 8308
     },
     {
       "name": "Double Chance 12",
-      "won": 14271,
+      "won": 14273,
       "lost": 4792,
       "rate": 74.86,
-      "count": 19063
+      "count": 19065
     },
     {
       "name": "Match Result X",
@@ -569,8 +569,8 @@
     },
     {
       "odd": 1.07,
-      "rate": 77.98,
-      "count": 4783
+      "rate": 77.99,
+      "count": 4784
     },
     {
       "odd": 1.09,
@@ -595,7 +595,7 @@
     {
       "odd": 1.11,
       "rate": 75.59,
-      "count": 4731
+      "count": 4732
     },
     {
       "odd": 1.12,
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.35,
-      "count": 4870
+      "rate": 74.36,
+      "count": 4871
     },
     {
       "odd": 1.15,
