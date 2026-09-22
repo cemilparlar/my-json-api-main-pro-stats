@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 79812,
-    "lost": 28811,
+    "won": 79814,
+    "lost": 28807,
     "rate": 73.5,
-    "total": 108623,
+    "total": 108621,
     "last_24h": {
-      "won": 127,
+      "won": 130,
       "lost": 36,
-      "rate": 77.9,
-      "total": 163
+      "rate": 78.3,
+      "total": 166
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 72.6,
-      "count": 7891
+      "count": 7889
     },
     {
       "label": "Tuesday",
       "rate": 74.0,
-      "count": 8999
+      "count": 9002
     },
     {
       "label": "Wednesday",
@@ -44,8 +44,8 @@
     },
     {
       "label": "Saturday",
-      "rate": 73.4,
-      "count": 35444
+      "rate": 73.5,
+      "count": 35441
     }
   ],
   "by_hour": [
@@ -67,17 +67,17 @@
     {
       "label": "13:00",
       "rate": 73.5,
-      "count": 8456
+      "count": 8454
     },
     {
       "label": "14:00",
       "rate": 73.8,
-      "count": 12046
+      "count": 12045
     },
     {
       "label": "15:00",
       "rate": 73.7,
-      "count": 10980
+      "count": 10979
     },
     {
       "label": "16:00",
@@ -112,7 +112,7 @@
     {
       "label": "05:00",
       "rate": 73.7,
-      "count": 2293
+      "count": 2295
     },
     {
       "label": "09:00",
@@ -126,8 +126,8 @@
     },
     {
       "label": "01:00",
-      "rate": 74.0,
-      "count": 834
+      "rate": 73.8,
+      "count": 836
     },
     {
       "label": "06:00",
@@ -141,8 +141,8 @@
     },
     {
       "label": "23:00",
-      "rate": 72.9,
-      "count": 1952
+      "rate": 73.0,
+      "count": 1950
     },
     {
       "label": "00:00",
@@ -309,6 +309,13 @@
       "count": 6
     },
     {
+      "name": " AFCAG",
+      "won": 13,
+      "lost": 1,
+      "rate": 92.86,
+      "count": 14
+    },
+    {
       "name": "UKRK",
       "won": 11,
       "lost": 1,
@@ -331,13 +338,6 @@
     },
     {
       "name": " ARJKŞ",
-      "won": 11,
-      "lost": 1,
-      "rate": 91.67,
-      "count": 12
-    },
-    {
-      "name": " AFCAG",
       "won": 11,
       "lost": 1,
       "rate": 91.67,
@@ -486,13 +486,6 @@
       "count": 180
     },
     {
-      "name": "Match Result 2",
-      "won": 966,
-      "lost": 317,
-      "rate": 75.29,
-      "count": 1283
-    },
-    {
       "name": "1st Half Double Chance 1X",
       "won": 6263,
       "lost": 2056,
@@ -500,11 +493,18 @@
       "count": 8319
     },
     {
+      "name": "Match Result 2",
+      "won": 965,
+      "lost": 317,
+      "rate": 75.27,
+      "count": 1282
+    },
+    {
       "name": "Double Chance 12",
-      "won": 14297,
-      "lost": 4798,
-      "rate": 74.87,
-      "count": 19095
+      "won": 14299,
+      "lost": 4794,
+      "rate": 74.89,
+      "count": 19093
     },
     {
       "name": "Match Result X",
@@ -570,7 +570,7 @@
     {
       "odd": 1.07,
       "rate": 77.99,
-      "count": 4788
+      "count": 4789
     },
     {
       "odd": 1.09,
@@ -579,8 +579,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 77.07,
-      "count": 4754
+      "rate": 77.06,
+      "count": 4755
     },
     {
       "odd": 1.08,
@@ -595,7 +595,7 @@
     {
       "odd": 1.11,
       "rate": 75.59,
-      "count": 4739
+      "count": 4740
     },
     {
       "odd": 1.12,
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.13,
-      "rate": 74.39,
-      "count": 4877
+      "rate": 74.41,
+      "count": 4876
     },
     {
       "odd": 1.15,
@@ -624,8 +624,8 @@
     },
     {
       "odd": 1.14,
-      "rate": 73.75,
-      "count": 3908
+      "rate": 73.78,
+      "count": 3906
     },
     {
       "odd": 1.19,
