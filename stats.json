@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 81708,
-    "lost": 29472,
+    "won": 81721,
+    "lost": 29479,
     "rate": 73.5,
-    "total": 111180,
+    "total": 111200,
     "last_24h": {
-      "won": 532,
-      "lost": 181,
-      "rate": 74.6,
-      "total": 713
+      "won": 542,
+      "lost": 182,
+      "rate": 74.9,
+      "total": 724
     }
   },
   "by_day": [
@@ -25,12 +25,12 @@
     {
       "label": "Wednesday",
       "rate": 74.2,
-      "count": 8925
+      "count": 8927
     },
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 24575
+      "count": 24588
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 36680
+      "count": 36685
     }
   ],
   "by_hour": [
@@ -97,12 +97,12 @@
     {
       "label": "19:00",
       "rate": 73.6,
-      "count": 10732
+      "count": 10749
     },
     {
       "label": "20:00",
       "rate": 72.4,
-      "count": 3185
+      "count": 3188
     },
     {
       "label": "11:00",
@@ -187,11 +187,6 @@
       "count": 29
     },
     {
-      "team": "San Martin Sj",
-      "rate": 92.5,
-      "count": 40
-    },
-    {
       "team": "Unionistas De",
       "rate": 92.0,
       "count": 25
@@ -270,6 +265,11 @@
       "team": "Balatonfuredi",
       "rate": 90.48,
       "count": 21
+    },
+    {
+      "team": "Deportivo Olimpia",
+      "rate": 90.32,
+      "count": 31
     }
   ],
   "top_leagues": [
@@ -474,16 +474,16 @@
     {
       "name": "Match Result 2",
       "won": 992,
-      "lost": 324,
-      "rate": 75.38,
-      "count": 1316
+      "lost": 325,
+      "rate": 75.32,
+      "count": 1317
     },
     {
       "name": "1st Half Double Chance 1X",
-      "won": 6428,
+      "won": 6429,
       "lost": 2117,
       "rate": 75.23,
-      "count": 8545
+      "count": 8546
     },
     {
       "name": "Match Result X",
@@ -494,10 +494,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 14774,
-      "lost": 4941,
+      "won": 14777,
+      "lost": 4942,
       "rate": 74.94,
-      "count": 19715
+      "count": 19719
     },
     {
       "name": "1st Half Under 0.5",
@@ -508,10 +508,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 7633,
+      "won": 7634,
       "lost": 2597,
-      "rate": 74.61,
-      "count": 10230
+      "rate": 74.62,
+      "count": 10231
     },
     {
       "name": "Handicap (0:2) 2",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Over 1.5 Goals",
-      "won": 5874,
-      "lost": 2001,
+      "won": 5876,
+      "lost": 2002,
       "rate": 74.59,
-      "count": 7875
+      "count": 7878
     },
     {
       "name": "Handicap (2:0) 1",
@@ -564,8 +564,8 @@
     },
     {
       "odd": 1.05,
-      "rate": 78.89,
-      "count": 3828
+      "rate": 78.9,
+      "count": 3830
     },
     {
       "odd": 1.07,
@@ -575,7 +575,7 @@
     {
       "odd": 1.09,
       "rate": 77.34,
-      "count": 8799
+      "count": 8800
     },
     {
       "odd": 2.29,
@@ -585,7 +585,7 @@
     {
       "odd": 1.1,
       "rate": 77.13,
-      "count": 4875
+      "count": 4876
     },
     {
       "odd": 1.08,
@@ -643,19 +643,19 @@
       "count": 156
     },
     {
-      "odd": 1.17,
-      "rate": 72.27,
-      "count": 2485
-    },
-    {
       "odd": 1.77,
       "rate": 72.26,
       "count": 137
     },
     {
+      "odd": 1.17,
+      "rate": 72.24,
+      "count": 2486
+    },
+    {
       "odd": 1.16,
-      "rate": 72.17,
-      "count": 3543
+      "rate": 72.18,
+      "count": 3544
     }
   ],
   "top_matches": [
