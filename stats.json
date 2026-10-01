@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 82353,
+    "won": 82355,
     "lost": 29704,
     "rate": 73.5,
-    "total": 112057,
+    "total": 112059,
     "last_24h": {
-      "won": 68,
+      "won": 70,
       "lost": 20,
-      "rate": 77.3,
-      "total": 88
+      "rate": 77.8,
+      "total": 90
     }
   },
   "by_day": [
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 73.9,
-      "count": 6834
+      "count": 6836
     },
     {
       "label": "Friday",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 72.8,
-      "count": 10553
+      "count": 10555
     },
     {
       "label": "18:00",
@@ -507,18 +507,18 @@
       "count": 19888
     },
     {
+      "name": "Over 1.5 Goals",
+      "won": 5938,
+      "lost": 2019,
+      "rate": 74.63,
+      "count": 7957
+    },
+    {
       "name": "Double Chance 1X",
       "won": 7690,
       "lost": 2614,
       "rate": 74.63,
       "count": 10304
-    },
-    {
-      "name": "Over 1.5 Goals",
-      "won": 5937,
-      "lost": 2019,
-      "rate": 74.62,
-      "count": 7956
     },
     {
       "name": "Handicap (1:0) 2",
@@ -584,8 +584,8 @@
     },
     {
       "odd": 1.1,
-      "rate": 77.12,
-      "count": 4922
+      "rate": 77.13,
+      "count": 4923
     },
     {
       "odd": 1.08,
