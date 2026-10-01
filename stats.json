@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 82319,
-    "lost": 29690,
+    "won": 82324,
+    "lost": 29696,
     "rate": 73.5,
-    "total": 112009,
+    "total": 112020,
     "last_24h": {
-      "won": 40,
-      "lost": 13,
-      "rate": 75.5,
-      "total": 53
+      "won": 43,
+      "lost": 14,
+      "rate": 75.4,
+      "total": 57
     }
   },
   "by_day": [
@@ -25,17 +25,17 @@
     {
       "label": "Wednesday",
       "rate": 74.2,
-      "count": 9059
+      "count": 9060
     },
     {
       "label": "Sunday",
-      "rate": 73.4,
-      "count": 24666
+      "rate": 73.3,
+      "count": 24672
     },
     {
       "label": "Thursday",
       "rate": 73.8,
-      "count": 6795
+      "count": 6799
     },
     {
       "label": "Friday",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 73.9,
-      "count": 11249
+      "count": 11260
     },
     {
       "label": "16:00",
@@ -182,11 +182,6 @@
       "count": 24
     },
     {
-      "team": "Karela",
-      "rate": 93.1,
-      "count": 29
-    },
-    {
       "team": "Blackburn Rovers",
       "rate": 92.59,
       "count": 27
@@ -270,6 +265,11 @@
       "team": "Deportivo Olimpia",
       "rate": 90.32,
       "count": 31
+    },
+    {
+      "team": "Karela",
+      "rate": 90.0,
+      "count": 30
     }
   ],
   "top_leagues": [
@@ -502,9 +502,9 @@
     {
       "name": "Double Chance 12",
       "won": 14900,
-      "lost": 4975,
-      "rate": 74.97,
-      "count": 19875
+      "lost": 4978,
+      "rate": 74.96,
+      "count": 19878
     },
     {
       "name": "Double Chance 1X",
@@ -574,8 +574,8 @@
     },
     {
       "odd": 1.09,
-      "rate": 77.33,
-      "count": 8871
+      "rate": 77.3,
+      "count": 8876
     },
     {
       "odd": 1.1,
