@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 82403,
-    "lost": 29722,
+    "won": 82411,
+    "lost": 29725,
     "rate": 73.5,
-    "total": 112125,
+    "total": 112136,
     "last_24h": {
-      "won": 89,
-      "lost": 22,
-      "rate": 80.2,
-      "total": 111
+      "won": 98,
+      "lost": 25,
+      "rate": 79.7,
+      "total": 123
     }
   },
   "by_day": [
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.3,
-      "count": 17372
+      "count": 17384
     },
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 36704
+      "count": 36703
     }
   ],
   "by_hour": [
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 72.5,
-      "count": 3768
+      "count": 3777
     },
     {
       "label": "12:00",
@@ -116,8 +116,8 @@
     },
     {
       "label": "09:00",
-      "rate": 72.5,
-      "count": 1467
+      "rate": 72.6,
+      "count": 1469
     },
     {
       "label": "22:00",
@@ -295,6 +295,13 @@
       "count": 6
     },
     {
+      "name": " ASKL1B",
+      "won": 6,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 6
+    },
+    {
       "name": " U20EL",
       "won": 24,
       "lost": 2,
@@ -405,13 +412,6 @@
       "lost": 2,
       "rate": 84.62,
       "count": 13
-    },
-    {
-      "name": " KARA",
-      "won": 26,
-      "lost": 5,
-      "rate": 83.87,
-      "count": 31
     }
   ],
   "top_predictions": [
@@ -501,10 +501,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 14918,
-      "lost": 4987,
-      "rate": 74.95,
-      "count": 19905
+      "won": 14921,
+      "lost": 4989,
+      "rate": 74.94,
+      "count": 19910
     },
     {
       "name": "Over 1.5 Goals",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Double Chance 1X",
-      "won": 7692,
+      "won": 7693,
       "lost": 2614,
       "rate": 74.64,
-      "count": 10306
+      "count": 10307
     },
     {
       "name": "Handicap (1:0) 2",
@@ -550,22 +550,22 @@
     },
     {
       "name": "1st Half Double Chance X2",
-      "won": 4403,
+      "won": 4404,
       "lost": 1566,
-      "rate": 73.76,
-      "count": 5969
+      "rate": 73.77,
+      "count": 5970
     }
   ],
   "top_odds": [
     {
       "odd": 1.06,
-      "rate": 79.9,
-      "count": 6006
+      "rate": 79.91,
+      "count": 6008
     },
     {
       "odd": 1.05,
-      "rate": 78.92,
-      "count": 3867
+      "rate": 78.93,
+      "count": 3868
     },
     {
       "odd": 2.29,
@@ -575,7 +575,7 @@
     {
       "odd": 1.07,
       "rate": 78.03,
-      "count": 4947
+      "count": 4948
     },
     {
       "odd": 1.09,
@@ -589,13 +589,13 @@
     },
     {
       "odd": 1.08,
-      "rate": 76.99,
-      "count": 5003
+      "rate": 77.0,
+      "count": 5004
     },
     {
       "odd": 1.11,
-      "rate": 75.54,
-      "count": 4922
+      "rate": 75.52,
+      "count": 4923
     },
     {
       "odd": 1.12,
@@ -614,13 +614,13 @@
     },
     {
       "odd": 1.14,
-      "rate": 73.9,
-      "count": 4031
+      "rate": 73.91,
+      "count": 4032
     },
     {
       "odd": 1.15,
-      "rate": 73.89,
-      "count": 5397
+      "rate": 73.88,
+      "count": 5398
     },
     {
       "odd": 1.75,
