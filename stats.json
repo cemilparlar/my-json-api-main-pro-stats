@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 82426,
-    "lost": 29732,
+    "won": 82429,
+    "lost": 29734,
     "rate": 73.5,
-    "total": 112158,
+    "total": 112163,
     "last_24h": {
-      "won": 77,
-      "lost": 24,
+      "won": 80,
+      "lost": 25,
       "rate": 76.2,
-      "total": 101
+      "total": 105
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 73.3,
-      "count": 24672
+      "count": 24671
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 73.3,
-      "count": 17405
+      "count": 17409
     },
     {
       "label": "Saturday",
       "rate": 73.5,
-      "count": 36702
+      "count": 36704
     }
   ],
   "by_hour": [
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 73.8,
-      "count": 7599
+      "count": 7601
     },
     {
       "label": "13:00",
       "rate": 73.6,
-      "count": 8663
+      "count": 8666
     },
     {
       "label": "14:00",
@@ -351,13 +351,6 @@
       "count": 8
     },
     {
-      "name": " BAELK",
-      "won": 21,
-      "lost": 3,
-      "rate": 87.5,
-      "count": 24
-    },
-    {
       "name": "ŞİLİSK",
       "won": 6,
       "lost": 1,
@@ -405,6 +398,13 @@
       "lost": 2,
       "rate": 84.62,
       "count": 13
+    },
+    {
+      "name": " BAELK",
+      "won": 22,
+      "lost": 4,
+      "rate": 84.62,
+      "count": 26
     },
     {
       "name": " AL2P",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Double Chance 12",
-      "won": 14924,
-      "lost": 4991,
-      "rate": 74.94,
-      "count": 19915
+      "won": 14925,
+      "lost": 4993,
+      "rate": 74.93,
+      "count": 19918
     },
     {
       "name": "Over 1.5 Goals",
