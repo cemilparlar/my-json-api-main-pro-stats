@@ -5,10 +5,10 @@
     "rate": 80.9,
     "total": 97257,
     "last_24h": {
-      "won": 482,
-      "lost": 82,
-      "rate": 85.5,
-      "total": 564
+      "won": 414,
+      "lost": 69,
+      "rate": 85.7,
+      "total": 483
     }
   },
   "by_day": [
@@ -192,6 +192,11 @@
       "count": 28
     },
     {
+      "team": "Czech Republic",
+      "rate": 100.0,
+      "count": 24
+    },
+    {
       "team": "Atletico Baleares",
       "rate": 97.06,
       "count": 34
@@ -232,7 +237,7 @@
       "count": 25
     },
     {
-      "team": "Sirbistan",
+      "team": "Serbia",
       "rate": 96.0,
       "count": 25
     },
@@ -265,11 +270,6 @@
       "team": "Weiche Flensburg",
       "rate": 95.65,
       "count": 23
-    },
-    {
-      "team": "Athletic Bilbao Women",
-      "rate": 95.45,
-      "count": 22
     }
   ],
   "top_leagues": [
@@ -844,7 +844,7 @@
       "date": "26.04.2026 18:00"
     },
     {
-      "match": "Kuzey Irlanda vs Hungary",
+      "match": "Northern Ireland vs Hungary",
       "ht": "0 - 0",
       "ft": "0 - 0",
       "odds": "6.28",
@@ -996,7 +996,7 @@
       "date": "06.09.2026 13:00"
     },
     {
-      "match": "Azerbaijan (U2 vs Cek Cumhuriyeti",
+      "match": "Azerbaijan (U2 vs Czech Republic",
       "ht": "1 - 1",
       "ft": "1 - 1",
       "odds": "5.19",
