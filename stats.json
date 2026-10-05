@@ -1,176 +1,186 @@
 {
   "summary": {
-    "won": 84143,
-    "lost": 30288,
-    "rate": 73.5,
-    "total": 114431,
+    "won": 78703,
+    "lost": 18554,
+    "rate": 80.9,
+    "total": 97257,
     "last_24h": {
-      "won": 522,
-      "lost": 151,
-      "rate": 77.6,
-      "total": 673
+      "won": 482,
+      "lost": 82,
+      "rate": 85.5,
+      "total": 564
     }
   },
   "by_day": [
     {
       "label": "Monday",
-      "rate": 73.0,
-      "count": 8072
+      "rate": 80.5,
+      "count": 6821
     },
     {
       "label": "Tuesday",
-      "rate": 74.1,
-      "count": 9363
+      "rate": 81.0,
+      "count": 7997
     },
     {
       "label": "Wednesday",
-      "rate": 74.2,
-      "count": 9060
+      "rate": 81.8,
+      "count": 7629
     },
     {
       "label": "Sunday",
-      "rate": 73.5,
-      "count": 25420
+      "rate": 80.8,
+      "count": 21753
     },
     {
       "label": "Thursday",
-      "rate": 73.8,
-      "count": 6901
+      "rate": 81.6,
+      "count": 5800
     },
     {
       "label": "Friday",
-      "rate": 73.1,
-      "count": 17749
+      "rate": 80.5,
+      "count": 15020
     },
     {
       "label": "Saturday",
-      "rate": 73.6,
-      "count": 37866
+      "rate": 80.9,
+      "count": 32237
     }
   ],
   "by_hour": [
     {
       "label": "08:00",
-      "rate": 75.5,
-      "count": 1037
+      "rate": 82.0,
+      "count": 901
     },
     {
       "label": "10:00",
-      "rate": 72.4,
-      "count": 3887
+      "rate": 80.1,
+      "count": 3263
     },
     {
       "label": "12:00",
-      "rate": 73.8,
-      "count": 7781
+      "rate": 81.1,
+      "count": 6631
     },
     {
       "label": "13:00",
-      "rate": 73.6,
-      "count": 8859
+      "rate": 81.8,
+      "count": 7428
     },
     {
       "label": "14:00",
-      "rate": 73.9,
-      "count": 13007
+      "rate": 81.0,
+      "count": 11187
     },
     {
       "label": "15:00",
-      "rate": 73.9,
-      "count": 11399
+      "rate": 81.3,
+      "count": 9801
     },
     {
       "label": "16:00",
-      "rate": 73.3,
-      "count": 9248
+      "rate": 80.5,
+      "count": 7851
     },
     {
       "label": "17:00",
-      "rate": 72.9,
-      "count": 10656
+      "rate": 80.4,
+      "count": 9049
     },
     {
       "label": "18:00",
-      "rate": 73.5,
-      "count": 12836
+      "rate": 80.6,
+      "count": 10947
     },
     {
       "label": "19:00",
-      "rate": 73.6,
-      "count": 10820
+      "rate": 80.7,
+      "count": 9185
     },
     {
       "label": "20:00",
-      "rate": 72.5,
-      "count": 3284
+      "rate": 80.8,
+      "count": 2693
     },
     {
       "label": "11:00",
-      "rate": 73.3,
-      "count": 6536
-    },
-    {
-      "label": "05:00",
-      "rate": 73.7,
-      "count": 2350
+      "rate": 80.6,
+      "count": 5591
     },
     {
       "label": "09:00",
-      "rate": 72.4,
-      "count": 1528
+      "rate": 80.4,
+      "count": 1264
     },
     {
       "label": "22:00",
-      "rate": 74.3,
-      "count": 2058
+      "rate": 81.8,
+      "count": 1723
     },
     {
       "label": "01:00",
-      "rate": 74.2,
-      "count": 964
+      "rate": 81.6,
+      "count": 825
     },
     {
       "label": "06:00",
-      "rate": 73.3,
-      "count": 576
+      "rate": 81.0,
+      "count": 480
     },
     {
       "label": "07:00",
-      "rate": 73.2,
-      "count": 1268
+      "rate": 81.1,
+      "count": 1068
     },
     {
       "label": "23:00",
-      "rate": 73.1,
-      "count": 2125
+      "rate": 80.3,
+      "count": 1788
+    },
+    {
+      "label": "05:00",
+      "rate": 81.8,
+      "count": 2005
     },
     {
       "label": "00:00",
-      "rate": 74.0,
-      "count": 1425
+      "rate": 81.7,
+      "count": 1175
     },
     {
       "label": "21:00",
-      "rate": 74.5,
-      "count": 1831
+      "rate": 81.5,
+      "count": 1598
     },
     {
       "label": "02:00",
-      "rate": 73.9,
-      "count": 518
+      "rate": 81.1,
+      "count": 444
     },
     {
       "label": "03:00",
-      "rate": 74.3,
-      "count": 230
+      "rate": 82.2,
+      "count": 197
     },
     {
       "label": "04:00",
-      "rate": 78.4,
-      "count": 208
+      "rate": 86.5,
+      "count": 163
     }
   ],
   "top_teams": [
+    {
+      "team": "Entebbe Uppc",
+      "rate": 100.0,
+      "count": 22
+    },
+    {
+      "team": "Asyut Petroleum",
+      "rate": 100.0,
+      "count": 25
+    },
     {
       "team": "Maidstone Unit",
       "rate": 100.0,
@@ -182,103 +192,156 @@
       "count": 28
     },
     {
-      "team": "Algeria",
-      "rate": 92.31,
-      "count": 39
+      "team": "Atletico Baleares",
+      "rate": 97.06,
+      "count": 34
     },
     {
-      "team": "Halesowen Town",
-      "rate": 92.31,
-      "count": 26
-    },
-    {
-      "team": "T.Universitari",
-      "rate": 91.67,
-      "count": 24
-    },
-    {
-      "team": "Minija",
-      "rate": 91.49,
-      "count": 47
-    },
-    {
-      "team": "City FC Dubai",
-      "rate": 91.3,
-      "count": 23
-    },
-    {
-      "team": "AC Milan U20",
-      "rate": 90.91,
-      "count": 22
-    },
-    {
-      "team": "Siheung Citizen",
-      "rate": 90.91,
-      "count": 22
-    },
-    {
-      "team": "Belconnen Unite",
-      "rate": 90.91,
-      "count": 22
-    },
-    {
-      "team": "Treowen Stars",
-      "rate": 90.62,
+      "team": "FC Bulle",
+      "rate": 96.88,
       "count": 32
     },
     {
-      "team": "Lorca Deportiva",
-      "rate": 90.48,
-      "count": 21
+      "team": "Vard Haugesund",
+      "rate": 96.55,
+      "count": 29
     },
     {
-      "team": "FC Oleksandria",
-      "rate": 90.48,
-      "count": 21
+      "team": "Sv Meppen",
+      "rate": 96.43,
+      "count": 28
     },
     {
-      "team": "Balatonfuredi",
-      "rate": 90.48,
-      "count": 21
+      "team": "Astrio",
+      "rate": 96.43,
+      "count": 28
     },
     {
-      "team": "Solvesborgs Goi",
-      "rate": 90.48,
-      "count": 21
+      "team": "Karela",
+      "rate": 96.15,
+      "count": 26
     },
     {
-      "team": "Deportivo Olimpia",
-      "rate": 90.32,
-      "count": 31
+      "team": "North Geelong FC",
+      "rate": 96.0,
+      "count": 25
     },
     {
-      "team": "Nejmeh SC",
-      "rate": 90.0,
-      "count": 20
+      "team": "Yenisey Krasnoyarsk",
+      "rate": 96.0,
+      "count": 25
     },
     {
-      "team": "Nb Abbas",
-      "rate": 90.0,
-      "count": 20
+      "team": "Sirbistan",
+      "rate": 96.0,
+      "count": 25
     },
     {
-      "team": "Ciudad De Bolí",
-      "rate": 90.0,
-      "count": 40
+      "team": "Blackburn Rovers",
+      "rate": 95.83,
+      "count": 24
     },
     {
-      "team": "Skanste",
-      "rate": 90.0,
-      "count": 30
+      "team": "Juventud Torre",
+      "rate": 95.83,
+      "count": 24
+    },
+    {
+      "team": "Descaldes",
+      "rate": 95.83,
+      "count": 24
+    },
+    {
+      "team": "Schwaben Augsbu",
+      "rate": 95.83,
+      "count": 24
+    },
+    {
+      "team": "Real Union Irun",
+      "rate": 95.65,
+      "count": 23
+    },
+    {
+      "team": "Weiche Flensburg",
+      "rate": 95.65,
+      "count": 23
+    },
+    {
+      "team": "Athletic Bilbao Women",
+      "rate": 95.45,
+      "count": 22
     }
   ],
   "top_leagues": [
+    {
+      "name": "T2L-B",
+      "won": 8,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 8
+    },
+    {
+      "name": "MLTAK",
+      "won": 13,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 13
+    },
     {
       "name": "Y100VL-D",
       "won": 9,
       "lost": 0,
       "rate": 100.0,
       "count": 9
+    },
+    {
+      "name": "SIRBK",
+      "won": 5,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 5
+    },
+    {
+      "name": "LIBER20",
+      "won": 13,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 13
+    },
+    {
+      "name": " CONUK",
+      "won": 10,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 10
+    },
+    {
+      "name": " KAZKK",
+      "won": 8,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 8
+    },
+    {
+      "name": " RUSKS",
+      "won": 5,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 5
+    },
+    {
+      "name": " BALTIK",
+      "won": 6,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 6
+    },
+    {
+      "name": " GURCSK",
+      "won": 5,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 5
     },
     {
       "name": " URUK",
@@ -302,132 +365,160 @@
       "count": 11
     },
     {
-      "name": "UKRK",
-      "won": 11,
-      "lost": 1,
-      "rate": 91.67,
-      "count": 12
+      "name": " ASKL1B",
+      "won": 6,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 6
     },
     {
-      "name": " İRK",
-      "won": 22,
-      "lost": 2,
-      "rate": 91.67,
-      "count": 24
-    },
-    {
-      "name": " KKŞ",
-      "won": 11,
-      "lost": 1,
-      "rate": 91.67,
-      "count": 12
-    },
-    {
-      "name": "İSVK",
-      "won": 28,
-      "lost": 3,
-      "rate": 90.32,
-      "count": 31
-    },
-    {
-      "name": " U20EL",
-      "won": 28,
-      "lost": 3,
-      "rate": 90.32,
-      "count": 31
-    },
-    {
-      "name": "MOLDK",
+      "name": "BOSK",
       "won": 18,
+      "lost": 1,
+      "rate": 94.74,
+      "count": 19
+    },
+    {
+      "name": " ÇİNK",
+      "won": 32,
       "lost": 2,
-      "rate": 90.0,
-      "count": 20
+      "rate": 94.12,
+      "count": 34
     },
     {
-      "name": " ZAM",
-      "won": 9,
+      "name": " ISPDLR",
+      "won": 16,
       "lost": 1,
-      "rate": 90.0,
-      "count": 10
-    },
-    {
-      "name": " AVRK-K",
-      "won": 7,
-      "lost": 1,
-      "rate": 87.5,
-      "count": 8
-    },
-    {
-      "name": " BOTS",
-      "won": 7,
-      "lost": 1,
-      "rate": 87.5,
-      "count": 8
+      "rate": 94.12,
+      "count": 17
     },
     {
       "name": "JWEL",
-      "won": 31,
-      "lost": 5,
-      "rate": 86.11,
-      "count": 36
-    },
-    {
-      "name": "ŞİLİSK",
-      "won": 6,
-      "lost": 1,
-      "rate": 85.71,
-      "count": 7
-    },
-    {
-      "name": " HSK",
-      "won": 6,
-      "lost": 1,
-      "rate": 85.71,
-      "count": 7
-    },
-    {
-      "name": " ÜRDSK",
-      "won": 12,
+      "won": 30,
       "lost": 2,
-      "rate": 85.71,
+      "rate": 93.75,
+      "count": 32
+    },
+    {
+      "name": "ROK",
+      "won": 13,
+      "lost": 1,
+      "rate": 92.86,
       "count": 14
     },
     {
-      "name": " ASKL1B",
-      "won": 6,
+      "name": " MISLK",
+      "won": 13,
       "lost": 1,
-      "rate": 85.71,
-      "count": 7
-    },
-    {
-      "name": " U19K",
-      "won": 17,
-      "lost": 3,
-      "rate": 85.0,
-      "count": 20
-    },
-    {
-      "name": "KİRLK",
-      "won": 11,
-      "lost": 2,
-      "rate": 84.62,
-      "count": 13
+      "rate": 92.86,
+      "count": 14
     }
   ],
   "top_predictions": [
     {
       "name": "Under 0.5 Goals",
       "won": 10,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 10
+    },
+    {
+      "name": "HT/FT 2/2",
+      "won": 26,
       "lost": 1,
-      "rate": 90.91,
-      "count": 11
+      "rate": 96.3,
+      "count": 27
+    },
+    {
+      "name": "Total Goals 0-1",
+      "won": 38,
+      "lost": 2,
+      "rate": 95.0,
+      "count": 40
     },
     {
       "name": "HT/FT X/X",
-      "won": 22,
-      "lost": 3,
-      "rate": 88.0,
-      "count": 25
+      "won": 18,
+      "lost": 1,
+      "rate": 94.74,
+      "count": 19
+    },
+    {
+      "name": "HT/FT 1/1",
+      "won": 62,
+      "lost": 5,
+      "rate": 92.54,
+      "count": 67
+    },
+    {
+      "name": "Home Team 1st Half Under 0.5",
+      "won": 11,
+      "lost": 1,
+      "rate": 91.67,
+      "count": 12
+    },
+    {
+      "name": "Handicap (1:0) 2",
+      "won": 64,
+      "lost": 8,
+      "rate": 88.89,
+      "count": 72
+    },
+    {
+      "name": "Match Result X",
+      "won": 62,
+      "lost": 8,
+      "rate": 88.57,
+      "count": 70
+    },
+    {
+      "name": "Under 1.5 Goals",
+      "won": 63,
+      "lost": 9,
+      "rate": 87.5,
+      "count": 72
+    },
+    {
+      "name": "Match Result 2",
+      "won": 857,
+      "lost": 126,
+      "rate": 87.18,
+      "count": 983
+    },
+    {
+      "name": "Away Team 1st Half Under 0.5",
+      "won": 34,
+      "lost": 5,
+      "rate": 87.18,
+      "count": 39
+    },
+    {
+      "name": "Total Goals 2-3",
+      "won": 234,
+      "lost": 36,
+      "rate": 86.67,
+      "count": 270
+    },
+    {
+      "name": "1st Half Under 0.5",
+      "won": 84,
+      "lost": 13,
+      "rate": 86.6,
+      "count": 97
+    },
+    {
+      "name": "Handicap (0:1) 2",
+      "won": 1606,
+      "lost": 256,
+      "rate": 86.25,
+      "count": 1862
+    },
+    {
+      "name": "1st Half Result 1",
+      "won": 306,
+      "lost": 51,
+      "rate": 85.71,
+      "count": 357
     },
     {
       "name": "Over 0.5 Goals",
@@ -437,225 +528,134 @@
       "count": 49
     },
     {
-      "name": "Away Team 1st Half Under 0.5",
-      "won": 35,
-      "lost": 7,
-      "rate": 83.33,
-      "count": 42
+      "name": "Match Result 1",
+      "won": 2189,
+      "lost": 415,
+      "rate": 84.06,
+      "count": 2604
     },
     {
-      "name": "HT/FT 2/2",
-      "won": 48,
-      "lost": 11,
-      "rate": 81.36,
-      "count": 59
+      "name": "Under 2.5 Goals",
+      "won": 897,
+      "lost": 184,
+      "rate": 82.98,
+      "count": 1081
     },
     {
-      "name": "Total Goals 0-1",
-      "won": 56,
-      "lost": 13,
-      "rate": 81.16,
-      "count": 69
+      "name": "Handicap (1:0) 1",
+      "won": 2303,
+      "lost": 475,
+      "rate": 82.9,
+      "count": 2778
     },
     {
-      "name": "1st Half Under 2.5",
-      "won": 522,
-      "lost": 136,
-      "rate": 79.33,
-      "count": 658
-    },
-    {
-      "name": "Under 4.5 Goals",
-      "won": 2263,
-      "lost": 663,
-      "rate": 77.34,
-      "count": 2926
-    },
-    {
-      "name": "Match Result X",
-      "won": 88,
-      "lost": 26,
-      "rate": 77.19,
-      "count": 114
-    },
-    {
-      "name": "Match Result 2",
-      "won": 1023,
-      "lost": 333,
-      "rate": 75.44,
-      "count": 1356
-    },
-    {
-      "name": "1st Half Double Chance 1X",
-      "won": 6615,
-      "lost": 2181,
-      "rate": 75.2,
-      "count": 8796
-    },
-    {
-      "name": "Double Chance 12",
-      "won": 15384,
-      "lost": 5099,
-      "rate": 75.11,
-      "count": 20483
-    },
-    {
-      "name": "Handicap (0:2) 2",
-      "won": 1626,
-      "lost": 545,
-      "rate": 74.9,
-      "count": 2171
-    },
-    {
-      "name": "Double Chance 1X",
-      "won": 7879,
-      "lost": 2678,
-      "rate": 74.63,
-      "count": 10557
-    },
-    {
-      "name": "Over 1.5 Goals",
-      "won": 6048,
-      "lost": 2059,
-      "rate": 74.6,
-      "count": 8107
-    },
-    {
-      "name": "1st Half Under 0.5",
-      "won": 141,
-      "lost": 48,
-      "rate": 74.6,
-      "count": 189
-    },
-    {
-      "name": "Under 1.5 Goals",
-      "won": 105,
-      "lost": 36,
-      "rate": 74.47,
-      "count": 141
-    },
-    {
-      "name": "Handicap (2:0) 1",
-      "won": 645,
-      "lost": 224,
-      "rate": 74.22,
-      "count": 869
-    },
-    {
-      "name": "Handicap (0:1) 2",
-      "won": 1765,
-      "lost": 621,
-      "rate": 73.97,
-      "count": 2386
-    },
-    {
-      "name": "1st Half Double Chance X2",
-      "won": 4509,
-      "lost": 1608,
-      "rate": 73.71,
-      "count": 6117
+      "name": "Handicap (0:1) 1",
+      "won": 134,
+      "lost": 28,
+      "rate": 82.72,
+      "count": 162
     }
   ],
   "top_odds": [
     {
-      "odd": 1.06,
-      "rate": 79.99,
-      "count": 6123
+      "odd": 1.75,
+      "rate": 92.94,
+      "count": 85
     },
     {
-      "odd": 1.05,
-      "rate": 78.97,
-      "count": 3970
+      "odd": 1.99,
+      "rate": 90.32,
+      "count": 31
     },
     {
-      "odd": 1.07,
-      "rate": 78.09,
-      "count": 5052
+      "odd": 1.95,
+      "rate": 89.19,
+      "count": 37
     },
     {
-      "odd": 1.09,
-      "rate": 77.32,
-      "count": 9114
+      "odd": 1.71,
+      "rate": 88.71,
+      "count": 62
     },
     {
-      "odd": 1.1,
-      "rate": 77.24,
-      "count": 5044
-    },
-    {
-      "odd": 1.08,
-      "rate": 77.0,
-      "count": 5130
-    },
-    {
-      "odd": 2.29,
-      "rate": 76.47,
-      "count": 34
-    },
-    {
-      "odd": 1.11,
-      "rate": 75.45,
-      "count": 5031
-    },
-    {
-      "odd": 1.12,
-      "rate": 75.42,
-      "count": 5122
-    },
-    {
-      "odd": 1.13,
-      "rate": 74.45,
-      "count": 5119
+      "odd": 1.88,
+      "rate": 87.5,
+      "count": 56
     },
     {
       "odd": 1.76,
-      "rate": 74.42,
-      "count": 172
+      "rate": 86.92,
+      "count": 107
     },
     {
-      "odd": 1.14,
-      "rate": 73.94,
-      "count": 4136
+      "odd": 1.79,
+      "rate": 86.81,
+      "count": 91
     },
     {
-      "odd": 1.15,
-      "rate": 73.76,
-      "count": 5491
-    },
-    {
-      "odd": 1.19,
-      "rate": 73.28,
-      "count": 2309
+      "odd": 1.47,
+      "rate": 86.69,
+      "count": 263
     },
     {
       "odd": 1.66,
-      "rate": 73.05,
-      "count": 141
+      "rate": 86.49,
+      "count": 74
+    },
+    {
+      "odd": 1.64,
+      "rate": 86.25,
+      "count": 80
+    },
+    {
+      "odd": 1.45,
+      "rate": 85.43,
+      "count": 247
     },
     {
       "odd": 1.72,
-      "rate": 73.01,
-      "count": 163
-    },
-    {
-      "odd": 1.75,
-      "rate": 72.93,
-      "count": 133
+      "rate": 85.26,
+      "count": 95
     },
     {
       "odd": 1.77,
-      "rate": 72.6,
-      "count": 146
+      "rate": 85.0,
+      "count": 80
     },
     {
-      "odd": 1.17,
-      "rate": 72.52,
-      "count": 2540
+      "odd": 1.46,
+      "rate": 84.94,
+      "count": 259
     },
     {
-      "odd": 1.16,
-      "rate": 72.34,
-      "count": 3724
+      "odd": 1.43,
+      "rate": 84.71,
+      "count": 314
+    },
+    {
+      "odd": 1.49,
+      "rate": 84.53,
+      "count": 181
+    },
+    {
+      "odd": 1.4,
+      "rate": 84.34,
+      "count": 498
+    },
+    {
+      "odd": 1.89,
+      "rate": 84.21,
+      "count": 38
+    },
+    {
+      "odd": 1.42,
+      "rate": 84.14,
+      "count": 309
+    },
+    {
+      "odd": 1.44,
+      "rate": 83.61,
+      "count": 488
     }
   ],
   "top_matches": [
@@ -690,14 +690,6 @@
       "odds": "19.85",
       "prediction": "HT/FT 2/X",
       "date": "27.08.2026 17:00"
-    },
-    {
-      "match": "KV Mechelen vs KVC Westerlo",
-      "ht": "0 - 1",
-      "ft": "1 - 1",
-      "odds": "13.05",
-      "prediction": "HT/FT 2/X",
-      "date": "25.01.2026 18:15"
     },
     {
       "match": "FC Heidenheim vs FC Koln",
@@ -788,38 +780,6 @@
       "date": "29.08.2026 14:00"
     },
     {
-      "match": "Dinamo Zagreb vs NK Slaven Belupo",
-      "ht": "0 - 1",
-      "ft": "4 - 2",
-      "odds": "8.32",
-      "prediction": "Total Goals 6+",
-      "date": "14.03.2026 16:15"
-    },
-    {
-      "match": "Dinamo Zagreb vs NK Slaven Belupo",
-      "ht": "0 - 1",
-      "ft": "4 - 2",
-      "odds": "8.32",
-      "prediction": "Total Goals 6+",
-      "date": "14.03.2026 16:15"
-    },
-    {
-      "match": "Albacete Balompie vs Real Madrid",
-      "ht": "1 - 1",
-      "ft": "3 - 2",
-      "odds": "8.18",
-      "prediction": "Match Result 1",
-      "date": "14.01.2026 20:00"
-    },
-    {
-      "match": "Torino FC vs AC Monza",
-      "ht": "0 - 1",
-      "ft": "0 - 1",
-      "odds": "8.09",
-      "prediction": "HT/FT 2/2",
-      "date": "01.09.2026 19:00"
-    },
-    {
       "match": "Bss Monor vs Honved Ii",
       "ht": "0 - 0",
       "ft": "0 - 1",
@@ -842,14 +802,6 @@
       "odds": "7.93",
       "prediction": "Under 1.5 Goals",
       "date": "09.09.2026 16:45"
-    },
-    {
-      "match": "FC Groningen vs FC Utrecht",
-      "ht": "0 - 0",
-      "ft": "1 - 2",
-      "odds": "7.77",
-      "prediction": "HT/FT X/2",
-      "date": "14.02.2026 20:00"
     },
     {
       "match": "Union Santa Fe vs CA Sarmiento",
@@ -876,14 +828,6 @@
       "date": "11.07.2026 14:00"
     },
     {
-      "match": "Gremio FBPA vs Sport Club Internacional",
-      "ht": "2 - 0",
-      "ft": "3 - 1",
-      "odds": "6.78",
-      "prediction": "Handicap (0:2) X",
-      "date": "03.09.2026 23:00"
-    },
-    {
       "match": "Austria Lust vs WSG Tirol Wattens",
       "ht": "0 - 1",
       "ft": "0 - 4",
@@ -898,14 +842,6 @@
       "odds": "6.43",
       "prediction": "Handicap (0:2) 1",
       "date": "26.04.2026 18:00"
-    },
-    {
-      "match": "Sporting Jax I vs The Villages",
-      "ht": "1 - 0",
-      "ft": "1 - 0",
-      "odds": "6.41",
-      "prediction": "Match Result 1",
-      "date": "03.07.2026 23:00"
     },
     {
       "match": "Kuzey Irlanda vs Hungary",
@@ -964,22 +900,6 @@
       "date": "23.01.2026 19:30"
     },
     {
-      "match": "FC Luzern vs FC Winterthur",
-      "ht": "1 - 2",
-      "ft": "1 - 2",
-      "odds": "5.99",
-      "prediction": "1st Half Result 2",
-      "date": "15.03.2026 15:30"
-    },
-    {
-      "match": "Sporting Jax I vs The Villages",
-      "ht": "1 - 0",
-      "ft": "1 - 0",
-      "odds": "5.96",
-      "prediction": "1st Half Result 1",
-      "date": "03.07.2026 23:00"
-    },
-    {
       "match": "ESTAC Troyes vs RC Strasbourg",
       "ht": "1 - 2",
       "ft": "2 - 6",
@@ -996,36 +916,12 @@
       "date": "07.09.2026 18:00"
     },
     {
-      "match": "Southam vs West Ham United",
-      "ht": "1 - 1",
-      "ft": "1 - 4",
-      "odds": "5.83",
-      "prediction": "Handicap (1:0) 2",
-      "date": "25.08.2026 18:45"
-    },
-    {
       "match": "Tottenham Hotspur vs Charlton Athletic",
       "ht": "2 - 0",
       "ft": "5 - 1",
       "odds": "5.82",
       "prediction": "Total Goals 6+",
       "date": "26.08.2026 18:45"
-    },
-    {
-      "match": "Liverpool vs Burnley",
-      "ht": "1 - 0",
-      "ft": "1 - 1",
-      "odds": "5.81",
-      "prediction": "Match Result X",
-      "date": "17.01.2026 15:00"
-    },
-    {
-      "match": "CA Acassuso vs Chaco For Ever",
-      "ht": "1 - 0",
-      "ft": "2 - 0",
-      "odds": "5.71",
-      "prediction": "Handicap (0:1) 1",
-      "date": "14.02.2026 20:00"
     },
     {
       "match": "Le Havre AC vs AS Monaco",
@@ -1044,20 +940,124 @@
       "date": "12.04.2026 20:30"
     },
     {
-      "match": "SE Palmeiras vs Vitoria Bahia",
-      "ht": "3 - 0",
-      "ft": "5 - 1",
-      "odds": "5.61",
-      "prediction": "1st Half Over 2.5",
-      "date": "05.02.2026 00:30"
+      "match": "Austria Lust vs WSG Tirol Wattens",
+      "ht": "0 - 1",
+      "ft": "0 - 4",
+      "odds": "5.34",
+      "prediction": "HT/FT 2/2",
+      "date": "28.08.2026 17:30"
     },
     {
-      "match": "SC Bastia vs Montpellier HSC",
+      "match": "Brentford vs Arsenal",
+      "ht": "0 - 0",
+      "ft": "1 - 1",
+      "odds": "5.30",
+      "prediction": "HT/FT X/X",
+      "date": "12.02.2026 20:00"
+    },
+    {
+      "match": "Oulu vs Seinajoen Jk",
+      "ht": "0 - 0",
+      "ft": "0 - 0",
+      "odds": "5.25",
+      "prediction": "HT/FT X/X",
+      "date": "31.08.2026 16:00"
+    },
+    {
+      "match": "FC St Gallen vs Grasshopper Club Zurich",
+      "ht": "0 - 0",
+      "ft": "0 - 0",
+      "odds": "5.24",
+      "prediction": "Total Goals 0-1",
+      "date": "14.02.2026 17:00"
+    },
+    {
+      "match": "Portland Timbers vs Los Angeles FC",
+      "ht": "1 - 0",
+      "ft": "2 - 1",
+      "odds": "5.22",
+      "prediction": "Handicap (0:1) X",
+      "date": "11.04.2026 20:45"
+    },
+    {
+      "match": "Vjs vs Kups Ak.",
+      "ht": "0 - 0",
+      "ft": "0 - 0",
+      "odds": "5.22",
+      "prediction": "Match Result X",
+      "date": "02.05.2026 14:00"
+    },
+    {
+      "match": "ESTAC Troyes vs RC Strasbourg",
+      "ht": "1 - 2",
+      "ft": "2 - 6",
+      "odds": "5.20",
+      "prediction": "Over 4.5 Goals",
+      "date": "06.09.2026 13:00"
+    },
+    {
+      "match": "Azerbaijan (U2 vs Cek Cumhuriyeti",
+      "ht": "1 - 1",
+      "ft": "1 - 1",
+      "odds": "5.19",
+      "prediction": "Match Result X",
+      "date": "25.09.2026 13:45"
+    },
+    {
+      "match": "FC St Gallen vs Grasshopper Club Zurich",
+      "ht": "0 - 0",
+      "ft": "0 - 0",
+      "odds": "5.16",
+      "prediction": "Under 1.5 Goals",
+      "date": "14.02.2026 17:00"
+    },
+    {
+      "match": "LOSC Lille vs Real Betis",
+      "ht": "2 - 1",
+      "ft": "2 - 3",
+      "odds": "5.14",
+      "prediction": "Over 4.5 Goals",
+      "date": "08.09.2026 19:00"
+    },
+    {
+      "match": "Kauno Zalgiris vs Fa Siauliai",
+      "ht": "0 - 0",
+      "ft": "0 - 0",
+      "odds": "5.11",
+      "prediction": "Match Result X",
+      "date": "16.05.2026 11:15"
+    },
+    {
+      "match": "Ca Mitre vs Deportivo Madry",
+      "ht": "0 - 2",
+      "ft": "1 - 3",
+      "odds": "5.04",
+      "prediction": "1st Half Result 2",
+      "date": "05.04.2026 22:00"
+    },
+    {
+      "match": "FC Twente vs SC Telstar",
+      "ht": "0 - 0",
+      "ft": "1 - 0",
+      "odds": "4.97",
+      "prediction": "1st Half Under 0.5",
+      "date": "09.09.2026 16:45"
+    },
+    {
+      "match": "Istres vs Stade Lavalois",
       "ht": "0 - 1",
       "ft": "0 - 2",
-      "odds": "5.48",
-      "prediction": "Handicap (1:0) 2",
-      "date": "23.01.2026 19:00"
+      "odds": "4.96",
+      "prediction": "Handicap (2:0) X",
+      "date": "10.01.2026 17:00"
+    },
+    {
+      "match": "Almere City FC vs De Graafschap",
+      "ht": "1 - 1",
+      "ft": "3 - 1",
+      "odds": "4.96",
+      "prediction": "Handicap (0:2) X",
+      "date": "06.05.2026 16:45"
     }
   ]
 }
