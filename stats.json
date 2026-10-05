@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 78772,
-    "lost": 18549,
+    "won": 78777,
+    "lost": 18555,
     "rate": 80.9,
-    "total": 97321,
+    "total": 97332,
     "last_24h": {
-      "won": 70,
-      "lost": 12,
-      "rate": 85.4,
-      "total": 82
+      "won": 74,
+      "lost": 13,
+      "rate": 85.1,
+      "total": 87
     }
   },
   "by_day": [
     {
       "label": "Monday",
-      "rate": 80.6,
-      "count": 6897
+      "rate": 80.5,
+      "count": 6907
     },
     {
       "label": "Tuesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 21750
+      "count": 21751
     },
     {
       "label": "Thursday",
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 6630
+      "count": 6631
     },
     {
       "label": "13:00",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 81.0,
-      "count": 11183
+      "count": 11185
     },
     {
       "label": "15:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 80.5,
-      "count": 7881
+      "count": 7883
     },
     {
       "label": "17:00",
@@ -91,8 +91,8 @@
     },
     {
       "label": "18:00",
-      "rate": 80.7,
-      "count": 10974
+      "rate": 80.6,
+      "count": 10978
     },
     {
       "label": "19:00",
@@ -102,7 +102,7 @@
     {
       "label": "20:00",
       "rate": 80.8,
-      "count": 2692
+      "count": 2693
     },
     {
       "label": "11:00",
@@ -137,7 +137,7 @@
     {
       "label": "23:00",
       "rate": 80.3,
-      "count": 1787
+      "count": 1788
     },
     {
       "label": "05:00",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2304,
+      "won": 2305,
       "lost": 474,
       "rate": 82.94,
-      "count": 2778
+      "count": 2779
     },
     {
       "name": "Handicap (0:1) 1",
