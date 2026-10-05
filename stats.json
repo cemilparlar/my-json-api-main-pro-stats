@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 78718,
-    "lost": 18554,
+    "won": 78737,
+    "lost": 18557,
     "rate": 80.9,
-    "total": 97272,
+    "total": 97294,
     "last_24h": {
-      "won": 47,
-      "lost": 7,
-      "rate": 87.0,
-      "total": 54
+      "won": 62,
+      "lost": 8,
+      "rate": 88.6,
+      "total": 70
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.5,
-      "count": 6838
+      "count": 6860
     },
     {
       "label": "Tuesday",
@@ -35,17 +35,17 @@
     {
       "label": "Thursday",
       "rate": 81.6,
-      "count": 5801
+      "count": 5800
     },
     {
       "label": "Friday",
       "rate": 80.5,
-      "count": 15020
+      "count": 15023
     },
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32234
+      "count": 32232
     }
   ],
   "by_hour": [
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 6631
+      "count": 6630
     },
     {
       "label": "13:00",
       "rate": 81.8,
-      "count": 7434
+      "count": 7433
     },
     {
       "label": "14:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 80.5,
-      "count": 7851
+      "count": 7875
     },
     {
       "label": "17:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9187
+      "count": 9188
     },
     {
       "label": "20:00",
@@ -121,8 +121,8 @@
     },
     {
       "label": "01:00",
-      "rate": 81.6,
-      "count": 825
+      "rate": 81.7,
+      "count": 824
     },
     {
       "label": "06:00",
@@ -227,6 +227,11 @@
       "count": 26
     },
     {
+      "team": "Blackburn Rovers",
+      "rate": 96.0,
+      "count": 25
+    },
+    {
       "team": "North Geelong FC",
       "rate": 96.0,
       "count": 25
@@ -240,11 +245,6 @@
       "team": "Serbia",
       "rate": 96.0,
       "count": 25
-    },
-    {
-      "team": "Blackburn Rovers",
-      "rate": 95.83,
-      "count": 24
     },
     {
       "team": "Juventud Torre",
@@ -494,10 +494,10 @@
     },
     {
       "name": "Total Goals 2-3",
-      "won": 234,
+      "won": 235,
       "lost": 36,
-      "rate": 86.67,
-      "count": 270
+      "rate": 86.72,
+      "count": 271
     },
     {
       "name": "1st Half Under 0.5",
@@ -529,24 +529,24 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2190,
+      "won": 2191,
       "lost": 415,
-      "rate": 84.07,
-      "count": 2605
+      "rate": 84.08,
+      "count": 2606
     },
     {
       "name": "Under 2.5 Goals",
-      "won": 897,
+      "won": 898,
       "lost": 184,
-      "rate": 82.98,
-      "count": 1081
+      "rate": 82.99,
+      "count": 1082
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2303,
+      "won": 2304,
       "lost": 474,
-      "rate": 82.93,
-      "count": 2777
+      "rate": 82.94,
+      "count": 2778
     },
     {
       "name": "Handicap (0:1) 1",
@@ -619,8 +619,8 @@
     },
     {
       "odd": 1.77,
-      "rate": 85.0,
-      "count": 80
+      "rate": 85.19,
+      "count": 81
     },
     {
       "odd": 1.46,
@@ -639,8 +639,8 @@
     },
     {
       "odd": 1.4,
-      "rate": 84.34,
-      "count": 498
+      "rate": 84.37,
+      "count": 499
     },
     {
       "odd": 1.89,
