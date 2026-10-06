@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 78797,
-    "lost": 18560,
+    "won": 78816,
+    "lost": 18566,
     "rate": 80.9,
-    "total": 97357,
+    "total": 97382,
     "last_24h": {
-      "won": 89,
-      "lost": 15,
-      "rate": 85.6,
-      "total": 104
+      "won": 103,
+      "lost": 20,
+      "rate": 83.7,
+      "total": 123
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.5,
-      "count": 6931
+      "count": 6953
     },
     {
       "label": "Tuesday",
@@ -30,17 +30,17 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 21750
+      "count": 21751
     },
     {
       "label": "Thursday",
       "rate": 81.6,
-      "count": 5801
+      "count": 5802
     },
     {
       "label": "Friday",
       "rate": 80.5,
-      "count": 15019
+      "count": 15020
     },
     {
       "label": "Saturday",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 80.5,
-      "count": 7883
+      "count": 7884
     },
     {
       "label": "17:00",
@@ -92,12 +92,12 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 10979
+      "count": 10992
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9190
+      "count": 9191
     },
     {
       "label": "20:00",
@@ -117,7 +117,7 @@
     {
       "label": "22:00",
       "rate": 81.9,
-      "count": 1733
+      "count": 1743
     },
     {
       "label": "01:00",
@@ -198,8 +198,8 @@
     },
     {
       "team": "Hungary",
-      "rate": 97.44,
-      "count": 39
+      "rate": 97.37,
+      "count": 38
     },
     {
       "team": "Atletico Baleares",
@@ -431,10 +431,10 @@
     },
     {
       "name": "Total Goals 0-1",
-      "won": 38,
+      "won": 39,
       "lost": 2,
-      "rate": 95.0,
-      "count": 40
+      "rate": 95.12,
+      "count": 41
     },
     {
       "name": "HT/FT X/X",
@@ -473,17 +473,10 @@
     },
     {
       "name": "Under 1.5 Goals",
-      "won": 63,
+      "won": 64,
       "lost": 9,
-      "rate": 87.5,
-      "count": 72
-    },
-    {
-      "name": "Match Result 2",
-      "won": 858,
-      "lost": 126,
-      "rate": 87.2,
-      "count": 984
+      "rate": 87.67,
+      "count": 73
     },
     {
       "name": "Away Team 1st Half Under 0.5",
@@ -493,25 +486,32 @@
       "count": 39
     },
     {
+      "name": "Match Result 2",
+      "won": 858,
+      "lost": 127,
+      "rate": 87.11,
+      "count": 985
+    },
+    {
       "name": "Total Goals 2-3",
-      "won": 235,
+      "won": 240,
       "lost": 36,
-      "rate": 86.72,
-      "count": 271
+      "rate": 86.96,
+      "count": 276
     },
     {
       "name": "1st Half Under 0.5",
-      "won": 84,
+      "won": 85,
       "lost": 13,
-      "rate": 86.6,
-      "count": 97
+      "rate": 86.73,
+      "count": 98
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1607,
+      "won": 1608,
       "lost": 257,
-      "rate": 86.21,
-      "count": 1864
+      "rate": 86.22,
+      "count": 1865
     },
     {
       "name": "1st Half Result 1",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Under 2.5 Goals",
-      "won": 897,
+      "won": 898,
       "lost": 184,
-      "rate": 82.98,
-      "count": 1081
+      "rate": 82.99,
+      "count": 1082
     },
     {
       "name": "Handicap (1:0) 1",
@@ -569,13 +569,13 @@
     },
     {
       "odd": 1.71,
-      "rate": 88.71,
-      "count": 62
+      "rate": 88.89,
+      "count": 63
     },
     {
       "odd": 1.88,
-      "rate": 87.5,
-      "count": 56
+      "rate": 87.72,
+      "count": 57
     },
     {
       "odd": 1.99,
@@ -619,8 +619,8 @@
     },
     {
       "odd": 1.77,
-      "rate": 85.19,
-      "count": 81
+      "rate": 85.06,
+      "count": 87
     },
     {
       "odd": 1.43,
@@ -654,8 +654,8 @@
     },
     {
       "odd": 1.44,
-      "rate": 83.5,
-      "count": 491
+      "rate": 83.54,
+      "count": 492
     }
   ],
   "top_matches": [
