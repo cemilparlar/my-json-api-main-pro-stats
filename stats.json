@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 78865,
-    "lost": 18570,
+    "won": 78868,
+    "lost": 18572,
     "rate": 80.9,
-    "total": 97435,
+    "total": 97440,
     "last_24h": {
-      "won": 78,
-      "lost": 24,
-      "rate": 76.5,
-      "total": 102
+      "won": 81,
+      "lost": 25,
+      "rate": 76.4,
+      "total": 106
     }
   },
   "by_day": [
@@ -19,8 +19,8 @@
     },
     {
       "label": "Tuesday",
-      "rate": 81.1,
-      "count": 8066
+      "rate": 81.0,
+      "count": 8072
     },
     {
       "label": "Wednesday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32225
+      "count": 32224
     }
   ],
   "by_hour": [
@@ -77,12 +77,12 @@
     {
       "label": "15:00",
       "rate": 81.3,
-      "count": 9801
+      "count": 9806
     },
     {
       "label": "16:00",
       "rate": 80.5,
-      "count": 7883
+      "count": 7882
     },
     {
       "label": "17:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 80.6,
-      "count": 5623
+      "count": 5624
     },
     {
       "label": "09:00",
@@ -488,9 +488,9 @@
     {
       "name": "Match Result 2",
       "won": 857,
-      "lost": 127,
-      "rate": 87.09,
-      "count": 984
+      "lost": 128,
+      "rate": 87.01,
+      "count": 985
     },
     {
       "name": "Total Goals 2-3",
