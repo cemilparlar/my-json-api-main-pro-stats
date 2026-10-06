@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 78886,
-    "lost": 18569,
+    "won": 78905,
+    "lost": 18575,
     "rate": 80.9,
-    "total": 97455,
+    "total": 97480,
     "last_24h": {
       "won": 99,
-      "lost": 27,
-      "rate": 78.6,
-      "total": 126
+      "lost": 25,
+      "rate": 79.8,
+      "total": 124
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.5,
-      "count": 6952
+      "count": 6953
     },
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 8092
+      "count": 8112
     },
     {
       "label": "Wednesday",
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 80.5,
-      "count": 15016
+      "count": 15020
     },
     {
       "label": "Saturday",
@@ -57,12 +57,12 @@
     {
       "label": "10:00",
       "rate": 80.1,
-      "count": 3266
+      "count": 3267
     },
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 6637
+      "count": 6638
     },
     {
       "label": "13:00",
@@ -81,23 +81,23 @@
     },
     {
       "label": "16:00",
-      "rate": 80.6,
-      "count": 7898
+      "rate": 80.5,
+      "count": 7901
     },
     {
       "label": "17:00",
       "rate": 80.5,
-      "count": 9047
+      "count": 9063
     },
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 10991
+      "count": 10993
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9188
+      "count": 9190
     },
     {
       "label": "20:00",
@@ -192,11 +192,6 @@
       "count": 28
     },
     {
-      "team": "Czech Republic",
-      "rate": 100.0,
-      "count": 26
-    },
-    {
       "team": "Hungary",
       "rate": 97.37,
       "count": 38
@@ -268,6 +263,11 @@
     },
     {
       "team": "Real Union Irun",
+      "rate": 95.65,
+      "count": 23
+    },
+    {
+      "team": "Weiche Flensburg",
       "rate": 95.65,
       "count": 23
     }
@@ -487,17 +487,17 @@
     },
     {
       "name": "Match Result 2",
-      "won": 858,
+      "won": 859,
       "lost": 128,
-      "rate": 87.02,
-      "count": 986
+      "rate": 87.03,
+      "count": 987
     },
     {
       "name": "Total Goals 2-3",
-      "won": 240,
-      "lost": 36,
-      "rate": 86.96,
-      "count": 276
+      "won": 243,
+      "lost": 37,
+      "rate": 86.79,
+      "count": 280
     },
     {
       "name": "1st Half Under 0.5",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Under 2.5 Goals",
-      "won": 899,
+      "won": 900,
       "lost": 184,
-      "rate": 83.01,
-      "count": 1083
+      "rate": 83.03,
+      "count": 1084
     },
     {
       "name": "Handicap (1:0) 1",
@@ -583,11 +583,6 @@
       "count": 32
     },
     {
-      "odd": 1.76,
-      "rate": 86.92,
-      "count": 107
-    },
-    {
       "odd": 1.79,
       "rate": 86.81,
       "count": 91
@@ -601,6 +596,11 @@
       "odd": 1.64,
       "rate": 86.25,
       "count": 80
+    },
+    {
+      "odd": 1.76,
+      "rate": 86.24,
+      "count": 109
     },
     {
       "odd": 1.47,
@@ -618,11 +618,6 @@
       "count": 258
     },
     {
-      "odd": 1.77,
-      "rate": 85.06,
-      "count": 87
-    },
-    {
       "odd": 1.43,
       "rate": 84.81,
       "count": 316
@@ -631,6 +626,11 @@
       "odd": 1.72,
       "rate": 84.69,
       "count": 98
+    },
+    {
+      "odd": 1.77,
+      "rate": 84.62,
+      "count": 91
     },
     {
       "odd": 1.49,
