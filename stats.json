@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 79212,
-    "lost": 18649,
+    "won": 79220,
+    "lost": 18652,
     "rate": 80.9,
-    "total": 97861,
+    "total": 97872,
     "last_24h": {
-      "won": 141,
-      "lost": 35,
-      "rate": 80.1,
-      "total": 176
+      "won": 149,
+      "lost": 36,
+      "rate": 80.5,
+      "total": 185
     }
   },
   "by_day": [
@@ -30,12 +30,12 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 21761
+      "count": 21762
     },
     {
       "label": "Thursday",
       "rate": 81.6,
-      "count": 5803
+      "count": 5812
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32239
+      "count": 32240
     }
   ],
   "by_hour": [
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 81.0,
-      "count": 11204
+      "count": 11205
     },
     {
       "label": "15:00",
@@ -147,7 +147,7 @@
     {
       "label": "00:00",
       "rate": 81.5,
-      "count": 1207
+      "count": 1217
     },
     {
       "label": "21:00",
@@ -529,10 +529,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2209,
+      "won": 2210,
       "lost": 416,
-      "rate": 84.15,
-      "count": 2625
+      "rate": 84.16,
+      "count": 2626
     },
     {
       "name": "1st Half Result 2",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2306,
+      "won": 2307,
       "lost": 475,
-      "rate": 82.92,
-      "count": 2781
+      "rate": 82.93,
+      "count": 2782
     },
     {
       "name": "Handicap (0:1) 1",
