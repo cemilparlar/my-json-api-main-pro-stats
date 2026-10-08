@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 79266,
-    "lost": 18676,
+    "won": 79281,
+    "lost": 18681,
     "rate": 80.9,
-    "total": 97942,
+    "total": 97962,
     "last_24h": {
-      "won": 101,
-      "lost": 28,
-      "rate": 78.3,
-      "total": 129
+      "won": 114,
+      "lost": 31,
+      "rate": 78.6,
+      "total": 145
     }
   },
   "by_day": [
@@ -30,22 +30,22 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 21762
+      "count": 21763
     },
     {
       "label": "Thursday",
-      "rate": 81.5,
-      "count": 5883
+      "rate": 81.4,
+      "count": 5900
     },
     {
       "label": "Friday",
       "rate": 80.5,
-      "count": 15013
+      "count": 15014
     },
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32241
+      "count": 32242
     }
   ],
   "by_hour": [
@@ -67,27 +67,27 @@
     {
       "label": "13:00",
       "rate": 81.8,
-      "count": 7450
+      "count": 7452
     },
     {
       "label": "14:00",
       "rate": 81.0,
-      "count": 11216
+      "count": 11217
     },
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 9837
+      "count": 9838
     },
     {
       "label": "16:00",
       "rate": 80.6,
-      "count": 7915
+      "count": 7918
     },
     {
       "label": "17:00",
       "rate": 80.5,
-      "count": 9096
+      "count": 9110
     },
     {
       "label": "18:00",
@@ -101,8 +101,8 @@
     },
     {
       "label": "20:00",
-      "rate": 81.0,
-      "count": 2700
+      "rate": 80.9,
+      "count": 2701
     },
     {
       "label": "11:00",
@@ -116,8 +116,8 @@
     },
     {
       "label": "22:00",
-      "rate": 81.7,
-      "count": 1783
+      "rate": 81.8,
+      "count": 1782
     },
     {
       "label": "01:00",
@@ -156,8 +156,8 @@
     },
     {
       "label": "02:00",
-      "rate": 81.4,
-      "count": 451
+      "rate": 81.6,
+      "count": 450
     },
     {
       "label": "03:00",
@@ -400,18 +400,18 @@
       "count": 17
     },
     {
-      "name": "HU19",
-      "won": 31,
-      "lost": 2,
-      "rate": 93.94,
-      "count": 33
-    },
-    {
       "name": "JWEL",
       "won": 30,
       "lost": 2,
       "rate": 93.75,
       "count": 32
+    },
+    {
+      "name": "ROK",
+      "won": 13,
+      "lost": 1,
+      "rate": 92.86,
+      "count": 14
     }
   ],
   "top_predictions": [
@@ -530,9 +530,9 @@
     {
       "name": "Match Result 1",
       "won": 2211,
-      "lost": 415,
-      "rate": 84.2,
-      "count": 2626
+      "lost": 416,
+      "rate": 84.16,
+      "count": 2627
     },
     {
       "name": "1st Half Result 2",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2307,
+      "won": 2308,
       "lost": 474,
       "rate": 82.96,
-      "count": 2781
+      "count": 2782
     },
     {
       "name": "Handicap (0:1) 1",
@@ -633,11 +633,6 @@
       "count": 182
     },
     {
-      "odd": 1.43,
-      "rate": 84.28,
-      "count": 318
-    },
-    {
       "odd": 1.4,
       "rate": 84.26,
       "count": 502
@@ -651,6 +646,11 @@
       "odd": 1.42,
       "rate": 84.19,
       "count": 310
+    },
+    {
+      "odd": 1.43,
+      "rate": 84.01,
+      "count": 319
     },
     {
       "odd": 1.44,
