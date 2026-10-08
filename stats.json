@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 79193,
-    "lost": 18644,
+    "won": 79211,
+    "lost": 18648,
     "rate": 80.9,
-    "total": 97837,
+    "total": 97859,
     "last_24h": {
-      "won": 123,
-      "lost": 31,
-      "rate": 79.9,
-      "total": 154
+      "won": 140,
+      "lost": 34,
+      "rate": 80.5,
+      "total": 174
     }
   },
   "by_day": [
     {
       "label": "Monday",
-      "rate": 80.5,
-      "count": 6954
+      "rate": 80.6,
+      "count": 6953
     },
     {
       "label": "Tuesday",
@@ -25,27 +25,27 @@
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 7809
+      "count": 7830
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 21760
+      "count": 21761
     },
     {
       "label": "Thursday",
       "rate": 81.6,
-      "count": 5807
+      "count": 5803
     },
     {
       "label": "Friday",
       "rate": 80.5,
-      "count": 15017
+      "count": 15018
     },
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32235
+      "count": 32239
     }
   ],
   "by_hour": [
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 80.1,
-      "count": 3282
+      "count": 3281
     },
     {
       "label": "12:00",
@@ -67,12 +67,12 @@
     {
       "label": "13:00",
       "rate": 81.8,
-      "count": 7438
+      "count": 7436
     },
     {
       "label": "14:00",
       "rate": 81.0,
-      "count": 11205
+      "count": 11204
     },
     {
       "label": "15:00",
@@ -101,13 +101,13 @@
     },
     {
       "label": "20:00",
-      "rate": 81.0,
-      "count": 2700
+      "rate": 80.9,
+      "count": 2701
     },
     {
       "label": "11:00",
       "rate": 80.6,
-      "count": 5651
+      "count": 5650
     },
     {
       "label": "09:00",
@@ -117,7 +117,7 @@
     {
       "label": "22:00",
       "rate": 81.7,
-      "count": 1781
+      "count": 1780
     },
     {
       "label": "01:00",
@@ -126,8 +126,8 @@
     },
     {
       "label": "06:00",
-      "rate": 81.0,
-      "count": 480
+      "rate": 81.1,
+      "count": 481
     },
     {
       "label": "07:00",
@@ -136,8 +136,8 @@
     },
     {
       "label": "23:00",
-      "rate": 80.5,
-      "count": 1816
+      "rate": 80.3,
+      "count": 1842
     },
     {
       "label": "05:00",
@@ -379,6 +379,13 @@
       "count": 19
     },
     {
+      "name": "VİETK",
+      "won": 16,
+      "lost": 1,
+      "rate": 94.12,
+      "count": 17
+    },
+    {
       "name": " ÇİNK",
       "won": 32,
       "lost": 2,
@@ -393,25 +400,18 @@
       "count": 17
     },
     {
+      "name": "HU19",
+      "won": 31,
+      "lost": 2,
+      "rate": 93.94,
+      "count": 33
+    },
+    {
       "name": "JWEL",
       "won": 30,
       "lost": 2,
       "rate": 93.75,
       "count": 32
-    },
-    {
-      "name": "ROK",
-      "won": 13,
-      "lost": 1,
-      "rate": 92.86,
-      "count": 14
-    },
-    {
-      "name": " MISLK",
-      "won": 13,
-      "lost": 1,
-      "rate": 92.86,
-      "count": 14
     }
   ],
   "top_predictions": [
@@ -508,10 +508,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1614,
+      "won": 1615,
       "lost": 257,
-      "rate": 86.26,
-      "count": 1871
+      "rate": 86.27,
+      "count": 1872
     },
     {
       "name": "Over 0.5 Goals",
