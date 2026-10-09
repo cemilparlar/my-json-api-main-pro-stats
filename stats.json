@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 79433,
-    "lost": 18707,
+    "won": 79450,
+    "lost": 18708,
     "rate": 80.9,
-    "total": 98140,
+    "total": 98158,
     "last_24h": {
-      "won": 137,
-      "lost": 24,
-      "rate": 85.1,
-      "total": 161
+      "won": 154,
+      "lost": 29,
+      "rate": 84.2,
+      "total": 183
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.5,
-      "count": 6954
+      "count": 6955
     },
     {
       "label": "Tuesday",
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 7829
+      "count": 7827
     },
     {
       "label": "Sunday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 15135
+      "count": 15158
     },
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32246
+      "count": 32242
     }
   ],
   "by_hour": [
@@ -67,12 +67,12 @@
     {
       "label": "13:00",
       "rate": 81.8,
-      "count": 7487
+      "count": 7490
     },
     {
       "label": "14:00",
       "rate": 81.0,
-      "count": 11218
+      "count": 11233
     },
     {
       "label": "15:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 80.6,
-      "count": 7915
+      "count": 7914
     },
     {
       "label": "17:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9207
+      "count": 9208
     },
     {
       "label": "20:00",
@@ -174,7 +174,7 @@
     {
       "team": "Entebbe Uppc",
       "rate": 100.0,
-      "count": 22
+      "count": 25
     },
     {
       "team": "Asyut Petroleum",
@@ -514,6 +514,13 @@
       "count": 1873
     },
     {
+      "name": "1st Half Result 1",
+      "won": 312,
+      "lost": 52,
+      "rate": 85.71,
+      "count": 364
+    },
+    {
       "name": "Over 0.5 Goals",
       "won": 42,
       "lost": 7,
@@ -521,18 +528,11 @@
       "count": 49
     },
     {
-      "name": "1st Half Result 1",
-      "won": 311,
-      "lost": 52,
-      "rate": 85.67,
-      "count": 363
-    },
-    {
       "name": "Match Result 1",
-      "won": 2220,
+      "won": 2222,
       "lost": 419,
-      "rate": 84.12,
-      "count": 2639
+      "rate": 84.13,
+      "count": 2641
     },
     {
       "name": "1st Half Result 2",
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.4,
-      "rate": 84.26,
-      "count": 502
+      "rate": 84.29,
+      "count": 503
     },
     {
       "odd": 1.89,
