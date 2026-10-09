@@ -1,51 +1,51 @@
 {
   "summary": {
-    "won": 79526,
-    "lost": 18738,
+    "won": 79564,
+    "lost": 18746,
     "rate": 80.9,
-    "total": 98264,
+    "total": 98310,
     "last_24h": {
-      "won": 222,
-      "lost": 45,
-      "rate": 83.1,
-      "total": 267
+      "won": 251,
+      "lost": 48,
+      "rate": 83.9,
+      "total": 299
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.5,
-      "count": 6957
+      "count": 6958
     },
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8256
+      "count": 8257
     },
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 7828
+      "count": 7829
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 21767
+      "count": 21768
     },
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 5951
+      "count": 5953
     },
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 15258
+      "count": 15297
     },
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32247
+      "count": 32248
     }
   ],
   "by_hour": [
@@ -72,27 +72,27 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 11263
+      "count": 11264
     },
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 9862
+      "count": 9865
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 7956
+      "count": 7995
     },
     {
       "label": "17:00",
       "rate": 80.5,
-      "count": 9115
+      "count": 9116
     },
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 11121
+      "count": 11124
     },
     {
       "label": "19:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 80.6,
-      "count": 5666
+      "count": 5665
     },
     {
       "label": "09:00",
@@ -174,7 +174,7 @@
     {
       "team": "Entebbe Uppc",
       "rate": 100.0,
-      "count": 25
+      "count": 26
     },
     {
       "team": "Asyut Petroleum",
@@ -480,10 +480,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 872,
-      "lost": 126,
-      "rate": 87.37,
-      "count": 998
+      "won": 873,
+      "lost": 127,
+      "rate": 87.3,
+      "count": 1000
     },
     {
       "name": "Away Team 1st Half Under 0.5",
@@ -508,10 +508,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1616,
-      "lost": 256,
-      "rate": 86.32,
-      "count": 1872
+      "won": 1620,
+      "lost": 257,
+      "rate": 86.31,
+      "count": 1877
     },
     {
       "name": "1st Half Result 1",
@@ -633,19 +633,9 @@
       "count": 182
     },
     {
-      "odd": 1.42,
-      "rate": 84.24,
-      "count": 311
-    },
-    {
       "odd": 1.89,
       "rate": 84.21,
       "count": 38
-    },
-    {
-      "odd": 1.4,
-      "rate": 84.16,
-      "count": 505
     },
     {
       "odd": 1.72,
@@ -656,6 +646,16 @@
       "odd": 1.43,
       "rate": 84.06,
       "count": 320
+    },
+    {
+      "odd": 1.44,
+      "rate": 84.0,
+      "count": 500
+    },
+    {
+      "odd": 1.4,
+      "rate": 83.99,
+      "count": 506
     }
   ],
   "top_matches": [
