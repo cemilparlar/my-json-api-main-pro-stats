@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 79360,
-    "lost": 18687,
+    "won": 79363,
+    "lost": 18686,
     "rate": 80.9,
-    "total": 98047,
+    "total": 98049,
     "last_24h": {
-      "won": 97,
+      "won": 100,
       "lost": 19,
-      "rate": 83.6,
-      "total": 116
+      "rate": 84.0,
+      "total": 119
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 21768
+      "count": 21767
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 15054
+      "count": 15056
     },
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32236
+      "count": 32237
     }
   ],
   "by_hour": [
@@ -56,8 +56,8 @@
     },
     {
       "label": "10:00",
-      "rate": 80.1,
-      "count": 3290
+      "rate": 80.2,
+      "count": 3292
     },
     {
       "label": "12:00",
@@ -288,6 +288,13 @@
       "count": 13
     },
     {
+      "name": "Y100VL-B",
+      "won": 11,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 11
+    },
+    {
       "name": "Y100VL-D",
       "won": 9,
       "lost": 0,
@@ -405,13 +412,6 @@
       "lost": 2,
       "rate": 93.75,
       "count": 32
-    },
-    {
-      "name": " MISLK",
-      "won": 13,
-      "lost": 1,
-      "rate": 92.86,
-      "count": 14
     }
   ],
   "top_predictions": [
@@ -593,11 +593,6 @@
       "count": 30
     },
     {
-      "odd": 1.47,
-      "rate": 86.47,
-      "count": 266
-    },
-    {
       "odd": 1.88,
       "rate": 86.44,
       "count": 59
@@ -611,6 +606,11 @@
       "odd": 1.76,
       "rate": 86.24,
       "count": 109
+    },
+    {
+      "odd": 1.47,
+      "rate": 86.14,
+      "count": 267
     },
     {
       "odd": 1.45,
