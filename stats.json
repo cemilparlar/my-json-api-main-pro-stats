@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 79456,
-    "lost": 18711,
+    "won": 79474,
+    "lost": 18718,
     "rate": 80.9,
-    "total": 98167,
+    "total": 98192,
     "last_24h": {
-      "won": 158,
-      "lost": 31,
-      "rate": 83.6,
-      "total": 189
+      "won": 173,
+      "lost": 36,
+      "rate": 82.8,
+      "total": 209
     }
   },
   "by_day": [
@@ -20,12 +20,12 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8255
+      "count": 8254
     },
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 7827
+      "count": 7828
     },
     {
       "label": "Sunday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 15164
+      "count": 15190
     },
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32242
+      "count": 32241
     }
   ],
   "by_hour": [
@@ -67,17 +67,17 @@
     {
       "label": "13:00",
       "rate": 81.8,
-      "count": 7490
+      "count": 7491
     },
     {
       "label": "14:00",
-      "rate": 81.0,
-      "count": 11240
+      "rate": 80.9,
+      "count": 11260
     },
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 9836
+      "count": 9841
     },
     {
       "label": "16:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 80.5,
-      "count": 9117
+      "count": 9116
     },
     {
       "label": "18:00",
@@ -480,10 +480,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 870,
+      "won": 871,
       "lost": 126,
-      "rate": 87.35,
-      "count": 996
+      "rate": 87.36,
+      "count": 997
     },
     {
       "name": "Away Team 1st Half Under 0.5",
@@ -516,9 +516,9 @@
     {
       "name": "1st Half Result 1",
       "won": 312,
-      "lost": 52,
-      "rate": 85.71,
-      "count": 364
+      "lost": 51,
+      "rate": 85.95,
+      "count": 363
     },
     {
       "name": "Over 0.5 Goals",
@@ -529,10 +529,17 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2222,
-      "lost": 419,
-      "rate": 84.13,
-      "count": 2641
+      "won": 2224,
+      "lost": 420,
+      "rate": 84.11,
+      "count": 2644
+    },
+    {
+      "name": "Handicap (0:1) 1",
+      "won": 136,
+      "lost": 27,
+      "rate": 83.44,
+      "count": 163
     },
     {
       "name": "1st Half Result 2",
@@ -547,13 +554,6 @@
       "lost": 475,
       "rate": 82.96,
       "count": 2788
-    },
-    {
-      "name": "Handicap (0:1) 1",
-      "won": 136,
-      "lost": 28,
-      "rate": 82.93,
-      "count": 164
     }
   ],
   "top_odds": [
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.47,
-      "rate": 86.14,
-      "count": 267
+      "rate": 86.09,
+      "count": 266
     },
     {
       "odd": 1.45,
@@ -638,24 +638,24 @@
       "count": 503
     },
     {
+      "odd": 1.42,
+      "rate": 84.24,
+      "count": 311
+    },
+    {
       "odd": 1.89,
       "rate": 84.21,
       "count": 38
     },
     {
-      "odd": 1.42,
-      "rate": 84.19,
-      "count": 310
+      "odd": 1.72,
+      "rate": 84.16,
+      "count": 101
     },
     {
       "odd": 1.43,
       "rate": 84.06,
       "count": 320
-    },
-    {
-      "odd": 1.72,
-      "rate": 84.0,
-      "count": 100
     }
   ],
   "top_matches": [
