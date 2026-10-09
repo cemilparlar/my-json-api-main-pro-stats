@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 79401,
-    "lost": 18697,
+    "won": 79415,
+    "lost": 18702,
     "rate": 80.9,
-    "total": 98098,
+    "total": 98117,
     "last_24h": {
-      "won": 116,
-      "lost": 17,
-      "rate": 87.2,
-      "total": 133
+      "won": 132,
+      "lost": 22,
+      "rate": 85.7,
+      "total": 154
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8256
+      "count": 8255
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 21771
+      "count": 21770
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 15099
+      "count": 15118
     },
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32239
+      "count": 32241
     }
   ],
   "by_hour": [
@@ -61,23 +61,23 @@
     },
     {
       "label": "12:00",
-      "rate": 81.1,
-      "count": 6685
+      "rate": 81.0,
+      "count": 6686
     },
     {
       "label": "13:00",
       "rate": 81.9,
-      "count": 7443
+      "count": 7465
     },
     {
       "label": "14:00",
       "rate": 81.0,
-      "count": 11217
+      "count": 11218
     },
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 9838
+      "count": 9833
     },
     {
       "label": "16:00",
@@ -97,12 +97,12 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9208
+      "count": 9207
     },
     {
       "label": "20:00",
       "rate": 81.0,
-      "count": 2706
+      "count": 2707
     },
     {
       "label": "11:00",
@@ -481,9 +481,9 @@
     {
       "name": "Match Result 2",
       "won": 869,
-      "lost": 127,
-      "rate": 87.25,
-      "count": 996
+      "lost": 126,
+      "rate": 87.34,
+      "count": 995
     },
     {
       "name": "Away Team 1st Half Under 0.5",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2311,
+      "won": 2312,
       "lost": 475,
-      "rate": 82.95,
-      "count": 2786
+      "rate": 82.96,
+      "count": 2787
     },
     {
       "name": "Handicap (0:1) 1",
