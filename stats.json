@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 80065,
-    "lost": 18833,
+    "won": 80087,
+    "lost": 18840,
     "rate": 81.0,
-    "total": 98898,
+    "total": 98927,
     "last_24h": {
-      "won": 478,
-      "lost": 105,
-      "rate": 82.0,
-      "total": 583
+      "won": 494,
+      "lost": 110,
+      "rate": 81.8,
+      "total": 604
     }
   },
   "by_day": [
@@ -25,17 +25,17 @@
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 7827
+      "count": 7822
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 21767
+      "count": 21766
     },
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 5956
+      "count": 5958
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32479
+      "count": 32512
     }
   ],
   "by_hour": [
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 6690
+      "count": 6688
     },
     {
       "label": "13:00",
@@ -72,22 +72,22 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 11262
+      "count": 11265
     },
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 9871
+      "count": 9868
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 8032
+      "count": 8030
     },
     {
       "label": "17:00",
       "rate": 80.6,
-      "count": 9177
+      "count": 9179
     },
     {
       "label": "18:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 80.6,
-      "count": 5692
+      "count": 5723
     },
     {
       "label": "09:00",
@@ -487,10 +487,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 878,
+      "won": 875,
       "lost": 130,
-      "rate": 87.1,
-      "count": 1008
+      "rate": 87.06,
+      "count": 1005
     },
     {
       "name": "1st Half Under 0.5",
@@ -588,14 +588,14 @@
       "count": 31
     },
     {
-      "odd": 1.79,
-      "rate": 86.67,
-      "count": 90
-    },
-    {
       "odd": 1.64,
       "rate": 86.42,
       "count": 81
+    },
+    {
+      "odd": 1.79,
+      "rate": 86.36,
+      "count": 88
     },
     {
       "odd": 1.76,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.49,
-      "rate": 84.62,
-      "count": 182
+      "rate": 84.7,
+      "count": 183
     },
     {
       "odd": 1.4,
@@ -778,14 +778,6 @@
       "odds": "8.44",
       "prediction": "Match Result 2",
       "date": "29.08.2026 14:00"
-    },
-    {
-      "match": "Bss Monor vs Honved Ii",
-      "ht": "0 - 0",
-      "ft": "0 - 1",
-      "odds": "8.06",
-      "prediction": "Match Result 2",
-      "date": "17.05.2026 12:00"
     },
     {
       "match": "Clermont Foot vs Stade de Reims",
@@ -1058,6 +1050,14 @@
       "odds": "4.96",
       "prediction": "Handicap (0:2) X",
       "date": "06.05.2026 16:45"
+    },
+    {
+      "match": "Real Betis vs Real Sociedad",
+      "ht": "0 - 0",
+      "ft": "1 - 0",
+      "odds": "4.91",
+      "prediction": "HT/FT X/1",
+      "date": "21.08.2026 19:00"
     }
   ]
 }
