@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 80151,
-    "lost": 18857,
+    "won": 80162,
+    "lost": 18860,
     "rate": 81.0,
-    "total": 99008,
+    "total": 99022,
     "last_24h": {
-      "won": 506,
-      "lost": 115,
+      "won": 503,
+      "lost": 114,
       "rate": 81.5,
-      "total": 621
+      "total": 617
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 21760
+      "count": 21759
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32600
+      "count": 32615
     }
   ],
   "by_hour": [
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 6697
+      "count": 6711
     },
     {
       "label": "13:00",
       "rate": 81.8,
-      "count": 7486
+      "count": 7487
     },
     {
       "label": "14:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 80.5,
-      "count": 5789
+      "count": 5788
     },
     {
       "label": "09:00",
@@ -508,10 +508,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1638,
+      "won": 1639,
       "lost": 264,
-      "rate": 86.12,
-      "count": 1902
+      "rate": 86.13,
+      "count": 1903
     },
     {
       "name": "1st Half Result 1",
@@ -529,10 +529,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2243,
+      "won": 2244,
       "lost": 426,
       "rate": 84.04,
-      "count": 2669
+      "count": 2670
     },
     {
       "name": "Handicap (0:1) 1",
@@ -638,24 +638,24 @@
       "count": 98
     },
     {
-      "odd": 1.4,
-      "rate": 84.16,
-      "count": 505
-    },
-    {
       "odd": 1.43,
       "rate": 84.06,
       "count": 320
     },
     {
-      "odd": 1.44,
-      "rate": 84.03,
-      "count": 501
+      "odd": 1.4,
+      "rate": 83.99,
+      "count": 506
     },
     {
       "odd": 1.42,
       "rate": 83.87,
       "count": 310
+    },
+    {
+      "odd": 1.44,
+      "rate": 83.86,
+      "count": 502
     }
   ],
   "top_matches": [
