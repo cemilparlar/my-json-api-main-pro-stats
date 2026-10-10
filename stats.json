@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 80211,
-    "lost": 18868,
+    "won": 80234,
+    "lost": 18878,
     "rate": 81.0,
-    "total": 99079,
+    "total": 99112,
     "last_24h": {
-      "won": 370,
-      "lost": 86,
-      "rate": 81.1,
-      "total": 456
+      "won": 380,
+      "lost": 85,
+      "rate": 81.7,
+      "total": 465
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 21759
+      "count": 21761
     },
     {
       "label": "Thursday",
@@ -45,14 +45,14 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 32679
+      "count": 32710
     }
   ],
   "by_hour": [
     {
       "label": "08:00",
-      "rate": 82.3,
-      "count": 943
+      "rate": 82.2,
+      "count": 945
     },
     {
       "label": "10:00",
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 6754
+      "count": 6776
     },
     {
       "label": "13:00",
       "rate": 81.8,
-      "count": 7482
+      "count": 7485
     },
     {
       "label": "14:00",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 9870
+      "count": 9871
     },
     {
       "label": "16:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 80.5,
-      "count": 5799
+      "count": 5803
     },
     {
       "label": "09:00",
@@ -142,7 +142,7 @@
     {
       "label": "05:00",
       "rate": 81.6,
-      "count": 2082
+      "count": 2083
     },
     {
       "label": "00:00",
@@ -194,7 +194,7 @@
     {
       "team": "Sv Meppen",
       "rate": 100.0,
-      "count": 27
+      "count": 34
     },
     {
       "team": "Hungary",
@@ -494,10 +494,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 877,
+      "won": 878,
       "lost": 133,
-      "rate": 86.83,
-      "count": 1010
+      "rate": 86.84,
+      "count": 1011
     },
     {
       "name": "Total Goals 2-3",
@@ -508,10 +508,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1636,
+      "won": 1638,
       "lost": 263,
-      "rate": 86.15,
-      "count": 1899
+      "rate": 86.17,
+      "count": 1901
     },
     {
       "name": "1st Half Result 1",
@@ -530,9 +530,9 @@
     {
       "name": "Match Result 1",
       "won": 2247,
-      "lost": 428,
-      "rate": 84.0,
-      "count": 2675
+      "lost": 430,
+      "rate": 83.94,
+      "count": 2677
     },
     {
       "name": "Handicap (0:1) 1",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2330,
-      "lost": 473,
-      "rate": 83.13,
-      "count": 2803
+      "won": 2333,
+      "lost": 475,
+      "rate": 83.08,
+      "count": 2808
     }
   ],
   "top_odds": [
@@ -618,14 +618,14 @@
       "count": 268
     },
     {
+      "odd": 1.46,
+      "rate": 85.99,
+      "count": 257
+    },
+    {
       "odd": 1.88,
       "rate": 85.96,
       "count": 57
-    },
-    {
-      "odd": 1.46,
-      "rate": 85.94,
-      "count": 256
     },
     {
       "odd": 1.77,
@@ -634,8 +634,8 @@
     },
     {
       "odd": 1.49,
-      "rate": 84.7,
-      "count": 183
+      "rate": 84.78,
+      "count": 184
     },
     {
       "odd": 1.72,
@@ -648,14 +648,14 @@
       "count": 322
     },
     {
+      "odd": 1.44,
+      "rate": 83.93,
+      "count": 504
+    },
+    {
       "odd": 1.6,
       "rate": 83.9,
       "count": 118
-    },
-    {
-      "odd": 1.42,
-      "rate": 83.87,
-      "count": 310
     }
   ],
   "top_matches": [
