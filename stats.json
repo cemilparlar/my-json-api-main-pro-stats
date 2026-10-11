@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 81189,
-    "lost": 19091,
+    "won": 81226,
+    "lost": 19103,
     "rate": 81.0,
-    "total": 100280,
+    "total": 100329,
     "last_24h": {
-      "won": 518,
-      "lost": 96,
-      "rate": 84.4,
-      "total": 614
+      "won": 550,
+      "lost": 100,
+      "rate": 84.6,
+      "total": 650
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 22359
+      "count": 22403
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 33265
+      "count": 33270
     }
   ],
   "by_hour": [
@@ -57,27 +57,27 @@
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 3459
+      "count": 3458
     },
     {
       "label": "12:00",
       "rate": 81.3,
-      "count": 6931
+      "count": 6933
     },
     {
       "label": "13:00",
       "rate": 81.7,
-      "count": 7834
+      "count": 7835
     },
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 11387
+      "count": 11388
     },
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 9918
+      "count": 9962
     },
     {
       "label": "16:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9277
+      "count": 9278
     },
     {
       "label": "20:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 80.7,
-      "count": 5891
+      "count": 5892
     },
     {
       "label": "09:00",
@@ -529,10 +529,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2272,
+      "won": 2273,
       "lost": 433,
-      "rate": 83.99,
-      "count": 2705
+      "rate": 84.0,
+      "count": 2706
     },
     {
       "name": "1st Half Result 2",
