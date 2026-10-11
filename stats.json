@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 81099,
-    "lost": 19079,
+    "won": 81119,
+    "lost": 19085,
     "rate": 81.0,
-    "total": 100178,
+    "total": 100204,
     "last_24h": {
-      "won": 447,
-      "lost": 87,
+      "won": 457,
+      "lost": 89,
       "rate": 83.7,
-      "total": 534
+      "total": 546
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 22251
+      "count": 22281
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 33272
+      "count": 33268
     }
   ],
   "by_hour": [
@@ -56,8 +56,8 @@
     },
     {
       "label": "10:00",
-      "rate": 80.1,
-      "count": 3463
+      "rate": 80.2,
+      "count": 3461
     },
     {
       "label": "12:00",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 11322
+      "count": 11350
     },
     {
       "label": "15:00",
@@ -529,10 +529,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2270,
+      "won": 2272,
       "lost": 432,
-      "rate": 84.01,
-      "count": 2702
+      "rate": 84.02,
+      "count": 2704
     },
     {
       "name": "1st Half Result 2",
@@ -603,11 +603,6 @@
       "count": 58
     },
     {
-      "odd": 1.46,
-      "rate": 86.05,
-      "count": 258
-    },
-    {
       "odd": 1.47,
       "rate": 85.61,
       "count": 271
@@ -616,6 +611,11 @@
       "odd": 1.79,
       "rate": 85.56,
       "count": 90
+    },
+    {
+      "odd": 1.46,
+      "rate": 85.5,
+      "count": 262
     },
     {
       "odd": 1.64,
@@ -639,8 +639,8 @@
     },
     {
       "odd": 1.44,
-      "rate": 84.34,
-      "count": 498
+      "rate": 84.37,
+      "count": 499
     },
     {
       "odd": 1.49,
