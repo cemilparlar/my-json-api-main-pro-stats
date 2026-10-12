@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 81564,
-    "lost": 19164,
+    "won": 81573,
+    "lost": 19165,
     "rate": 81.0,
-    "total": 100728,
+    "total": 100738,
     "last_24h": {
-      "won": 843,
-      "lost": 152,
-      "rate": 84.7,
-      "total": 995
+      "won": 852,
+      "lost": 153,
+      "rate": 84.8,
+      "total": 1005
     }
   },
   "by_day": [
@@ -29,8 +29,8 @@
     },
     {
       "label": "Sunday",
-      "rate": 80.8,
-      "count": 22813
+      "rate": 80.9,
+      "count": 22823
     },
     {
       "label": "Thursday",
@@ -116,8 +116,8 @@
     },
     {
       "label": "22:00",
-      "rate": 81.9,
-      "count": 1804
+      "rate": 82.0,
+      "count": 1812
     },
     {
       "label": "01:00",
@@ -152,7 +152,7 @@
     {
       "label": "21:00",
       "rate": 81.4,
-      "count": 1636
+      "count": 1638
     },
     {
       "label": "02:00",
@@ -400,18 +400,18 @@
       "count": 5
     },
     {
+      "name": "KOLPB",
+      "won": 6,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 6
+    },
+    {
       "name": "BOSK",
       "won": 18,
       "lost": 1,
       "rate": 94.74,
       "count": 19
-    },
-    {
-      "name": "VİETK",
-      "won": 16,
-      "lost": 1,
-      "rate": 94.12,
-      "count": 17
     }
   ],
   "top_predictions": [
