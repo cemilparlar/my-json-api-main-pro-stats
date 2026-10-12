@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 81830,
-    "lost": 19212,
+    "won": 81840,
+    "lost": 19213,
     "rate": 81.0,
-    "total": 101042,
+    "total": 101053,
     "last_24h": {
-      "won": 206,
+      "won": 214,
       "lost": 35,
-      "rate": 85.5,
-      "total": 241
+      "rate": 85.9,
+      "total": 249
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7208
+      "count": 7218
     },
     {
       "label": "Tuesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 22877
+      "count": 22878
     },
     {
       "label": "Thursday",
@@ -97,12 +97,12 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9320
+      "count": 9326
     },
     {
       "label": "20:00",
-      "rate": 81.3,
-      "count": 2780
+      "rate": 81.4,
+      "count": 2784
     },
     {
       "label": "11:00",
@@ -116,8 +116,8 @@
     },
     {
       "label": "22:00",
-      "rate": 81.8,
-      "count": 1826
+      "rate": 81.7,
+      "count": 1827
     },
     {
       "label": "01:00",
@@ -400,18 +400,18 @@
       "count": 5
     },
     {
-      "name": "KOLPB",
-      "won": 6,
+      "name": "KAPL",
+      "won": 9,
       "lost": 0,
       "rate": 100.0,
-      "count": 6
+      "count": 9
     },
     {
-      "name": "KAPL",
-      "won": 7,
-      "lost": 0,
-      "rate": 100.0,
-      "count": 7
+      "name": "BOSK",
+      "won": 18,
+      "lost": 1,
+      "rate": 94.74,
+      "count": 19
     }
   ],
   "top_predictions": [
