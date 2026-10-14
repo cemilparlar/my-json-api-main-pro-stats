@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 82294,
-    "lost": 19340,
+    "won": 82310,
+    "lost": 19341,
     "rate": 81.0,
-    "total": 101634,
+    "total": 101651,
     "last_24h": {
-      "won": 132,
-      "lost": 21,
-      "rate": 86.3,
-      "total": 153
+      "won": 143,
+      "lost": 24,
+      "rate": 85.6,
+      "total": 167
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7263
+      "count": 7262
     },
     {
       "label": "Tuesday",
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 7970
+      "count": 7988
     },
     {
       "label": "Sunday",
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 6975
+      "count": 6977
     },
     {
       "label": "13:00",
@@ -77,7 +77,7 @@
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 10108
+      "count": 10109
     },
     {
       "label": "16:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 9339
+      "count": 9354
     },
     {
       "label": "18:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9377
+      "count": 9376
     },
     {
       "label": "20:00",
@@ -495,16 +495,16 @@
     {
       "name": "Match Result 2",
       "won": 893,
-      "lost": 137,
-      "rate": 86.7,
-      "count": 1030
+      "lost": 138,
+      "rate": 86.61,
+      "count": 1031
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1675,
+      "won": 1676,
       "lost": 268,
       "rate": 86.21,
-      "count": 1943
+      "count": 1944
     },
     {
       "name": "Over 0.5 Goals",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2314,
+      "won": 2315,
       "lost": 446,
-      "rate": 83.84,
-      "count": 2760
+      "rate": 83.85,
+      "count": 2761
     },
     {
       "name": "Handicap (0:1) 1",
@@ -654,8 +654,8 @@
     },
     {
       "odd": 1.59,
-      "rate": 83.72,
-      "count": 129
+      "rate": 83.85,
+      "count": 130
     }
   ],
   "top_matches": [
