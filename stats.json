@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 82168,
-    "lost": 19309,
+    "won": 82169,
+    "lost": 19308,
     "rate": 81.0,
     "total": 101477,
     "last_24h": {
-      "won": 275,
+      "won": 277,
       "lost": 57,
-      "rate": 82.8,
-      "total": 332
+      "rate": 82.9,
+      "total": 334
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8594
+      "count": 8595
     },
     {
       "label": "Wednesday",
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 5960
+      "count": 5959
     },
     {
       "label": "Friday",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9380
+      "count": 9379
     },
     {
       "label": "20:00",
@@ -137,7 +137,7 @@
     {
       "label": "23:00",
       "rate": 80.7,
-      "count": 1897
+      "count": 1898
     },
     {
       "label": "05:00",
@@ -407,7 +407,7 @@
       "count": 9
     },
     {
-      "name": "BOSK",
+      "name": "ARJPC",
       "won": 18,
       "lost": 1,
       "rate": 94.74,
@@ -643,14 +643,14 @@
       "count": 189
     },
     {
+      "odd": 1.42,
+      "rate": 84.21,
+      "count": 323
+    },
+    {
       "odd": 1.44,
       "rate": 84.13,
       "count": 504
-    },
-    {
-      "odd": 1.42,
-      "rate": 83.95,
-      "count": 324
     },
     {
       "odd": 1.72,
