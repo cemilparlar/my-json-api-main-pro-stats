@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 82373,
-    "lost": 19346,
+    "won": 82398,
+    "lost": 19349,
     "rate": 81.0,
-    "total": 101719,
+    "total": 101747,
     "last_24h": {
-      "won": 200,
-      "lost": 35,
-      "rate": 85.1,
-      "total": 235
+      "won": 225,
+      "lost": 38,
+      "rate": 85.6,
+      "total": 263
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7261
+      "count": 7260
     },
     {
       "label": "Tuesday",
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 82.0,
-      "count": 8068
+      "count": 8096
     },
     {
       "label": "Sunday",
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 5957
+      "count": 5956
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 33274
+      "count": 33276
     }
   ],
   "by_hour": [
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 6981
+      "count": 6982
     },
     {
       "label": "13:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9380
+      "count": 9407
     },
     {
       "label": "20:00",
@@ -424,10 +424,10 @@
     },
     {
       "name": "HT/FT 2/2",
-      "won": 28,
+      "won": 29,
       "lost": 1,
-      "rate": 96.55,
-      "count": 29
+      "rate": 96.67,
+      "count": 30
     },
     {
       "name": "HT/FT X/X",
@@ -466,10 +466,10 @@
     },
     {
       "name": "Handicap (1:0) 2",
-      "won": 67,
+      "won": 68,
       "lost": 8,
-      "rate": 89.33,
-      "count": 75
+      "rate": 89.47,
+      "count": 76
     },
     {
       "name": "Under 1.5 Goals",
@@ -494,10 +494,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 893,
+      "won": 894,
       "lost": 139,
-      "rate": 86.53,
-      "count": 1032
+      "rate": 86.54,
+      "count": 1033
     },
     {
       "name": "Handicap (0:1) 2",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2318,
+      "won": 2319,
       "lost": 445,
-      "rate": 83.89,
-      "count": 2763
+      "rate": 83.9,
+      "count": 2764
     },
     {
       "name": "Handicap (0:1) 1",
@@ -550,10 +550,10 @@
     },
     {
       "name": "1st Half Result 2",
-      "won": 151,
+      "won": 152,
       "lost": 30,
-      "rate": 83.43,
-      "count": 181
+      "rate": 83.52,
+      "count": 182
     }
   ],
   "top_odds": [
@@ -578,6 +578,11 @@
       "count": 62
     },
     {
+      "odd": 1.64,
+      "rate": 87.95,
+      "count": 83
+    },
+    {
       "odd": 1.9,
       "rate": 87.5,
       "count": 32
@@ -586,11 +591,6 @@
       "odd": 1.66,
       "rate": 87.01,
       "count": 77
-    },
-    {
-      "odd": 1.64,
-      "rate": 86.9,
-      "count": 84
     },
     {
       "odd": 1.97,
@@ -644,8 +644,8 @@
     },
     {
       "odd": 1.72,
-      "rate": 84.54,
-      "count": 97
+      "rate": 84.69,
+      "count": 98
     },
     {
       "odd": 1.42,
@@ -972,6 +972,14 @@
       "date": "28.08.2026 17:30"
     },
     {
+      "match": "Lincoln City vs West Ham United",
+      "ht": "0 - 1",
+      "ft": "0 - 6",
+      "odds": "5.33",
+      "prediction": "Handicap (2:0) 2",
+      "date": "14.10.2026 19:00"
+    },
+    {
       "match": "Brentford vs Arsenal",
       "ht": "0 - 0",
       "ft": "1 - 1",
@@ -1050,14 +1058,6 @@
       "odds": "5.11",
       "prediction": "Match Result X",
       "date": "16.05.2026 11:15"
-    },
-    {
-      "match": "Konyaspor vs Istanbul Basaksehir",
-      "ht": "0 - 0",
-      "ft": "0 - 0",
-      "odds": "5.07",
-      "prediction": "HT/FT X/X",
-      "date": "11.10.2026 10:30"
     }
   ]
 }
