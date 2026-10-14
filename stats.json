@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 82248,
-    "lost": 19330,
+    "won": 82252,
+    "lost": 19333,
     "rate": 81.0,
-    "total": 101578,
+    "total": 101585,
     "last_24h": {
-      "won": 102,
-      "lost": 13,
-      "rate": 88.7,
-      "total": 115
+      "won": 83,
+      "lost": 10,
+      "rate": 89.2,
+      "total": 93
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7261
+      "count": 7263
     },
     {
       "label": "Tuesday",
@@ -25,17 +25,17 @@
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 7914
+      "count": 7919
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 22885
+      "count": 22886
     },
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 5958
+      "count": 5959
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 33279
+      "count": 33277
     }
   ],
   "by_hour": [
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 6977
+      "count": 6978
     },
     {
       "label": "13:00",
       "rate": 81.8,
-      "count": 7898
+      "count": 7902
     },
     {
       "label": "14:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 8213
+      "count": 8214
     },
     {
       "label": "17:00",
@@ -152,7 +152,7 @@
     {
       "label": "21:00",
       "rate": 81.5,
-      "count": 1638
+      "count": 1639
     },
     {
       "label": "02:00",
@@ -494,17 +494,17 @@
     },
     {
       "name": "Match Result 2",
-      "won": 897,
+      "won": 893,
       "lost": 137,
-      "rate": 86.75,
-      "count": 1034
+      "rate": 86.7,
+      "count": 1030
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1674,
+      "won": 1675,
       "lost": 268,
-      "rate": 86.2,
-      "count": 1942
+      "rate": 86.21,
+      "count": 1943
     },
     {
       "name": "Over 0.5 Goals",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2313,
-      "lost": 445,
-      "rate": 83.87,
-      "count": 2758
+      "won": 2314,
+      "lost": 446,
+      "rate": 83.84,
+      "count": 2760
     },
     {
       "name": "Handicap (0:1) 1",
