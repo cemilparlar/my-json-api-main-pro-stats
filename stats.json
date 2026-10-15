@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 82499,
-    "lost": 19364,
+    "won": 82518,
+    "lost": 19368,
     "rate": 81.0,
-    "total": 101863,
+    "total": 101886,
     "last_24h": {
-      "won": 81,
+      "won": 95,
       "lost": 18,
-      "rate": 81.8,
-      "total": 99
+      "rate": 84.1,
+      "total": 113
     }
   },
   "by_day": [
@@ -20,12 +20,12 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8600
+      "count": 8599
     },
     {
       "label": "Wednesday",
       "rate": 82.0,
-      "count": 8135
+      "count": 8137
     },
     {
       "label": "Sunday",
@@ -35,12 +35,12 @@
     {
       "label": "Thursday",
       "rate": 81.5,
-      "count": 6038
+      "count": 6059
     },
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 15679
+      "count": 15680
     },
     {
       "label": "Saturday",
@@ -66,8 +66,8 @@
     },
     {
       "label": "13:00",
-      "rate": 81.8,
-      "count": 7908
+      "rate": 81.7,
+      "count": 7910
     },
     {
       "label": "14:00",
@@ -77,12 +77,12 @@
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 10124
+      "count": 10123
     },
     {
       "label": "16:00",
       "rate": 80.9,
-      "count": 8252
+      "count": 8273
     },
     {
       "label": "17:00",
@@ -92,7 +92,7 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 11652
+      "count": 11653
     },
     {
       "label": "19:00",
@@ -242,17 +242,17 @@
       "count": 25
     },
     {
-      "team": "Kruger United",
-      "rate": 95.65,
-      "count": 23
-    },
-    {
       "team": "Weiche Flensburg",
       "rate": 95.65,
       "count": 23
     },
     {
       "team": "Athletic Bilbao Women",
+      "rate": 95.45,
+      "count": 22
+    },
+    {
+      "team": "Kruger United",
       "rate": 95.45,
       "count": 22
     },
@@ -386,6 +386,13 @@
       "count": 6
     },
     {
+      "name": "EST3",
+      "won": 5,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 5
+    },
+    {
       "name": "ARNV",
       "won": 8,
       "lost": 0,
@@ -405,13 +412,6 @@
       "lost": 0,
       "rate": 100.0,
       "count": 9
-    },
-    {
-      "name": "MOZ",
-      "won": 6,
-      "lost": 0,
-      "rate": 100.0,
-      "count": 6
     }
   ],
   "top_predictions": [
@@ -494,17 +494,17 @@
     },
     {
       "name": "Match Result 2",
-      "won": 897,
-      "lost": 140,
-      "rate": 86.5,
-      "count": 1037
+      "won": 893,
+      "lost": 139,
+      "rate": 86.53,
+      "count": 1032
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1678,
+      "won": 1680,
       "lost": 271,
-      "rate": 86.1,
-      "count": 1949
+      "rate": 86.11,
+      "count": 1951
     },
     {
       "name": "1st Half Result 1",
@@ -529,17 +529,17 @@
     },
     {
       "name": "Total Goals 2-3",
-      "won": 251,
+      "won": 252,
       "lost": 44,
-      "rate": 85.08,
-      "count": 295
+      "rate": 85.14,
+      "count": 296
     },
     {
       "name": "Match Result 1",
       "won": 2328,
-      "lost": 445,
-      "rate": 83.95,
-      "count": 2773
+      "lost": 446,
+      "rate": 83.92,
+      "count": 2774
     },
     {
       "name": "Handicap (0:1) 1",
@@ -593,14 +593,14 @@
       "count": 78
     },
     {
+      "odd": 1.88,
+      "rate": 86.67,
+      "count": 60
+    },
+    {
       "odd": 1.97,
       "rate": 86.67,
       "count": 30
-    },
-    {
-      "odd": 1.88,
-      "rate": 86.44,
-      "count": 59
     },
     {
       "odd": 1.76,
@@ -654,8 +654,8 @@
     },
     {
       "odd": 1.44,
-      "rate": 84.13,
-      "count": 504
+      "rate": 84.22,
+      "count": 507
     }
   ],
   "top_matches": [
