@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 82474,
-    "lost": 19358,
+    "won": 82476,
+    "lost": 19357,
     "rate": 81.0,
-    "total": 101832,
+    "total": 101833,
     "last_24h": {
-      "won": 103,
-      "lost": 17,
-      "rate": 85.8,
-      "total": 120
+      "won": 100,
+      "lost": 16,
+      "rate": 86.2,
+      "total": 116
     }
   },
   "by_day": [
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 81.5,
-      "count": 6005
+      "count": 6008
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 33274
+      "count": 33272
     }
   ],
   "by_hour": [
@@ -67,7 +67,7 @@
     {
       "label": "13:00",
       "rate": 81.8,
-      "count": 7906
+      "count": 7907
     },
     {
       "label": "14:00",
@@ -345,10 +345,10 @@
     },
     {
       "name": " BALTIK",
-      "won": 6,
+      "won": 5,
       "lost": 0,
       "rate": 100.0,
-      "count": 6
+      "count": 5
     },
     {
       "name": " CONCACAF U20",
