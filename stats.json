@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 82418,
-    "lost": 19353,
+    "won": 82422,
+    "lost": 19354,
     "rate": 81.0,
-    "total": 101771,
+    "total": 101776,
     "last_24h": {
-      "won": 241,
-      "lost": 37,
-      "rate": 86.7,
-      "total": 278
+      "won": 252,
+      "lost": 39,
+      "rate": 86.6,
+      "total": 291
     }
   },
   "by_day": [
@@ -25,17 +25,17 @@
     {
       "label": "Wednesday",
       "rate": 82.0,
-      "count": 8118
+      "count": 8125
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 22886
+      "count": 22885
     },
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 5957
+      "count": 5956
     },
     {
       "label": "Friday",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 11515
+      "count": 11514
     },
     {
       "label": "15:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 9411
+      "count": 9412
     },
     {
       "label": "18:00",
@@ -97,12 +97,12 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9411
+      "count": 9416
     },
     {
       "label": "20:00",
-      "rate": 81.3,
-      "count": 2794
+      "rate": 81.4,
+      "count": 2793
     },
     {
       "label": "11:00",
@@ -116,8 +116,8 @@
     },
     {
       "label": "22:00",
-      "rate": 81.5,
-      "count": 1844
+      "rate": 81.6,
+      "count": 1841
     },
     {
       "label": "01:00",
@@ -142,17 +142,17 @@
     {
       "label": "05:00",
       "rate": 81.5,
-      "count": 2079
+      "count": 2080
     },
     {
       "label": "00:00",
       "rate": 81.8,
-      "count": 1245
+      "count": 1246
     },
     {
       "label": "21:00",
       "rate": 81.5,
-      "count": 1639
+      "count": 1641
     },
     {
       "label": "02:00",
@@ -330,6 +330,13 @@
       "count": 7
     },
     {
+      "name": " EKVK",
+      "won": 11,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 11
+    },
+    {
       "name": " RUSKS",
       "won": 5,
       "lost": 0,
@@ -405,13 +412,6 @@
       "lost": 0,
       "rate": 100.0,
       "count": 6
-    },
-    {
-      "name": "JLK",
-      "won": 20,
-      "lost": 1,
-      "rate": 95.24,
-      "count": 21
     }
   ],
   "top_predictions": [
@@ -495,9 +495,9 @@
     {
       "name": "Match Result 2",
       "won": 894,
-      "lost": 139,
-      "rate": 86.54,
-      "count": 1033
+      "lost": 140,
+      "rate": 86.46,
+      "count": 1034
     },
     {
       "name": "Handicap (0:1) 2",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2320,
+      "won": 2322,
       "lost": 445,
-      "rate": 83.91,
-      "count": 2765
+      "rate": 83.92,
+      "count": 2767
     },
     {
       "name": "Handicap (0:1) 1",
@@ -624,8 +624,8 @@
     },
     {
       "odd": 1.46,
-      "rate": 85.24,
-      "count": 271
+      "rate": 85.29,
+      "count": 272
     },
     {
       "odd": 1.79,
@@ -649,13 +649,13 @@
     },
     {
       "odd": 1.42,
-      "rate": 84.21,
-      "count": 323
+      "rate": 84.47,
+      "count": 322
     },
     {
       "odd": 1.44,
-      "rate": 84.13,
-      "count": 504
+      "rate": 84.1,
+      "count": 503
     }
   ],
   "top_matches": [
