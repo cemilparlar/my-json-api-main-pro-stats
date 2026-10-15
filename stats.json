@@ -1,14 +1,14 @@
 {
   "summary": {
     "won": 82499,
-    "lost": 19365,
+    "lost": 19364,
     "rate": 81.0,
-    "total": 101864,
+    "total": 101863,
     "last_24h": {
-      "won": 81,
-      "lost": 17,
-      "rate": 82.7,
-      "total": 98
+      "won": 83,
+      "lost": 18,
+      "rate": 82.2,
+      "total": 101
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8601
+      "count": 8600
     },
     {
       "label": "Wednesday",
@@ -35,7 +35,7 @@
     {
       "label": "Thursday",
       "rate": 81.5,
-      "count": 6037
+      "count": 6038
     },
     {
       "label": "Friday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 33272
+      "count": 33271
     }
   ],
   "by_hour": [
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 11525
+      "count": 11526
     },
     {
       "label": "15:00",
@@ -82,7 +82,7 @@
     {
       "label": "16:00",
       "rate": 80.9,
-      "count": 8254
+      "count": 8252
     },
     {
       "label": "17:00",
@@ -507,6 +507,13 @@
       "count": 1949
     },
     {
+      "name": "1st Half Result 1",
+      "won": 319,
+      "lost": 53,
+      "rate": 85.75,
+      "count": 372
+    },
+    {
       "name": "Over 0.5 Goals",
       "won": 42,
       "lost": 7,
@@ -521,13 +528,6 @@
       "count": 7
     },
     {
-      "name": "1st Half Result 1",
-      "won": 319,
-      "lost": 54,
-      "rate": 85.52,
-      "count": 373
-    },
-    {
       "name": "Total Goals 2-3",
       "won": 251,
       "lost": 44,
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2326,
+      "won": 2328,
       "lost": 445,
-      "rate": 83.94,
-      "count": 2771
+      "rate": 83.95,
+      "count": 2773
     },
     {
       "name": "Handicap (0:1) 1",
