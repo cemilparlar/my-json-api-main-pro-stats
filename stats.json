@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 82680,
-    "lost": 19412,
+    "won": 82686,
+    "lost": 19411,
     "rate": 81.0,
-    "total": 102092,
+    "total": 102097,
     "last_24h": {
-      "won": 108,
-      "lost": 20,
-      "rate": 84.4,
-      "total": 128
+      "won": 42,
+      "lost": 14,
+      "rate": 75.0,
+      "total": 56
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 22885
+      "count": 22884
     },
     {
       "label": "Thursday",
@@ -40,7 +40,7 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 15720
+      "count": 15726
     },
     {
       "label": "Saturday",
@@ -62,12 +62,12 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 7001
+      "count": 7006
     },
     {
       "label": "13:00",
       "rate": 81.7,
-      "count": 7910
+      "count": 7911
     },
     {
       "label": "14:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 80.7,
-      "count": 5931
+      "count": 5930
     },
     {
       "label": "09:00",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2380,
+      "won": 2381,
       "lost": 489,
       "rate": 82.96,
-      "count": 2869
+      "count": 2870
     }
   ],
   "top_odds": [
@@ -618,6 +618,11 @@
       "count": 267
     },
     {
+      "odd": 1.46,
+      "rate": 85.61,
+      "count": 271
+    },
+    {
       "odd": 1.77,
       "rate": 85.56,
       "count": 90
@@ -626,11 +631,6 @@
       "odd": 1.79,
       "rate": 85.42,
       "count": 96
-    },
-    {
-      "odd": 1.46,
-      "rate": 85.29,
-      "count": 272
     },
     {
       "odd": 1.49,
