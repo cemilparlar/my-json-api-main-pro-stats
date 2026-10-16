@@ -1,31 +1,31 @@
 {
   "summary": {
-    "won": 82936,
-    "lost": 19469,
+    "won": 82973,
+    "lost": 19484,
     "rate": 81.0,
-    "total": 102405,
+    "total": 102457,
     "last_24h": {
-      "won": 276,
-      "lost": 58,
-      "rate": 82.6,
-      "total": 334
+      "won": 312,
+      "lost": 66,
+      "rate": 82.5,
+      "total": 378
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7263
+      "count": 7266
     },
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 8609
+      "count": 8608
     },
     {
       "label": "Wednesday",
       "rate": 82.0,
-      "count": 8132
+      "count": 8133
     },
     {
       "label": "Sunday",
@@ -34,18 +34,18 @@
     },
     {
       "label": "Thursday",
-      "rate": 81.5,
-      "count": 6221
+      "rate": 81.6,
+      "count": 6220
     },
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16026
+      "count": 16071
     },
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 33270
+      "count": 33275
     }
   ],
   "by_hour": [
@@ -56,8 +56,8 @@
     },
     {
       "label": "10:00",
-      "rate": 80.3,
-      "count": 3515
+      "rate": 80.2,
+      "count": 3516
     },
     {
       "label": "12:00",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 11541
+      "count": 11543
     },
     {
       "label": "15:00",
@@ -82,22 +82,22 @@
     {
       "label": "16:00",
       "rate": 80.9,
-      "count": 8384
+      "count": 8383
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 9484
+      "count": 9485
     },
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 11772
+      "count": 11811
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9511
+      "count": 9521
     },
     {
       "label": "20:00",
@@ -401,10 +401,10 @@
     },
     {
       "name": "İZL",
-      "won": 9,
+      "won": 10,
       "lost": 0,
       "rate": 100.0,
-      "count": 9
+      "count": 10
     },
     {
       "name": "KAPL",
@@ -494,10 +494,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 891,
+      "won": 893,
       "lost": 141,
-      "rate": 86.34,
-      "count": 1032
+      "rate": 86.36,
+      "count": 1034
     },
     {
       "name": "Handicap (0:1) 2",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2341,
+      "won": 2342,
       "lost": 452,
       "rate": 83.82,
-      "count": 2793
+      "count": 2794
     },
     {
       "name": "Handicap (0:1) 1",
@@ -608,11 +608,6 @@
       "count": 116
     },
     {
-      "odd": 1.46,
-      "rate": 85.98,
-      "count": 271
-    },
-    {
       "odd": 1.47,
       "rate": 85.87,
       "count": 269
@@ -621,6 +616,11 @@
       "odd": 1.77,
       "rate": 85.71,
       "count": 91
+    },
+    {
+      "odd": 1.46,
+      "rate": 85.66,
+      "count": 272
     },
     {
       "odd": 1.79,
