@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 82724,
-    "lost": 19414,
+    "won": 82733,
+    "lost": 19420,
     "rate": 81.0,
-    "total": 102138,
+    "total": 102153,
     "last_24h": {
-      "won": 80,
-      "lost": 21,
-      "rate": 79.2,
-      "total": 101
+      "won": 87,
+      "lost": 23,
+      "rate": 79.1,
+      "total": 110
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 22880
+      "count": 22881
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 15776
+      "count": 15787
     },
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 33268
+      "count": 33271
     }
   ],
   "by_hour": [
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 7009
+      "count": 7013
     },
     {
       "label": "13:00",
@@ -77,12 +77,12 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 10135
+      "count": 10141
     },
     {
       "label": "16:00",
       "rate": 80.9,
-      "count": 8333
+      "count": 8336
     },
     {
       "label": "17:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9487
+      "count": 9489
     },
     {
       "label": "20:00",
@@ -458,18 +458,18 @@
       "count": 12
     },
     {
-      "name": "Match Result X",
-      "won": 70,
-      "lost": 8,
-      "rate": 89.74,
-      "count": 78
-    },
-    {
       "name": "Handicap (1:0) 2",
       "won": 69,
       "lost": 8,
       "rate": 89.61,
       "count": 77
+    },
+    {
+      "name": "Match Result X",
+      "won": 71,
+      "lost": 9,
+      "rate": 88.75,
+      "count": 80
     },
     {
       "name": "Under 1.5 Goals",
@@ -537,9 +537,9 @@
     {
       "name": "Match Result 1",
       "won": 2337,
-      "lost": 452,
-      "rate": 83.79,
-      "count": 2789
+      "lost": 453,
+      "rate": 83.76,
+      "count": 2790
     },
     {
       "name": "Handicap (0:1) 1",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2382,
+      "won": 2383,
       "lost": 489,
       "rate": 82.97,
-      "count": 2871
+      "count": 2872
     }
   ],
   "top_odds": [
