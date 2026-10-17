@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 83281,
-    "lost": 19551,
+    "won": 83294,
+    "lost": 19559,
     "rate": 81.0,
-    "total": 102832,
+    "total": 102853,
     "last_24h": {
-      "won": 298,
-      "lost": 75,
-      "rate": 79.9,
-      "total": 373
+      "won": 310,
+      "lost": 79,
+      "rate": 79.7,
+      "total": 389
     }
   },
   "by_day": [
@@ -30,12 +30,12 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 22880
+      "count": 22879
     },
     {
       "label": "Thursday",
       "rate": 81.5,
-      "count": 6220
+      "count": 6221
     },
     {
       "label": "Friday",
@@ -45,14 +45,14 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 33611
+      "count": 33632
     }
   ],
   "by_hour": [
     {
       "label": "08:00",
-      "rate": 82.1,
-      "count": 978
+      "rate": 82.0,
+      "count": 979
     },
     {
       "label": "10:00",
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 7025
+      "count": 7028
     },
     {
       "label": "13:00",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 11549
+      "count": 11550
     },
     {
       "label": "15:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 80.8,
-      "count": 6022
+      "count": 6036
     },
     {
       "label": "09:00",
@@ -131,8 +131,8 @@
     },
     {
       "label": "07:00",
-      "rate": 81.2,
-      "count": 1146
+      "rate": 81.1,
+      "count": 1148
     },
     {
       "label": "23:00",
@@ -551,9 +551,9 @@
     {
       "name": "Handicap (1:0) 1",
       "won": 2398,
-      "lost": 489,
-      "rate": 83.06,
-      "count": 2887
+      "lost": 490,
+      "rate": 83.03,
+      "count": 2888
     }
   ],
   "top_odds": [
