@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 83042,
-    "lost": 19490,
+    "won": 83055,
+    "lost": 19496,
     "rate": 81.0,
-    "total": 102532,
+    "total": 102551,
     "last_24h": {
-      "won": 360,
-      "lost": 79,
-      "rate": 82.0,
-      "total": 439
+      "won": 348,
+      "lost": 78,
+      "rate": 81.7,
+      "total": 426
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7267
+      "count": 7268
     },
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 8608
+      "count": 8609
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 22888
+      "count": 22886
     },
     {
       "label": "Thursday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 33307
+      "count": 33326
     }
   ],
   "by_hour": [
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 80.3,
-      "count": 3512
+      "count": 3515
     },
     {
       "label": "12:00",
@@ -72,7 +72,7 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 11544
+      "count": 11545
     },
     {
       "label": "15:00",
@@ -87,7 +87,7 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 9484
+      "count": 9485
     },
     {
       "label": "18:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9523
+      "count": 9524
     },
     {
       "label": "20:00",
@@ -107,12 +107,12 @@
     {
       "label": "11:00",
       "rate": 80.7,
-      "count": 5928
+      "count": 5929
     },
     {
       "label": "09:00",
       "rate": 80.7,
-      "count": 1346
+      "count": 1345
     },
     {
       "label": "22:00",
@@ -142,7 +142,7 @@
     {
       "label": "05:00",
       "rate": 81.6,
-      "count": 2076
+      "count": 2088
     },
     {
       "label": "00:00",
@@ -166,8 +166,8 @@
     },
     {
       "label": "04:00",
-      "rate": 83.9,
-      "count": 186
+      "rate": 84.0,
+      "count": 187
     }
   ],
   "top_teams": [
@@ -242,6 +242,11 @@
       "count": 25
     },
     {
+      "team": "Cooma Tigers",
+      "rate": 96.0,
+      "count": 25
+    },
+    {
       "team": "Athletic Bilbao Women",
       "rate": 95.45,
       "count": 22
@@ -263,11 +268,6 @@
     },
     {
       "team": "Enugu Rangers",
-      "rate": 95.24,
-      "count": 21
-    },
-    {
-      "team": "FC Utrecht Women",
       "rate": 95.24,
       "count": 21
     }
@@ -501,10 +501,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1691,
+      "won": 1692,
       "lost": 272,
-      "rate": 86.14,
-      "count": 1963
+      "rate": 86.15,
+      "count": 1964
     },
     {
       "name": "Over 0.5 Goals",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2391,
-      "lost": 487,
-      "rate": 83.08,
-      "count": 2878
+      "won": 2393,
+      "lost": 488,
+      "rate": 83.06,
+      "count": 2881
     }
   ],
   "top_odds": [
