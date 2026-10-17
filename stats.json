@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 83019,
-    "lost": 19493,
+    "won": 83022,
+    "lost": 19495,
     "rate": 81.0,
-    "total": 102512,
+    "total": 102517,
     "last_24h": {
-      "won": 343,
-      "lost": 68,
-      "rate": 83.5,
-      "total": 411
+      "won": 346,
+      "lost": 69,
+      "rate": 83.4,
+      "total": 415
     }
   },
   "by_day": [
@@ -25,7 +25,7 @@
     {
       "label": "Wednesday",
       "rate": 82.0,
-      "count": 8131
+      "count": 8132
     },
     {
       "label": "Sunday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 33286
+      "count": 33290
     }
   ],
   "by_hour": [
@@ -92,7 +92,7 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 11830
+      "count": 11831
     },
     {
       "label": "19:00",
@@ -121,8 +121,8 @@
     },
     {
       "label": "01:00",
-      "rate": 81.5,
-      "count": 881
+      "rate": 81.4,
+      "count": 883
     },
     {
       "label": "06:00",
@@ -156,8 +156,8 @@
     },
     {
       "label": "02:00",
-      "rate": 81.5,
-      "count": 471
+      "rate": 81.6,
+      "count": 473
     },
     {
       "label": "03:00",
@@ -187,11 +187,6 @@
       "count": 25
     },
     {
-      "team": "Municipal Limen",
-      "rate": 100.0,
-      "count": 27
-    },
-    {
       "team": "North Geelong FC",
       "rate": 100.0,
       "count": 24
@@ -208,6 +203,11 @@
     },
     {
       "team": "Asyut Petroleum",
+      "rate": 96.55,
+      "count": 29
+    },
+    {
+      "team": "Municipal Limen",
       "rate": 96.55,
       "count": 29
     },
