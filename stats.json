@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 85003,
-    "lost": 19980,
+    "won": 85015,
+    "lost": 19983,
     "rate": 81.0,
-    "total": 104983,
+    "total": 104998,
     "last_24h": {
-      "won": 190,
-      "lost": 40,
-      "rate": 82.6,
-      "total": 230
+      "won": 202,
+      "lost": 41,
+      "rate": 83.1,
+      "total": 243
     }
   },
   "by_day": [
@@ -20,12 +20,12 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8853
+      "count": 8854
     },
     {
       "label": "Wednesday",
       "rate": 82.0,
-      "count": 8160
+      "count": 8173
     },
     {
       "label": "Sunday",
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 34330
+      "count": 34331
     }
   ],
   "by_hour": [
@@ -87,12 +87,12 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 9590
+      "count": 9591
     },
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12075
+      "count": 12076
     },
     {
       "label": "19:00",
@@ -111,8 +111,8 @@
     },
     {
       "label": "09:00",
-      "rate": 81.2,
-      "count": 1373
+      "rate": 81.1,
+      "count": 1374
     },
     {
       "label": "22:00",
@@ -166,8 +166,8 @@
     },
     {
       "label": "04:00",
-      "rate": 84.7,
-      "count": 209
+      "rate": 85.1,
+      "count": 221
     }
   ],
   "top_teams": [
@@ -372,13 +372,6 @@
       "count": 6
     },
     {
-      "name": "JAP2",
-      "won": 6,
-      "lost": 0,
-      "rate": 100.0,
-      "count": 6
-    },
-    {
       "name": "ROM2",
       "won": 5,
       "lost": 0,
@@ -412,6 +405,13 @@
       "lost": 0,
       "rate": 100.0,
       "count": 7
+    },
+    {
+      "name": "JLK",
+      "won": 20,
+      "lost": 1,
+      "rate": 95.24,
+      "count": 21
     }
   ],
   "top_predictions": [
