@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 84988,
-    "lost": 19979,
+    "won": 84990,
+    "lost": 19977,
     "rate": 81.0,
     "total": 104967,
     "last_24h": {
-      "won": 173,
-      "lost": 35,
-      "rate": 83.2,
-      "total": 208
+      "won": 175,
+      "lost": 37,
+      "rate": 82.5,
+      "total": 212
     }
   },
   "by_day": [
@@ -25,17 +25,17 @@
     {
       "label": "Wednesday",
       "rate": 82.0,
-      "count": 8137
+      "count": 8141
     },
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 23805
+      "count": 23804
     },
     {
       "label": "Thursday",
-      "rate": 81.5,
-      "count": 6223
+      "rate": 81.6,
+      "count": 6220
     },
     {
       "label": "Friday",
@@ -146,8 +146,8 @@
     },
     {
       "label": "00:00",
-      "rate": 81.8,
-      "count": 1287
+      "rate": 81.9,
+      "count": 1288
     },
     {
       "label": "21:00",
@@ -161,8 +161,8 @@
     },
     {
       "label": "03:00",
-      "rate": 81.2,
-      "count": 218
+      "rate": 81.6,
+      "count": 217
     },
     {
       "label": "04:00",
@@ -330,6 +330,13 @@
       "count": 7
     },
     {
+      "name": " EKVK",
+      "won": 11,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 11
+    },
+    {
       "name": " BALTIK",
       "won": 6,
       "lost": 0,
@@ -405,13 +412,6 @@
       "lost": 0,
       "rate": 100.0,
       "count": 7
-    },
-    {
-      "name": "JLK",
-      "won": 20,
-      "lost": 1,
-      "rate": 95.24,
-      "count": 21
     }
   ],
   "top_predictions": [
@@ -613,14 +613,14 @@
       "count": 277
     },
     {
+      "odd": 1.47,
+      "rate": 86.25,
+      "count": 269
+    },
+    {
       "odd": 1.77,
       "rate": 86.02,
       "count": 93
-    },
-    {
-      "odd": 1.47,
-      "rate": 85.93,
-      "count": 270
     },
     {
       "odd": 1.99,
