@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 85780,
-    "lost": 20181,
+    "won": 85787,
+    "lost": 20185,
     "rate": 81.0,
-    "total": 105961,
+    "total": 105972,
     "last_24h": {
-      "won": 362,
+      "won": 369,
       "lost": 93,
-      "rate": 79.6,
-      "total": 455
+      "rate": 79.9,
+      "total": 462
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8865
+      "count": 8866
     },
     {
       "label": "Wednesday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16579
+      "count": 16588
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 34335
+      "count": 34336
     }
   ],
   "by_hour": [
@@ -116,8 +116,8 @@
     },
     {
       "label": "22:00",
-      "rate": 81.7,
-      "count": 1904
+      "rate": 81.6,
+      "count": 1905
     },
     {
       "label": "01:00",
@@ -151,8 +151,8 @@
     },
     {
       "label": "21:00",
-      "rate": 81.2,
-      "count": 1714
+      "rate": 81.1,
+      "count": 1724
     },
     {
       "label": "02:00",
@@ -529,17 +529,17 @@
     },
     {
       "name": "Total Goals 2-3",
-      "won": 267,
+      "won": 268,
       "lost": 50,
-      "rate": 84.23,
-      "count": 317
+      "rate": 84.28,
+      "count": 318
     },
     {
       "name": "Match Result 1",
-      "won": 2432,
+      "won": 2433,
       "lost": 468,
-      "rate": 83.86,
-      "count": 2900
+      "rate": 83.87,
+      "count": 2901
     },
     {
       "name": "Handicap (0:1) 1",
@@ -1061,13 +1061,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 148361,
-    "elite_pattern": 40117,
-    "scanner_pattern": 92511,
+    "gecmis_satir": 148356,
+    "elite_pattern": 40124,
+    "scanner_pattern": 92523,
     "elite_satir": 67228,
-    "scanner_satir": 108806,
-    "skorlanan": 3652,
+    "scanner_satir": 108808,
+    "skorlanan": 3674,
     "min_ornek": 10,
-    "guncelleme": "2026-10-24T01:49:59"
+    "guncelleme": "2026-10-24T02:08:00"
   }
 }
