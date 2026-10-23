@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 85543,
-    "lost": 20126,
+    "won": 85571,
+    "lost": 20137,
     "rate": 81.0,
-    "total": 105669,
+    "total": 105708,
     "last_24h": {
-      "won": 138,
-      "lost": 42,
+      "won": 168,
+      "lost": 51,
       "rate": 76.7,
-      "total": 180
+      "total": 219
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.5,
-      "count": 7495
+      "count": 7497
     },
     {
       "label": "Tuesday",
@@ -35,17 +35,17 @@
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 6480
+      "count": 6479
     },
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16305
+      "count": 16345
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 34328
+      "count": 34326
     }
   ],
   "by_hour": [
@@ -62,42 +62,42 @@
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 7303
+      "count": 7302
     },
     {
       "label": "13:00",
       "rate": 81.7,
-      "count": 8215
+      "count": 8218
     },
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 11877
+      "count": 11876
     },
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 10368
+      "count": 10369
     },
     {
       "label": "16:00",
       "rate": 80.6,
-      "count": 8699
+      "count": 8736
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 9605
+      "count": 9606
     },
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12098
+      "count": 12099
     },
     {
       "label": "19:00",
       "rate": 80.6,
-      "count": 9746
+      "count": 9745
     },
     {
       "label": "20:00",
@@ -106,13 +106,13 @@
     },
     {
       "label": "11:00",
-      "rate": 80.7,
+      "rate": 80.6,
       "count": 6161
     },
     {
       "label": "09:00",
       "rate": 81.2,
-      "count": 1377
+      "count": 1376
     },
     {
       "label": "22:00",
@@ -400,18 +400,18 @@
       "count": 7
     },
     {
+      "name": " ÜRD1",
+      "won": 22,
+      "lost": 1,
+      "rate": 95.65,
+      "count": 23
+    },
+    {
       "name": " MEKKA",
       "won": 36,
       "lost": 2,
       "rate": 94.74,
       "count": 38
-    },
-    {
-      "name": "BOSK",
-      "won": 17,
-      "lost": 1,
-      "rate": 94.44,
-      "count": 18
     }
   ],
   "top_predictions": [
@@ -444,18 +444,18 @@
       "count": 12
     },
     {
+      "name": "HT/FT 1/1",
+      "won": 73,
+      "lost": 7,
+      "rate": 91.25,
+      "count": 80
+    },
+    {
       "name": "HT/FT 2/2",
       "won": 31,
       "lost": 3,
       "rate": 91.18,
       "count": 34
-    },
-    {
-      "name": "HT/FT 1/1",
-      "won": 72,
-      "lost": 7,
-      "rate": 91.14,
-      "count": 79
     },
     {
       "name": "Handicap (1:0) 2",
@@ -494,17 +494,17 @@
     },
     {
       "name": "Match Result 2",
-      "won": 937,
+      "won": 935,
       "lost": 146,
-      "rate": 86.52,
-      "count": 1083
+      "rate": 86.49,
+      "count": 1081
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1749,
+      "won": 1750,
       "lost": 289,
-      "rate": 85.82,
-      "count": 2038
+      "rate": 85.83,
+      "count": 2039
     },
     {
       "name": "Over 0.5 Goals",
@@ -522,24 +522,24 @@
     },
     {
       "name": "1st Half Result 1",
-      "won": 333,
+      "won": 334,
       "lost": 57,
-      "rate": 85.38,
-      "count": 390
+      "rate": 85.42,
+      "count": 391
     },
     {
       "name": "Total Goals 2-3",
-      "won": 260,
+      "won": 261,
       "lost": 48,
-      "rate": 84.42,
-      "count": 308
+      "rate": 84.47,
+      "count": 309
     },
     {
       "name": "Handicap (0:1) 1",
-      "won": 143,
+      "won": 144,
       "lost": 27,
-      "rate": 84.12,
-      "count": 170
+      "rate": 84.21,
+      "count": 171
     },
     {
       "name": "Match Result 1",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2452,
-      "lost": 496,
-      "rate": 83.18,
-      "count": 2948
+      "won": 2453,
+      "lost": 494,
+      "rate": 83.24,
+      "count": 2947
     }
   ],
   "top_odds": [
@@ -609,8 +609,8 @@
     },
     {
       "odd": 1.71,
-      "rate": 85.92,
-      "count": 71
+      "rate": 86.11,
+      "count": 72
     },
     {
       "odd": 1.47,
@@ -628,11 +628,6 @@
       "count": 97
     },
     {
-      "odd": 1.59,
-      "rate": 85.31,
-      "count": 143
-    },
-    {
       "odd": 1.79,
       "rate": 85.26,
       "count": 95
@@ -648,14 +643,19 @@
       "count": 33
     },
     {
+      "odd": 1.59,
+      "rate": 84.72,
+      "count": 144
+    },
+    {
       "odd": 1.72,
       "rate": 84.0,
       "count": 100
     },
     {
       "odd": 1.44,
-      "rate": 83.94,
-      "count": 523
+      "rate": 83.97,
+      "count": 524
     }
   ],
   "top_matches": [
@@ -1061,13 +1061,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 148368,
-    "elite_pattern": 40004,
-    "scanner_pattern": 92259,
-    "elite_satir": 67181,
-    "scanner_satir": 108812,
-    "skorlanan": 4065,
+    "gecmis_satir": 148370,
+    "elite_pattern": 40049,
+    "scanner_pattern": 92317,
+    "elite_satir": 67188,
+    "scanner_satir": 108817,
+    "skorlanan": 4017,
     "min_ornek": 10,
-    "guncelleme": "2026-10-23T21:30:16"
+    "guncelleme": "2026-10-23T21:44:30"
   }
 }
