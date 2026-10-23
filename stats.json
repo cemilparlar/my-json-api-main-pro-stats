@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 85646,
-    "lost": 20155,
+    "won": 85687,
+    "lost": 20158,
     "rate": 81.0,
-    "total": 105801,
+    "total": 105845,
     "last_24h": {
-      "won": 238,
-      "lost": 73,
-      "rate": 76.5,
-      "total": 311
+      "won": 284,
+      "lost": 84,
+      "rate": 77.2,
+      "total": 368
     }
   },
   "by_day": [
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 23813
+      "count": 23810
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16435
+      "count": 16479
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 34326
+      "count": 34329
     }
   ],
   "by_hour": [
@@ -62,7 +62,7 @@
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 7304
+      "count": 7305
     },
     {
       "label": "13:00",
@@ -77,22 +77,22 @@
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 10371
+      "count": 10370
     },
     {
       "label": "16:00",
       "rate": 80.6,
-      "count": 8738
+      "count": 8737
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 9667
+      "count": 9663
     },
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12128
+      "count": 12176
     },
     {
       "label": "19:00",
@@ -142,7 +142,7 @@
     {
       "label": "05:00",
       "rate": 81.6,
-      "count": 2120
+      "count": 2121
     },
     {
       "label": "00:00",
@@ -393,6 +393,13 @@
       "count": 7
     },
     {
+      "name": "İZKL1",
+      "won": 5,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 5
+    },
+    {
       "name": "İSÇKA",
       "won": 7,
       "lost": 0,
@@ -405,13 +412,6 @@
       "lost": 1,
       "rate": 95.65,
       "count": 23
-    },
-    {
-      "name": " MEKKA",
-      "won": 36,
-      "lost": 2,
-      "rate": 94.74,
-      "count": 38
     }
   ],
   "top_predictions": [
@@ -501,10 +501,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1752,
+      "won": 1753,
       "lost": 289,
-      "rate": 85.84,
-      "count": 2041
+      "rate": 85.85,
+      "count": 2042
     },
     {
       "name": "Over 0.5 Goals",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2423,
+      "won": 2427,
       "lost": 466,
-      "rate": 83.87,
-      "count": 2889
+      "rate": 83.89,
+      "count": 2893
     },
     {
       "name": "Handicap (0:1) 1",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2455,
+      "won": 2457,
       "lost": 495,
-      "rate": 83.22,
-      "count": 2950
+      "rate": 83.23,
+      "count": 2952
     }
   ],
   "top_odds": [
@@ -643,14 +643,14 @@
       "count": 33
     },
     {
+      "odd": 1.72,
+      "rate": 84.16,
+      "count": 101
+    },
+    {
       "odd": 1.59,
       "rate": 84.14,
       "count": 145
-    },
-    {
-      "odd": 1.72,
-      "rate": 84.0,
-      "count": 100
     },
     {
       "odd": 1.44,
@@ -1061,13 +1061,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 148380,
-    "elite_pattern": 40033,
-    "scanner_pattern": 92324,
-    "elite_satir": 67156,
-    "scanner_satir": 108838,
-    "skorlanan": 3927,
+    "gecmis_satir": 148375,
+    "elite_pattern": 40060,
+    "scanner_pattern": 92390,
+    "elite_satir": 67174,
+    "scanner_satir": 108807,
+    "skorlanan": 3822,
     "min_ornek": 10,
-    "guncelleme": "2026-10-23T22:59:48"
+    "guncelleme": "2026-10-23T23:14:40"
   }
 }
