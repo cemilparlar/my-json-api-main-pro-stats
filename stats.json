@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 85939,
-    "lost": 20235,
+    "won": 85943,
+    "lost": 20238,
     "rate": 80.9,
-    "total": 106174,
+    "total": 106181,
     "last_24h": {
-      "won": 442,
+      "won": 427,
       "lost": 95,
-      "rate": 82.3,
-      "total": 537
+      "rate": 81.8,
+      "total": 522
     }
   },
   "by_day": [
@@ -45,7 +45,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 34495
+      "count": 34502
     }
   ],
   "by_hour": [
@@ -57,7 +57,7 @@
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 3706
+      "count": 3707
     },
     {
       "label": "12:00",
@@ -112,7 +112,7 @@
     {
       "label": "09:00",
       "rate": 81.1,
-      "count": 1383
+      "count": 1389
     },
     {
       "label": "22:00",
@@ -495,9 +495,9 @@
     {
       "name": "Match Result 2",
       "won": 938,
-      "lost": 147,
-      "rate": 86.45,
-      "count": 1085
+      "lost": 148,
+      "rate": 86.37,
+      "count": 1086
     },
     {
       "name": "Handicap (0:1) 2",
@@ -537,9 +537,9 @@
     {
       "name": "Match Result 1",
       "won": 2438,
-      "lost": 468,
-      "rate": 83.9,
-      "count": 2906
+      "lost": 469,
+      "rate": 83.87,
+      "count": 2907
     },
     {
       "name": "Handicap (0:1) 1",
@@ -613,11 +613,6 @@
       "count": 72
     },
     {
-      "odd": 1.47,
-      "rate": 85.82,
-      "count": 275
-    },
-    {
       "odd": 1.99,
       "rate": 85.71,
       "count": 35
@@ -626,6 +621,11 @@
       "odd": 1.77,
       "rate": 85.57,
       "count": 97
+    },
+    {
+      "odd": 1.47,
+      "rate": 85.51,
+      "count": 276
     },
     {
       "odd": 1.79,
@@ -1062,12 +1062,12 @@
   ],
   "patterns": {
     "gecmis_satir": 148366,
-    "elite_pattern": 40187,
-    "scanner_pattern": 92696,
-    "elite_satir": 67271,
-    "scanner_satir": 108849,
-    "skorlanan": 3436,
+    "elite_pattern": 40191,
+    "scanner_pattern": 92703,
+    "elite_satir": 67273,
+    "scanner_satir": 108846,
+    "skorlanan": 3429,
     "min_ornek": 10,
-    "guncelleme": "2026-10-24T14:44:34"
+    "guncelleme": "2026-10-24T14:58:26"
   }
 }
