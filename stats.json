@@ -1,26 +1,26 @@
 {
   "summary": {
-    "won": 86631,
-    "lost": 20414,
+    "won": 86668,
+    "lost": 20428,
     "rate": 80.9,
-    "total": 107045,
+    "total": 107096,
     "last_24h": {
-      "won": 793,
-      "lost": 179,
-      "rate": 81.6,
-      "total": 972
+      "won": 822,
+      "lost": 186,
+      "rate": 81.5,
+      "total": 1008
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.5,
-      "count": 7499
+      "count": 7501
     },
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8864
+      "count": 8866
     },
     {
       "label": "Wednesday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16616
+      "count": 16617
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 35347
+      "count": 35393
     }
   ],
   "by_hour": [
@@ -62,32 +62,32 @@
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 7439
+      "count": 7440
     },
     {
       "label": "13:00",
       "rate": 81.7,
-      "count": 8360
+      "count": 8361
     },
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 12144
+      "count": 12148
     },
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 10463
+      "count": 10467
     },
     {
       "label": "16:00",
-      "rate": 80.6,
-      "count": 8815
+      "rate": 80.5,
+      "count": 8852
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 9667
+      "count": 9670
     },
     {
       "label": "18:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9758
+      "count": 9760
     },
     {
       "label": "20:00",
@@ -107,7 +107,7 @@
     {
       "label": "11:00",
       "rate": 80.6,
-      "count": 6281
+      "count": 6282
     },
     {
       "label": "09:00",
@@ -142,7 +142,7 @@
     {
       "label": "05:00",
       "rate": 81.6,
-      "count": 2185
+      "count": 2183
     },
     {
       "label": "00:00",
@@ -445,10 +445,10 @@
     },
     {
       "name": "HT/FT 1/1",
-      "won": 75,
+      "won": 76,
       "lost": 7,
-      "rate": 91.46,
-      "count": 82
+      "rate": 91.57,
+      "count": 83
     },
     {
       "name": "HT/FT 2/2",
@@ -494,10 +494,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 946,
+      "won": 948,
       "lost": 151,
-      "rate": 86.24,
-      "count": 1097
+      "rate": 86.26,
+      "count": 1099
     },
     {
       "name": "Over 0.5 Goals",
@@ -515,10 +515,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1773,
+      "won": 1774,
       "lost": 299,
-      "rate": 85.57,
-      "count": 2072
+      "rate": 85.58,
+      "count": 2073
     },
     {
       "name": "1st Half Result 1",
@@ -529,31 +529,31 @@
     },
     {
       "name": "Total Goals 2-3",
-      "won": 269,
+      "won": 270,
       "lost": 51,
-      "rate": 84.06,
-      "count": 320
+      "rate": 84.11,
+      "count": 321
     },
     {
       "name": "Match Result 1",
-      "won": 2471,
+      "won": 2474,
       "lost": 474,
-      "rate": 83.9,
-      "count": 2945
+      "rate": 83.92,
+      "count": 2948
     },
     {
       "name": "Handicap (0:1) 1",
-      "won": 145,
+      "won": 146,
       "lost": 28,
-      "rate": 83.82,
-      "count": 173
+      "rate": 83.91,
+      "count": 174
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2487,
+      "won": 2488,
       "lost": 500,
-      "rate": 83.26,
-      "count": 2987
+      "rate": 83.27,
+      "count": 2988
     }
   ],
   "top_odds": [
@@ -623,11 +623,6 @@
       "count": 290
     },
     {
-      "odd": 1.64,
-      "rate": 85.06,
-      "count": 87
-    },
-    {
       "odd": 2.03,
       "rate": 84.85,
       "count": 33
@@ -648,9 +643,14 @@
       "count": 102
     },
     {
+      "odd": 1.64,
+      "rate": 84.27,
+      "count": 89
+    },
+    {
       "odd": 1.44,
-      "rate": 84.0,
-      "count": 525
+      "rate": 84.03,
+      "count": 526
     },
     {
       "odd": 1.59,
@@ -1062,12 +1062,12 @@
   ],
   "patterns": {
     "gecmis_satir": 148404,
-    "elite_pattern": 40449,
-    "scanner_pattern": 93346,
-    "elite_satir": 67393,
-    "scanner_satir": 108917,
-    "skorlanan": 2390,
+    "elite_pattern": 40460,
+    "scanner_pattern": 93377,
+    "elite_satir": 67400,
+    "scanner_satir": 108942,
+    "skorlanan": 2349,
     "min_ornek": 10,
-    "guncelleme": "2026-10-24T21:47:09"
+    "guncelleme": "2026-10-24T22:04:36"
   }
 }
