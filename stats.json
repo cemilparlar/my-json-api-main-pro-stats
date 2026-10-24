@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 85976,
-    "lost": 20238,
+    "won": 86012,
+    "lost": 20246,
     "rate": 80.9,
-    "total": 106214,
+    "total": 106258,
     "last_24h": {
-      "won": 414,
-      "lost": 90,
-      "rate": 82.1,
-      "total": 504
+      "won": 447,
+      "lost": 98,
+      "rate": 82.0,
+      "total": 545
     }
   },
   "by_day": [
@@ -30,22 +30,22 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 23830
+      "count": 23832
     },
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 6479
+      "count": 6480
     },
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16613
+      "count": 16614
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 34531
+      "count": 34571
     }
   ],
   "by_hour": [
@@ -57,22 +57,22 @@
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 3746
+      "count": 3745
     },
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 7308
+      "count": 7309
     },
     {
       "label": "13:00",
       "rate": 81.7,
-      "count": 8221
+      "count": 8222
     },
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 11874
+      "count": 11875
     },
     {
       "label": "15:00",
@@ -97,7 +97,7 @@
     {
       "label": "19:00",
       "rate": 80.6,
-      "count": 9765
+      "count": 9766
     },
     {
       "label": "20:00",
@@ -106,8 +106,8 @@
     },
     {
       "label": "11:00",
-      "rate": 80.6,
-      "count": 6162
+      "rate": 80.7,
+      "count": 6203
     },
     {
       "label": "09:00",
@@ -175,11 +175,6 @@
       "team": "Entebbe Uppc",
       "rate": 100.0,
       "count": 27
-    },
-    {
-      "team": "Juventud Torre",
-      "rate": 100.0,
-      "count": 23
     },
     {
       "team": "Maidstone Unit",
@@ -252,11 +247,6 @@
       "count": 22
     },
     {
-      "team": "Sc Sopron",
-      "rate": 95.45,
-      "count": 22
-    },
-    {
       "team": "FC Utrecht Women",
       "rate": 95.24,
       "count": 21
@@ -268,6 +258,16 @@
     },
     {
       "team": "AC Milan U20",
+      "rate": 95.0,
+      "count": 20
+    },
+    {
+      "team": "52 Orduspor FK",
+      "rate": 95.0,
+      "count": 20
+    },
+    {
+      "team": "Enugu Rangers",
       "rate": 95.0,
       "count": 20
     }
@@ -494,10 +494,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 939,
+      "won": 940,
       "lost": 148,
-      "rate": 86.38,
-      "count": 1087
+      "rate": 86.4,
+      "count": 1088
     },
     {
       "name": "Handicap (0:1) 2",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2442,
+      "won": 2444,
       "lost": 471,
-      "rate": 83.83,
-      "count": 2913
+      "rate": 83.84,
+      "count": 2915
     },
     {
       "name": "Handicap (0:1) 1",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2464,
+      "won": 2465,
       "lost": 497,
       "rate": 83.22,
-      "count": 2961
+      "count": 2962
     }
   ],
   "top_odds": [
@@ -588,11 +588,6 @@
       "count": 31
     },
     {
-      "odd": 1.64,
-      "rate": 87.06,
-      "count": 85
-    },
-    {
       "odd": 1.88,
       "rate": 86.89,
       "count": 61
@@ -603,14 +598,19 @@
       "count": 278
     },
     {
-      "odd": 1.45,
-      "rate": 86.11,
-      "count": 288
-    },
-    {
       "odd": 1.71,
       "rate": 86.11,
       "count": 72
+    },
+    {
+      "odd": 1.64,
+      "rate": 86.05,
+      "count": 86
+    },
+    {
+      "odd": 1.45,
+      "rate": 85.81,
+      "count": 289
     },
     {
       "odd": 1.47,
@@ -1061,13 +1061,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 148398,
-    "elite_pattern": 40194,
-    "scanner_pattern": 92721,
-    "elite_satir": 67283,
-    "scanner_satir": 108853,
-    "skorlanan": 3412,
+    "gecmis_satir": 148418,
+    "elite_pattern": 40209,
+    "scanner_pattern": 92756,
+    "elite_satir": 67279,
+    "scanner_satir": 108865,
+    "skorlanan": 3366,
     "min_ornek": 10,
-    "guncelleme": "2026-10-24T16:00:05"
+    "guncelleme": "2026-10-24T16:16:25"
   }
 }
