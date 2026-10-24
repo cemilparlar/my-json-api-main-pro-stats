@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 86168,
-    "lost": 20292,
+    "won": 86188,
+    "lost": 20302,
     "rate": 80.9,
-    "total": 106460,
+    "total": 106490,
     "last_24h": {
-      "won": 357,
-      "lost": 81,
-      "rate": 81.5,
-      "total": 438
+      "won": 373,
+      "lost": 86,
+      "rate": 81.3,
+      "total": 459
     }
   },
   "by_day": [
@@ -20,7 +20,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8867
+      "count": 8868
     },
     {
       "label": "Wednesday",
@@ -30,7 +30,7 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 23828
+      "count": 23827
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16616
+      "count": 16617
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 34775
+      "count": 34804
     }
   ],
   "by_hour": [
@@ -67,12 +67,12 @@
     {
       "label": "13:00",
       "rate": 81.6,
-      "count": 8246
+      "count": 8245
     },
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 11877
+      "count": 11908
     },
     {
       "label": "15:00",
@@ -247,6 +247,11 @@
       "count": 22
     },
     {
+      "team": "Weymouth",
+      "rate": 95.24,
+      "count": 21
+    },
+    {
       "team": "FC Utrecht Women",
       "rate": 95.24,
       "count": 21
@@ -263,11 +268,6 @@
     },
     {
       "team": "52 Orduspor FK",
-      "rate": 95.0,
-      "count": 20
-    },
-    {
-      "team": "Enugu Rangers",
       "rate": 95.0,
       "count": 20
     }
@@ -494,10 +494,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 939,
+      "won": 940,
       "lost": 149,
-      "rate": 86.31,
-      "count": 1088
+      "rate": 86.32,
+      "count": 1089
     },
     {
       "name": "Over 0.5 Goals",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2472,
+      "won": 2471,
       "lost": 497,
-      "rate": 83.26,
-      "count": 2969
+      "rate": 83.25,
+      "count": 2968
     }
   ],
   "top_odds": [
@@ -594,8 +594,8 @@
     },
     {
       "odd": 1.46,
-      "rate": 86.69,
-      "count": 278
+      "rate": 86.74,
+      "count": 279
     },
     {
       "odd": 1.71,
@@ -606,11 +606,6 @@
       "odd": 1.79,
       "rate": 86.17,
       "count": 94
-    },
-    {
-      "odd": 1.64,
-      "rate": 86.05,
-      "count": 86
     },
     {
       "odd": 1.47,
@@ -631,6 +626,11 @@
       "odd": 1.77,
       "rate": 85.57,
       "count": 97
+    },
+    {
+      "odd": 1.64,
+      "rate": 85.06,
+      "count": 87
     },
     {
       "odd": 2.03,
@@ -1062,12 +1062,12 @@
   ],
   "patterns": {
     "gecmis_satir": 148406,
-    "elite_pattern": 40281,
-    "scanner_pattern": 92891,
-    "elite_satir": 67342,
-    "scanner_satir": 108898,
-    "skorlanan": 3120,
+    "elite_pattern": 40289,
+    "scanner_pattern": 92910,
+    "elite_satir": 67357,
+    "scanner_satir": 108905,
+    "skorlanan": 3091,
     "min_ornek": 10,
-    "guncelleme": "2026-10-24T19:16:21"
+    "guncelleme": "2026-10-24T19:30:31"
   }
 }
