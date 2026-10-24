@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 85923,
-    "lost": 20232,
+    "won": 85931,
+    "lost": 20233,
     "rate": 80.9,
-    "total": 106155,
+    "total": 106164,
     "last_24h": {
-      "won": 459,
-      "lost": 107,
-      "rate": 81.1,
-      "total": 566
+      "won": 461,
+      "lost": 104,
+      "rate": 81.6,
+      "total": 565
     }
   },
   "by_day": [
@@ -45,14 +45,14 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 34476
+      "count": 34485
     }
   ],
   "by_hour": [
     {
       "label": "08:00",
-      "rate": 81.4,
-      "count": 1012
+      "rate": 81.5,
+      "count": 1021
     },
     {
       "label": "10:00",
@@ -365,13 +365,6 @@
       "count": 6
     },
     {
-      "name": "ROM2",
-      "won": 7,
-      "lost": 0,
-      "rate": 100.0,
-      "count": 7
-    },
-    {
       "name": "BLR1",
       "won": 7,
       "lost": 0,
@@ -412,6 +405,13 @@
       "lost": 1,
       "rate": 95.65,
       "count": 23
+    },
+    {
+      "name": " MEKKA",
+      "won": 36,
+      "lost": 2,
+      "rate": 94.74,
+      "count": 38
     }
   ],
   "top_predictions": [
@@ -494,10 +494,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 936,
+      "won": 937,
       "lost": 146,
-      "rate": 86.51,
-      "count": 1082
+      "rate": 86.52,
+      "count": 1083
     },
     {
       "name": "Handicap (0:1) 2",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2437,
+      "won": 2438,
       "lost": 468,
-      "rate": 83.89,
-      "count": 2905
+      "rate": 83.9,
+      "count": 2906
     },
     {
       "name": "Handicap (0:1) 1",
@@ -633,14 +633,14 @@
       "count": 95
     },
     {
-      "odd": 1.76,
-      "rate": 85.16,
-      "count": 128
-    },
-    {
       "odd": 2.03,
       "rate": 84.85,
       "count": 33
+    },
+    {
+      "odd": 1.76,
+      "rate": 84.5,
+      "count": 129
     },
     {
       "odd": 1.59,
@@ -1062,12 +1062,12 @@
   ],
   "patterns": {
     "gecmis_satir": 148367,
-    "elite_pattern": 40183,
-    "scanner_pattern": 92680,
-    "elite_satir": 67269,
-    "scanner_satir": 108851,
-    "skorlanan": 3466,
+    "elite_pattern": 40184,
+    "scanner_pattern": 92693,
+    "elite_satir": 67253,
+    "scanner_satir": 108850,
+    "skorlanan": 3456,
     "min_ornek": 10,
-    "guncelleme": "2026-10-24T12:51:49"
+    "guncelleme": "2026-10-24T13:06:01"
   }
 }
