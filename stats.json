@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 87319,
-    "lost": 20560,
+    "won": 87333,
+    "lost": 20566,
     "rate": 80.9,
-    "total": 107879,
+    "total": 107899,
     "last_24h": {
-      "won": 519,
-      "lost": 103,
-      "rate": 83.4,
-      "total": 622
+      "won": 533,
+      "lost": 111,
+      "rate": 82.8,
+      "total": 644
     },
     "all": {
-      "won": 96863,
-      "lost": 50242,
-      "total": 147105,
+      "won": 96891,
+      "lost": 50254,
+      "total": 147145,
       "rate": 65.8,
-      "excluded": 39226
+      "excluded": 39246
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 24382
+      "count": 24402
     },
     {
       "label": "Thursday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16626
+      "count": 16625
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 35626
+      "count": 35627
     }
   ],
   "by_hour": [
@@ -64,7 +64,7 @@
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 3784
+      "count": 3785
     },
     {
       "label": "12:00",
@@ -79,12 +79,12 @@
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 12204
+      "count": 12205
     },
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 10463
+      "count": 10481
     },
     {
       "label": "16:00",
@@ -99,7 +99,7 @@
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12306
+      "count": 12307
     },
     {
       "label": "19:00",
@@ -109,7 +109,7 @@
     {
       "label": "20:00",
       "rate": 81.1,
-      "count": 2863
+      "count": 2862
     },
     {
       "label": "11:00",
@@ -502,9 +502,9 @@
     {
       "name": "Match Result 2",
       "won": 955,
-      "lost": 152,
-      "rate": 86.27,
-      "count": 1107
+      "lost": 153,
+      "rate": 86.19,
+      "count": 1108
     },
     {
       "name": "Over 0.5 Goals",
@@ -523,9 +523,9 @@
     {
       "name": "Handicap (0:1) 2",
       "won": 1780,
-      "lost": 298,
-      "rate": 85.66,
-      "count": 2078
+      "lost": 299,
+      "rate": 85.62,
+      "count": 2079
     },
     {
       "name": "1st Half Result 1",
@@ -578,6 +578,11 @@
       "odd": 1.75,
       "rate": 89.11,
       "count": 101
+    },
+    {
+      "odd": 1.97,
+      "rate": 87.5,
+      "count": 32
     },
     {
       "odd": 1.88,
@@ -636,11 +641,6 @@
     },
     {
       "odd": 2.03,
-      "rate": 84.85,
-      "count": 33
-    },
-    {
-      "odd": 1.97,
       "rate": 84.85,
       "count": 33
     },
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 148426,
-    "elite_pattern": 40707,
-    "scanner_pattern": 94059,
-    "elite_satir": 67354,
-    "scanner_satir": 108907,
-    "skorlanan": 1351,
+    "elite_pattern": 40708,
+    "scanner_pattern": 94058,
+    "elite_satir": 67340,
+    "scanner_satir": 108900,
+    "skorlanan": 1321,
     "min_ornek": 10,
-    "guncelleme": "2026-10-25T20:12:51"
+    "guncelleme": "2026-10-25T20:26:23"
   }
 }
