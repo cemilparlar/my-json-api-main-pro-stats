@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 87123,
-    "lost": 20520,
+    "won": 87153,
+    "lost": 20527,
     "rate": 80.9,
-    "total": 107643,
+    "total": 107680,
     "last_24h": {
-      "won": 408,
+      "won": 430,
       "lost": 90,
-      "rate": 81.9,
-      "total": 498
+      "rate": 82.7,
+      "total": 520
     },
     "all": {
-      "won": 96662,
-      "lost": 50121,
-      "total": 146783,
+      "won": 96675,
+      "lost": 50122,
+      "total": 146797,
       "rate": 65.9,
-      "excluded": 39140
+      "excluded": 39117
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 24161
+      "count": 24197
     },
     {
       "label": "Thursday",
@@ -47,7 +47,7 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16620
+      "count": 16621
     },
     {
       "label": "Saturday",
@@ -68,8 +68,8 @@
     },
     {
       "label": "12:00",
-      "rate": 81.0,
-      "count": 7455
+      "rate": 81.1,
+      "count": 7485
     },
     {
       "label": "13:00",
@@ -79,7 +79,7 @@
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 12142
+      "count": 12143
     },
     {
       "label": "15:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.7,
-      "count": 6327
+      "count": 6332
     },
     {
       "label": "09:00",
@@ -133,8 +133,8 @@
     },
     {
       "label": "06:00",
-      "rate": 80.6,
-      "count": 557
+      "rate": 80.5,
+      "count": 558
     },
     {
       "label": "07:00",
@@ -535,39 +535,39 @@
       "count": 398
     },
     {
-      "name": "Match Result 1",
-      "won": 2484,
-      "lost": 474,
-      "rate": 83.98,
-      "count": 2958
+      "name": "Total Goals 2-3",
+      "won": 273,
+      "lost": 52,
+      "rate": 84.0,
+      "count": 325
     },
     {
-      "name": "Total Goals 2-3",
-      "won": 272,
-      "lost": 52,
-      "rate": 83.95,
-      "count": 324
+      "name": "Match Result 1",
+      "won": 2485,
+      "lost": 474,
+      "rate": 83.98,
+      "count": 2959
+    },
+    {
+      "name": "Handicap (1:0) 1",
+      "won": 2501,
+      "lost": 507,
+      "rate": 83.14,
+      "count": 3008
     },
     {
       "name": "Handicap (0:1) 1",
       "won": 147,
-      "lost": 29,
-      "rate": 83.52,
-      "count": 176
-    },
-    {
-      "name": "Handicap (1:0) 1",
-      "won": 2499,
-      "lost": 507,
-      "rate": 83.13,
-      "count": 3006
+      "lost": 30,
+      "rate": 83.05,
+      "count": 177
     }
   ],
   "top_odds": [
     {
       "odd": 1.94,
-      "rate": 90.32,
-      "count": 31
+      "rate": 90.62,
+      "count": 32
     },
     {
       "odd": 1.95,
@@ -581,8 +581,8 @@
     },
     {
       "odd": 1.88,
-      "rate": 87.1,
-      "count": 62
+      "rate": 87.3,
+      "count": 63
     },
     {
       "odd": 1.97,
@@ -591,8 +591,8 @@
     },
     {
       "odd": 1.66,
-      "rate": 86.59,
-      "count": 82
+      "rate": 86.75,
+      "count": 83
     },
     {
       "odd": 1.71,
@@ -721,6 +721,14 @@
       "odds": "10.80",
       "prediction": "Handicap (2:0) 2",
       "date": "17.01.2026 15:30"
+    },
+    {
+      "match": "Havelse vs FC Saarbrucken",
+      "ht": "1 - 1",
+      "ft": "3 - 2",
+      "odds": "10.05",
+      "prediction": "HT/FT X/1",
+      "date": "25.10.2026 12:30"
     },
     {
       "match": "CSD Municipal vs Mictlan",
@@ -1057,24 +1065,16 @@
       "odds": "5.20",
       "prediction": "Over 4.5 Goals",
       "date": "06.09.2026 13:00"
-    },
-    {
-      "match": "Azerbaijan (U2 vs Czech Republic",
-      "ht": "1 - 1",
-      "ft": "1 - 1",
-      "odds": "5.19",
-      "prediction": "Match Result X",
-      "date": "25.09.2026 13:45"
     }
   ],
   "patterns": {
     "gecmis_satir": 148418,
-    "elite_pattern": 40618,
-    "scanner_pattern": 93770,
-    "elite_satir": 67342,
-    "scanner_satir": 108902,
-    "skorlanan": 1657,
+    "elite_pattern": 40637,
+    "scanner_pattern": 93856,
+    "elite_satir": 67349,
+    "scanner_satir": 108904,
+    "skorlanan": 1620,
     "min_ornek": 10,
-    "guncelleme": "2026-10-25T17:23:14"
+    "guncelleme": "2026-10-25T17:36:34"
   }
 }
