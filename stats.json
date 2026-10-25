@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 86819,
-    "lost": 20455,
+    "won": 86822,
+    "lost": 20454,
     "rate": 80.9,
-    "total": 107274,
+    "total": 107276,
     "last_24h": {
-      "won": 927,
-      "lost": 214,
-      "rate": 81.2,
-      "total": 1141
+      "won": 915,
+      "lost": 210,
+      "rate": 81.3,
+      "total": 1125
     }
   },
   "by_day": [
@@ -25,12 +25,12 @@
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 8398
+      "count": 8399
     },
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 23859
+      "count": 23858
     },
     {
       "label": "Thursday",
@@ -40,12 +40,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16624
+      "count": 16625
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 35547
+      "count": 35548
     }
   ],
   "by_hour": [
@@ -111,8 +111,8 @@
     },
     {
       "label": "09:00",
-      "rate": 80.8,
-      "count": 1393
+      "rate": 80.9,
+      "count": 1395
     },
     {
       "label": "22:00",
@@ -121,8 +121,8 @@
     },
     {
       "label": "01:00",
-      "rate": 81.4,
-      "count": 958
+      "rate": 81.5,
+      "count": 957
     },
     {
       "label": "06:00",
@@ -137,7 +137,7 @@
     {
       "label": "23:00",
       "rate": 80.6,
-      "count": 2005
+      "count": 2006
     },
     {
       "label": "05:00",
@@ -494,10 +494,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 951,
+      "won": 954,
       "lost": 152,
-      "rate": 86.22,
-      "count": 1103
+      "rate": 86.26,
+      "count": 1106
     },
     {
       "name": "Over 0.5 Goals",
@@ -1062,12 +1062,12 @@
   ],
   "patterns": {
     "gecmis_satir": 148384,
-    "elite_pattern": 40476,
+    "elite_pattern": 40477,
     "scanner_pattern": 93463,
-    "elite_satir": 67344,
+    "elite_satir": 67347,
     "scanner_satir": 108882,
-    "skorlanan": 2041,
+    "skorlanan": 2039,
     "min_ornek": 10,
-    "guncelleme": "2026-10-25T03:54:29"
+    "guncelleme": "2026-10-25T04:09:13"
   }
 }
