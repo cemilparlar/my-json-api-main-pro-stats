@@ -5,10 +5,17 @@
     "rate": 80.9,
     "total": 107387,
     "last_24h": {
-      "won": 598,
-      "lost": 144,
-      "rate": 80.6,
-      "total": 742
+      "won": 578,
+      "lost": 137,
+      "rate": 80.8,
+      "total": 715
+    },
+    "all": {
+      "won": 96419,
+      "lost": 50041,
+      "total": 146460,
+      "rate": 65.8,
+      "excluded": 39073
     }
   },
   "by_day": [
@@ -1068,6 +1075,6 @@
     "scanner_satir": 108884,
     "skorlanan": 1909,
     "min_ornek": 10,
-    "guncelleme": "2026-10-25T13:00:52"
+    "guncelleme": "2026-10-25T13:33:17"
   }
 }
