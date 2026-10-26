@@ -1,33 +1,33 @@
 {
   "summary": {
-    "won": 87518,
-    "lost": 20612,
+    "won": 87531,
+    "lost": 20610,
     "rate": 80.9,
-    "total": 108130,
+    "total": 108141,
     "last_24h": {
-      "won": 574,
-      "lost": 134,
-      "rate": 81.1,
-      "total": 708
+      "won": 584,
+      "lost": 135,
+      "rate": 81.2,
+      "total": 719
     },
     "all": {
       "won": 97122,
       "lost": 50411,
       "total": 147533,
       "rate": 65.8,
-      "excluded": 39403
+      "excluded": 39392
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.6,
-      "count": 7504
+      "count": 7501
     },
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8870
+      "count": 8869
     },
     {
       "label": "Wednesday",
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 24633
+      "count": 24650
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 35630
+      "count": 35628
     }
   ],
   "by_hour": [
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 7499
+      "count": 7498
     },
     {
       "label": "13:00",
@@ -99,7 +99,7 @@
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12331
+      "count": 12328
     },
     {
       "label": "19:00",
@@ -109,7 +109,7 @@
     {
       "label": "20:00",
       "rate": 81.3,
-      "count": 2868
+      "count": 2882
     },
     {
       "label": "11:00",
@@ -148,8 +148,8 @@
     },
     {
       "label": "05:00",
-      "rate": 81.5,
-      "count": 2227
+      "rate": 81.6,
+      "count": 2226
     },
     {
       "label": "00:00",
@@ -159,7 +159,7 @@
     {
       "label": "21:00",
       "rate": 80.9,
-      "count": 1750
+      "count": 1752
     },
     {
       "label": "02:00",
@@ -400,6 +400,13 @@
       "count": 23
     },
     {
+      "name": "KAPL",
+      "won": 20,
+      "lost": 1,
+      "rate": 95.24,
+      "count": 21
+    },
+    {
       "name": " MEKKA",
       "won": 36,
       "lost": 2,
@@ -408,13 +415,6 @@
     },
     {
       "name": "BOSK",
-      "won": 17,
-      "lost": 1,
-      "rate": 94.44,
-      "count": 18
-    },
-    {
-      "name": "LIT1",
       "won": 17,
       "lost": 1,
       "rate": 94.44,
@@ -523,9 +523,9 @@
     {
       "name": "Handicap (0:1) 2",
       "won": 1779,
-      "lost": 298,
-      "rate": 85.65,
-      "count": 2077
+      "lost": 297,
+      "rate": 85.69,
+      "count": 2076
     },
     {
       "name": "1st Half Result 1",
@@ -537,9 +537,9 @@
     {
       "name": "Match Result 1",
       "won": 2498,
-      "lost": 476,
-      "rate": 83.99,
-      "count": 2974
+      "lost": 477,
+      "rate": 83.97,
+      "count": 2975
     },
     {
       "name": "Total Goals 2-3",
@@ -651,8 +651,8 @@
     },
     {
       "odd": 1.44,
-      "rate": 84.22,
-      "count": 526
+      "rate": 84.25,
+      "count": 527
     },
     {
       "odd": 1.72,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 148424,
-    "elite_pattern": 40689,
-    "scanner_pattern": 94114,
-    "elite_satir": 67218,
-    "scanner_satir": 108843,
-    "skorlanan": 914,
+    "elite_pattern": 40694,
+    "scanner_pattern": 94126,
+    "elite_satir": 67220,
+    "scanner_satir": 108839,
+    "skorlanan": 891,
     "min_ornek": 10,
-    "guncelleme": "2026-10-26T02:57:39"
+    "guncelleme": "2026-10-26T03:15:25"
   }
 }
