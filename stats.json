@@ -1,9 +1,9 @@
 {
   "summary": {
-    "won": 87572,
-    "lost": 20624,
+    "won": 87575,
+    "lost": 20625,
     "rate": 80.9,
-    "total": 108196,
+    "total": 108200,
     "last_24h": {
       "won": 321,
       "lost": 84,
@@ -15,7 +15,7 @@
       "lost": 50439,
       "total": 147611,
       "rate": 65.8,
-      "excluded": 39415
+      "excluded": 39411
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 24678
+      "count": 24682
     },
     {
       "label": "Thursday",
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 7498
+      "count": 7500
     },
     {
       "label": "13:00",
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.5,
-      "count": 8959
+      "count": 8960
     },
     {
       "label": "17:00",
@@ -119,7 +119,7 @@
     {
       "label": "09:00",
       "rate": 81.1,
-      "count": 1404
+      "count": 1405
     },
     {
       "label": "22:00",
@@ -407,14 +407,14 @@
       "count": 21
     },
     {
-      "name": "BOSK",
-      "won": 17,
+      "name": "LIT1",
+      "won": 18,
       "lost": 1,
-      "rate": 94.44,
-      "count": 18
+      "rate": 94.74,
+      "count": 19
     },
     {
-      "name": "LIT1",
+      "name": "BOSK",
       "won": 17,
       "lost": 1,
       "rate": 94.44,
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2502,
+      "won": 2503,
       "lost": 478,
-      "rate": 83.96,
-      "count": 2980
+      "rate": 83.97,
+      "count": 2981
     },
     {
       "name": "Total Goals 2-3",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 148405,
-    "elite_pattern": 40707,
-    "scanner_pattern": 94150,
-    "elite_satir": 67193,
-    "scanner_satir": 108820,
-    "skorlanan": 796,
+    "gecmis_satir": 148411,
+    "elite_pattern": 40711,
+    "scanner_pattern": 94155,
+    "elite_satir": 67196,
+    "scanner_satir": 108819,
+    "skorlanan": 806,
     "min_ornek": 10,
-    "guncelleme": "2026-10-26T13:45:14"
+    "guncelleme": "2026-10-26T13:54:38"
   }
 }
