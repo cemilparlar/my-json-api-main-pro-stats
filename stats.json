@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 87832,
-    "lost": 20691,
+    "won": 87836,
+    "lost": 20694,
     "rate": 80.9,
-    "total": 108523,
+    "total": 108530,
     "last_24h": {
-      "won": 46,
-      "lost": 4,
-      "rate": 92.0,
-      "total": 50
+      "won": 51,
+      "lost": 7,
+      "rate": 87.9,
+      "total": 58
     },
     "all": {
-      "won": 97444,
-      "lost": 50588,
-      "total": 148032,
+      "won": 97445,
+      "lost": 50589,
+      "total": 148034,
       "rate": 65.8,
-      "excluded": 39509
+      "excluded": 39504
     }
   },
   "by_day": [
@@ -32,7 +32,7 @@
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 8473
+      "count": 8479
     },
     {
       "label": "Sunday",
@@ -47,7 +47,7 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16630
+      "count": 16631
     },
     {
       "label": "Saturday",
@@ -94,12 +94,12 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 9784
+      "count": 9783
     },
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12373
+      "count": 12382
     },
     {
       "label": "19:00",
@@ -118,8 +118,8 @@
     },
     {
       "label": "09:00",
-      "rate": 81.0,
-      "count": 1407
+      "rate": 81.1,
+      "count": 1406
     },
     {
       "label": "22:00",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1786,
+      "won": 1787,
       "lost": 300,
-      "rate": 85.62,
-      "count": 2086
+      "rate": 85.63,
+      "count": 2087
     },
     {
       "name": "1st Half Result 1",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 148218,
-    "elite_pattern": 40826,
-    "scanner_pattern": 94400,
+    "gecmis_satir": 148223,
+    "elite_pattern": 40824,
+    "scanner_pattern": 94398,
     "elite_satir": 67155,
-    "scanner_satir": 108669,
-    "skorlanan": 194,
+    "scanner_satir": 108671,
+    "skorlanan": 197,
     "min_ornek": 10,
-    "guncelleme": "2026-10-28T23:06:18"
+    "guncelleme": "2026-10-28T23:15:12"
   }
 }
