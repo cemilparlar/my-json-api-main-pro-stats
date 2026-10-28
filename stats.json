@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 87804,
-    "lost": 20679,
+    "won": 87812,
+    "lost": 20683,
     "rate": 80.9,
-    "total": 108483,
+    "total": 108495,
     "last_24h": {
-      "won": 38,
-      "lost": 9,
-      "rate": 80.9,
-      "total": 47
+      "won": 47,
+      "lost": 11,
+      "rate": 81.0,
+      "total": 58
     },
     "all": {
       "won": 97417,
       "lost": 50577,
       "total": 147994,
       "rate": 65.8,
-      "excluded": 39511
+      "excluded": 39499
     }
   },
   "by_day": [
@@ -27,12 +27,12 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8929
+      "count": 8928
     },
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 8434
+      "count": 8447
     },
     {
       "label": "Sunday",
@@ -73,8 +73,8 @@
     },
     {
       "label": "13:00",
-      "rate": 81.7,
-      "count": 8491
+      "rate": 81.6,
+      "count": 8502
     },
     {
       "label": "14:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9860
+      "count": 9861
     },
     {
       "label": "20:00",
@@ -239,11 +239,6 @@
       "count": 23
     },
     {
-      "team": "Kruger United",
-      "rate": 95.65,
-      "count": 23
-    },
-    {
       "team": "Weiche Flensburg",
       "rate": 95.45,
       "count": 22
@@ -275,6 +270,11 @@
     },
     {
       "team": "AC Milan U20",
+      "rate": 95.0,
+      "count": 20
+    },
+    {
+      "team": "US Kairouan",
       "rate": 95.0,
       "count": 20
     }
@@ -310,10 +310,10 @@
     },
     {
       "name": " KAZKK",
-      "won": 7,
+      "won": 8,
       "lost": 0,
       "rate": 100.0,
-      "count": 7
+      "count": 8
     },
     {
       "name": " BELP",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 964,
-      "lost": 153,
-      "rate": 86.3,
-      "count": 1117
+      "won": 965,
+      "lost": 154,
+      "rate": 86.24,
+      "count": 1119
     },
     {
       "name": "Over 0.5 Goals",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2507,
+      "won": 2506,
       "lost": 484,
-      "rate": 83.82,
-      "count": 2991
+      "rate": 83.81,
+      "count": 2990
     },
     {
       "name": "Total Goals 2-3",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 148123,
-    "elite_pattern": 40811,
-    "scanner_pattern": 94358,
-    "elite_satir": 67110,
-    "scanner_satir": 108605,
-    "skorlanan": 146,
+    "elite_pattern": 40813,
+    "scanner_pattern": 94366,
+    "elite_satir": 67114,
+    "scanner_satir": 108610,
+    "skorlanan": 129,
     "min_ornek": 10,
-    "guncelleme": "2026-10-28T18:07:44"
+    "guncelleme": "2026-10-28T18:18:37"
   }
 }
