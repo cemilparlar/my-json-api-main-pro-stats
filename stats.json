@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 87850,
-    "lost": 20697,
+    "won": 87854,
+    "lost": 20698,
     "rate": 80.9,
-    "total": 108547,
+    "total": 108552,
     "last_24h": {
-      "won": 63,
+      "won": 65,
       "lost": 15,
-      "rate": 80.8,
-      "total": 78
+      "rate": 81.2,
+      "total": 80
     },
     "all": {
       "won": 97460,
       "lost": 50608,
       "total": 148068,
       "rate": 65.8,
-      "excluded": 39521
+      "excluded": 39516
     }
   },
   "by_day": [
@@ -27,17 +27,17 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8927
+      "count": 8928
     },
     {
       "label": "Wednesday",
       "rate": 81.7,
-      "count": 8498
+      "count": 8500
     },
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 24698
+      "count": 24699
     },
     {
       "label": "Thursday",
@@ -47,7 +47,7 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16632
+      "count": 16633
     },
     {
       "label": "Saturday",
@@ -84,7 +84,7 @@
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 10555
+      "count": 10556
     },
     {
       "label": "16:00",
@@ -124,7 +124,7 @@
     {
       "label": "22:00",
       "rate": 81.6,
-      "count": 1933
+      "count": 1936
     },
     {
       "label": "01:00",
@@ -159,7 +159,7 @@
     {
       "label": "21:00",
       "rate": 80.9,
-      "count": 1767
+      "count": 1768
     },
     {
       "label": "02:00",
@@ -379,6 +379,13 @@
       "count": 6
     },
     {
+      "name": "PARK",
+      "won": 5,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 5
+    },
+    {
       "name": "ÜRD1",
       "won": 7,
       "lost": 0,
@@ -412,13 +419,6 @@
       "lost": 1,
       "rate": 95.24,
       "count": 21
-    },
-    {
-      "name": "VİETK",
-      "won": 16,
-      "lost": 1,
-      "rate": 94.12,
-      "count": 17
     }
   ],
   "top_predictions": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 148218,
-    "elite_pattern": 40822,
-    "scanner_pattern": 94403,
-    "elite_satir": 67142,
-    "scanner_satir": 108664,
-    "skorlanan": 152,
+    "gecmis_satir": 148215,
+    "elite_pattern": 40825,
+    "scanner_pattern": 94407,
+    "elite_satir": 67146,
+    "scanner_satir": 108666,
+    "skorlanan": 147,
     "min_ornek": 10,
-    "guncelleme": "2026-10-29T03:48:56"
+    "guncelleme": "2026-10-29T04:11:57"
   }
 }
