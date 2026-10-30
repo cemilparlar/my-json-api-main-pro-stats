@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 87938,
-    "lost": 20710,
+    "won": 87944,
+    "lost": 20713,
     "rate": 80.9,
-    "total": 108648,
+    "total": 108657,
     "last_24h": {
-      "won": 37,
+      "won": 41,
       "lost": 3,
-      "rate": 92.5,
-      "total": 40
+      "rate": 93.2,
+      "total": 44
     },
     "all": {
-      "won": 97566,
+      "won": 97568,
       "lost": 50654,
-      "total": 148220,
+      "total": 148222,
       "rate": 65.8,
-      "excluded": 39572
+      "excluded": 39565
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8927
+      "count": 8929
     },
     {
       "label": "Wednesday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16652
+      "count": 16657
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 35635
+      "count": 35637
     }
   ],
   "by_hour": [
@@ -69,12 +69,12 @@
     {
       "label": "12:00",
       "rate": 81.0,
-      "count": 7540
+      "count": 7544
     },
     {
       "label": "13:00",
       "rate": 81.6,
-      "count": 8504
+      "count": 8509
     },
     {
       "label": "14:00",
@@ -269,12 +269,12 @@
       "count": 21
     },
     {
-      "team": "AC Milan U20",
+      "team": "Emirates Club",
       "rate": 95.0,
       "count": 20
     },
     {
-      "team": "US Kairouan",
+      "team": "AC Milan U20",
       "rate": 95.0,
       "count": 20
     }
@@ -400,6 +400,13 @@
       "count": 8
     },
     {
+      "name": "POLBE",
+      "won": 5,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 5
+    },
+    {
       "name": " ÜRD1",
       "won": 22,
       "lost": 1,
@@ -408,13 +415,6 @@
     },
     {
       "name": "KAPL",
-      "won": 20,
-      "lost": 1,
-      "rate": 95.24,
-      "count": 21
-    },
-    {
-      "name": "LIT1",
       "won": 20,
       "lost": 1,
       "rate": 95.24,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 148386,
-    "elite_pattern": 40872,
-    "scanner_pattern": 94475,
-    "elite_satir": 67210,
-    "scanner_satir": 108788,
-    "skorlanan": 172,
+    "elite_pattern": 40880,
+    "scanner_pattern": 94487,
+    "elite_satir": 67213,
+    "scanner_satir": 108791,
+    "skorlanan": 166,
     "min_ornek": 10,
-    "guncelleme": "2026-10-30T18:16:30"
+    "guncelleme": "2026-10-30T18:35:16"
   }
 }
