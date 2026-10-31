@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 88465,
-    "lost": 20811,
+    "won": 88493,
+    "lost": 20817,
     "rate": 81.0,
-    "total": 109276,
+    "total": 109310,
     "last_24h": {
-      "won": 431,
-      "lost": 101,
-      "rate": 81.0,
-      "total": 532
+      "won": 458,
+      "lost": 103,
+      "rate": 81.6,
+      "total": 561
     },
     "all": {
-      "won": 98126,
-      "lost": 50903,
-      "total": 149029,
+      "won": 98139,
+      "lost": 50907,
+      "total": 149046,
       "rate": 65.8,
-      "excluded": 39753
+      "excluded": 39736
     }
   },
   "by_day": [
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36152
+      "count": 36186
     }
   ],
   "by_hour": [
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 81.0,
-      "count": 7608
+      "count": 7607
     },
     {
       "label": "13:00",
@@ -89,12 +89,12 @@
     {
       "label": "16:00",
       "rate": 80.6,
-      "count": 9038
+      "count": 9040
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 9831
+      "count": 9863
     },
     {
       "label": "18:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 9914
+      "count": 9913
     },
     {
       "label": "20:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.7,
-      "count": 6350
+      "count": 6351
     },
     {
       "label": "09:00",
@@ -139,7 +139,7 @@
     {
       "label": "07:00",
       "rate": 81.4,
-      "count": 1233
+      "count": 1234
     },
     {
       "label": "23:00",
@@ -194,11 +194,6 @@
       "count": 25
     },
     {
-      "team": "North Geelong FC",
-      "rate": 100.0,
-      "count": 24
-    },
-    {
       "team": "Hungary",
       "rate": 97.37,
       "count": 38
@@ -227,6 +222,11 @@
       "team": "Serbia",
       "rate": 96.15,
       "count": 26
+    },
+    {
+      "team": "North Geelong FC",
+      "rate": 96.0,
+      "count": 25
     },
     {
       "team": "Schwaben Augsbu",
@@ -466,10 +466,10 @@
     },
     {
       "name": "Match Result X",
-      "won": 76,
+      "won": 77,
       "lost": 9,
-      "rate": 89.41,
-      "count": 85
+      "rate": 89.53,
+      "count": 86
     },
     {
       "name": "Under 1.5 Goals",
@@ -508,10 +508,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1794,
+      "won": 1795,
       "lost": 296,
       "rate": 85.84,
-      "count": 2090
+      "count": 2091
     },
     {
       "name": "Over 0.5 Goals",
@@ -529,10 +529,10 @@
     },
     {
       "name": "1st Half Result 1",
-      "won": 346,
+      "won": 347,
       "lost": 61,
-      "rate": 85.01,
-      "count": 407
+      "rate": 85.05,
+      "count": 408
     },
     {
       "name": "Total Goals 2-3",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2522,
-      "lost": 487,
-      "rate": 83.82,
-      "count": 3009
+      "won": 2523,
+      "lost": 489,
+      "rate": 83.76,
+      "count": 3012
     },
     {
       "name": "Handicap (1:0) 1",
@@ -557,10 +557,10 @@
     },
     {
       "name": "Over 3.5 Goals",
-      "won": 264,
+      "won": 265,
       "lost": 54,
-      "rate": 83.02,
-      "count": 318
+      "rate": 83.07,
+      "count": 319
     }
   ],
   "top_odds": [
@@ -585,6 +585,11 @@
       "count": 100
     },
     {
+      "odd": 1.66,
+      "rate": 86.9,
+      "count": 84
+    },
+    {
       "odd": 1.99,
       "rate": 86.49,
       "count": 37
@@ -600,11 +605,6 @@
       "count": 94
     },
     {
-      "odd": 1.66,
-      "rate": 85.88,
-      "count": 85
-    },
-    {
       "odd": 1.77,
       "rate": 85.71,
       "count": 98
@@ -616,8 +616,8 @@
     },
     {
       "odd": 1.47,
-      "rate": 85.48,
-      "count": 303
+      "rate": 85.53,
+      "count": 304
     },
     {
       "odd": 1.76,
@@ -697,6 +697,14 @@
       "odds": "19.85",
       "prediction": "HT/FT 2/X",
       "date": "27.08.2026 17:00"
+    },
+    {
+      "match": "Bayern Munich vs Borussia Dortmund",
+      "ht": "1 - 0",
+      "ft": "2 - 2",
+      "odds": "17.60",
+      "prediction": "HT/FT 1/X",
+      "date": "31.10.2026 17:30"
     },
     {
       "match": "FC Heidenheim vs FC Koln",
@@ -995,6 +1003,14 @@
       "date": "12.04.2026 20:30"
     },
     {
+      "match": "Bayern Munich vs Borussia Dortmund",
+      "ht": "1 - 0",
+      "ft": "2 - 2",
+      "odds": "5.53",
+      "prediction": "Match Result X",
+      "date": "31.10.2026 17:30"
+    },
+    {
       "match": "St. Louis City SC vs LA Galaxy",
       "ht": "5 - 1",
       "ft": "6 - 2",
@@ -1049,32 +1065,16 @@
       "odds": "5.24",
       "prediction": "Total Goals 0-1",
       "date": "14.02.2026 17:00"
-    },
-    {
-      "match": "Portland Timbers vs Los Angeles FC",
-      "ht": "1 - 0",
-      "ft": "2 - 1",
-      "odds": "5.22",
-      "prediction": "Handicap (0:1) X",
-      "date": "11.04.2026 20:45"
-    },
-    {
-      "match": "Vjs vs Kups Ak.",
-      "ht": "0 - 0",
-      "ft": "0 - 0",
-      "odds": "5.22",
-      "prediction": "Match Result X",
-      "date": "02.05.2026 14:00"
     }
   ],
   "patterns": {
-    "gecmis_satir": 149905,
-    "elite_pattern": 41022,
-    "scanner_pattern": 94911,
-    "elite_satir": 67853,
-    "scanner_satir": 110020,
-    "skorlanan": 856,
+    "gecmis_satir": 149949,
+    "elite_pattern": 41031,
+    "scanner_pattern": 94970,
+    "elite_satir": 67892,
+    "scanner_satir": 110073,
+    "skorlanan": 897,
     "min_ornek": 10,
-    "guncelleme": "2026-10-31T22:31:21"
+    "guncelleme": "2026-10-31T22:51:12"
   }
 }
