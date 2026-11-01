@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 88611,
-    "lost": 20853,
-    "rate": 80.9,
-    "total": 109464,
+    "won": 88612,
+    "lost": 20850,
+    "rate": 81.0,
+    "total": 109462,
     "last_24h": {
-      "won": 499,
+      "won": 500,
       "lost": 105,
       "rate": 82.6,
-      "total": 604
+      "total": 605
     },
     "all": {
       "won": 98254,
       "lost": 50962,
       "total": 149216,
       "rate": 65.8,
-      "excluded": 39752
+      "excluded": 39754
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 24760
+      "count": 24762
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36304
+      "count": 36300
     }
   ],
   "by_hour": [
@@ -148,8 +148,8 @@
     },
     {
       "label": "05:00",
-      "rate": 81.7,
-      "count": 2283
+      "rate": 81.8,
+      "count": 2282
     },
     {
       "label": "00:00",
@@ -173,8 +173,8 @@
     },
     {
       "label": "04:00",
-      "rate": 83.8,
-      "count": 290
+      "rate": 84.1,
+      "count": 289
     }
   ],
   "top_teams": [
@@ -234,6 +234,11 @@
       "count": 25
     },
     {
+      "team": "Cooma Tigers",
+      "rate": 96.0,
+      "count": 25
+    },
+    {
       "team": "Muang Thong United",
       "rate": 95.65,
       "count": 23
@@ -270,11 +275,6 @@
     },
     {
       "team": "Emirates Club",
-      "rate": 95.0,
-      "count": 20
-    },
-    {
-      "team": "AC Milan U20",
       "rate": 95.0,
       "count": 20
     }
@@ -501,17 +501,17 @@
     },
     {
       "name": "Match Result 2",
-      "won": 975,
+      "won": 974,
       "lost": 158,
-      "rate": 86.05,
-      "count": 1133
+      "rate": 86.04,
+      "count": 1132
     },
     {
       "name": "Handicap (0:1) 2",
       "won": 1795,
-      "lost": 299,
-      "rate": 85.72,
-      "count": 2094
+      "lost": 298,
+      "rate": 85.76,
+      "count": 2093
     },
     {
       "name": "Over 0.5 Goals",
@@ -558,9 +558,9 @@
     {
       "name": "Handicap (1:0) 1",
       "won": 2549,
-      "lost": 518,
-      "rate": 83.11,
-      "count": 3067
+      "lost": 519,
+      "rate": 83.08,
+      "count": 3068
     }
   ],
   "top_odds": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 150459,
-    "elite_pattern": 41117,
-    "scanner_pattern": 95131,
-    "elite_satir": 68127,
-    "scanner_satir": 110488,
-    "skorlanan": 1251,
+    "gecmis_satir": 150500,
+    "elite_pattern": 41114,
+    "scanner_pattern": 95129,
+    "elite_satir": 68139,
+    "scanner_satir": 110512,
+    "skorlanan": 1306,
     "min_ornek": 10,
-    "guncelleme": "2026-11-01T10:13:32"
+    "guncelleme": "2026-11-01T10:29:24"
   }
 }
