@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 88634,
-    "lost": 20849,
+    "won": 88641,
+    "lost": 20848,
     "rate": 81.0,
-    "total": 109483,
+    "total": 109489,
     "last_24h": {
-      "won": 218,
+      "won": 206,
       "lost": 40,
-      "rate": 84.5,
-      "total": 258
+      "rate": 83.7,
+      "total": 246
     },
     "all": {
       "won": 98283,
       "lost": 50985,
       "total": 149268,
       "rate": 65.8,
-      "excluded": 39785
+      "excluded": 39779
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 24785
+      "count": 24790
     },
     {
       "label": "Thursday",
@@ -52,14 +52,14 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36297
+      "count": 36298
     }
   ],
   "by_hour": [
     {
       "label": "08:00",
       "rate": 81.7,
-      "count": 1030
+      "count": 1029
     },
     {
       "label": "10:00",
@@ -68,8 +68,8 @@
     },
     {
       "label": "12:00",
-      "rate": 81.0,
-      "count": 7607
+      "rate": 81.1,
+      "count": 7606
     },
     {
       "label": "13:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.7,
-      "count": 6355
+      "count": 6363
     },
     {
       "label": "09:00",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2533,
-      "lost": 492,
-      "rate": 83.74,
-      "count": 3025
+      "won": 2536,
+      "lost": 493,
+      "rate": 83.72,
+      "count": 3029
     },
     {
       "name": "Over 3.5 Goals",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 150640,
-    "elite_pattern": 41118,
-    "scanner_pattern": 95134,
+    "elite_pattern": 41114,
+    "scanner_pattern": 95128,
     "elite_satir": 68229,
-    "scanner_satir": 110602,
-    "skorlanan": 1385,
+    "scanner_satir": 110596,
+    "skorlanan": 1372,
     "min_ornek": 10,
-    "guncelleme": "2026-11-01T15:56:38"
+    "guncelleme": "2026-11-01T16:04:21"
   }
 }
