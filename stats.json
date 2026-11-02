@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 89122,
-    "lost": 20966,
+    "won": 89130,
+    "lost": 20967,
     "rate": 81.0,
-    "total": 110088,
+    "total": 110097,
     "last_24h": {
-      "won": 110,
-      "lost": 16,
-      "rate": 87.3,
-      "total": 126
+      "won": 105,
+      "lost": 15,
+      "rate": 87.5,
+      "total": 120
     },
     "all": {
       "won": 98883,
       "lost": 51259,
       "total": 150142,
       "rate": 65.9,
-      "excluded": 40054
+      "excluded": 40045
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.7,
-      "count": 7715
+      "count": 7719
     },
     {
       "label": "Tuesday",
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.9,
-      "count": 25317
+      "count": 25321
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36332
+      "count": 36333
     }
   ],
   "by_hour": [
@@ -74,7 +74,7 @@
     {
       "label": "13:00",
       "rate": 81.6,
-      "count": 8693
+      "count": 8697
     },
     {
       "label": "14:00",
@@ -109,7 +109,7 @@
     {
       "label": "20:00",
       "rate": 81.5,
-      "count": 2963
+      "count": 2967
     },
     {
       "label": "11:00",
@@ -154,7 +154,7 @@
     {
       "label": "00:00",
       "rate": 81.8,
-      "count": 1448
+      "count": 1449
     },
     {
       "label": "21:00",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2563,
+      "won": 2564,
       "lost": 520,
-      "rate": 83.13,
-      "count": 3083
+      "rate": 83.14,
+      "count": 3084
     },
     {
       "name": "Over 3.5 Goals",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 151391,
-    "elite_pattern": 41289,
-    "scanner_pattern": 95537,
+    "gecmis_satir": 151402,
+    "elite_pattern": 41295,
+    "scanner_pattern": 95549,
     "elite_satir": 68548,
-    "scanner_satir": 111079,
-    "skorlanan": 1257,
+    "scanner_satir": 111083,
+    "skorlanan": 1244,
     "min_ornek": 10,
-    "guncelleme": "2026-11-02T18:25:43"
+    "guncelleme": "2026-11-02T18:32:50"
   }
 }
