@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 89281,
-    "lost": 20998,
+    "won": 89285,
+    "lost": 21001,
     "rate": 81.0,
-    "total": 110279,
+    "total": 110286,
     "last_24h": {
-      "won": 134,
-      "lost": 32,
-      "rate": 80.7,
-      "total": 166
+      "won": 139,
+      "lost": 33,
+      "rate": 80.8,
+      "total": 172
     },
     "all": {
-      "won": 99071,
-      "lost": 51391,
-      "total": 150462,
+      "won": 99089,
+      "lost": 51400,
+      "total": 150489,
       "rate": 65.8,
-      "excluded": 40183
+      "excluded": 40203
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7846
+      "count": 7854
     },
     {
       "label": "Tuesday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16756
+      "count": 16754
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36363
+      "count": 36364
     }
   ],
   "by_hour": [
@@ -79,7 +79,7 @@
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 12351
+      "count": 12352
     },
     {
       "label": "15:00",
@@ -99,12 +99,12 @@
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12503
+      "count": 12502
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10013
+      "count": 10019
     },
     {
       "label": "20:00",
@@ -154,7 +154,7 @@
     {
       "label": "00:00",
       "rate": 81.8,
-      "count": 1448
+      "count": 1449
     },
     {
       "label": "21:00",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 151474,
-    "elite_pattern": 41309,
-    "scanner_pattern": 95653,
-    "elite_satir": 68524,
-    "scanner_satir": 111074,
-    "skorlanan": 999,
+    "gecmis_satir": 151477,
+    "elite_pattern": 41311,
+    "scanner_pattern": 95659,
+    "elite_satir": 68528,
+    "scanner_satir": 111078,
+    "skorlanan": 996,
     "min_ornek": 10,
-    "guncelleme": "2026-11-03T00:56:39"
+    "guncelleme": "2026-11-03T01:03:38"
   }
 }
