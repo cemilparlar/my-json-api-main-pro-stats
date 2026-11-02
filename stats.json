@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 89158,
-    "lost": 20971,
+    "won": 89162,
+    "lost": 20972,
     "rate": 81.0,
-    "total": 110129,
+    "total": 110134,
     "last_24h": {
-      "won": 82,
-      "lost": 13,
-      "rate": 86.3,
-      "total": 95
+      "won": 79,
+      "lost": 11,
+      "rate": 87.8,
+      "total": 90
     },
     "all": {
-      "won": 98915,
-      "lost": 51275,
-      "total": 150190,
+      "won": 98917,
+      "lost": 51276,
+      "total": 150193,
       "rate": 65.9,
-      "excluded": 40061
+      "excluded": 40059
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7730
+      "count": 7735
     },
     {
       "label": "Tuesday",
@@ -84,7 +84,7 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 10810
+      "count": 10815
     },
     {
       "label": "16:00",
@@ -544,9 +544,9 @@
     {
       "name": "Match Result 1",
       "won": 2557,
-      "lost": 496,
-      "rate": 83.75,
-      "count": 3053
+      "lost": 497,
+      "rate": 83.73,
+      "count": 3054
     },
     {
       "name": "Over 3.5 Goals",
@@ -641,8 +641,8 @@
     },
     {
       "odd": 1.44,
-      "rate": 84.62,
-      "count": 533
+      "rate": 84.64,
+      "count": 534
     },
     {
       "odd": 1.67,
@@ -655,14 +655,14 @@
       "count": 160
     },
     {
-      "odd": 1.49,
-      "rate": 84.29,
-      "count": 210
-    },
-    {
       "odd": 1.64,
       "rate": 84.21,
       "count": 95
+    },
+    {
+      "odd": 1.49,
+      "rate": 83.89,
+      "count": 211
     }
   ],
   "top_matches": [
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 151435,
-    "elite_pattern": 41299,
-    "scanner_pattern": 95588,
-    "elite_satir": 68547,
+    "elite_pattern": 41301,
+    "scanner_pattern": 95595,
+    "elite_satir": 68542,
     "scanner_satir": 111100,
-    "skorlanan": 1252,
+    "skorlanan": 1237,
     "min_ornek": 10,
-    "guncelleme": "2026-11-02T20:21:35"
+    "guncelleme": "2026-11-02T20:28:54"
   }
 }
