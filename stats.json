@@ -1,9 +1,9 @@
 {
   "summary": {
-    "won": 89093,
-    "lost": 20959,
+    "won": 89090,
+    "lost": 20954,
     "rate": 81.0,
-    "total": 110052,
+    "total": 110044,
     "last_24h": {
       "won": 170,
       "lost": 28,
@@ -11,11 +11,11 @@
       "total": 198
     },
     "all": {
-      "won": 98835,
+      "won": 98836,
       "lost": 51232,
-      "total": 150067,
+      "total": 150068,
       "rate": 65.9,
-      "excluded": 40015
+      "excluded": 40024
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8928
+      "count": 8929
     },
     {
       "label": "Wednesday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36335
+      "count": 36326
     }
   ],
   "by_hour": [
@@ -79,7 +79,7 @@
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 12356
+      "count": 12349
     },
     {
       "label": "15:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.8,
-      "count": 6393
+      "count": 6392
     },
     {
       "label": "09:00",
@@ -509,9 +509,9 @@
     {
       "name": "Handicap (0:1) 2",
       "won": 1797,
-      "lost": 298,
-      "rate": 85.78,
-      "count": 2095
+      "lost": 297,
+      "rate": 85.82,
+      "count": 2094
     },
     {
       "name": "Over 0.5 Goals",
@@ -557,10 +557,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2560,
+      "won": 2559,
       "lost": 518,
       "rate": 83.17,
-      "count": 3078
+      "count": 3077
     }
   ],
   "top_odds": [
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 151364,
-    "elite_pattern": 41277,
-    "scanner_pattern": 95492,
-    "elite_satir": 68533,
-    "scanner_satir": 111062,
-    "skorlanan": 1306,
+    "elite_pattern": 41272,
+    "scanner_pattern": 95480,
+    "elite_satir": 68522,
+    "scanner_satir": 111051,
+    "skorlanan": 1293,
     "min_ornek": 10,
-    "guncelleme": "2026-11-02T16:00:41"
+    "guncelleme": "2026-11-02T16:07:37"
   }
 }
