@@ -1,33 +1,33 @@
 {
   "summary": {
-    "won": 89169,
+    "won": 89178,
     "lost": 20972,
     "rate": 81.0,
-    "total": 110141,
+    "total": 110150,
     "last_24h": {
-      "won": 81,
-      "lost": 11,
-      "rate": 88.0,
-      "total": 92
+      "won": 96,
+      "lost": 18,
+      "rate": 84.2,
+      "total": 114
     },
     "all": {
       "won": 98941,
       "lost": 51306,
       "total": 150247,
       "rate": 65.9,
-      "excluded": 40106
+      "excluded": 40097
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7737
+      "count": 7751
     },
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8926
+      "count": 8925
     },
     {
       "label": "Wednesday",
@@ -36,8 +36,8 @@
     },
     {
       "label": "Sunday",
-      "rate": 80.8,
-      "count": 25350
+      "rate": 80.9,
+      "count": 25346
     },
     {
       "label": "Thursday",
@@ -64,17 +64,17 @@
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 3818
+      "count": 3817
     },
     {
       "label": "12:00",
       "rate": 80.9,
-      "count": 7682
+      "count": 7681
     },
     {
       "label": "13:00",
       "rate": 81.6,
-      "count": 8708
+      "count": 8707
     },
     {
       "label": "14:00",
@@ -84,12 +84,12 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 10815
+      "count": 10816
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9112
+      "count": 9124
     },
     {
       "label": "17:00",
@@ -99,7 +99,7 @@
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12466
+      "count": 12465
     },
     {
       "label": "19:00",
@@ -509,9 +509,9 @@
     {
       "name": "Handicap (0:1) 2",
       "won": 1797,
-      "lost": 297,
-      "rate": 85.82,
-      "count": 2094
+      "lost": 296,
+      "rate": 85.86,
+      "count": 2093
     },
     {
       "name": "Over 0.5 Goals",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2557,
+      "won": 2558,
       "lost": 497,
       "rate": 83.73,
-      "count": 3054
+      "count": 3055
     },
     {
       "name": "Over 3.5 Goals",
@@ -580,14 +580,14 @@
       "count": 63
     },
     {
-      "odd": 1.75,
-      "rate": 87.0,
-      "count": 100
-    },
-    {
       "odd": 1.66,
       "rate": 86.9,
       "count": 84
+    },
+    {
+      "odd": 1.75,
+      "rate": 86.87,
+      "count": 99
     },
     {
       "odd": 1.71,
@@ -600,14 +600,14 @@
       "count": 38
     },
     {
-      "odd": 1.46,
-      "rate": 86.6,
-      "count": 291
-    },
-    {
       "odd": 1.9,
       "rate": 86.49,
       "count": 37
+    },
+    {
+      "odd": 1.46,
+      "rate": 86.3,
+      "count": 292
     },
     {
       "odd": 1.79,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 151448,
-    "elite_pattern": 41300,
-    "scanner_pattern": 95596,
-    "elite_satir": 68545,
+    "gecmis_satir": 151466,
+    "elite_pattern": 41301,
+    "scanner_pattern": 95587,
+    "elite_satir": 68549,
     "scanner_satir": 111112,
-    "skorlanan": 1238,
+    "skorlanan": 1192,
     "min_ornek": 10,
-    "guncelleme": "2026-11-02T21:04:46"
+    "guncelleme": "2026-11-02T21:12:31"
   }
 }
