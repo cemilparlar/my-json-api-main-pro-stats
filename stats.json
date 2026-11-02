@@ -1,33 +1,33 @@
 {
   "summary": {
-    "won": 89285,
-    "lost": 21001,
+    "won": 89303,
+    "lost": 21004,
     "rate": 81.0,
-    "total": 110286,
+    "total": 110307,
     "last_24h": {
-      "won": 139,
-      "lost": 33,
-      "rate": 80.8,
-      "total": 172
+      "won": 156,
+      "lost": 36,
+      "rate": 81.2,
+      "total": 192
     },
     "all": {
       "won": 99089,
       "lost": 51400,
       "total": 150489,
       "rate": 65.8,
-      "excluded": 40203
+      "excluded": 40182
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7854
+      "count": 7875
     },
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8928
+      "count": 8927
     },
     {
       "label": "Wednesday",
@@ -36,8 +36,8 @@
     },
     {
       "label": "Sunday",
-      "rate": 80.8,
-      "count": 25351
+      "rate": 80.9,
+      "count": 25349
     },
     {
       "label": "Thursday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16754
+      "count": 16756
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36364
+      "count": 36365
     }
   ],
   "by_hour": [
@@ -79,17 +79,17 @@
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 12352
+      "count": 12353
     },
     {
       "label": "15:00",
-      "rate": 81.1,
-      "count": 10819
+      "rate": 81.2,
+      "count": 10818
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9124
+      "count": 9123
     },
     {
       "label": "17:00",
@@ -104,12 +104,12 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10019
+      "count": 10020
     },
     {
       "label": "20:00",
       "rate": 81.5,
-      "count": 2966
+      "count": 2985
     },
     {
       "label": "11:00",
@@ -124,12 +124,12 @@
     {
       "label": "22:00",
       "rate": 81.5,
-      "count": 1958
+      "count": 1959
     },
     {
       "label": "01:00",
       "rate": 81.2,
-      "count": 980
+      "count": 981
     },
     {
       "label": "06:00",
@@ -508,10 +508,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1795,
+      "won": 1794,
       "lost": 297,
       "rate": 85.8,
-      "count": 2092
+      "count": 2091
     },
     {
       "name": "Over 0.5 Goals",
@@ -536,17 +536,17 @@
     },
     {
       "name": "Total Goals 2-3",
-      "won": 284,
+      "won": 285,
       "lost": 52,
-      "rate": 84.52,
-      "count": 336
+      "rate": 84.57,
+      "count": 337
     },
     {
       "name": "Match Result 1",
-      "won": 2560,
+      "won": 2561,
       "lost": 498,
-      "rate": 83.71,
-      "count": 3058
+      "rate": 83.72,
+      "count": 3059
     },
     {
       "name": "Over 3.5 Goals",
@@ -557,10 +557,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2568,
+      "won": 2569,
       "lost": 521,
-      "rate": 83.13,
-      "count": 3089
+      "rate": 83.14,
+      "count": 3090
     }
   ],
   "top_odds": [
@@ -606,8 +606,8 @@
     },
     {
       "odd": 1.79,
-      "rate": 86.17,
-      "count": 94
+      "rate": 86.32,
+      "count": 95
     },
     {
       "odd": 1.76,
@@ -640,6 +640,11 @@
       "count": 315
     },
     {
+      "odd": 1.59,
+      "rate": 84.81,
+      "count": 158
+    },
+    {
       "odd": 1.67,
       "rate": 84.54,
       "count": 97
@@ -648,11 +653,6 @@
       "odd": 1.44,
       "rate": 84.46,
       "count": 534
-    },
-    {
-      "odd": 1.59,
-      "rate": 84.28,
-      "count": 159
     },
     {
       "odd": 1.64,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 151477,
-    "elite_pattern": 41311,
-    "scanner_pattern": 95659,
-    "elite_satir": 68528,
-    "scanner_satir": 111078,
-    "skorlanan": 996,
+    "elite_pattern": 41315,
+    "scanner_pattern": 95676,
+    "elite_satir": 68525,
+    "scanner_satir": 111075,
+    "skorlanan": 967,
     "min_ornek": 10,
-    "guncelleme": "2026-11-03T01:03:38"
+    "guncelleme": "2026-11-03T01:10:35"
   }
 }
