@@ -1,33 +1,33 @@
 {
   "summary": {
-    "won": 89240,
-    "lost": 20987,
+    "won": 89242,
+    "lost": 20990,
     "rate": 81.0,
-    "total": 110227,
+    "total": 110232,
     "last_24h": {
-      "won": 96,
-      "lost": 19,
-      "rate": 83.5,
-      "total": 115
+      "won": 99,
+      "lost": 20,
+      "rate": 83.2,
+      "total": 119
     },
     "all": {
       "won": 99004,
       "lost": 51343,
       "total": 150347,
       "rate": 65.9,
-      "excluded": 40120
+      "excluded": 40115
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7797
+      "count": 7799
     },
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8926
+      "count": 8927
     },
     {
       "label": "Wednesday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36350
+      "count": 36352
     }
   ],
   "by_hour": [
@@ -63,8 +63,8 @@
     },
     {
       "label": "10:00",
-      "rate": 80.3,
-      "count": 3816
+      "rate": 80.2,
+      "count": 3817
     },
     {
       "label": "12:00",
@@ -74,12 +74,12 @@
     {
       "label": "13:00",
       "rate": 81.5,
-      "count": 8710
+      "count": 8709
     },
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 12352
+      "count": 12351
     },
     {
       "label": "15:00",
@@ -94,12 +94,12 @@
     {
       "label": "17:00",
       "rate": 80.8,
-      "count": 9957
+      "count": 9959
     },
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12484
+      "count": 12488
     },
     {
       "label": "19:00",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 151464,
-    "elite_pattern": 41333,
-    "scanner_pattern": 95664,
-    "elite_satir": 68563,
+    "elite_pattern": 41332,
+    "scanner_pattern": 95665,
+    "elite_satir": 68564,
     "scanner_satir": 111117,
-    "skorlanan": 1107,
+    "skorlanan": 1095,
     "min_ornek": 10,
-    "guncelleme": "2026-11-02T23:11:12"
+    "guncelleme": "2026-11-02T23:18:03"
   }
 }
