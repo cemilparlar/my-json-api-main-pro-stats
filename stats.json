@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 89457,
-    "lost": 21047,
+    "won": 89460,
+    "lost": 21049,
     "rate": 81.0,
-    "total": 110504,
+    "total": 110509,
     "last_24h": {
-      "won": 215,
+      "won": 219,
       "lost": 46,
-      "rate": 82.4,
-      "total": 261
+      "rate": 82.6,
+      "total": 265
     },
     "all": {
-      "won": 99249,
-      "lost": 51459,
-      "total": 150708,
+      "won": 99253,
+      "lost": 51465,
+      "total": 150718,
       "rate": 65.9,
-      "excluded": 40204
+      "excluded": 40209
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7920
+      "count": 7922
     },
     {
       "label": "Tuesday",
@@ -32,7 +32,7 @@
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 8507
+      "count": 8508
     },
     {
       "label": "Sunday",
@@ -42,7 +42,7 @@
     {
       "label": "Thursday",
       "rate": 81.6,
-      "count": 6528
+      "count": 6529
     },
     {
       "label": "Friday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36448
+      "count": 36449
     }
   ],
   "by_hour": [
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9123
+      "count": 9122
     },
     {
       "label": "17:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10024
+      "count": 10030
     },
     {
       "label": "20:00",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2566,
+      "won": 2567,
       "lost": 499,
       "rate": 83.72,
-      "count": 3065
+      "count": 3066
     },
     {
       "name": "Over 3.5 Goals",
@@ -1070,11 +1070,11 @@
   "patterns": {
     "gecmis_satir": 151467,
     "elite_pattern": 41378,
-    "scanner_pattern": 95819,
+    "scanner_pattern": 95820,
     "elite_satir": 68529,
-    "scanner_satir": 111064,
-    "skorlanan": 723,
+    "scanner_satir": 111063,
+    "skorlanan": 709,
     "min_ornek": 10,
-    "guncelleme": "2026-11-03T13:56:07"
+    "guncelleme": "2026-11-03T14:03:18"
   }
 }
