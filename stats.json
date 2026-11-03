@@ -1,9 +1,9 @@
 {
   "summary": {
-    "won": 89375,
-    "lost": 21023,
+    "won": 89382,
+    "lost": 21028,
     "rate": 81.0,
-    "total": 110398,
+    "total": 110410,
     "last_24h": {
       "won": 181,
       "lost": 38,
@@ -11,11 +11,11 @@
       "total": 219
     },
     "all": {
-      "won": 99167,
-      "lost": 51426,
-      "total": 150593,
+      "won": 99171,
+      "lost": 51429,
+      "total": 150600,
       "rate": 65.9,
-      "excluded": 40195
+      "excluded": 40190
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 8932
+      "count": 8935
     },
     {
       "label": "Wednesday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36411
+      "count": 36420
     }
   ],
   "by_hour": [
@@ -79,12 +79,12 @@
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 12356
+      "count": 12359
     },
     {
       "label": "15:00",
       "rate": 81.2,
-      "count": 10860
+      "count": 10866
     },
     {
       "label": "16:00",
@@ -99,7 +99,7 @@
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12503
+      "count": 12506
     },
     {
       "label": "19:00",
@@ -558,9 +558,9 @@
     {
       "name": "Handicap (1:0) 1",
       "won": 2574,
-      "lost": 523,
-      "rate": 83.11,
-      "count": 3097
+      "lost": 524,
+      "rate": 83.09,
+      "count": 3098
     }
   ],
   "top_odds": [
@@ -651,8 +651,8 @@
     },
     {
       "odd": 1.44,
-      "rate": 84.46,
-      "count": 534
+      "rate": 84.3,
+      "count": 535
     },
     {
       "odd": 1.64,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 151457,
-    "elite_pattern": 41366,
-    "scanner_pattern": 95760,
-    "elite_satir": 68544,
-    "scanner_satir": 111061,
-    "skorlanan": 825,
+    "gecmis_satir": 151459,
+    "elite_pattern": 41361,
+    "scanner_pattern": 95751,
+    "elite_satir": 68538,
+    "scanner_satir": 111066,
+    "skorlanan": 819,
     "min_ornek": 10,
-    "guncelleme": "2026-11-03T07:12:42"
+    "guncelleme": "2026-11-03T07:21:04"
   }
 }
