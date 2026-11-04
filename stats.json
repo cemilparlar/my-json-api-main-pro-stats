@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 89724,
-    "lost": 21137,
+    "won": 89728,
+    "lost": 21134,
     "rate": 80.9,
-    "total": 110861,
+    "total": 110862,
     "last_24h": {
-      "won": 62,
-      "lost": 17,
-      "rate": 78.5,
-      "total": 79
+      "won": 69,
+      "lost": 19,
+      "rate": 78.4,
+      "total": 88
     },
     "all": {
       "won": 99566,
       "lost": 51627,
       "total": 151193,
       "rate": 65.9,
-      "excluded": 40332
+      "excluded": 40331
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 9161
+      "count": 9162
     },
     {
       "label": "Wednesday",
@@ -64,7 +64,7 @@
     {
       "label": "10:00",
       "rate": 80.1,
-      "count": 3837
+      "count": 3836
     },
     {
       "label": "12:00",
@@ -94,17 +94,17 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10007
+      "count": 10006
     },
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12541
+      "count": 12542
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10084
+      "count": 10086
     },
     {
       "label": "20:00",
@@ -502,16 +502,16 @@
     {
       "name": "Match Result 2",
       "won": 994,
-      "lost": 164,
-      "rate": 85.84,
-      "count": 1158
+      "lost": 163,
+      "rate": 85.91,
+      "count": 1157
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1801,
+      "won": 1802,
       "lost": 297,
-      "rate": 85.84,
-      "count": 2098
+      "rate": 85.85,
+      "count": 2099
     },
     {
       "name": "Over 0.5 Goals",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 151605,
-    "elite_pattern": 41471,
-    "scanner_pattern": 96061,
-    "elite_satir": 68505,
-    "scanner_satir": 111158,
-    "skorlanan": 433,
+    "gecmis_satir": 151603,
+    "elite_pattern": 41470,
+    "scanner_pattern": 96038,
+    "elite_satir": 68498,
+    "scanner_satir": 111136,
+    "skorlanan": 410,
     "min_ornek": 10,
-    "guncelleme": "2026-11-05T00:43:02"
+    "guncelleme": "2026-11-05T00:50:13"
   }
 }
