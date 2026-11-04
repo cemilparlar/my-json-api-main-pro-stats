@@ -1,9 +1,9 @@
 {
   "summary": {
-    "won": 89653,
-    "lost": 21111,
+    "won": 89656,
+    "lost": 21114,
     "rate": 80.9,
-    "total": 110764,
+    "total": 110770,
     "last_24h": {
       "won": 149,
       "lost": 36,
@@ -11,18 +11,18 @@
       "total": 185
     },
     "all": {
-      "won": 99478,
-      "lost": 51581,
-      "total": 151059,
+      "won": 99480,
+      "lost": 51582,
+      "total": 151062,
       "rate": 65.9,
-      "excluded": 40295
+      "excluded": 40292
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7929
+      "count": 7930
     },
     {
       "label": "Tuesday",
@@ -31,8 +31,8 @@
     },
     {
       "label": "Wednesday",
-      "rate": 81.8,
-      "count": 8521
+      "rate": 81.7,
+      "count": 8526
     },
     {
       "label": "Sunday",
@@ -64,12 +64,12 @@
     {
       "label": "10:00",
       "rate": 80.1,
-      "count": 3828
+      "count": 3829
     },
     {
       "label": "12:00",
       "rate": 80.9,
-      "count": 7698
+      "count": 7699
     },
     {
       "label": "13:00",
@@ -84,7 +84,7 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 10904
+      "count": 10905
     },
     {
       "label": "16:00",
@@ -94,7 +94,7 @@
     {
       "label": "17:00",
       "rate": 80.8,
-      "count": 9984
+      "count": 9985
     },
     {
       "label": "18:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10075
+      "count": 10076
     },
     {
       "label": "20:00",
@@ -118,8 +118,8 @@
     },
     {
       "label": "09:00",
-      "rate": 81.1,
-      "count": 1412
+      "rate": 81.0,
+      "count": 1413
     },
     {
       "label": "22:00",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 151504,
-    "elite_pattern": 41447,
+    "elite_pattern": 41443,
     "scanner_pattern": 96008,
-    "elite_satir": 68489,
-    "scanner_satir": 111068,
-    "skorlanan": 456,
+    "elite_satir": 68484,
+    "scanner_satir": 111073,
+    "skorlanan": 445,
     "min_ornek": 10,
-    "guncelleme": "2026-11-04T05:52:01"
+    "guncelleme": "2026-11-04T05:59:08"
   }
 }
