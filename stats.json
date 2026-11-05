@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 89807,
+    "won": 89808,
     "lost": 21164,
     "rate": 80.9,
-    "total": 110971,
+    "total": 110972,
     "last_24h": {
-      "won": 76,
-      "lost": 16,
-      "rate": 82.6,
-      "total": 92
+      "won": 80,
+      "lost": 19,
+      "rate": 80.8,
+      "total": 99
     },
     "all": {
       "won": 99645,
       "lost": 51681,
       "total": 151326,
       "rate": 65.8,
-      "excluded": 40355
+      "excluded": 40354
     }
   },
   "by_day": [
@@ -27,32 +27,32 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 9174
+      "count": 9175
     },
     {
       "label": "Wednesday",
-      "rate": 81.6,
-      "count": 8691
+      "rate": 81.7,
+      "count": 8689
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 25405
+      "count": 25406
     },
     {
       "label": "Thursday",
       "rate": 81.6,
-      "count": 6549
+      "count": 6555
     },
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16764
+      "count": 16762
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36458
+      "count": 36455
     }
   ],
   "by_hour": [
@@ -74,17 +74,17 @@
     {
       "label": "13:00",
       "rate": 81.5,
-      "count": 8731
+      "count": 8736
     },
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 12362
+      "count": 12360
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 10912
+      "count": 10911
     },
     {
       "label": "16:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10086
+      "count": 10087
     },
     {
       "label": "20:00",
@@ -124,7 +124,7 @@
     {
       "label": "22:00",
       "rate": 81.6,
-      "count": 1995
+      "count": 1993
     },
     {
       "label": "01:00",
@@ -179,11 +179,6 @@
   ],
   "top_teams": [
     {
-      "team": "Entebbe Uppc",
-      "rate": 100.0,
-      "count": 27
-    },
-    {
       "team": "Juventud Torre",
       "rate": 100.0,
       "count": 26
@@ -195,8 +190,8 @@
     },
     {
       "team": "Hungary",
-      "rate": 97.37,
-      "count": 38
+      "rate": 97.44,
+      "count": 39
     },
     {
       "team": "FC Bulle",
@@ -207,6 +202,11 @@
       "team": "Asyut Petroleum",
       "rate": 96.97,
       "count": 33
+    },
+    {
+      "team": "Entebbe Uppc",
+      "rate": 96.67,
+      "count": 30
     },
     {
       "team": "Municipal Limen",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1000,
+      "won": 1001,
       "lost": 163,
-      "rate": 85.98,
-      "count": 1163
+      "rate": 86.0,
+      "count": 1164
     },
     {
       "name": "Handicap (0:1) 2",
@@ -640,11 +640,6 @@
       "count": 99
     },
     {
-      "odd": 1.67,
-      "rate": 84.62,
-      "count": 91
-    },
-    {
       "odd": 1.64,
       "rate": 84.38,
       "count": 96
@@ -658,6 +653,11 @@
       "odd": 1.44,
       "rate": 84.14,
       "count": 536
+    },
+    {
+      "odd": 1.67,
+      "rate": 83.91,
+      "count": 87
     },
     {
       "odd": 1.49,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 153614,
-    "elite_pattern": 41512,
-    "scanner_pattern": 96113,
-    "elite_satir": 69493,
-    "scanner_satir": 112820,
-    "skorlanan": 2316,
+    "gecmis_satir": 153684,
+    "elite_pattern": 41498,
+    "scanner_pattern": 96094,
+    "elite_satir": 69514,
+    "scanner_satir": 112868,
+    "skorlanan": 2353,
     "min_ornek": 10,
-    "guncelleme": "2026-11-05T17:59:00"
+    "guncelleme": "2026-11-05T18:07:32"
   }
 }
