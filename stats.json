@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 89921,
-    "lost": 21189,
+    "won": 89928,
+    "lost": 21194,
     "rate": 80.9,
-    "total": 111110,
+    "total": 111122,
     "last_24h": {
-      "won": 92,
-      "lost": 17,
-      "rate": 84.4,
-      "total": 109
+      "won": 96,
+      "lost": 19,
+      "rate": 83.5,
+      "total": 115
     },
     "all": {
-      "won": 99823,
-      "lost": 51814,
-      "total": 151637,
+      "won": 99833,
+      "lost": 51825,
+      "total": 151658,
       "rate": 65.8,
-      "excluded": 40527
+      "excluded": 40536
     }
   },
   "by_day": [
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 16795
+      "count": 16801
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36452
+      "count": 36458
     }
   ],
   "by_hour": [
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 80.9,
-      "count": 7721
+      "count": 7727
     },
     {
       "label": "13:00",
@@ -153,8 +153,8 @@
     },
     {
       "label": "00:00",
-      "rate": 81.7,
-      "count": 1487
+      "rate": 81.6,
+      "count": 1493
     },
     {
       "label": "21:00",
@@ -249,6 +249,11 @@
       "count": 22
     },
     {
+      "team": "Emirates Club",
+      "rate": 95.24,
+      "count": 21
+    },
+    {
       "team": "Weymouth",
       "rate": 95.24,
       "count": 21
@@ -270,11 +275,6 @@
     },
     {
       "team": "Mardin 1969",
-      "rate": 95.24,
-      "count": 21
-    },
-    {
-      "team": "Dominican Republic",
       "rate": 95.24,
       "count": 21
     }
@@ -530,9 +530,9 @@
     {
       "name": "1st Half Result 1",
       "won": 352,
-      "lost": 61,
-      "rate": 85.23,
-      "count": 413
+      "lost": 62,
+      "rate": 85.02,
+      "count": 414
     },
     {
       "name": "Total Goals 2-3",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2592,
+      "won": 2594,
       "lost": 504,
-      "rate": 83.72,
-      "count": 3096
+      "rate": 83.73,
+      "count": 3098
     },
     {
       "name": "Handicap (1:0) 1",
@@ -1071,10 +1071,10 @@
     "gecmis_satir": 154452,
     "elite_pattern": 41537,
     "scanner_pattern": 96198,
-    "elite_satir": 69827,
-    "scanner_satir": 113405,
-    "skorlanan": 2815,
+    "elite_satir": 69838,
+    "scanner_satir": 113412,
+    "skorlanan": 2825,
     "min_ornek": 10,
-    "guncelleme": "2026-11-06T17:50:13"
+    "guncelleme": "2026-11-06T17:58:03"
   }
 }
