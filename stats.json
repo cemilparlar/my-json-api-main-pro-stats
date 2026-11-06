@@ -5,10 +5,10 @@
     "rate": 80.9,
     "total": 111126,
     "last_24h": {
-      "won": 99,
-      "lost": 19,
-      "rate": 83.9,
-      "total": 118
+      "won": 100,
+      "lost": 20,
+      "rate": 83.3,
+      "total": 120
     },
     "all": {
       "won": 99834,
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 80.9,
-      "count": 7734
+      "count": 7732
     },
     {
       "label": "13:00",
@@ -84,12 +84,12 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 10911
+      "count": 10912
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9155
+      "count": 9156
     },
     {
       "label": "17:00",
@@ -282,10 +282,10 @@
   "top_leagues": [
     {
       "name": "T2L-B",
-      "won": 7,
+      "won": 6,
       "lost": 0,
       "rate": 100.0,
-      "count": 7
+      "count": 6
     },
     {
       "name": "MLTAK",
@@ -393,13 +393,6 @@
       "count": 5
     },
     {
-      "name": "ÜRD1",
-      "won": 7,
-      "lost": 0,
-      "rate": 100.0,
-      "count": 7
-    },
-    {
       "name": "İZKL1",
       "won": 8,
       "lost": 0,
@@ -419,6 +412,13 @@
       "lost": 2,
       "rate": 95.74,
       "count": 47
+    },
+    {
+      "name": " ÜRD1",
+      "won": 22,
+      "lost": 1,
+      "rate": 95.65,
+      "count": 23
     }
   ],
   "top_predictions": [
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1001,
+      "won": 1000,
       "lost": 164,
-      "rate": 85.92,
-      "count": 1165
+      "rate": 85.91,
+      "count": 1164
     },
     {
       "name": "Handicap (0:1) 2",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 154452,
-    "elite_pattern": 41537,
-    "scanner_pattern": 96193,
-    "elite_satir": 69835,
-    "scanner_satir": 113415,
-    "skorlanan": 2794,
+    "gecmis_satir": 154466,
+    "elite_pattern": 41535,
+    "scanner_pattern": 96190,
+    "elite_satir": 69839,
+    "scanner_satir": 113423,
+    "skorlanan": 2812,
     "min_ornek": 10,
-    "guncelleme": "2026-11-06T18:05:22"
+    "guncelleme": "2026-11-06T18:13:48"
   }
 }
