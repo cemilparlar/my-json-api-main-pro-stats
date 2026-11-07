@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 90253,
-    "lost": 21263,
+    "won": 90255,
+    "lost": 21264,
     "rate": 80.9,
-    "total": 111516,
+    "total": 111519,
     "last_24h": {
-      "won": 297,
-      "lost": 71,
-      "rate": 80.7,
-      "total": 368
+      "won": 300,
+      "lost": 72,
+      "rate": 80.6,
+      "total": 372
     },
     "all": {
       "won": 100180,
       "lost": 51988,
       "total": 152168,
       "rate": 65.8,
-      "excluded": 40652
+      "excluded": 40649
     }
   },
   "by_day": [
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36574
+      "count": 36577
     }
   ],
   "by_hour": [
@@ -64,12 +64,12 @@
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 3841
+      "count": 3843
     },
     {
       "label": "12:00",
       "rate": 80.9,
-      "count": 7730
+      "count": 7732
     },
     {
       "label": "13:00",
@@ -94,7 +94,7 @@
     {
       "label": "17:00",
       "rate": 80.8,
-      "count": 10084
+      "count": 10083
     },
     {
       "label": "18:00",
@@ -501,9 +501,9 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1001,
-      "lost": 163,
-      "rate": 86.0,
+      "won": 1000,
+      "lost": 164,
+      "rate": 85.91,
       "count": 1164
     },
     {
@@ -615,14 +615,14 @@
       "count": 103
     },
     {
-      "odd": 1.46,
-      "rate": 86.05,
-      "count": 294
-    },
-    {
       "odd": 1.79,
       "rate": 86.02,
       "count": 93
+    },
+    {
+      "odd": 1.46,
+      "rate": 86.01,
+      "count": 293
     },
     {
       "odd": 2.03,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 154682,
-    "elite_pattern": 41622,
+    "gecmis_satir": 154683,
+    "elite_pattern": 41620,
     "scanner_pattern": 96400,
-    "elite_satir": 69828,
+    "elite_satir": 69816,
     "scanner_satir": 113536,
-    "skorlanan": 2530,
+    "skorlanan": 2521,
     "min_ornek": 10,
-    "guncelleme": "2026-11-07T15:00:30"
+    "guncelleme": "2026-11-07T15:10:06"
   }
 }
