@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 90648,
-    "lost": 21359,
+    "won": 90649,
+    "lost": 21361,
     "rate": 80.9,
-    "total": 112007,
+    "total": 112010,
     "last_24h": {
-      "won": 480,
-      "lost": 99,
-      "rate": 82.9,
-      "total": 579
+      "won": 482,
+      "lost": 101,
+      "rate": 82.7,
+      "total": 583
     },
     "all": {
-      "won": 100589,
-      "lost": 52174,
-      "total": 152763,
+      "won": 100601,
+      "lost": 52181,
+      "total": 152782,
       "rate": 65.8,
-      "excluded": 40756
+      "excluded": 40772
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 9171
+      "count": 9172
     },
     {
       "label": "Wednesday",
@@ -42,7 +42,7 @@
     {
       "label": "Thursday",
       "rate": 81.5,
-      "count": 6667
+      "count": 6666
     },
     {
       "label": "Friday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37041
+      "count": 37044
     }
   ],
   "by_hour": [
@@ -79,17 +79,17 @@
     {
       "label": "14:00",
       "rate": 80.8,
-      "count": 12476
+      "count": 12475
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11052
+      "count": 11053
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9192
+      "count": 9194
     },
     {
       "label": "17:00",
@@ -99,7 +99,7 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12593
+      "count": 12594
     },
     {
       "label": "19:00",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 154755,
-    "elite_pattern": 41828,
-    "scanner_pattern": 96834,
-    "elite_satir": 69860,
-    "scanner_satir": 113601,
-    "skorlanan": 2002,
+    "elite_pattern": 41823,
+    "scanner_pattern": 96833,
+    "elite_satir": 69848,
+    "scanner_satir": 113600,
+    "skorlanan": 1983,
     "min_ornek": 10,
-    "guncelleme": "2026-11-07T21:19:00"
+    "guncelleme": "2026-11-07T21:27:27"
   }
 }
