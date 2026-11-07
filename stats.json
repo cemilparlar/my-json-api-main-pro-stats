@@ -1,21 +1,21 @@
 {
   "summary": {
     "won": 90240,
-    "lost": 21251,
+    "lost": 21257,
     "rate": 80.9,
-    "total": 111491,
+    "total": 111497,
     "last_24h": {
-      "won": 306,
-      "lost": 69,
-      "rate": 81.6,
-      "total": 375
+      "won": 308,
+      "lost": 74,
+      "rate": 80.6,
+      "total": 382
     },
     "all": {
-      "won": 100161,
-      "lost": 51978,
-      "total": 152139,
+      "won": 100164,
+      "lost": 51983,
+      "total": 152147,
       "rate": 65.8,
-      "excluded": 40648
+      "excluded": 40650
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 25396
+      "count": 25395
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36550
+      "count": 36557
     }
   ],
   "by_hour": [
@@ -138,8 +138,8 @@
     },
     {
       "label": "07:00",
-      "rate": 81.5,
-      "count": 1257
+      "rate": 81.2,
+      "count": 1263
     },
     {
       "label": "23:00",
@@ -543,17 +543,17 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2600,
-      "lost": 508,
-      "rate": 83.66,
-      "count": 3108
+      "won": 2601,
+      "lost": 509,
+      "rate": 83.63,
+      "count": 3110
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2600,
+      "won": 2599,
       "lost": 532,
       "rate": 83.01,
-      "count": 3132
+      "count": 3131
     },
     {
       "name": "Handicap (0:1) 1",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 154640,
-    "elite_pattern": 41618,
-    "scanner_pattern": 96373,
-    "elite_satir": 69835,
-    "scanner_satir": 113511,
-    "skorlanan": 2513,
+    "gecmis_satir": 154653,
+    "elite_pattern": 41609,
+    "scanner_pattern": 96367,
+    "elite_satir": 69829,
+    "scanner_satir": 113521,
+    "skorlanan": 2501,
     "min_ornek": 10,
-    "guncelleme": "2026-11-07T12:25:53"
+    "guncelleme": "2026-11-07T12:34:49"
   }
 }
