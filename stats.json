@@ -1,21 +1,21 @@
 {
   "summary": {
     "won": 90301,
-    "lost": 21278,
+    "lost": 21277,
     "rate": 80.9,
-    "total": 111579,
+    "total": 111578,
     "last_24h": {
-      "won": 326,
-      "lost": 73,
-      "rate": 81.7,
-      "total": 399
+      "won": 323,
+      "lost": 72,
+      "rate": 81.8,
+      "total": 395
     },
     "all": {
       "won": 100216,
-      "lost": 51999,
-      "total": 152215,
+      "lost": 52000,
+      "total": 152216,
       "rate": 65.8,
-      "excluded": 40636
+      "excluded": 40638
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 25403
+      "count": 25402
     },
     {
       "label": "Thursday",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.8,
-      "count": 6422
+      "count": 6421
     },
     {
       "label": "09:00",
@@ -179,6 +179,11 @@
   ],
   "top_teams": [
     {
+      "team": "Muang Thong United",
+      "rate": 100.0,
+      "count": 22
+    },
+    {
       "team": "Juventud Torre",
       "rate": 100.0,
       "count": 26
@@ -237,11 +242,6 @@
       "team": "Cooma Tigers",
       "rate": 96.0,
       "count": 25
-    },
-    {
-      "team": "Muang Thong United",
-      "rate": 95.65,
-      "count": 23
     },
     {
       "team": "Weiche Flensburg",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 154689,
+    "gecmis_satir": 154702,
     "elite_pattern": 41667,
-    "scanner_pattern": 96480,
-    "elite_satir": 69837,
-    "scanner_satir": 113568,
-    "skorlanan": 2477,
+    "scanner_pattern": 96478,
+    "elite_satir": 69846,
+    "scanner_satir": 113574,
+    "skorlanan": 2488,
     "min_ornek": 10,
-    "guncelleme": "2026-11-07T16:28:42"
+    "guncelleme": "2026-11-07T16:37:40"
   }
 }
