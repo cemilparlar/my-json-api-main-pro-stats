@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 90309,
-    "lost": 21271,
+    "won": 90328,
+    "lost": 21284,
     "rate": 80.9,
-    "total": 111580,
+    "total": 111612,
     "last_24h": {
-      "won": 326,
-      "lost": 73,
-      "rate": 81.7,
-      "total": 399
+      "won": 323,
+      "lost": 82,
+      "rate": 79.8,
+      "total": 405
     },
     "all": {
-      "won": 100219,
-      "lost": 52002,
-      "total": 152221,
+      "won": 100239,
+      "lost": 52017,
+      "total": 152256,
       "rate": 65.8,
-      "excluded": 40641
+      "excluded": 40644
     }
   },
   "by_day": [
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 36628
+      "count": 36660
     }
   ],
   "by_hour": [
@@ -68,8 +68,8 @@
     },
     {
       "label": "12:00",
-      "rate": 80.9,
-      "count": 7733
+      "rate": 80.8,
+      "count": 7763
     },
     {
       "label": "13:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.8,
-      "count": 6423
+      "count": 6425
     },
     {
       "label": "09:00",
@@ -522,17 +522,17 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1809,
+      "won": 1810,
       "lost": 302,
-      "rate": 85.69,
-      "count": 2111
+      "rate": 85.7,
+      "count": 2112
     },
     {
       "name": "1st Half Result 1",
-      "won": 355,
+      "won": 356,
       "lost": 62,
-      "rate": 85.13,
-      "count": 417
+      "rate": 85.17,
+      "count": 418
     },
     {
       "name": "Total Goals 2-3",
@@ -543,17 +543,17 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2611,
-      "lost": 512,
-      "rate": 83.61,
-      "count": 3123
+      "won": 2612,
+      "lost": 513,
+      "rate": 83.58,
+      "count": 3125
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2603,
-      "lost": 531,
-      "rate": 83.06,
-      "count": 3134
+      "won": 2604,
+      "lost": 533,
+      "rate": 83.01,
+      "count": 3137
     },
     {
       "name": "Handicap (0:1) 1",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 154703,
+    "gecmis_satir": 154698,
     "elite_pattern": 41663,
     "scanner_pattern": 96474,
-    "elite_satir": 69841,
-    "scanner_satir": 113565,
-    "skorlanan": 2493,
+    "elite_satir": 69840,
+    "scanner_satir": 113561,
+    "skorlanan": 2487,
     "min_ornek": 10,
-    "guncelleme": "2026-11-07T16:55:50"
+    "guncelleme": "2026-11-07T17:03:18"
   }
 }
