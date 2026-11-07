@@ -1,19 +1,19 @@
 {
   "summary": {
-    "won": 90758,
-    "lost": 21376,
+    "won": 90764,
+    "lost": 21377,
     "rate": 80.9,
-    "total": 112134,
+    "total": 112141,
     "last_24h": {
-      "won": 578,
-      "lost": 128,
+      "won": 584,
+      "lost": 129,
       "rate": 81.9,
-      "total": 706
+      "total": 713
     },
     "all": {
-      "won": 100712,
-      "lost": 52237,
-      "total": 152949,
+      "won": 100718,
+      "lost": 52238,
+      "total": 152956,
       "rate": 65.8,
       "excluded": 40815
     }
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 25412
+      "count": 25411
     },
     {
       "label": "Thursday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17095
+      "count": 17096
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37170
+      "count": 37177
     }
   ],
   "by_hour": [
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10203
+      "count": 10210
     },
     {
       "label": "20:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.8,
-      "count": 6424
+      "count": 6423
     },
     {
       "label": "09:00",
@@ -123,8 +123,8 @@
     },
     {
       "label": "22:00",
-      "rate": 81.6,
-      "count": 1998
+      "rate": 81.5,
+      "count": 1999
     },
     {
       "label": "01:00",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2623,
+      "won": 2624,
       "lost": 532,
       "rate": 83.14,
-      "count": 3155
+      "count": 3156
     },
     {
       "name": "Over 3.5 Goals",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 154999,
-    "elite_pattern": 41876,
-    "scanner_pattern": 96904,
-    "elite_satir": 69964,
-    "scanner_satir": 113759,
-    "skorlanan": 2037,
+    "elite_pattern": 41878,
+    "scanner_pattern": 96917,
+    "elite_satir": 69961,
+    "scanner_satir": 113757,
+    "skorlanan": 2032,
     "min_ornek": 10,
-    "guncelleme": "2026-11-08T00:22:52"
+    "guncelleme": "2026-11-08T00:30:30"
   }
 }
