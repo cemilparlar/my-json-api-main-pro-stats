@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 91476,
-    "lost": 21538,
+    "won": 91488,
+    "lost": 21541,
     "rate": 80.9,
-    "total": 113014,
+    "total": 113029,
     "last_24h": {
-      "won": 605,
-      "lost": 135,
-      "rate": 81.8,
-      "total": 740
+      "won": 620,
+      "lost": 137,
+      "rate": 81.9,
+      "total": 757
     },
     "all": {
       "won": 101494,
       "lost": 52611,
       "total": 154105,
       "rate": 65.9,
-      "excluded": 41091
+      "excluded": 41076
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7936
+      "count": 7937
     },
     {
       "label": "Tuesday",
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26183
+      "count": 26198
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37263
+      "count": 37262
     }
   ],
   "by_hour": [
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 80.9,
-      "count": 7853
+      "count": 7851
     },
     {
       "label": "13:00",
@@ -89,12 +89,12 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9289
+      "count": 9288
     },
     {
       "label": "17:00",
       "rate": 80.8,
-      "count": 10204
+      "count": 10203
     },
     {
       "label": "18:00",
@@ -104,12 +104,12 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10270
+      "count": 10272
     },
     {
       "label": "20:00",
       "rate": 81.0,
-      "count": 3228
+      "count": 3245
     },
     {
       "label": "11:00",
@@ -543,10 +543,17 @@
     },
     {
       "name": "Match Result 1",
+      "won": 2641,
+      "lost": 518,
+      "rate": 83.6,
+      "count": 3159
+    },
+    {
+      "name": "Handicap (1:0) 1",
       "won": 2644,
-      "lost": 519,
-      "rate": 83.59,
-      "count": 3163
+      "lost": 537,
+      "rate": 83.12,
+      "count": 3181
     },
     {
       "name": "Over 3.5 Goals",
@@ -554,13 +561,6 @@
       "lost": 56,
       "rate": 83.08,
       "count": 331
-    },
-    {
-      "name": "Handicap (1:0) 1",
-      "won": 2645,
-      "lost": 540,
-      "rate": 83.05,
-      "count": 3185
     }
   ],
   "top_odds": [
@@ -615,11 +615,6 @@
       "count": 36
     },
     {
-      "odd": 1.66,
-      "rate": 86.05,
-      "count": 86
-    },
-    {
       "odd": 1.9,
       "rate": 86.05,
       "count": 43
@@ -638,6 +633,11 @@
       "odd": 1.75,
       "rate": 85.71,
       "count": 105
+    },
+    {
+      "odd": 1.66,
+      "rate": 85.06,
+      "count": 87
     },
     {
       "odd": 1.59,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 155229,
-    "elite_pattern": 42154,
-    "scanner_pattern": 97640,
-    "elite_satir": 70024,
-    "scanner_satir": 113902,
-    "skorlanan": 1124,
+    "elite_pattern": 42165,
+    "scanner_pattern": 97658,
+    "elite_satir": 70020,
+    "scanner_satir": 113895,
+    "skorlanan": 1099,
     "min_ornek": 10,
-    "guncelleme": "2026-11-09T01:01:54"
+    "guncelleme": "2026-11-09T01:09:43"
   }
 }
