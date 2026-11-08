@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 91281,
-    "lost": 21498,
+    "won": 91299,
+    "lost": 21504,
     "rate": 80.9,
-    "total": 112779,
+    "total": 112803,
     "last_24h": {
-      "won": 446,
-      "lost": 109,
-      "rate": 80.4,
-      "total": 555
+      "won": 462,
+      "lost": 111,
+      "rate": 80.6,
+      "total": 573
     },
     "all": {
-      "won": 101282,
-      "lost": 52518,
-      "total": 153800,
+      "won": 101299,
+      "lost": 52523,
+      "total": 153822,
       "rate": 65.9,
-      "excluded": 41021
+      "excluded": 41019
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7940
+      "count": 7942
     },
     {
       "label": "Tuesday",
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 25971
+      "count": 25991
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37252
+      "count": 37254
     }
   ],
   "by_hour": [
@@ -63,13 +63,13 @@
     },
     {
       "label": "10:00",
-      "rate": 80.3,
-      "count": 3900
+      "rate": 80.2,
+      "count": 3901
     },
     {
       "label": "12:00",
       "rate": 80.9,
-      "count": 7850
+      "count": 7853
     },
     {
       "label": "13:00",
@@ -84,22 +84,22 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11145
+      "count": 11148
     },
     {
       "label": "16:00",
-      "rate": 80.7,
-      "count": 9216
+      "rate": 80.8,
+      "count": 9230
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10164
+      "count": 10165
     },
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12618
+      "count": 12620
     },
     {
       "label": "19:00",
@@ -264,11 +264,6 @@
       "count": 21
     },
     {
-      "team": "Mardin 1969",
-      "rate": 95.24,
-      "count": 21
-    },
-    {
       "team": "Dominican Republic",
       "rate": 95.24,
       "count": 21
@@ -277,6 +272,11 @@
       "team": "Atletico Baleares",
       "rate": 95.0,
       "count": 40
+    },
+    {
+      "team": "AC Milan U20",
+      "rate": 95.0,
+      "count": 20
     }
   ],
   "top_leagues": [
@@ -400,13 +400,6 @@
       "count": 8
     },
     {
-      "name": "İKPL1",
-      "won": 5,
-      "lost": 0,
-      "rate": 100.0,
-      "count": 5
-    },
-    {
       "name": "KAPL",
       "won": 20,
       "lost": 1,
@@ -415,6 +408,13 @@
     },
     {
       "name": "VİETK",
+      "won": 16,
+      "lost": 1,
+      "rate": 94.12,
+      "count": 17
+    },
+    {
+      "name": " ISPDLR",
       "won": 16,
       "lost": 1,
       "rate": 94.12,
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1003,
-      "lost": 160,
-      "rate": 86.24,
-      "count": 1163
+      "won": 1002,
+      "lost": 159,
+      "rate": 86.3,
+      "count": 1161
     },
     {
       "name": "Over 0.5 Goals",
@@ -522,17 +522,17 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1830,
+      "won": 1832,
       "lost": 309,
-      "rate": 85.55,
-      "count": 2139
+      "rate": 85.57,
+      "count": 2141
     },
     {
       "name": "1st Half Result 1",
       "won": 363,
-      "lost": 62,
-      "rate": 85.41,
-      "count": 425
+      "lost": 63,
+      "rate": 85.21,
+      "count": 426
     },
     {
       "name": "Total Goals 2-3",
@@ -550,17 +550,17 @@
     },
     {
       "name": "Over 3.5 Goals",
-      "won": 276,
+      "won": 275,
       "lost": 55,
-      "rate": 83.38,
-      "count": 331
+      "rate": 83.33,
+      "count": 330
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2641,
-      "lost": 538,
-      "rate": 83.08,
-      "count": 3179
+      "won": 2642,
+      "lost": 539,
+      "rate": 83.06,
+      "count": 3181
     }
   ],
   "top_odds": [
@@ -590,19 +590,19 @@
       "count": 39
     },
     {
+      "odd": 1.76,
+      "rate": 86.57,
+      "count": 134
+    },
+    {
       "odd": 1.88,
       "rate": 86.57,
       "count": 67
     },
     {
-      "odd": 1.76,
-      "rate": 86.47,
-      "count": 133
-    },
-    {
       "odd": 1.46,
-      "rate": 86.44,
-      "count": 295
+      "rate": 86.51,
+      "count": 289
     },
     {
       "odd": 1.79,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 155226,
-    "elite_pattern": 42028,
-    "scanner_pattern": 97392,
-    "elite_satir": 70035,
-    "scanner_satir": 113895,
-    "skorlanan": 1411,
+    "elite_pattern": 42045,
+    "scanner_pattern": 97427,
+    "elite_satir": 70052,
+    "scanner_satir": 113898,
+    "skorlanan": 1379,
     "min_ornek": 10,
-    "guncelleme": "2026-11-08T20:58:49"
+    "guncelleme": "2026-11-08T21:06:59"
   }
 }
