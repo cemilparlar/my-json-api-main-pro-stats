@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 91146,
-    "lost": 21472,
+    "won": 91180,
+    "lost": 21481,
     "rate": 80.9,
-    "total": 112618,
+    "total": 112661,
     "last_24h": {
-      "won": 370,
-      "lost": 84,
+      "won": 397,
+      "lost": 90,
       "rate": 81.5,
-      "total": 454
+      "total": 487
     },
     "all": {
-      "won": 101159,
-      "lost": 52448,
-      "total": 153607,
+      "won": 101172,
+      "lost": 52454,
+      "total": 153626,
       "rate": 65.9,
-      "excluded": 40989
+      "excluded": 40965
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 25815
+      "count": 25856
     },
     {
       "label": "Thursday",
@@ -47,29 +47,29 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17101
+      "count": 17099
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37246
+      "count": 37250
     }
   ],
   "by_hour": [
     {
       "label": "08:00",
-      "rate": 81.7,
-      "count": 1063
+      "rate": 81.6,
+      "count": 1064
     },
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 3898
+      "count": 3899
     },
     {
       "label": "12:00",
       "rate": 80.9,
-      "count": 7848
+      "count": 7849
     },
     {
       "label": "13:00",
@@ -79,12 +79,12 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12490
+      "count": 12527
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11057
+      "count": 11058
     },
     {
       "label": "16:00",
@@ -93,8 +93,8 @@
     },
     {
       "label": "17:00",
-      "rate": 80.8,
-      "count": 10163
+      "rate": 80.7,
+      "count": 10165
     },
     {
       "label": "18:00",
@@ -264,11 +264,6 @@
       "count": 21
     },
     {
-      "team": "FC Utrecht Women",
-      "rate": 95.24,
-      "count": 21
-    },
-    {
       "team": "Mardin 1969",
       "rate": 95.24,
       "count": 21
@@ -277,6 +272,11 @@
       "team": "Dominican Republic",
       "rate": 95.24,
       "count": 21
+    },
+    {
+      "team": "Atletico Baleares",
+      "rate": 95.0,
+      "count": 40
     }
   ],
   "top_leagues": [
@@ -522,17 +522,17 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1825,
-      "lost": 308,
-      "rate": 85.56,
-      "count": 2133
+      "won": 1827,
+      "lost": 309,
+      "rate": 85.53,
+      "count": 2136
     },
     {
       "name": "1st Half Result 1",
-      "won": 361,
+      "won": 362,
       "lost": 62,
-      "rate": 85.34,
-      "count": 423
+      "rate": 85.38,
+      "count": 424
     },
     {
       "name": "Total Goals 2-3",
@@ -543,24 +543,24 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2630,
-      "lost": 512,
-      "rate": 83.7,
-      "count": 3142
+      "won": 2629,
+      "lost": 511,
+      "rate": 83.73,
+      "count": 3140
     },
     {
       "name": "Over 3.5 Goals",
-      "won": 273,
+      "won": 274,
       "lost": 55,
-      "rate": 83.23,
-      "count": 328
+      "rate": 83.28,
+      "count": 329
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2634,
+      "won": 2635,
       "lost": 534,
-      "rate": 83.14,
-      "count": 3168
+      "rate": 83.15,
+      "count": 3169
     }
   ],
   "top_odds": [
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 155201,
-    "elite_pattern": 42019,
-    "scanner_pattern": 97320,
-    "elite_satir": 70040,
-    "scanner_satir": 113876,
-    "skorlanan": 1602,
+    "elite_pattern": 42026,
+    "scanner_pattern": 97351,
+    "elite_satir": 70033,
+    "scanner_satir": 113885,
+    "skorlanan": 1550,
     "min_ornek": 10,
-    "guncelleme": "2026-11-08T19:03:57"
+    "guncelleme": "2026-11-08T19:11:15"
   }
 }
