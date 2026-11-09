@@ -1,21 +1,21 @@
 {
   "summary": {
     "won": 91514,
-    "lost": 21547,
+    "lost": 21545,
     "rate": 80.9,
-    "total": 113061,
+    "total": 113059,
     "last_24h": {
       "won": 559,
-      "lost": 120,
-      "rate": 82.3,
-      "total": 679
+      "lost": 121,
+      "rate": 82.2,
+      "total": 680
     },
     "all": {
       "won": 101526,
       "lost": 52631,
       "total": 154157,
       "rate": 65.9,
-      "excluded": 41096
+      "excluded": 41098
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26221
+      "count": 26219
     },
     {
       "label": "Thursday",
@@ -74,7 +74,7 @@
     {
       "label": "13:00",
       "rate": 81.5,
-      "count": 8944
+      "count": 8943
     },
     {
       "label": "14:00",
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9287
+      "count": 9286
     },
     {
       "label": "17:00",
@@ -544,9 +544,9 @@
     {
       "name": "Match Result 1",
       "won": 2641,
-      "lost": 519,
-      "rate": 83.58,
-      "count": 3160
+      "lost": 518,
+      "rate": 83.6,
+      "count": 3159
     },
     {
       "name": "Handicap (1:0) 1",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 155237,
-    "elite_pattern": 42177,
-    "scanner_pattern": 97676,
-    "elite_satir": 70026,
-    "scanner_satir": 113896,
-    "skorlanan": 1050,
+    "elite_pattern": 42176,
+    "scanner_pattern": 97660,
+    "elite_satir": 70022,
+    "scanner_satir": 113889,
+    "skorlanan": 1045,
     "min_ornek": 10,
-    "guncelleme": "2026-11-09T07:32:43"
+    "guncelleme": "2026-11-09T07:39:58"
   }
 }
