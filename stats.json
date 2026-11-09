@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 91514,
-    "lost": 21545,
+    "won": 91519,
+    "lost": 21546,
     "rate": 80.9,
-    "total": 113059,
+    "total": 113065,
     "last_24h": {
-      "won": 553,
+      "won": 555,
       "lost": 118,
-      "rate": 82.4,
-      "total": 671
+      "rate": 82.5,
+      "total": 673
     },
     "all": {
       "won": 101530,
       "lost": 52633,
       "total": 154163,
       "rate": 65.9,
-      "excluded": 41104
+      "excluded": 41098
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7945
+      "count": 7949
     },
     {
       "label": "Tuesday",
@@ -36,8 +36,8 @@
     },
     {
       "label": "Sunday",
-      "rate": 80.8,
-      "count": 26219
+      "rate": 80.9,
+      "count": 26221
     },
     {
       "label": "Thursday",
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 80.9,
-      "count": 7851
+      "count": 7853
     },
     {
       "label": "13:00",
@@ -154,7 +154,7 @@
     {
       "label": "00:00",
       "rate": 81.9,
-      "count": 1506
+      "count": 1510
     },
     {
       "label": "21:00",
@@ -543,17 +543,17 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2641,
+      "won": 2642,
       "lost": 518,
-      "rate": 83.6,
-      "count": 3159
+      "rate": 83.61,
+      "count": 3160
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2644,
+      "won": 2645,
       "lost": 537,
       "rate": 83.12,
-      "count": 3181
+      "count": 3182
     },
     {
       "name": "Over 3.5 Goals",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 155237,
-    "elite_pattern": 42176,
-    "scanner_pattern": 97660,
-    "elite_satir": 70022,
-    "scanner_satir": 113889,
-    "skorlanan": 1045,
+    "elite_pattern": 42177,
+    "scanner_pattern": 97661,
+    "elite_satir": 70026,
+    "scanner_satir": 113890,
+    "skorlanan": 1039,
     "min_ornek": 10,
-    "guncelleme": "2026-11-09T08:42:51"
+    "guncelleme": "2026-11-09T08:50:19"
   }
 }
