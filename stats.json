@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 91566,
-    "lost": 21561,
+    "won": 91568,
+    "lost": 21557,
     "rate": 80.9,
-    "total": 113127,
+    "total": 113125,
     "last_24h": {
-      "won": 27,
-      "lost": 6,
-      "rate": 81.8,
-      "total": 33
+      "won": 30,
+      "lost": 7,
+      "rate": 81.1,
+      "total": 37
     },
     "all": {
       "won": 101584,
       "lost": 52655,
       "total": 154239,
       "rate": 65.9,
-      "excluded": 41112
+      "excluded": 41114
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7976
+      "count": 7979
     },
     {
       "label": "Tuesday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37285
+      "count": 37280
     }
   ],
   "by_hour": [
@@ -74,7 +74,7 @@
     {
       "label": "13:00",
       "rate": 81.6,
-      "count": 8945
+      "count": 8944
     },
     {
       "label": "14:00",
@@ -84,12 +84,12 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11158
+      "count": 11157
     },
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9288
+      "count": 9286
     },
     {
       "label": "17:00",
@@ -109,12 +109,12 @@
     {
       "label": "20:00",
       "rate": 80.9,
-      "count": 3257
+      "count": 3261
     },
     {
       "label": "11:00",
       "rate": 80.9,
-      "count": 6504
+      "count": 6502
     },
     {
       "label": "09:00",
@@ -181,7 +181,7 @@
     {
       "team": "Juventud Torre",
       "rate": 100.0,
-      "count": 26
+      "count": 25
     },
     {
       "team": "Maidstone Unit",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 155546,
-    "elite_pattern": 42178,
-    "scanner_pattern": 97705,
-    "elite_satir": 70147,
-    "scanner_satir": 114100,
-    "skorlanan": 1188,
+    "elite_pattern": 42176,
+    "scanner_pattern": 97703,
+    "elite_satir": 70145,
+    "scanner_satir": 114093,
+    "skorlanan": 1182,
     "min_ornek": 10,
-    "guncelleme": "2026-11-10T01:05:52"
+    "guncelleme": "2026-11-10T01:13:18"
   }
 }
