@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 91623,
+    "won": 91628,
     "lost": 21572,
     "rate": 80.9,
-    "total": 113195,
+    "total": 113200,
     "last_24h": {
-      "won": 29,
+      "won": 30,
       "lost": 6,
-      "rate": 82.9,
-      "total": 35
+      "rate": 83.3,
+      "total": 36
     },
     "all": {
-      "won": 101637,
-      "lost": 52677,
-      "total": 154314,
+      "won": 101641,
+      "lost": 52679,
+      "total": 154320,
       "rate": 65.9,
-      "excluded": 41119
+      "excluded": 41120
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 9179
+      "count": 9180
     },
     {
       "label": "Wednesday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17113
+      "count": 17114
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37331
+      "count": 37334
     }
   ],
   "by_hour": [
@@ -74,17 +74,17 @@
     {
       "label": "13:00",
       "rate": 81.6,
-      "count": 8944
+      "count": 8945
     },
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12573
+      "count": 12576
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11201
+      "count": 11202
     },
     {
       "label": "16:00",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2649,
+      "won": 2650,
       "lost": 538,
       "rate": 83.12,
-      "count": 3187
+      "count": 3188
     },
     {
       "name": "Over 3.5 Goals",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 155569,
-    "elite_pattern": 42200,
-    "scanner_pattern": 97769,
-    "elite_satir": 70156,
-    "scanner_satir": 114101,
-    "skorlanan": 895,
+    "elite_pattern": 42203,
+    "scanner_pattern": 97776,
+    "elite_satir": 70158,
+    "scanner_satir": 114103,
+    "skorlanan": 885,
     "min_ornek": 10,
-    "guncelleme": "2026-11-10T18:02:53"
+    "guncelleme": "2026-11-10T18:10:12"
   }
 }
