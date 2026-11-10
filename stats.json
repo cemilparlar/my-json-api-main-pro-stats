@@ -1,9 +1,9 @@
 {
   "summary": {
-    "won": 91632,
-    "lost": 21573,
+    "won": 91638,
+    "lost": 21575,
     "rate": 80.9,
-    "total": 113205,
+    "total": 113213,
     "last_24h": {
       "won": 30,
       "lost": 6,
@@ -15,7 +15,7 @@
       "lost": 52681,
       "total": 154331,
       "rate": 65.9,
-      "excluded": 41126
+      "excluded": 41118
     }
   },
   "by_day": [
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17115
+      "count": 17117
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37338
+      "count": 37344
     }
   ],
   "by_hour": [
@@ -79,7 +79,7 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12580
+      "count": 12585
     },
     {
       "label": "15:00",
@@ -93,8 +93,8 @@
     },
     {
       "label": "17:00",
-      "rate": 80.8,
-      "count": 10219
+      "rate": 80.7,
+      "count": 10221
     },
     {
       "label": "18:00",
@@ -129,7 +129,7 @@
     {
       "label": "01:00",
       "rate": 81.1,
-      "count": 1009
+      "count": 1010
     },
     {
       "label": "06:00",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1839,
+      "won": 1840,
       "lost": 309,
-      "rate": 85.61,
-      "count": 2148
+      "rate": 85.62,
+      "count": 2149
     },
     {
       "name": "1st Half Result 1",
@@ -620,11 +620,6 @@
       "count": 293
     },
     {
-      "odd": 1.45,
-      "rate": 85.86,
-      "count": 304
-    },
-    {
       "odd": 1.75,
       "rate": 85.71,
       "count": 105
@@ -633,6 +628,11 @@
       "odd": 1.47,
       "rate": 85.58,
       "count": 326
+    },
+    {
+      "odd": 1.45,
+      "rate": 85.57,
+      "count": 305
     },
     {
       "odd": 1.59,
@@ -660,9 +660,9 @@
       "count": 541
     },
     {
-      "odd": 1.49,
-      "rate": 83.73,
-      "count": 209
+      "odd": 1.67,
+      "rate": 83.7,
+      "count": 92
     }
   ],
   "top_matches": [
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 155581,
-    "elite_pattern": 42209,
-    "scanner_pattern": 97786,
+    "elite_pattern": 42214,
+    "scanner_pattern": 97790,
     "elite_satir": 70157,
-    "scanner_satir": 114107,
-    "skorlanan": 898,
+    "scanner_satir": 114108,
+    "skorlanan": 894,
     "min_ornek": 10,
-    "guncelleme": "2026-11-10T18:40:53"
+    "guncelleme": "2026-11-10T18:48:42"
   }
 }
