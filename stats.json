@@ -1,9 +1,9 @@
 {
   "summary": {
-    "won": 91826,
+    "won": 91824,
     "lost": 21621,
     "rate": 80.9,
-    "total": 113447,
+    "total": 113445,
     "last_24h": {
       "won": 37,
       "lost": 9,
@@ -15,7 +15,7 @@
       "lost": 52848,
       "total": 154758,
       "rate": 65.9,
-      "excluded": 41311
+      "excluded": 41313
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26311
+      "count": 26309
     },
     {
       "label": "Thursday",
@@ -89,12 +89,12 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9292
+      "count": 9291
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10231
+      "count": 10230
     },
     {
       "label": "18:00",
@@ -219,17 +219,17 @@
       "count": 28
     },
     {
-      "team": "Serbia",
-      "rate": 96.15,
-      "count": 26
-    },
-    {
       "team": "North Geelong FC",
       "rate": 96.0,
       "count": 25
     },
     {
       "team": "Schwaben Augsbu",
+      "rate": 96.0,
+      "count": 25
+    },
+    {
+      "team": "Serbia",
       "rate": 96.0,
       "count": 25
     },
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1009,
+      "won": 1008,
       "lost": 161,
-      "rate": 86.24,
-      "count": 1170
+      "rate": 86.23,
+      "count": 1169
     },
     {
       "name": "Over 0.5 Goals",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 155573,
-    "elite_pattern": 42264,
-    "scanner_pattern": 97950,
-    "elite_satir": 70066,
-    "scanner_satir": 114041,
-    "skorlanan": 477,
+    "gecmis_satir": 155569,
+    "elite_pattern": 42262,
+    "scanner_pattern": 97940,
+    "elite_satir": 70056,
+    "scanner_satir": 114024,
+    "skorlanan": 446,
     "min_ornek": 10,
-    "guncelleme": "2026-11-11T13:58:01"
+    "guncelleme": "2026-11-11T14:07:13"
   }
 }
