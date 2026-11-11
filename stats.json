@@ -1,9 +1,9 @@
 {
   "summary": {
-    "won": 91823,
-    "lost": 21620,
+    "won": 91826,
+    "lost": 21621,
     "rate": 80.9,
-    "total": 113443,
+    "total": 113447,
     "last_24h": {
       "won": 38,
       "lost": 9,
@@ -11,11 +11,11 @@
       "total": 47
     },
     "all": {
-      "won": 101904,
-      "lost": 52839,
-      "total": 154743,
+      "won": 101908,
+      "lost": 52841,
+      "total": 154749,
       "rate": 65.9,
-      "excluded": 41300
+      "excluded": 41302
     }
   },
   "by_day": [
@@ -32,12 +32,12 @@
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 8676
+      "count": 8677
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26307
+      "count": 26311
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37438
+      "count": 37437
     }
   ],
   "by_hour": [
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9288
+      "count": 9292
     },
     {
       "label": "17:00",
@@ -249,11 +249,6 @@
       "count": 23
     },
     {
-      "team": "Weiche Flensburg",
-      "rate": 95.45,
-      "count": 22
-    },
-    {
       "team": "Weymouth",
       "rate": 95.24,
       "count": 21
@@ -275,6 +270,11 @@
     },
     {
       "team": "AC Milan U20",
+      "rate": 95.0,
+      "count": 20
+    },
+    {
+      "team": "United Of Manch",
       "rate": 95.0,
       "count": 20
     }
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1010,
+      "won": 1009,
       "lost": 161,
-      "rate": 86.25,
-      "count": 1171
+      "rate": 86.24,
+      "count": 1170
     },
     {
       "name": "Over 0.5 Goals",
@@ -544,9 +544,9 @@
     {
       "name": "Match Result 1",
       "won": 2657,
-      "lost": 522,
-      "rate": 83.58,
-      "count": 3179
+      "lost": 521,
+      "rate": 83.61,
+      "count": 3178
     },
     {
       "name": "Handicap (1:0) 1",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 155591,
-    "elite_pattern": 42268,
-    "scanner_pattern": 97955,
-    "elite_satir": 70077,
-    "scanner_satir": 114059,
-    "skorlanan": 510,
+    "gecmis_satir": 155582,
+    "elite_pattern": 42264,
+    "scanner_pattern": 97950,
+    "elite_satir": 70070,
+    "scanner_satir": 114050,
+    "skorlanan": 495,
     "min_ornek": 10,
-    "guncelleme": "2026-11-11T13:06:19"
+    "guncelleme": "2026-11-11T13:13:46"
   }
 }
