@@ -1,9 +1,9 @@
 {
   "summary": {
-    "won": 91842,
-    "lost": 21623,
+    "won": 91843,
+    "lost": 21624,
     "rate": 80.9,
-    "total": 113465,
+    "total": 113467,
     "last_24h": {
       "won": 48,
       "lost": 11,
@@ -15,7 +15,7 @@
       "lost": 52859,
       "total": 154793,
       "rate": 65.9,
-      "excluded": 41328
+      "excluded": 41326
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26315
+      "count": 26316
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37436
+      "count": 37437
     }
   ],
   "by_hour": [
@@ -79,7 +79,7 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12593
+      "count": 12595
     },
     {
       "label": "15:00",
@@ -407,14 +407,14 @@
       "count": 21
     },
     {
-      "name": "VİETK",
-      "won": 16,
+      "name": "İSÇKA",
+      "won": 17,
       "lost": 1,
-      "rate": 94.12,
-      "count": 17
+      "rate": 94.44,
+      "count": 18
     },
     {
-      "name": " ISPDLR",
+      "name": "VİETK",
       "won": 16,
       "lost": 1,
       "rate": 94.12,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 155549,
-    "elite_pattern": 42276,
-    "scanner_pattern": 97984,
-    "elite_satir": 70037,
-    "scanner_satir": 113993,
-    "skorlanan": 342,
+    "gecmis_satir": 155542,
+    "elite_pattern": 42278,
+    "scanner_pattern": 97988,
+    "elite_satir": 70033,
+    "scanner_satir": 113986,
+    "skorlanan": 333,
     "min_ornek": 10,
-    "guncelleme": "2026-11-11T15:43:08"
+    "guncelleme": "2026-11-11T15:50:21"
   }
 }
