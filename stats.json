@@ -1,9 +1,9 @@
 {
   "summary": {
-    "won": 91947,
-    "lost": 21646,
+    "won": 91944,
+    "lost": 21643,
     "rate": 80.9,
-    "total": 113593,
+    "total": 113587,
     "last_24h": {
       "won": 11,
       "lost": 0,
@@ -11,11 +11,11 @@
       "total": 11
     },
     "all": {
-      "won": 102046,
+      "won": 102048,
       "lost": 52925,
-      "total": 154971,
+      "total": 154973,
       "rate": 65.8,
-      "excluded": 41378
+      "excluded": 41386
     }
   },
   "by_day": [
@@ -26,18 +26,18 @@
     },
     {
       "label": "Tuesday",
-      "rate": 81.2,
-      "count": 9253
+      "rate": 81.3,
+      "count": 9250
     },
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 8710
+      "count": 8709
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26355
+      "count": 26354
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37454
+      "count": 37453
     }
   ],
   "by_hour": [
@@ -69,12 +69,12 @@
     {
       "label": "12:00",
       "rate": 80.9,
-      "count": 7872
+      "count": 7871
     },
     {
       "label": "13:00",
       "rate": 81.6,
-      "count": 8959
+      "count": 8958
     },
     {
       "label": "14:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.6,
-      "count": 10378
+      "count": 10375
     },
     {
       "label": "20:00",
@@ -174,7 +174,7 @@
     {
       "label": "04:00",
       "rate": 82.5,
-      "count": 338
+      "count": 337
     }
   ],
   "top_teams": [
@@ -529,10 +529,10 @@
     },
     {
       "name": "1st Half Result 1",
-      "won": 367,
-      "lost": 65,
-      "rate": 84.95,
-      "count": 432
+      "won": 365,
+      "lost": 63,
+      "rate": 85.28,
+      "count": 428
     },
     {
       "name": "Total Goals 2-3",
@@ -556,11 +556,11 @@
       "count": 3193
     },
     {
-      "name": "Both Teams to Score - No",
-      "won": 973,
-      "lost": 201,
-      "rate": 82.88,
-      "count": 1174
+      "name": "Over 3.5 Goals",
+      "won": 274,
+      "lost": 56,
+      "rate": 83.03,
+      "count": 330
     }
   ],
   "top_odds": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 156077,
-    "elite_pattern": 42332,
-    "scanner_pattern": 98088,
-    "elite_satir": 70317,
-    "scanner_satir": 114461,
-    "skorlanan": 1100,
+    "gecmis_satir": 156076,
+    "elite_pattern": 42328,
+    "scanner_pattern": 98085,
+    "elite_satir": 70312,
+    "scanner_satir": 114455,
+    "skorlanan": 1099,
     "min_ornek": 10,
-    "guncelleme": "2026-11-12T19:47:32"
+    "guncelleme": "2026-11-12T19:55:37"
   }
 }
