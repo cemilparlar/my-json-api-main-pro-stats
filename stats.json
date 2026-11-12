@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 91968,
+    "won": 91977,
     "lost": 21647,
     "rate": 80.9,
-    "total": 113615,
+    "total": 113624,
     "last_24h": {
-      "won": 27,
+      "won": 33,
       "lost": 2,
-      "rate": 93.1,
-      "total": 29
+      "rate": 94.3,
+      "total": 35
     },
     "all": {
-      "won": 102072,
+      "won": 102082,
       "lost": 52934,
-      "total": 155006,
+      "total": 155016,
       "rate": 65.9,
-      "excluded": 41391
+      "excluded": 41392
     }
   },
   "by_day": [
@@ -42,7 +42,7 @@
     {
       "label": "Thursday",
       "rate": 81.5,
-      "count": 6698
+      "count": 6707
     },
     {
       "label": "Friday",
@@ -94,7 +94,7 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10236
+      "count": 10245
     },
     {
       "label": "18:00",
@@ -400,6 +400,13 @@
       "count": 8
     },
     {
+      "name": "AVUL",
+      "won": 9,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 9
+    },
+    {
       "name": "KAPL",
       "won": 20,
       "lost": 1,
@@ -412,13 +419,6 @@
       "lost": 1,
       "rate": 94.44,
       "count": 18
-    },
-    {
-      "name": "VİETK",
-      "won": 16,
-      "lost": 1,
-      "rate": 94.12,
-      "count": 17
     }
   ],
   "top_predictions": [
@@ -508,10 +508,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1845,
+      "won": 1846,
       "lost": 307,
-      "rate": 85.73,
-      "count": 2152
+      "rate": 85.74,
+      "count": 2153
     },
     {
       "name": "Over 0.5 Goals",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 156072,
+    "gecmis_satir": 156073,
     "elite_pattern": 42342,
     "scanner_pattern": 98115,
     "elite_satir": 70334,
-    "scanner_satir": 114467,
-    "skorlanan": 1065,
+    "scanner_satir": 114468,
+    "skorlanan": 1068,
     "min_ornek": 10,
-    "guncelleme": "2026-11-12T21:53:13"
+    "guncelleme": "2026-11-12T22:00:46"
   }
 }
