@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 91944,
-    "lost": 21643,
+    "won": 91950,
+    "lost": 21644,
     "rate": 80.9,
-    "total": 113587,
+    "total": 113594,
     "last_24h": {
-      "won": 11,
-      "lost": 0,
-      "rate": 100.0,
-      "total": 11
+      "won": 15,
+      "lost": 1,
+      "rate": 93.8,
+      "total": 16
     },
     "all": {
-      "won": 102048,
-      "lost": 52925,
-      "total": 154973,
+      "won": 102053,
+      "lost": 52926,
+      "total": 154979,
       "rate": 65.8,
-      "excluded": 41386
+      "excluded": 41385
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.3,
-      "count": 9250
+      "count": 9252
     },
     {
       "label": "Wednesday",
@@ -42,7 +42,7 @@
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 6682
+      "count": 6687
     },
     {
       "label": "Friday",
@@ -84,12 +84,12 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11248
+      "count": 11250
     },
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9295
+      "count": 9298
     },
     {
       "label": "17:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.6,
-      "count": 10375
+      "count": 10377
     },
     {
       "label": "20:00",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1011,
+      "won": 1012,
       "lost": 162,
-      "rate": 86.19,
-      "count": 1173
+      "rate": 86.2,
+      "count": 1174
     },
     {
       "name": "Over 0.5 Goals",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 156076,
-    "elite_pattern": 42328,
-    "scanner_pattern": 98085,
-    "elite_satir": 70312,
-    "scanner_satir": 114455,
-    "skorlanan": 1099,
+    "gecmis_satir": 156077,
+    "elite_pattern": 42338,
+    "scanner_pattern": 98099,
+    "elite_satir": 70327,
+    "scanner_satir": 114462,
+    "skorlanan": 1092,
     "min_ornek": 10,
-    "guncelleme": "2026-11-12T19:55:37"
+    "guncelleme": "2026-11-12T20:06:05"
   }
 }
