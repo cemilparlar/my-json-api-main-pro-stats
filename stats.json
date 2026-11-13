@@ -1,14 +1,14 @@
 {
   "summary": {
-    "won": 92020,
-    "lost": 21655,
+    "won": 92022,
+    "lost": 21653,
     "rate": 81.0,
     "total": 113675,
     "last_24h": {
-      "won": 68,
-      "lost": 5,
-      "rate": 93.2,
-      "total": 73
+      "won": 73,
+      "lost": 7,
+      "rate": 91.2,
+      "total": 80
     },
     "all": {
       "won": 102149,
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 9275
+      "count": 9274
     },
     {
       "label": "Wednesday",
@@ -37,17 +37,17 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26354
+      "count": 26352
     },
     {
       "label": "Thursday",
       "rate": 81.5,
-      "count": 6740
+      "count": 6745
     },
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17139
+      "count": 17137
     },
     {
       "label": "Saturday",
@@ -94,22 +94,22 @@
     {
       "label": "17:00",
       "rate": 80.8,
-      "count": 10247
+      "count": 10246
     },
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12702
+      "count": 12700
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10423
+      "count": 10422
     },
     {
       "label": "20:00",
       "rate": 80.9,
-      "count": 3281
+      "count": 3282
     },
     {
       "label": "11:00",
@@ -124,7 +124,7 @@
     {
       "label": "22:00",
       "rate": 81.6,
-      "count": 2011
+      "count": 2010
     },
     {
       "label": "01:00",
@@ -138,13 +138,13 @@
     },
     {
       "label": "07:00",
-      "rate": 81.4,
-      "count": 1293
+      "rate": 81.5,
+      "count": 1292
     },
     {
       "label": "23:00",
-      "rate": 80.8,
-      "count": 2135
+      "rate": 80.9,
+      "count": 2134
     },
     {
       "label": "05:00",
@@ -154,12 +154,12 @@
     {
       "label": "00:00",
       "rate": 81.5,
-      "count": 1616
+      "count": 1618
     },
     {
       "label": "21:00",
       "rate": 81.1,
-      "count": 1876
+      "count": 1880
     },
     {
       "label": "02:00",
@@ -212,11 +212,6 @@
       "team": "Entebbe Uppc",
       "rate": 96.67,
       "count": 30
-    },
-    {
-      "team": "Municipal Limen",
-      "rate": 96.55,
-      "count": 29
     },
     {
       "team": "Astrio",
@@ -275,6 +270,11 @@
     },
     {
       "team": "AC Milan U20",
+      "rate": 95.0,
+      "count": 20
+    },
+    {
+      "team": "United Of Manch",
       "rate": 95.0,
       "count": 20
     }
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 156100,
-    "elite_pattern": 42377,
-    "scanner_pattern": 98233,
-    "elite_satir": 70373,
-    "scanner_satir": 114478,
-    "skorlanan": 981,
+    "elite_pattern": 42374,
+    "scanner_pattern": 98225,
+    "elite_satir": 70361,
+    "scanner_satir": 114467,
+    "skorlanan": 969,
     "min_ornek": 10,
-    "guncelleme": "2026-11-13T05:22:34"
+    "guncelleme": "2026-11-13T05:30:30"
   }
 }
