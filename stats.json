@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 92031,
+    "won": 92033,
     "lost": 21659,
     "rate": 80.9,
-    "total": 113690,
+    "total": 113692,
     "last_24h": {
-      "won": 31,
-      "lost": 5,
-      "rate": 86.1,
-      "total": 36
+      "won": 18,
+      "lost": 4,
+      "rate": 81.8,
+      "total": 22
     },
     "all": {
-      "won": 102158,
+      "won": 102159,
       "lost": 52986,
-      "total": 155144,
+      "total": 155145,
       "rate": 65.8,
-      "excluded": 41454
+      "excluded": 41453
     }
   },
   "by_day": [
@@ -42,12 +42,12 @@
     {
       "label": "Thursday",
       "rate": 81.5,
-      "count": 6745
+      "count": 6746
     },
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17148
+      "count": 17149
     },
     {
       "label": "Saturday",
@@ -79,12 +79,12 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12597
+      "count": 12598
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11250
+      "count": 11251
     },
     {
       "label": "16:00",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1016,
+      "won": 1017,
       "lost": 163,
-      "rate": 86.17,
-      "count": 1179
+      "rate": 86.19,
+      "count": 1180
     },
     {
       "name": "Over 0.5 Goals",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 156245,
-    "elite_pattern": 42376,
-    "scanner_pattern": 98236,
-    "elite_satir": 70400,
-    "scanner_satir": 114560,
-    "skorlanan": 1101,
+    "gecmis_satir": 156257,
+    "elite_pattern": 42377,
+    "scanner_pattern": 98238,
+    "elite_satir": 70436,
+    "scanner_satir": 114581,
+    "skorlanan": 1119,
     "min_ornek": 10,
-    "guncelleme": "2026-11-13T19:32:31"
+    "guncelleme": "2026-11-13T19:42:51"
   }
 }
