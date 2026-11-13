@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 92049,
-    "lost": 21665,
+    "won": 92063,
+    "lost": 21670,
     "rate": 80.9,
-    "total": 113714,
+    "total": 113733,
     "last_24h": {
-      "won": 28,
-      "lost": 5,
-      "rate": 84.8,
-      "total": 33
+      "won": 37,
+      "lost": 6,
+      "rate": 86.0,
+      "total": 43
     },
     "all": {
       "won": 102188,
       "lost": 52993,
       "total": 155181,
       "rate": 65.9,
-      "excluded": 41467
+      "excluded": 41448
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 9276
+      "count": 9277
     },
     {
       "label": "Wednesday",
@@ -41,13 +41,13 @@
     },
     {
       "label": "Thursday",
-      "rate": 81.6,
-      "count": 6744
+      "rate": 81.5,
+      "count": 6745
     },
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17170
+      "count": 17187
     },
     {
       "label": "Saturday",
@@ -89,22 +89,22 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9326
+      "count": 9331
     },
     {
       "label": "17:00",
       "rate": 80.8,
-      "count": 10245
+      "count": 10256
     },
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12698
+      "count": 12700
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10423
+      "count": 10424
     },
     {
       "label": "20:00",
@@ -400,13 +400,6 @@
       "count": 8
     },
     {
-      "name": "AVUL",
-      "won": 24,
-      "lost": 1,
-      "rate": 96.0,
-      "count": 25
-    },
-    {
       "name": "KAPL",
       "won": 20,
       "lost": 1,
@@ -419,6 +412,13 @@
       "lost": 1,
       "rate": 94.44,
       "count": 18
+    },
+    {
+      "name": "VİETK",
+      "won": 16,
+      "lost": 1,
+      "rate": 94.12,
+      "count": 17
     }
   ],
   "top_predictions": [
@@ -523,9 +523,9 @@
     {
       "name": "Handicap (0:1) 2",
       "won": 1846,
-      "lost": 308,
-      "rate": 85.7,
-      "count": 2154
+      "lost": 309,
+      "rate": 85.66,
+      "count": 2155
     },
     {
       "name": "1st Half Result 1",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 156272,
-    "elite_pattern": 42382,
-    "scanner_pattern": 98257,
+    "elite_pattern": 42389,
+    "scanner_pattern": 98276,
     "elite_satir": 70449,
-    "scanner_satir": 114596,
-    "skorlanan": 1098,
+    "scanner_satir": 114610,
+    "skorlanan": 1086,
     "min_ornek": 10,
-    "guncelleme": "2026-11-13T21:57:16"
+    "guncelleme": "2026-11-13T22:06:04"
   }
 }
