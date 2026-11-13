@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 92087,
-    "lost": 21666,
+    "won": 92093,
+    "lost": 21667,
     "rate": 81.0,
-    "total": 113753,
+    "total": 113760,
     "last_24h": {
-      "won": 63,
-      "lost": 14,
-      "rate": 81.8,
-      "total": 77
+      "won": 70,
+      "lost": 17,
+      "rate": 80.5,
+      "total": 87
     },
     "all": {
-      "won": 102246,
-      "lost": 53036,
-      "total": 155282,
+      "won": 102281,
+      "lost": 53052,
+      "total": 155333,
       "rate": 65.8,
-      "excluded": 41529
+      "excluded": 41573
     }
   },
   "by_day": [
@@ -32,7 +32,7 @@
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 8715
+      "count": 8714
     },
     {
       "label": "Sunday",
@@ -47,7 +47,7 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17212
+      "count": 17220
     },
     {
       "label": "Saturday",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10437
+      "count": 10444
     },
     {
       "label": "20:00",
@@ -259,6 +259,11 @@
       "count": 21
     },
     {
+      "team": "Faroe Islands",
+      "rate": 95.24,
+      "count": 21
+    },
+    {
       "team": "Dominican Republic",
       "rate": 95.24,
       "count": 21
@@ -270,11 +275,6 @@
     },
     {
       "team": "AC Milan U20",
-      "rate": 95.0,
-      "count": 20
-    },
-    {
-      "team": "United Of Manch",
       "rate": 95.0,
       "count": 20
     }
@@ -543,17 +543,17 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2670,
+      "won": 2671,
       "lost": 522,
       "rate": 83.65,
-      "count": 3192
+      "count": 3193
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2655,
+      "won": 2654,
       "lost": 540,
-      "rate": 83.1,
-      "count": 3195
+      "rate": 83.09,
+      "count": 3194
     },
     {
       "name": "Over 3.5 Goals",
@@ -651,8 +651,8 @@
     },
     {
       "odd": 1.42,
-      "rate": 84.44,
-      "count": 347
+      "rate": 84.2,
+      "count": 348
     },
     {
       "odd": 1.44,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 156289,
-    "elite_pattern": 42400,
-    "scanner_pattern": 98277,
-    "elite_satir": 70415,
-    "scanner_satir": 114584,
-    "skorlanan": 1037,
+    "elite_pattern": 42396,
+    "scanner_pattern": 98276,
+    "elite_satir": 70388,
+    "scanner_satir": 114570,
+    "skorlanan": 999,
     "min_ornek": 10,
-    "guncelleme": "2026-11-14T00:41:14"
+    "guncelleme": "2026-11-14T00:48:55"
   }
 }
