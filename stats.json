@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 92331,
-    "lost": 21735,
+    "won": 92339,
+    "lost": 21739,
     "rate": 80.9,
-    "total": 114066,
+    "total": 114078,
     "last_24h": {
-      "won": 197,
-      "lost": 48,
-      "rate": 80.4,
-      "total": 245
+      "won": 207,
+      "lost": 51,
+      "rate": 80.2,
+      "total": 258
     },
     "all": {
       "won": 102520,
       "lost": 53156,
       "total": 155676,
       "rate": 65.9,
-      "excluded": 41610
+      "excluded": 41598
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7999
+      "count": 8000
     },
     {
       "label": "Tuesday",
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26358
+      "count": 26357
     },
     {
       "label": "Thursday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17269
+      "count": 17268
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37702
+      "count": 37715
     }
   ],
   "by_hour": [
@@ -94,7 +94,7 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10275
+      "count": 10286
     },
     {
       "label": "18:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10473
+      "count": 10474
     },
     {
       "label": "20:00",
@@ -194,11 +194,6 @@
       "count": 22
     },
     {
-      "team": "Hungary",
-      "rate": 97.44,
-      "count": 39
-    },
-    {
       "team": "FC Bulle",
       "rate": 97.06,
       "count": 34
@@ -264,11 +259,6 @@
       "count": 21
     },
     {
-      "team": "Faroe Islands",
-      "rate": 95.24,
-      "count": 21
-    },
-    {
       "team": "Dominican Republic",
       "rate": 95.24,
       "count": 21
@@ -277,6 +267,16 @@
       "team": "Atletico Baleares",
       "rate": 95.0,
       "count": 40
+    },
+    {
+      "team": "AC Milan U20",
+      "rate": 95.0,
+      "count": 20
+    },
+    {
+      "team": "52 Orduspor FK",
+      "rate": 95.0,
+      "count": 20
     }
   ],
   "top_leagues": [
@@ -536,24 +536,24 @@
     },
     {
       "name": "Total Goals 2-3",
-      "won": 310,
+      "won": 311,
       "lost": 55,
-      "rate": 84.93,
-      "count": 365
+      "rate": 84.97,
+      "count": 366
     },
     {
       "name": "Match Result 1",
-      "won": 2680,
-      "lost": 523,
-      "rate": 83.67,
-      "count": 3203
+      "won": 2683,
+      "lost": 525,
+      "rate": 83.63,
+      "count": 3208
     },
     {
       "name": "Handicap (1:0) 1",
       "won": 2659,
-      "lost": 543,
-      "rate": 83.04,
-      "count": 3202
+      "lost": 544,
+      "rate": 83.02,
+      "count": 3203
     },
     {
       "name": "Both Teams to Score - No",
@@ -615,14 +615,14 @@
       "count": 288
     },
     {
+      "odd": 1.75,
+      "rate": 85.85,
+      "count": 106
+    },
+    {
       "odd": 1.77,
       "rate": 85.71,
       "count": 98
-    },
-    {
-      "odd": 1.75,
-      "rate": 85.71,
-      "count": 105
     },
     {
       "odd": 1.45,
@@ -1070,11 +1070,11 @@
   "patterns": {
     "gecmis_satir": 156372,
     "elite_pattern": 42490,
-    "scanner_pattern": 98548,
-    "elite_satir": 70464,
-    "scanner_satir": 114629,
-    "skorlanan": 721,
+    "scanner_pattern": 98553,
+    "elite_satir": 70452,
+    "scanner_satir": 114627,
+    "skorlanan": 696,
     "min_ornek": 10,
-    "guncelleme": "2026-11-14T22:06:49"
+    "guncelleme": "2026-11-14T22:14:26"
   }
 }
