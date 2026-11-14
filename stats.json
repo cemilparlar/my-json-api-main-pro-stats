@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 92265,
-    "lost": 21705,
+    "won": 92267,
+    "lost": 21704,
     "rate": 81.0,
-    "total": 113970,
+    "total": 113971,
     "last_24h": {
-      "won": 139,
-      "lost": 36,
-      "rate": 79.4,
-      "total": 175
+      "won": 141,
+      "lost": 37,
+      "rate": 79.2,
+      "total": 178
     },
     "all": {
       "won": 102447,
       "lost": 53135,
       "total": 155582,
       "rate": 65.8,
-      "excluded": 41612
+      "excluded": 41611
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26354
+      "count": 26353
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37612
+      "count": 37614
     }
   ],
   "by_hour": [
@@ -84,7 +84,7 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11319
+      "count": 11320
     },
     {
       "label": "16:00",
@@ -254,6 +254,11 @@
       "count": 21
     },
     {
+      "team": "United Of Manch",
+      "rate": 95.24,
+      "count": 21
+    },
+    {
       "team": "Enugu Rangers",
       "rate": 95.24,
       "count": 21
@@ -272,11 +277,6 @@
       "team": "Atletico Baleares",
       "rate": 95.0,
       "count": 40
-    },
-    {
-      "team": "AC Milan U20",
-      "rate": 95.0,
-      "count": 20
     }
   ],
   "top_leagues": [
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 156365,
-    "elite_pattern": 42447,
-    "scanner_pattern": 98428,
-    "elite_satir": 70445,
-    "scanner_satir": 114590,
-    "skorlanan": 787,
+    "elite_pattern": 42448,
+    "scanner_pattern": 98427,
+    "elite_satir": 70441,
+    "scanner_satir": 114587,
+    "skorlanan": 783,
     "min_ornek": 10,
-    "guncelleme": "2026-11-14T20:47:58"
+    "guncelleme": "2026-11-14T20:55:35"
   }
 }
