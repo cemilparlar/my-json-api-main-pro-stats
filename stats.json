@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 92421,
-    "lost": 21758,
+    "won": 92422,
+    "lost": 21759,
     "rate": 80.9,
-    "total": 114179,
+    "total": 114181,
     "last_24h": {
-      "won": 278,
-      "lost": 68,
-      "rate": 80.3,
-      "total": 346
+      "won": 280,
+      "lost": 70,
+      "rate": 80.0,
+      "total": 350
     },
     "all": {
-      "won": 102603,
-      "lost": 53205,
-      "total": 155808,
-      "rate": 65.9,
-      "excluded": 41629
+      "won": 102605,
+      "lost": 53216,
+      "total": 155821,
+      "rate": 65.8,
+      "excluded": 41640
     }
   },
   "by_day": [
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17268
+      "count": 17267
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37818
+      "count": 37821
     }
   ],
   "by_hour": [
@@ -159,7 +159,7 @@
     {
       "label": "21:00",
       "rate": 81.1,
-      "count": 1879
+      "count": 1881
     },
     {
       "label": "02:00",
@@ -557,10 +557,10 @@
     },
     {
       "name": "Both Teams to Score - No",
-      "won": 978,
+      "won": 979,
       "lost": 202,
-      "rate": 82.88,
-      "count": 1180
+      "rate": 82.9,
+      "count": 1181
     }
   ],
   "top_odds": [
@@ -625,6 +625,11 @@
       "count": 98
     },
     {
+      "odd": 1.47,
+      "rate": 85.63,
+      "count": 341
+    },
+    {
       "odd": 1.45,
       "rate": 85.62,
       "count": 306
@@ -633,11 +638,6 @@
       "odd": 1.59,
       "rate": 85.53,
       "count": 159
-    },
-    {
-      "odd": 1.47,
-      "rate": 85.46,
-      "count": 337
     },
     {
       "odd": 1.66,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 156392,
-    "elite_pattern": 42495,
-    "scanner_pattern": 98602,
-    "elite_satir": 70418,
-    "scanner_satir": 114631,
-    "skorlanan": 584,
+    "elite_pattern": 42494,
+    "scanner_pattern": 98597,
+    "elite_satir": 70415,
+    "scanner_satir": 114620,
+    "skorlanan": 571,
     "min_ornek": 10,
-    "guncelleme": "2026-11-15T02:31:18"
+    "guncelleme": "2026-11-15T02:38:53"
   }
 }
