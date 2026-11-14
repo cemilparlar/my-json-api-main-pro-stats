@@ -1,19 +1,19 @@
 {
   "summary": {
-    "won": 92181,
-    "lost": 21684,
+    "won": 92196,
+    "lost": 21690,
     "rate": 81.0,
-    "total": 113865,
+    "total": 113886,
     "last_24h": {
-      "won": 98,
-      "lost": 25,
-      "rate": 79.7,
-      "total": 123
+      "won": 112,
+      "lost": 31,
+      "rate": 78.3,
+      "total": 143
     },
     "all": {
-      "won": 102347,
-      "lost": 53092,
-      "total": 155439,
+      "won": 102361,
+      "lost": 53099,
+      "total": 155460,
       "rate": 65.8,
       "excluded": 41574
     }
@@ -22,7 +22,7 @@
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7998
+      "count": 7999
     },
     {
       "label": "Tuesday",
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26354
+      "count": 26356
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37511
+      "count": 37529
     }
   ],
   "by_hour": [
@@ -74,7 +74,7 @@
     {
       "label": "13:00",
       "rate": 81.5,
-      "count": 8990
+      "count": 9010
     },
     {
       "label": "14:00",
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9327
+      "count": 9326
     },
     {
       "label": "17:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10474
+      "count": 10475
     },
     {
       "label": "20:00",
@@ -139,7 +139,7 @@
     {
       "label": "07:00",
       "rate": 81.5,
-      "count": 1292
+      "count": 1293
     },
     {
       "label": "23:00",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 156356,
-    "elite_pattern": 42411,
-    "scanner_pattern": 98341,
-    "elite_satir": 70460,
-    "scanner_satir": 114609,
-    "skorlanan": 929,
+    "gecmis_satir": 156371,
+    "elite_pattern": 42396,
+    "scanner_pattern": 98342,
+    "elite_satir": 70442,
+    "scanner_satir": 114619,
+    "skorlanan": 917,
     "min_ornek": 10,
-    "guncelleme": "2026-11-14T18:26:29"
+    "guncelleme": "2026-11-14T18:35:01"
   }
 }
