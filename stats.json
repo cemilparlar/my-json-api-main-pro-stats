@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 92343,
-    "lost": 21744,
+    "won": 92348,
+    "lost": 21745,
     "rate": 80.9,
-    "total": 114087,
+    "total": 114093,
     "last_24h": {
-      "won": 214,
-      "lost": 56,
-      "rate": 79.3,
-      "total": 270
+      "won": 219,
+      "lost": 59,
+      "rate": 78.8,
+      "total": 278
     },
     "all": {
       "won": 102532,
       "lost": 53167,
       "total": 155699,
       "rate": 65.9,
-      "excluded": 41612
+      "excluded": 41606
     }
   },
   "by_day": [
@@ -32,12 +32,12 @@
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 8717
+      "count": 8716
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26357
+      "count": 26356
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37726
+      "count": 37734
     }
   ],
   "by_hour": [
@@ -84,7 +84,7 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11384
+      "count": 11383
     },
     {
       "label": "16:00",
@@ -94,7 +94,7 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10298
+      "count": 10306
     },
     {
       "label": "18:00",
@@ -159,7 +159,7 @@
     {
       "label": "21:00",
       "rate": 81.1,
-      "count": 1880
+      "count": 1879
     },
     {
       "label": "02:00",
@@ -178,11 +178,6 @@
     }
   ],
   "top_teams": [
-    {
-      "team": "Juventud Torre",
-      "rate": 100.0,
-      "count": 25
-    },
     {
       "team": "Maidstone Unit",
       "rate": 100.0,
@@ -212,6 +207,11 @@
       "team": "Serbia",
       "rate": 96.67,
       "count": 30
+    },
+    {
+      "team": "Juventud Torre",
+      "rate": 96.55,
+      "count": 29
     },
     {
       "team": "Astrio",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 156391,
-    "elite_pattern": 42485,
-    "scanner_pattern": 98545,
-    "elite_satir": 70449,
-    "scanner_satir": 114643,
-    "skorlanan": 701,
+    "elite_pattern": 42480,
+    "scanner_pattern": 98538,
+    "elite_satir": 70439,
+    "scanner_satir": 114639,
+    "skorlanan": 692,
     "min_ornek": 10,
-    "guncelleme": "2026-11-14T22:48:42"
+    "guncelleme": "2026-11-14T22:56:03"
   }
 }
