@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 92340,
-    "lost": 21740,
+    "won": 92343,
+    "lost": 21744,
     "rate": 80.9,
-    "total": 114080,
+    "total": 114087,
     "last_24h": {
-      "won": 208,
-      "lost": 52,
-      "rate": 80.0,
-      "total": 260
+      "won": 214,
+      "lost": 56,
+      "rate": 79.3,
+      "total": 270
     },
     "all": {
-      "won": 102521,
-      "lost": 53157,
-      "total": 155678,
+      "won": 102527,
+      "lost": 53163,
+      "total": 155690,
       "rate": 65.9,
-      "excluded": 41598
+      "excluded": 41603
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8000
+      "count": 7997
     },
     {
       "label": "Tuesday",
@@ -32,7 +32,7 @@
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 8716
+      "count": 8717
     },
     {
       "label": "Sunday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37717
+      "count": 37726
     }
   ],
   "by_hour": [
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 81.0,
-      "count": 7872
+      "count": 7871
     },
     {
       "label": "13:00",
@@ -89,12 +89,12 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9338
+      "count": 9337
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10288
+      "count": 10298
     },
     {
       "label": "18:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.9,
-      "count": 6517
+      "count": 6516
     },
     {
       "label": "09:00",
@@ -543,17 +543,17 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2683,
+      "won": 2680,
       "lost": 525,
-      "rate": 83.63,
-      "count": 3208
+      "rate": 83.62,
+      "count": 3205
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2659,
+      "won": 2660,
       "lost": 544,
       "rate": 83.02,
-      "count": 3203
+      "count": 3204
     },
     {
       "name": "Both Teams to Score - No",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 156392,
-    "elite_pattern": 42490,
-    "scanner_pattern": 98553,
-    "elite_satir": 70452,
-    "scanner_satir": 114643,
-    "skorlanan": 718,
+    "elite_pattern": 42485,
+    "scanner_pattern": 98545,
+    "elite_satir": 70449,
+    "scanner_satir": 114640,
+    "skorlanan": 702,
     "min_ornek": 10,
-    "guncelleme": "2026-11-14T22:31:24"
+    "guncelleme": "2026-11-14T22:39:54"
   }
 }
