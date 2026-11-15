@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 92473,
-    "lost": 21765,
+    "won": 92481,
+    "lost": 21771,
     "rate": 80.9,
-    "total": 114238,
+    "total": 114252,
     "last_24h": {
       "won": 151,
-      "lost": 35,
-      "rate": 81.2,
-      "total": 186
+      "lost": 36,
+      "rate": 80.7,
+      "total": 187
     },
     "all": {
-      "won": 102671,
-      "lost": 53242,
-      "total": 155913,
+      "won": 102679,
+      "lost": 53243,
+      "total": 155922,
       "rate": 65.9,
-      "excluded": 41675
+      "excluded": 41670
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7999
+      "count": 8000
     },
     {
       "label": "Tuesday",
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26406
+      "count": 26419
     },
     {
       "label": "Thursday",
@@ -64,7 +64,7 @@
     {
       "label": "10:00",
       "rate": 80.3,
-      "count": 3920
+      "count": 3925
     },
     {
       "label": "12:00",
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9335
+      "count": 9336
     },
     {
       "label": "17:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.8,
-      "count": 10533
+      "count": 10534
     },
     {
       "label": "20:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.9,
-      "count": 6527
+      "count": 6534
     },
     {
       "label": "09:00",
@@ -254,6 +254,11 @@
       "count": 22
     },
     {
+      "team": "Atletico Baleares",
+      "rate": 95.24,
+      "count": 42
+    },
+    {
       "team": "United Of Manch",
       "rate": 95.24,
       "count": 21
@@ -267,11 +272,6 @@
       "team": "Dominican Republic",
       "rate": 95.24,
       "count": 21
-    },
-    {
-      "team": "Atletico Baleares",
-      "rate": 95.0,
-      "count": 40
     },
     {
       "team": "AC Milan U20",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2663,
+      "won": 2664,
       "lost": 543,
-      "rate": 83.06,
-      "count": 3206
+      "rate": 83.07,
+      "count": 3207
     },
     {
       "name": "Both Teams to Score - No",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 156443,
-    "elite_pattern": 42512,
-    "scanner_pattern": 98631,
-    "elite_satir": 70441,
-    "scanner_satir": 114632,
-    "skorlanan": 530,
+    "gecmis_satir": 156441,
+    "elite_pattern": 42525,
+    "scanner_pattern": 98665,
+    "elite_satir": 70444,
+    "scanner_satir": 114636,
+    "skorlanan": 523,
     "min_ornek": 10,
-    "guncelleme": "2026-11-15T16:23:16"
+    "guncelleme": "2026-11-15T16:31:01"
   }
 }
