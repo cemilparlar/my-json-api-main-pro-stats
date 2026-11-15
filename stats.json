@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 92526,
-    "lost": 21776,
+    "won": 92535,
+    "lost": 21779,
     "rate": 80.9,
-    "total": 114302,
+    "total": 114314,
     "last_24h": {
-      "won": 105,
-      "lost": 24,
-      "rate": 81.4,
-      "total": 129
+      "won": 115,
+      "lost": 25,
+      "rate": 82.1,
+      "total": 140
     },
     "all": {
-      "won": 102730,
-      "lost": 53260,
-      "total": 155990,
+      "won": 102741,
+      "lost": 53262,
+      "total": 156003,
       "rate": 65.9,
-      "excluded": 41688
+      "excluded": 41689
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26470
+      "count": 26481
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37830
+      "count": 37831
     }
   ],
   "by_hour": [
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9337
+      "count": 9349
     },
     {
       "label": "17:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.9,
-      "count": 6536
+      "count": 6535
     },
     {
       "label": "09:00",
@@ -154,7 +154,7 @@
     {
       "label": "00:00",
       "rate": 81.4,
-      "count": 1634
+      "count": 1635
     },
     {
       "label": "21:00",
@@ -209,14 +209,14 @@
       "count": 30
     },
     {
-      "team": "Juventud Torre",
+      "team": "Serbia",
       "rate": 96.55,
       "count": 29
     },
     {
-      "team": "Serbia",
-      "rate": 96.55,
-      "count": 29
+      "team": "Juventud Torre",
+      "rate": 96.43,
+      "count": 28
     },
     {
       "team": "Astrio",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 156427,
-    "elite_pattern": 42541,
-    "scanner_pattern": 98719,
-    "elite_satir": 70461,
-    "scanner_satir": 114639,
-    "skorlanan": 437,
+    "elite_pattern": 42549,
+    "scanner_pattern": 98729,
+    "elite_satir": 70468,
+    "scanner_satir": 114644,
+    "skorlanan": 424,
     "min_ornek": 10,
-    "guncelleme": "2026-11-15T21:01:17"
+    "guncelleme": "2026-11-15T21:08:50"
   }
 }
