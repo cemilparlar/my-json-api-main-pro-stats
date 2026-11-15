@@ -1,33 +1,33 @@
 {
   "summary": {
-    "won": 92562,
-    "lost": 21788,
+    "won": 92566,
+    "lost": 21790,
     "rate": 80.9,
-    "total": 114350,
+    "total": 114356,
     "last_24h": {
-      "won": 132,
-      "lost": 28,
-      "rate": 82.5,
-      "total": 160
+      "won": 137,
+      "lost": 31,
+      "rate": 81.5,
+      "total": 168
     },
     "all": {
-      "won": 102768,
-      "lost": 53274,
-      "total": 156042,
+      "won": 102776,
+      "lost": 53283,
+      "total": 156059,
       "rate": 65.9,
-      "excluded": 41692
+      "excluded": 41703
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7998
+      "count": 7999
     },
     {
       "label": "Tuesday",
       "rate": 81.2,
-      "count": 9276
+      "count": 9275
     },
     {
       "label": "Wednesday",
@@ -37,17 +37,17 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26513
+      "count": 26519
     },
     {
       "label": "Thursday",
       "rate": 81.6,
-      "count": 6747
+      "count": 6748
     },
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17269
+      "count": 17268
     },
     {
       "label": "Saturday",
@@ -84,7 +84,7 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11409
+      "count": 11410
     },
     {
       "label": "16:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.8,
-      "count": 10539
+      "count": 10544
     },
     {
       "label": "20:00",
@@ -204,12 +204,12 @@
       "count": 30
     },
     {
-      "team": "Serbia",
-      "rate": 96.67,
-      "count": 30
+      "team": "Juventud Torre",
+      "rate": 96.55,
+      "count": 29
     },
     {
-      "team": "Juventud Torre",
+      "team": "Serbia",
       "rate": 96.55,
       "count": 29
     },
@@ -536,10 +536,10 @@
     },
     {
       "name": "Total Goals 2-3",
-      "won": 312,
+      "won": 311,
       "lost": 55,
-      "rate": 85.01,
-      "count": 367
+      "rate": 84.97,
+      "count": 366
     },
     {
       "name": "Match Result 1",
@@ -551,9 +551,9 @@
     {
       "name": "Handicap (1:0) 1",
       "won": 2667,
-      "lost": 546,
-      "rate": 83.01,
-      "count": 3213
+      "lost": 547,
+      "rate": 82.98,
+      "count": 3214
     },
     {
       "name": "Both Teams to Score - No",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 156417,
-    "elite_pattern": 42555,
-    "scanner_pattern": 98759,
-    "elite_satir": 70466,
-    "scanner_satir": 114634,
-    "skorlanan": 374,
+    "elite_pattern": 42554,
+    "scanner_pattern": 98751,
+    "elite_satir": 70460,
+    "scanner_satir": 114623,
+    "skorlanan": 357,
     "min_ornek": 10,
-    "guncelleme": "2026-11-16T00:47:35"
+    "guncelleme": "2026-11-16T00:55:03"
   }
 }
