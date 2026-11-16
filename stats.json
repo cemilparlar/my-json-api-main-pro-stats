@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 92654,
-    "lost": 21807,
+    "won": 92659,
+    "lost": 21809,
     "rate": 80.9,
-    "total": 114461,
+    "total": 114468,
     "last_24h": {
-      "won": 26,
-      "lost": 4,
-      "rate": 86.7,
-      "total": 30
+      "won": 31,
+      "lost": 5,
+      "rate": 86.1,
+      "total": 36
     },
     "all": {
       "won": 102868,
       "lost": 53315,
       "total": 156183,
       "rate": 65.9,
-      "excluded": 41722
+      "excluded": 41715
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8030
+      "count": 8036
     },
     {
       "label": "Tuesday",
@@ -32,7 +32,7 @@
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 8711
+      "count": 8712
     },
     {
       "label": "Sunday",
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9369
+      "count": 9375
     },
     {
       "label": "17:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.8,
-      "count": 10540
+      "count": 10541
     },
     {
       "label": "20:00",
@@ -408,10 +408,10 @@
     },
     {
       "name": "U20EL",
-      "won": 8,
+      "won": 9,
       "lost": 0,
       "rate": 100.0,
-      "count": 8
+      "count": 9
     },
     {
       "name": "KAPL",
@@ -508,10 +508,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1021,
+      "won": 1023,
       "lost": 165,
-      "rate": 86.09,
-      "count": 1186
+      "rate": 86.11,
+      "count": 1188
     },
     {
       "name": "Over 0.5 Goals",
@@ -544,16 +544,16 @@
     {
       "name": "Match Result 1",
       "won": 2694,
-      "lost": 531,
-      "rate": 83.53,
-      "count": 3225
+      "lost": 530,
+      "rate": 83.56,
+      "count": 3224
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2670,
+      "won": 2669,
       "lost": 548,
       "rate": 82.97,
-      "count": 3218
+      "count": 3217
     },
     {
       "name": "Both Teams to Score - No",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 156687,
-    "elite_pattern": 42621,
-    "scanner_pattern": 98919,
-    "elite_satir": 70588,
-    "scanner_satir": 114846,
-    "skorlanan": 483,
+    "gecmis_satir": 156685,
+    "elite_pattern": 42618,
+    "scanner_pattern": 98924,
+    "elite_satir": 70583,
+    "scanner_satir": 114839,
+    "skorlanan": 465,
     "min_ornek": 10,
-    "guncelleme": "2026-11-16T21:01:08"
+    "guncelleme": "2026-11-16T21:08:49"
   }
 }
