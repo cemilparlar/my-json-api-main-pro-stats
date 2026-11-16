@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 92632,
-    "lost": 21806,
+    "won": 92641,
+    "lost": 21807,
     "rate": 80.9,
-    "total": 114438,
+    "total": 114448,
     "last_24h": {
-      "won": 18,
+      "won": 24,
       "lost": 5,
-      "rate": 78.3,
-      "total": 23
+      "rate": 82.8,
+      "total": 29
     },
     "all": {
       "won": 102844,
       "lost": 53302,
       "total": 156146,
       "rate": 65.9,
-      "excluded": 41708
+      "excluded": 41698
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8011
+      "count": 8020
     },
     {
       "label": "Tuesday",
@@ -42,7 +42,7 @@
     {
       "label": "Thursday",
       "rate": 81.6,
-      "count": 6749
+      "count": 6750
     },
     {
       "label": "Friday",
@@ -74,22 +74,22 @@
     {
       "label": "13:00",
       "rate": 81.5,
-      "count": 9049
+      "count": 9050
     },
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12638
+      "count": 12643
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11455
+      "count": 11457
     },
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9366
+      "count": 9368
     },
     {
       "label": "17:00",
@@ -407,18 +407,18 @@
       "count": 5
     },
     {
+      "name": "U20EL",
+      "won": 8,
+      "lost": 0,
+      "rate": 100.0,
+      "count": 8
+    },
+    {
       "name": "KAPL",
       "won": 20,
       "lost": 1,
       "rate": 95.24,
       "count": 21
-    },
-    {
-      "name": "İSÇKA",
-      "won": 17,
-      "lost": 1,
-      "rate": 94.44,
-      "count": 18
     }
   ],
   "top_predictions": [
@@ -466,10 +466,10 @@
     },
     {
       "name": "Match Result X",
-      "won": 77,
+      "won": 78,
       "lost": 9,
-      "rate": 89.53,
-      "count": 86
+      "rate": 89.66,
+      "count": 87
     },
     {
       "name": "Under 1.5 Goals",
@@ -537,9 +537,9 @@
     {
       "name": "Total Goals 2-3",
       "won": 311,
-      "lost": 55,
-      "rate": 84.97,
-      "count": 366
+      "lost": 56,
+      "rate": 84.74,
+      "count": 367
     },
     {
       "name": "Match Result 1",
@@ -550,17 +550,17 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2668,
+      "won": 2669,
       "lost": 548,
-      "rate": 82.96,
-      "count": 3216
+      "rate": 82.97,
+      "count": 3217
     },
     {
-      "name": "Both Teams to Score - No",
-      "won": 980,
-      "lost": 203,
-      "rate": 82.84,
-      "count": 1183
+      "name": "Over 3.5 Goals",
+      "won": 276,
+      "lost": 57,
+      "rate": 82.88,
+      "count": 333
     }
   ],
   "top_odds": [
@@ -650,14 +650,14 @@
       "count": 45
     },
     {
+      "odd": 1.44,
+      "rate": 84.26,
+      "count": 540
+    },
+    {
       "odd": 1.42,
       "rate": 84.24,
       "count": 349
-    },
-    {
-      "odd": 1.44,
-      "rate": 84.23,
-      "count": 539
     },
     {
       "odd": 1.49,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 156635,
-    "elite_pattern": 42598,
-    "scanner_pattern": 98886,
-    "elite_satir": 70572,
-    "scanner_satir": 114820,
-    "skorlanan": 476,
+    "gecmis_satir": 156646,
+    "elite_pattern": 42612,
+    "scanner_pattern": 98901,
+    "elite_satir": 70592,
+    "scanner_satir": 114838,
+    "skorlanan": 472,
     "min_ornek": 10,
-    "guncelleme": "2026-11-16T19:00:45"
+    "guncelleme": "2026-11-16T19:09:41"
   }
 }
