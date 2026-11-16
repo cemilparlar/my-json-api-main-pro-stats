@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 92621,
-    "lost": 21804,
+    "won": 92631,
+    "lost": 21806,
     "rate": 80.9,
-    "total": 114425,
+    "total": 114437,
     "last_24h": {
-      "won": 9,
-      "lost": 6,
-      "rate": 60.0,
-      "total": 15
+      "won": 18,
+      "lost": 7,
+      "rate": 72.0,
+      "total": 25
     },
     "all": {
       "won": 102837,
       "lost": 53302,
       "total": 156139,
       "rate": 65.9,
-      "excluded": 41714
+      "excluded": 41702
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 7999
+      "count": 8010
     },
     {
       "label": "Tuesday",
@@ -42,7 +42,7 @@
     {
       "label": "Thursday",
       "rate": 81.6,
-      "count": 6748
+      "count": 6749
     },
     {
       "label": "Friday",
@@ -74,7 +74,7 @@
     {
       "label": "13:00",
       "rate": 81.5,
-      "count": 9038
+      "count": 9049
     },
     {
       "label": "14:00",
@@ -99,7 +99,7 @@
     {
       "label": "18:00",
       "rate": 80.7,
-      "count": 12711
+      "count": 12712
     },
     {
       "label": "19:00",
@@ -486,6 +486,13 @@
       "count": 82
     },
     {
+      "name": "Total Goals 6+",
+      "won": 7,
+      "lost": 1,
+      "rate": 87.5,
+      "count": 8
+    },
+    {
       "name": "Away Team 1st Half Under 0.5",
       "won": 34,
       "lost": 5,
@@ -501,10 +508,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1023,
-      "lost": 164,
-      "rate": 86.18,
-      "count": 1187
+      "won": 1024,
+      "lost": 165,
+      "rate": 86.12,
+      "count": 1189
     },
     {
       "name": "Over 0.5 Goals",
@@ -512,13 +519,6 @@
       "lost": 7,
       "rate": 85.71,
       "count": 49
-    },
-    {
-      "name": "Total Goals 6+",
-      "won": 6,
-      "lost": 1,
-      "rate": 85.71,
-      "count": 7
     },
     {
       "name": "Handicap (0:1) 2",
@@ -636,8 +636,8 @@
     },
     {
       "odd": 1.59,
-      "rate": 85.53,
-      "count": 159
+      "rate": 85.62,
+      "count": 160
     },
     {
       "odd": 1.66,
@@ -705,6 +705,14 @@
       "odds": "17.60",
       "prediction": "HT/FT 1/X",
       "date": "31.10.2026 17:30"
+    },
+    {
+      "match": "Sudan vs Senegal",
+      "ht": "0 - 2",
+      "ft": "2 - 4",
+      "odds": "13.20",
+      "prediction": "Total Goals 6+",
+      "date": "16.11.2026 13:00"
     },
     {
       "match": "FC Heidenheim vs FC Koln",
@@ -1057,24 +1065,16 @@
       "odds": "5.24",
       "prediction": "Total Goals 0-1",
       "date": "14.02.2026 17:00"
-    },
-    {
-      "match": "Portland Timbers vs Los Angeles FC",
-      "ht": "1 - 0",
-      "ft": "2 - 1",
-      "odds": "5.22",
-      "prediction": "Handicap (0:1) X",
-      "date": "11.04.2026 20:45"
     }
   ],
   "patterns": {
     "gecmis_satir": 156614,
-    "elite_pattern": 42597,
-    "scanner_pattern": 98838,
-    "elite_satir": 70556,
-    "scanner_satir": 114796,
-    "skorlanan": 470,
+    "elite_pattern": 42598,
+    "scanner_pattern": 98885,
+    "elite_satir": 70558,
+    "scanner_satir": 114802,
+    "skorlanan": 456,
     "min_ornek": 10,
-    "guncelleme": "2026-11-16T18:06:25"
+    "guncelleme": "2026-11-16T18:15:03"
   }
 }
