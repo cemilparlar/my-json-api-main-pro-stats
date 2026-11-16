@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 92691,
-    "lost": 21826,
+    "won": 92715,
+    "lost": 21829,
     "rate": 80.9,
-    "total": 114517,
+    "total": 114544,
     "last_24h": {
-      "won": 47,
-      "lost": 9,
-      "rate": 83.9,
-      "total": 56
+      "won": 61,
+      "lost": 12,
+      "rate": 83.6,
+      "total": 73
     },
     "all": {
       "won": 102928,
       "lost": 53357,
       "total": 156285,
       "rate": 65.9,
-      "excluded": 41768
+      "excluded": 41741
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.7,
-      "count": 8062
+      "count": 8084
     },
     {
       "label": "Tuesday",
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26551
+      "count": 26557
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37896
+      "count": 37895
     }
   ],
   "by_hour": [
@@ -69,12 +69,12 @@
     {
       "label": "12:00",
       "rate": 81.0,
-      "count": 7885
+      "count": 7887
     },
     {
       "label": "13:00",
       "rate": 81.5,
-      "count": 9050
+      "count": 9054
     },
     {
       "label": "14:00",
@@ -84,7 +84,7 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11471
+      "count": 11472
     },
     {
       "label": "16:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10550
+      "count": 10571
     },
     {
       "label": "20:00",
@@ -113,8 +113,8 @@
     },
     {
       "label": "11:00",
-      "rate": 80.8,
-      "count": 6535
+      "rate": 80.9,
+      "count": 6534
     },
     {
       "label": "09:00",
@@ -209,12 +209,12 @@
       "count": 30
     },
     {
-      "team": "Juventud Torre",
-      "rate": 96.55,
-      "count": 29
+      "team": "Serbia",
+      "rate": 96.67,
+      "count": 30
     },
     {
-      "team": "Serbia",
+      "team": "Juventud Torre",
       "rate": 96.55,
       "count": 29
     },
@@ -536,10 +536,10 @@
     },
     {
       "name": "Total Goals 2-3",
-      "won": 310,
-      "lost": 56,
-      "rate": 84.7,
-      "count": 366
+      "won": 314,
+      "lost": 57,
+      "rate": 84.64,
+      "count": 371
     },
     {
       "name": "Match Result 1",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2670,
+      "won": 2672,
       "lost": 547,
-      "rate": 83.0,
-      "count": 3217
+      "rate": 83.01,
+      "count": 3219
     },
     {
       "name": "Both Teams to Score - No",
@@ -620,16 +620,6 @@
       "count": 106
     },
     {
-      "odd": 1.77,
-      "rate": 85.71,
-      "count": 98
-    },
-    {
-      "odd": 1.45,
-      "rate": 85.67,
-      "count": 307
-    },
-    {
       "odd": 1.47,
       "rate": 85.63,
       "count": 341
@@ -640,9 +630,19 @@
       "count": 160
     },
     {
+      "odd": 1.77,
+      "rate": 85.58,
+      "count": 104
+    },
+    {
       "odd": 1.66,
+      "rate": 85.56,
+      "count": 90
+    },
+    {
+      "odd": 1.45,
       "rate": 85.39,
-      "count": 89
+      "count": 308
     },
     {
       "odd": 1.9,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 156672,
-    "elite_pattern": 42628,
-    "scanner_pattern": 98952,
-    "elite_satir": 70542,
-    "scanner_satir": 114823,
-    "skorlanan": 368,
+    "elite_pattern": 42632,
+    "scanner_pattern": 98960,
+    "elite_satir": 70550,
+    "scanner_satir": 114832,
+    "skorlanan": 330,
     "min_ornek": 10,
-    "guncelleme": "2026-11-17T00:51:56"
+    "guncelleme": "2026-11-17T00:59:39"
   }
 }
