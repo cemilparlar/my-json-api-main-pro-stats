@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 92907,
-    "lost": 21882,
+    "won": 92913,
+    "lost": 21886,
     "rate": 80.9,
-    "total": 114789,
+    "total": 114799,
     "last_24h": {
-      "won": 142,
-      "lost": 33,
-      "rate": 81.1,
-      "total": 175
+      "won": 151,
+      "lost": 35,
+      "rate": 81.2,
+      "total": 186
     },
     "all": {
       "won": 103173,
       "lost": 53483,
       "total": 156656,
       "rate": 65.9,
-      "excluded": 41867
+      "excluded": 41857
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 9456
+      "count": 9468
     },
     {
       "label": "Wednesday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17295
+      "count": 17291
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37898
+      "count": 37900
     }
   ],
   "by_hour": [
@@ -94,7 +94,7 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10350
+      "count": 10351
     },
     {
       "label": "18:00",
@@ -103,8 +103,8 @@
     },
     {
       "label": "19:00",
-      "rate": 80.8,
-      "count": 10655
+      "rate": 80.7,
+      "count": 10664
     },
     {
       "label": "20:00",
@@ -254,14 +254,14 @@
       "count": 22
     },
     {
+      "team": "United Of Manch",
+      "rate": 95.45,
+      "count": 22
+    },
+    {
       "team": "Atletico Baleares",
       "rate": 95.24,
       "count": 42
-    },
-    {
-      "team": "United Of Manch",
-      "rate": 95.24,
-      "count": 21
     },
     {
       "team": "Enugu Rangers",
@@ -596,8 +596,8 @@
     },
     {
       "odd": 1.99,
-      "rate": 87.18,
-      "count": 39
+      "rate": 86.84,
+      "count": 38
     },
     {
       "odd": 1.79,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 156880,
-    "elite_pattern": 42715,
-    "scanner_pattern": 99134,
-    "elite_satir": 70659,
-    "scanner_satir": 114980,
-    "skorlanan": 236,
+    "elite_pattern": 42735,
+    "scanner_pattern": 99162,
+    "elite_satir": 70662,
+    "scanner_satir": 114978,
+    "skorlanan": 224,
     "min_ornek": 10,
-    "guncelleme": "2026-11-18T00:54:43"
+    "guncelleme": "2026-11-18T01:03:19"
   }
 }
