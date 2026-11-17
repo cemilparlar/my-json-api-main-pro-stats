@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 92842,
-    "lost": 21867,
+    "won": 92846,
+    "lost": 21868,
     "rate": 80.9,
-    "total": 114709,
+    "total": 114714,
     "last_24h": {
-      "won": 73,
+      "won": 77,
       "lost": 23,
-      "rate": 76.0,
-      "total": 96
+      "rate": 77.0,
+      "total": 100
     },
     "all": {
-      "won": 103084,
+      "won": 103088,
       "lost": 53447,
-      "total": 156531,
+      "total": 156535,
       "rate": 65.9,
-      "excluded": 41822
+      "excluded": 41821
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 9380
+      "count": 9384
     },
     {
       "label": "Wednesday",
@@ -47,7 +47,7 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17294
+      "count": 17295
     },
     {
       "label": "Saturday",
@@ -94,7 +94,7 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10345
+      "count": 10350
     },
     {
       "label": "18:00",
@@ -408,10 +408,10 @@
     },
     {
       "name": "U20EL",
-      "won": 10,
+      "won": 11,
       "lost": 0,
       "rate": 100.0,
-      "count": 10
+      "count": 11
     },
     {
       "name": "KAPL",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 156860,
-    "elite_pattern": 42674,
-    "scanner_pattern": 99057,
-    "elite_satir": 70640,
-    "scanner_satir": 114963,
-    "skorlanan": 329,
+    "gecmis_satir": 156877,
+    "elite_pattern": 42677,
+    "scanner_pattern": 99062,
+    "elite_satir": 70644,
+    "scanner_satir": 114978,
+    "skorlanan": 350,
     "min_ornek": 10,
-    "guncelleme": "2026-11-17T22:03:50"
+    "guncelleme": "2026-11-17T22:11:25"
   }
 }
