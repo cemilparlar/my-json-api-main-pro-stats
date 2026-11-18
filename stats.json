@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 92953,
+    "won": 92956,
     "lost": 21894,
     "rate": 80.9,
-    "total": 114847,
+    "total": 114850,
     "last_24h": {
-      "won": 49,
-      "lost": 7,
-      "rate": 87.5,
-      "total": 56
+      "won": 53,
+      "lost": 8,
+      "rate": 86.9,
+      "total": 61
     },
     "all": {
       "won": 103238,
       "lost": 53515,
       "total": 156753,
       "rate": 65.9,
-      "excluded": 41906
+      "excluded": 41903
     }
   },
   "by_day": [
@@ -32,12 +32,12 @@
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 8767
+      "count": 8769
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26592
+      "count": 26593
     },
     {
       "label": "Thursday",
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9430
+      "count": 9431
     },
     {
       "label": "17:00",
@@ -99,12 +99,12 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12727
+      "count": 12726
     },
     {
       "label": "19:00",
       "rate": 80.8,
-      "count": 10666
+      "count": 10669
     },
     {
       "label": "20:00",
@@ -550,17 +550,17 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2680,
+      "won": 2681,
       "lost": 549,
       "rate": 83.0,
-      "count": 3229
+      "count": 3230
     },
     {
-      "name": "Over 3.5 Goals",
-      "won": 278,
-      "lost": 57,
+      "name": "Both Teams to Score - No",
+      "won": 981,
+      "lost": 201,
       "rate": 82.99,
-      "count": 335
+      "count": 1182
     }
   ],
   "top_odds": [
@@ -573,6 +573,11 @@
       "odd": 1.97,
       "rate": 90.62,
       "count": 32
+    },
+    {
+      "odd": 1.95,
+      "rate": 89.47,
+      "count": 38
     },
     {
       "odd": 1.71,
@@ -588,11 +593,6 @@
       "odd": 1.88,
       "rate": 87.69,
       "count": 65
-    },
-    {
-      "odd": 1.95,
-      "rate": 87.18,
-      "count": 39
     },
     {
       "odd": 1.99,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 158604,
-    "elite_pattern": 42751,
-    "scanner_pattern": 99192,
-    "elite_satir": 71507,
-    "scanner_satir": 116382,
-    "skorlanan": 1858,
+    "gecmis_satir": 158636,
+    "elite_pattern": 42753,
+    "scanner_pattern": 99196,
+    "elite_satir": 71531,
+    "scanner_satir": 116407,
+    "skorlanan": 1889,
     "min_ornek": 10,
-    "guncelleme": "2026-11-18T23:54:45"
+    "guncelleme": "2026-11-19T00:03:42"
   }
 }
