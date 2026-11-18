@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 92939,
+    "won": 92941,
     "lost": 21893,
     "rate": 80.9,
-    "total": 114832,
+    "total": 114834,
     "last_24h": {
-      "won": 83,
+      "won": 84,
       "lost": 15,
-      "rate": 84.7,
-      "total": 98
+      "rate": 84.8,
+      "total": 99
     },
     "all": {
       "won": 103208,
       "lost": 53494,
       "total": 156702,
       "rate": 65.9,
-      "excluded": 41870
+      "excluded": 41868
     }
   },
   "by_day": [
@@ -32,12 +32,12 @@
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 8742
+      "count": 8743
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26593
+      "count": 26594
     },
     {
       "label": "Thursday",
@@ -79,7 +79,7 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12644
+      "count": 12646
     },
     {
       "label": "15:00",
@@ -373,10 +373,10 @@
     },
     {
       "name": "BLR1",
-      "won": 13,
+      "won": 14,
       "lost": 0,
       "rate": 100.0,
-      "count": 13
+      "count": 14
     },
     {
       "name": "KOLK",
@@ -556,11 +556,11 @@
       "count": 3229
     },
     {
-      "name": "Both Teams to Score - No",
-      "won": 983,
-      "lost": 202,
-      "rate": 82.95,
-      "count": 1185
+      "name": "Over 3.5 Goals",
+      "won": 278,
+      "lost": 57,
+      "rate": 82.99,
+      "count": 335
     }
   ],
   "top_odds": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 157901,
-    "elite_pattern": 42747,
-    "scanner_pattern": 99177,
-    "elite_satir": 71147,
-    "scanner_satir": 115808,
-    "skorlanan": 1204,
+    "gecmis_satir": 157904,
+    "elite_pattern": 42749,
+    "scanner_pattern": 99180,
+    "elite_satir": 71154,
+    "scanner_satir": 115813,
+    "skorlanan": 1206,
     "min_ornek": 10,
-    "guncelleme": "2026-11-18T19:01:32"
+    "guncelleme": "2026-11-18T19:09:21"
   }
 }
