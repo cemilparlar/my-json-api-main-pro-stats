@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 93007,
+    "won": 93008,
     "lost": 21913,
     "rate": 80.9,
-    "total": 114920,
+    "total": 114921,
     "last_24h": {
-      "won": 49,
-      "lost": 19,
-      "rate": 72.1,
-      "total": 68
+      "won": 51,
+      "lost": 20,
+      "rate": 71.8,
+      "total": 71
     },
     "all": {
       "won": 103311,
       "lost": 53564,
       "total": 156875,
       "rate": 65.9,
-      "excluded": 41955
+      "excluded": 41954
     }
   },
   "by_day": [
@@ -42,7 +42,7 @@
     {
       "label": "Thursday",
       "rate": 81.5,
-      "count": 6789
+      "count": 6790
     },
     {
       "label": "Friday",
@@ -79,17 +79,17 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12649
+      "count": 12648
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11487
+      "count": 11490
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9430
+      "count": 9429
     },
     {
       "label": "17:00",
@@ -549,18 +549,18 @@
       "count": 3246
     },
     {
-      "name": "Over 3.5 Goals",
-      "won": 279,
-      "lost": 57,
-      "rate": 83.04,
-      "count": 336
-    },
-    {
       "name": "Handicap (1:0) 1",
       "won": 2685,
       "lost": 549,
       "rate": 83.02,
       "count": 3234
+    },
+    {
+      "name": "Over 3.5 Goals",
+      "won": 278,
+      "lost": 57,
+      "rate": 82.99,
+      "count": 335
     }
   ],
   "top_odds": [
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 159801,
-    "elite_pattern": 42757,
-    "scanner_pattern": 99202,
-    "elite_satir": 72072,
-    "scanner_satir": 117307,
-    "skorlanan": 2933,
+    "elite_pattern": 42759,
+    "scanner_pattern": 99204,
+    "elite_satir": 72074,
+    "scanner_satir": 117306,
+    "skorlanan": 2926,
     "min_ornek": 10,
-    "guncelleme": "2026-11-19T20:46:14"
+    "guncelleme": "2026-11-19T20:53:50"
   }
 }
