@@ -1,21 +1,21 @@
 {
   "summary": {
     "won": 93449,
-    "lost": 22040,
+    "lost": 22039,
     "rate": 80.9,
-    "total": 115489,
+    "total": 115488,
     "last_24h": {
-      "won": 354,
+      "won": 356,
       "lost": 58,
-      "rate": 85.9,
-      "total": 412
+      "rate": 86.0,
+      "total": 414
     },
     "all": {
       "won": 103778,
       "lost": 53734,
       "total": 157512,
       "rate": 65.9,
-      "excluded": 42023
+      "excluded": 42024
     }
   },
   "by_day": [
@@ -47,7 +47,7 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 17766
+      "count": 17765
     },
     {
       "label": "Saturday",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10876
+      "count": 10875
     },
     {
       "label": "20:00",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2729,
+      "won": 2730,
       "lost": 543,
-      "rate": 83.4,
-      "count": 3272
+      "rate": 83.41,
+      "count": 3273
     },
     {
       "name": "Both Teams to Score - No",
@@ -556,11 +556,11 @@
       "count": 1194
     },
     {
-      "name": "Handicap (1:0) 1",
-      "won": 2694,
-      "lost": 550,
-      "rate": 83.05,
-      "count": 3244
+      "name": "Over 3.5 Goals",
+      "won": 275,
+      "lost": 56,
+      "rate": 83.08,
+      "count": 331
     }
   ],
   "top_odds": [
@@ -581,8 +581,8 @@
     },
     {
       "odd": 1.76,
-      "rate": 87.69,
-      "count": 130
+      "rate": 88.19,
+      "count": 127
     },
     {
       "odd": 1.88,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160288,
-    "elite_pattern": 43023,
-    "scanner_pattern": 99772,
-    "elite_satir": 72378,
-    "scanner_satir": 117750,
-    "skorlanan": 2784,
+    "gecmis_satir": 160295,
+    "elite_pattern": 43026,
+    "scanner_pattern": 99775,
+    "elite_satir": 72377,
+    "scanner_satir": 117747,
+    "skorlanan": 2787,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T02:47:20"
+    "guncelleme": "2026-11-21T02:55:45"
   }
 }
