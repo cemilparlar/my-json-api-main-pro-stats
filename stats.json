@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 93199,
-    "lost": 21972,
+    "won": 93201,
+    "lost": 21971,
     "rate": 80.9,
-    "total": 115171,
+    "total": 115172,
     "last_24h": {
-      "won": 143,
+      "won": 146,
       "lost": 23,
-      "rate": 86.1,
-      "total": 166
+      "rate": 86.4,
+      "total": 169
     },
     "all": {
-      "won": 103511,
-      "lost": 53634,
-      "total": 157145,
+      "won": 103513,
+      "lost": 53636,
+      "total": 157149,
       "rate": 65.9,
-      "excluded": 41974
+      "excluded": 41977
     }
   },
   "by_day": [
@@ -47,7 +47,7 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 17470
+      "count": 17471
     },
     {
       "label": "Saturday",
@@ -74,7 +74,7 @@
     {
       "label": "13:00",
       "rate": 81.4,
-      "count": 9143
+      "count": 9144
     },
     {
       "label": "14:00",
@@ -415,10 +415,10 @@
     },
     {
       "name": "BAH2",
-      "won": 5,
+      "won": 6,
       "lost": 0,
       "rate": 100.0,
-      "count": 5
+      "count": 6
     }
   ],
   "top_predictions": [
@@ -636,8 +636,8 @@
     },
     {
       "odd": 1.47,
-      "rate": 84.97,
-      "count": 346
+      "rate": 85.17,
+      "count": 344
     },
     {
       "odd": 1.99,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 160203,
-    "elite_pattern": 42850,
-    "scanner_pattern": 99426,
-    "elite_satir": 72256,
-    "scanner_satir": 117655,
-    "skorlanan": 3061,
+    "elite_pattern": 42854,
+    "scanner_pattern": 99431,
+    "elite_satir": 72259,
+    "scanner_satir": 117656,
+    "skorlanan": 3056,
     "min_ornek": 10,
-    "guncelleme": "2026-11-20T20:04:18"
+    "guncelleme": "2026-11-20T20:12:45"
   }
 }
