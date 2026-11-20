@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 93090,
-    "lost": 21948,
+    "won": 93097,
+    "lost": 21949,
     "rate": 80.9,
-    "total": 115038,
+    "total": 115046,
     "last_24h": {
-      "won": 84,
+      "won": 88,
       "lost": 17,
-      "rate": 83.2,
-      "total": 101
+      "rate": 83.8,
+      "total": 105
     },
     "all": {
-      "won": 103413,
-      "lost": 53609,
-      "total": 157022,
+      "won": 103417,
+      "lost": 53611,
+      "total": 157028,
       "rate": 65.9,
-      "excluded": 41984
+      "excluded": 41982
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26582
+      "count": 26583
     },
     {
       "label": "Thursday",
@@ -47,7 +47,7 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 17337
+      "count": 17344
     },
     {
       "label": "Saturday",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.8,
-      "count": 6568
+      "count": 6576
     },
     {
       "label": "09:00",
@@ -459,10 +459,10 @@
     },
     {
       "name": "HT/FT 1/1",
-      "won": 85,
+      "won": 86,
       "lost": 9,
-      "rate": 90.43,
-      "count": 94
+      "rate": 90.53,
+      "count": 95
     },
     {
       "name": "Match Result X",
@@ -557,10 +557,10 @@
     },
     {
       "name": "Both Teams to Score - No",
-      "won": 981,
+      "won": 982,
       "lost": 203,
-      "rate": 82.85,
-      "count": 1184
+      "rate": 82.87,
+      "count": 1185
     }
   ],
   "top_odds": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160077,
-    "elite_pattern": 42789,
-    "scanner_pattern": 99310,
-    "elite_satir": 72189,
-    "scanner_satir": 117537,
-    "skorlanan": 3060,
+    "gecmis_satir": 160117,
+    "elite_pattern": 42792,
+    "scanner_pattern": 99317,
+    "elite_satir": 72201,
+    "scanner_satir": 117572,
+    "skorlanan": 3102,
     "min_ornek": 10,
-    "guncelleme": "2026-11-20T16:46:13"
+    "guncelleme": "2026-11-20T16:55:00"
   }
 }
