@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 93600,
-    "lost": 22068,
+    "won": 93619,
+    "lost": 22069,
     "rate": 80.9,
-    "total": 115668,
+    "total": 115688,
     "last_24h": {
-      "won": 378,
+      "won": 393,
       "lost": 68,
-      "rate": 84.8,
-      "total": 446
+      "rate": 85.2,
+      "total": 461
     },
     "all": {
-      "won": 103964,
+      "won": 103966,
       "lost": 53812,
-      "total": 157776,
+      "total": 157778,
       "rate": 65.9,
-      "excluded": 42108
+      "excluded": 42090
     }
   },
   "by_day": [
@@ -42,7 +42,7 @@
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 6875
+      "count": 6876
     },
     {
       "label": "Friday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 38047
+      "count": 38066
     }
   ],
   "by_hour": [
@@ -64,7 +64,7 @@
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 3951
+      "count": 3969
     },
     {
       "label": "12:00",
@@ -74,7 +74,7 @@
     {
       "label": "13:00",
       "rate": 81.4,
-      "count": 9148
+      "count": 9149
     },
     {
       "label": "14:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.8,
-      "count": 6579
+      "count": 6580
     },
     {
       "label": "09:00",
@@ -557,10 +557,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2697,
+      "won": 2698,
       "lost": 551,
       "rate": 83.04,
-      "count": 3248
+      "count": 3249
     }
   ],
   "top_odds": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160565,
-    "elite_pattern": 43103,
-    "scanner_pattern": 99914,
-    "elite_satir": 72460,
-    "scanner_satir": 117895,
-    "skorlanan": 2804,
+    "gecmis_satir": 160582,
+    "elite_pattern": 43126,
+    "scanner_pattern": 99955,
+    "elite_satir": 72463,
+    "scanner_satir": 117897,
+    "skorlanan": 2812,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T15:29:55"
+    "guncelleme": "2026-11-21T15:41:46"
   }
 }
