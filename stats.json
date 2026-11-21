@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 93738,
+    "won": 93749,
     "lost": 22104,
     "rate": 80.9,
-    "total": 115842,
+    "total": 115853,
     "last_24h": {
-      "won": 452,
+      "won": 455,
       "lost": 83,
-      "rate": 84.5,
-      "total": 535
+      "rate": 84.6,
+      "total": 538
     },
     "all": {
-      "won": 104096,
-      "lost": 53860,
-      "total": 157956,
+      "won": 104108,
+      "lost": 53867,
+      "total": 157975,
       "rate": 65.9,
-      "excluded": 42114
+      "excluded": 42122
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26591
+      "count": 26595
     },
     {
       "label": "Thursday",
@@ -47,29 +47,29 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 17798
+      "count": 17799
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 38204
+      "count": 38210
     }
   ],
   "by_hour": [
     {
       "label": "08:00",
       "rate": 81.4,
-      "count": 1093
+      "count": 1094
     },
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 3969
+      "count": 3970
     },
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 8073
+      "count": 8078
     },
     {
       "label": "13:00",
@@ -79,7 +79,7 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12664
+      "count": 12666
     },
     {
       "label": "15:00",
@@ -114,12 +114,12 @@
     {
       "label": "11:00",
       "rate": 80.7,
-      "count": 6630
+      "count": 6631
     },
     {
       "label": "09:00",
-      "rate": 81.2,
-      "count": 1440
+      "rate": 81.3,
+      "count": 1441
     },
     {
       "label": "22:00",
@@ -229,12 +229,12 @@
       "count": 26
     },
     {
-      "team": "North Geelong FC",
-      "rate": 96.0,
-      "count": 25
+      "team": "Cooma Tigers",
+      "rate": 96.15,
+      "count": 26
     },
     {
-      "team": "Cooma Tigers",
+      "team": "North Geelong FC",
       "rate": 96.0,
       "count": 25
     },
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 160610,
-    "elite_pattern": 43182,
-    "scanner_pattern": 100082,
-    "elite_satir": 72489,
-    "scanner_satir": 117941,
-    "skorlanan": 2670,
+    "elite_pattern": 43184,
+    "scanner_pattern": 100086,
+    "elite_satir": 72495,
+    "scanner_satir": 117951,
+    "skorlanan": 2650,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T17:41:17"
+    "guncelleme": "2026-11-21T17:50:16"
   }
 }
