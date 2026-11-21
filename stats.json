@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 94304,
-    "lost": 22231,
+    "won": 94310,
+    "lost": 22232,
     "rate": 80.9,
-    "total": 116535,
+    "total": 116542,
     "last_24h": {
-      "won": 788,
+      "won": 789,
       "lost": 170,
       "rate": 82.3,
-      "total": 958
+      "total": 959
     },
     "all": {
-      "won": 104694,
-      "lost": 54137,
-      "total": 158831,
+      "won": 104700,
+      "lost": 54140,
+      "total": 158840,
       "rate": 65.9,
-      "excluded": 42296
+      "excluded": 42298
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26615
+      "count": 26616
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 38876
+      "count": 38882
     }
   ],
   "by_hour": [
@@ -64,7 +64,7 @@
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 3971
+      "count": 3972
     },
     {
       "label": "12:00",
@@ -94,12 +94,12 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10513
+      "count": 10515
     },
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12783
+      "count": 12787
     },
     {
       "label": "19:00",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Both Teams to Score - No",
-      "won": 999,
+      "won": 1000,
       "lost": 201,
-      "rate": 83.25,
-      "count": 1200
+      "rate": 83.26,
+      "count": 1201
     },
     {
       "name": "Over 3.5 Goals",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160690,
-    "elite_pattern": 43402,
-    "scanner_pattern": 100573,
-    "elite_satir": 72573,
-    "scanner_satir": 118077,
-    "skorlanan": 1859,
+    "gecmis_satir": 160685,
+    "elite_pattern": 43403,
+    "scanner_pattern": 100577,
+    "elite_satir": 72568,
+    "scanner_satir": 118071,
+    "skorlanan": 1845,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T22:55:13"
+    "guncelleme": "2026-11-21T23:03:22"
   }
 }
