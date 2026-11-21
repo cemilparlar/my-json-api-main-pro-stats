@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 94212,
-    "lost": 22209,
+    "won": 94236,
+    "lost": 22213,
     "rate": 80.9,
-    "total": 116421,
+    "total": 116449,
     "last_24h": {
-      "won": 705,
-      "lost": 154,
-      "rate": 82.1,
-      "total": 859
+      "won": 723,
+      "lost": 156,
+      "rate": 82.3,
+      "total": 879
     },
     "all": {
       "won": 104625,
       "lost": 54110,
       "total": 158735,
       "rate": 65.9,
-      "excluded": 42314
+      "excluded": 42286
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8084
+      "count": 8083
     },
     {
       "label": "Tuesday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 17800
+      "count": 17799
     },
     {
       "label": "Saturday",
-      "rate": 80.8,
-      "count": 38762
+      "rate": 80.9,
+      "count": 38792
     }
   ],
   "by_hour": [
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 8094
+      "count": 8095
     },
     {
       "label": "13:00",
@@ -89,22 +89,22 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9543
+      "count": 9555
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10412
+      "count": 10429
     },
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12781
+      "count": 12780
     },
     {
       "label": "19:00",
       "rate": 80.6,
-      "count": 10879
+      "count": 10878
     },
     {
       "label": "20:00",
@@ -452,10 +452,10 @@
     },
     {
       "name": "HT/FT 2/2",
-      "won": 31,
+      "won": 32,
       "lost": 3,
-      "rate": 91.18,
-      "count": 34
+      "rate": 91.43,
+      "count": 35
     },
     {
       "name": "Match Result X",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1039,
+      "won": 1040,
       "lost": 171,
-      "rate": 85.87,
-      "count": 1210
+      "rate": 85.88,
+      "count": 1211
     },
     {
       "name": "Over 0.5 Goals",
@@ -530,16 +530,16 @@
     {
       "name": "Total Goals 2-3",
       "won": 321,
-      "lost": 58,
-      "rate": 84.7,
-      "count": 379
+      "lost": 59,
+      "rate": 84.47,
+      "count": 380
     },
     {
       "name": "Match Result 1",
-      "won": 2754,
+      "won": 2755,
       "lost": 551,
       "rate": 83.33,
-      "count": 3305
+      "count": 3306
     },
     {
       "name": "Both Teams to Score - No",
@@ -557,10 +557,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2713,
+      "won": 2715,
       "lost": 559,
-      "rate": 82.92,
-      "count": 3272
+      "rate": 82.93,
+      "count": 3274
     }
   ],
   "top_odds": [
@@ -827,6 +827,14 @@
       "date": "08.08.2026 18:45"
     },
     {
+      "match": "Rudes vs Dinamo Zagreb",
+      "ht": "1 - 0",
+      "ft": "1 - 0",
+      "odds": "8.02",
+      "prediction": "Match Result 1",
+      "date": "31.10.2026 17:00"
+    },
+    {
       "match": "FC Twente vs SC Telstar",
       "ht": "0 - 0",
       "ft": "1 - 0",
@@ -1057,24 +1065,16 @@
       "odds": "5.25",
       "prediction": "HT/FT X/X",
       "date": "31.08.2026 16:00"
-    },
-    {
-      "match": "FC St Gallen vs Grasshopper Club Zurich",
-      "ht": "0 - 0",
-      "ft": "0 - 0",
-      "odds": "5.24",
-      "prediction": "Total Goals 0-1",
-      "date": "14.02.2026 17:00"
     }
   ],
   "patterns": {
-    "gecmis_satir": 160706,
-    "elite_pattern": 43385,
-    "scanner_pattern": 100490,
-    "elite_satir": 72571,
-    "scanner_satir": 118068,
-    "skorlanan": 2004,
+    "gecmis_satir": 160702,
+    "elite_pattern": 43393,
+    "scanner_pattern": 100505,
+    "elite_satir": 72577,
+    "scanner_satir": 118075,
+    "skorlanan": 1970,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T21:51:32"
+    "guncelleme": "2026-11-21T22:00:08"
   }
 }
