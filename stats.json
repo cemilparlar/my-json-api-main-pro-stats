@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 93980,
-    "lost": 22161,
+    "won": 93992,
+    "lost": 22166,
     "rate": 80.9,
-    "total": 116141,
+    "total": 116158,
     "last_24h": {
-      "won": 504,
+      "won": 506,
       "lost": 103,
-      "rate": 83.0,
-      "total": 607
+      "rate": 83.1,
+      "total": 609
     },
     "all": {
-      "won": 104366,
+      "won": 104368,
       "lost": 53995,
-      "total": 158361,
+      "total": 158363,
       "rate": 65.9,
-      "excluded": 42220
+      "excluded": 42205
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26598
+      "count": 26600
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 38498
+      "count": 38513
     }
   ],
   "by_hour": [
@@ -79,12 +79,12 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12806
+      "count": 12810
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11505
+      "count": 11518
     },
     {
       "label": "16:00",
@@ -184,6 +184,11 @@
       "count": 25
     },
     {
+      "team": "Hanworth Villa",
+      "rate": 100.0,
+      "count": 20
+    },
+    {
       "team": "Hungary",
       "rate": 97.78,
       "count": 45
@@ -272,11 +277,6 @@
       "team": "Dominican Republic",
       "rate": 95.24,
       "count": 21
-    },
-    {
-      "team": "AC Milan U20",
-      "rate": 95.0,
-      "count": 20
     }
   ],
   "top_leagues": [
@@ -508,10 +508,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1035,
+      "won": 1036,
       "lost": 171,
-      "rate": 85.82,
-      "count": 1206
+      "rate": 85.83,
+      "count": 1207
     },
     {
       "name": "Over 0.5 Goals",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2746,
-      "lost": 549,
-      "rate": 83.34,
-      "count": 3295
+      "won": 2748,
+      "lost": 550,
+      "rate": 83.32,
+      "count": 3298
     },
     {
       "name": "Both Teams to Score - No",
@@ -661,8 +661,8 @@
     },
     {
       "odd": 1.42,
-      "rate": 83.8,
-      "count": 358
+      "rate": 83.84,
+      "count": 359
     }
   ],
   "top_matches": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160604,
-    "elite_pattern": 43320,
-    "scanner_pattern": 100285,
-    "elite_satir": 72529,
-    "scanner_satir": 117992,
-    "skorlanan": 2276,
+    "gecmis_satir": 160611,
+    "elite_pattern": 43332,
+    "scanner_pattern": 100307,
+    "elite_satir": 72546,
+    "scanner_satir": 118004,
+    "skorlanan": 2268,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T19:52:30"
+    "guncelleme": "2026-11-21T20:01:38"
   }
 }
