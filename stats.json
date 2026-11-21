@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 93591,
-    "lost": 22068,
+    "won": 93599,
+    "lost": 22069,
     "rate": 80.9,
-    "total": 115659,
+    "total": 115668,
     "last_24h": {
-      "won": 380,
+      "won": 388,
       "lost": 71,
-      "rate": 84.3,
-      "total": 451
+      "rate": 84.5,
+      "total": 459
     },
     "all": {
       "won": 103948,
-      "lost": 53811,
-      "total": 157759,
+      "lost": 53812,
+      "total": 157760,
       "rate": 65.9,
-      "excluded": 42100
+      "excluded": 42092
     }
   },
   "by_day": [
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 38037
+      "count": 38046
     }
   ],
   "by_hour": [
@@ -63,8 +63,8 @@
     },
     {
       "label": "10:00",
-      "rate": 80.1,
-      "count": 3942
+      "rate": 80.2,
+      "count": 3950
     },
     {
       "label": "12:00",
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9464
+      "count": 9465
     },
     {
       "label": "17:00",
@@ -529,10 +529,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1863,
+      "won": 1864,
       "lost": 312,
       "rate": 85.66,
-      "count": 2175
+      "count": 2176
     },
     {
       "name": "Total Goals 2-3",
@@ -544,9 +544,9 @@
     {
       "name": "Match Result 1",
       "won": 2730,
-      "lost": 542,
-      "rate": 83.44,
-      "count": 3272
+      "lost": 543,
+      "rate": 83.41,
+      "count": 3273
     },
     {
       "name": "Both Teams to Score - No",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160543,
-    "elite_pattern": 43094,
-    "scanner_pattern": 99901,
-    "elite_satir": 72437,
-    "scanner_satir": 117885,
-    "skorlanan": 2793,
+    "gecmis_satir": 160548,
+    "elite_pattern": 43103,
+    "scanner_pattern": 99916,
+    "elite_satir": 72453,
+    "scanner_satir": 117888,
+    "skorlanan": 2792,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T14:57:44"
+    "guncelleme": "2026-11-21T15:11:31"
   }
 }
