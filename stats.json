@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 93713,
-    "lost": 22098,
+    "won": 93738,
+    "lost": 22104,
     "rate": 80.9,
-    "total": 115811,
+    "total": 115842,
     "last_24h": {
-      "won": 428,
-      "lost": 79,
-      "rate": 84.4,
-      "total": 507
+      "won": 452,
+      "lost": 83,
+      "rate": 84.5,
+      "total": 535
     },
     "all": {
       "won": 104096,
       "lost": 53860,
       "total": 157956,
       "rate": 65.9,
-      "excluded": 42145
+      "excluded": 42114
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26587
+      "count": 26591
     },
     {
       "label": "Thursday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 17797
+      "count": 17798
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 38178
+      "count": 38204
     }
   ],
   "by_hour": [
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 81.1,
-      "count": 8047
+      "count": 8073
     },
     {
       "label": "13:00",
@@ -79,17 +79,17 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12663
+      "count": 12664
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11504
+      "count": 11505
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9466
+      "count": 9467
     },
     {
       "label": "17:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.7,
-      "count": 6628
+      "count": 6630
     },
     {
       "label": "09:00",
@@ -239,11 +239,6 @@
       "count": 25
     },
     {
-      "team": "Muang Thong United",
-      "rate": 95.83,
-      "count": 24
-    },
-    {
       "team": "Walton And Hers",
       "rate": 95.83,
       "count": 24
@@ -277,6 +272,11 @@
       "team": "Dominican Republic",
       "rate": 95.24,
       "count": 21
+    },
+    {
+      "team": "AC Milan U20",
+      "rate": 95.0,
+      "count": 20
     }
   ],
   "top_leagues": [
@@ -558,9 +558,9 @@
     {
       "name": "Handicap (1:0) 1",
       "won": 2697,
-      "lost": 552,
-      "rate": 83.01,
-      "count": 3249
+      "lost": 551,
+      "rate": 83.04,
+      "count": 3248
     }
   ],
   "top_odds": [
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 160610,
-    "elite_pattern": 43168,
-    "scanner_pattern": 100053,
-    "elite_satir": 72486,
+    "elite_pattern": 43182,
+    "scanner_pattern": 100082,
+    "elite_satir": 72489,
     "scanner_satir": 117941,
-    "skorlanan": 2690,
+    "skorlanan": 2670,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T17:28:49"
+    "guncelleme": "2026-11-21T17:41:17"
   }
 }
