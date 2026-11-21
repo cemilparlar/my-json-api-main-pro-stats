@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 93540,
+    "won": 93541,
     "lost": 22060,
     "rate": 80.9,
-    "total": 115600,
+    "total": 115601,
     "last_24h": {
-      "won": 430,
-      "lost": 73,
-      "rate": 85.5,
-      "total": 503
+      "won": 431,
+      "lost": 74,
+      "rate": 85.3,
+      "total": 505
     },
     "all": {
       "won": 103888,
       "lost": 53782,
       "total": 157670,
       "rate": 65.9,
-      "excluded": 42070
+      "excluded": 42069
     }
   },
   "by_day": [
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 37985
+      "count": 37986
     }
   ],
   "by_hour": [
@@ -149,7 +149,7 @@
     {
       "label": "05:00",
       "rate": 81.6,
-      "count": 2489
+      "count": 2490
     },
     {
       "label": "00:00",
@@ -514,18 +514,18 @@
       "count": 443
     },
     {
-      "name": "Match Result 2",
-      "won": 1031,
-      "lost": 171,
-      "rate": 85.77,
-      "count": 1202
-    },
-    {
       "name": "Over 0.5 Goals",
       "won": 42,
       "lost": 7,
       "rate": 85.71,
       "count": 49
+    },
+    {
+      "name": "Match Result 2",
+      "won": 1031,
+      "lost": 172,
+      "rate": 85.7,
+      "count": 1203
     },
     {
       "name": "Handicap (0:1) 2",
@@ -620,6 +620,11 @@
       "count": 105
     },
     {
+      "odd": 1.45,
+      "rate": 85.44,
+      "count": 309
+    },
+    {
       "odd": 1.66,
       "rate": 85.39,
       "count": 89
@@ -628,11 +633,6 @@
       "odd": 1.59,
       "rate": 85.19,
       "count": 162
-    },
-    {
-      "odd": 1.45,
-      "rate": 85.16,
-      "count": 310
     },
     {
       "odd": 1.47,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160465,
+    "gecmis_satir": 160467,
     "elite_pattern": 43078,
     "scanner_pattern": 99858,
-    "elite_satir": 72423,
+    "elite_satir": 72418,
     "scanner_satir": 117841,
     "skorlanan": 2801,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T10:46:38"
+    "guncelleme": "2026-11-21T10:55:01"
   }
 }
