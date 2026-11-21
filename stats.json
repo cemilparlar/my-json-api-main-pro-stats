@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 93834,
-    "lost": 22136,
+    "won": 93839,
+    "lost": 22138,
     "rate": 80.9,
-    "total": 115970,
+    "total": 115977,
     "last_24h": {
-      "won": 497,
+      "won": 499,
       "lost": 96,
-      "rate": 83.8,
-      "total": 593
+      "rate": 83.9,
+      "total": 595
     },
     "all": {
-      "won": 104185,
-      "lost": 53910,
-      "total": 158095,
+      "won": 104211,
+      "lost": 53925,
+      "total": 158136,
       "rate": 65.9,
-      "excluded": 42125
+      "excluded": 42159
     }
   },
   "by_day": [
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 38323
+      "count": 38330
     }
   ],
   "by_hour": [
@@ -74,7 +74,7 @@
     {
       "label": "13:00",
       "rate": 81.4,
-      "count": 9251
+      "count": 9258
     },
     {
       "label": "14:00",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2739,
-      "lost": 546,
-      "rate": 83.38,
-      "count": 3285
+      "won": 2742,
+      "lost": 547,
+      "rate": 83.37,
+      "count": 3289
     },
     {
       "name": "Over 3.5 Goals",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Both Teams to Score - No",
-      "won": 995,
+      "won": 996,
       "lost": 202,
-      "rate": 83.12,
-      "count": 1197
+      "rate": 83.14,
+      "count": 1198
     },
     {
       "name": "Handicap (1:0) 1",
@@ -631,8 +631,8 @@
     },
     {
       "odd": 1.59,
-      "rate": 85.28,
-      "count": 163
+      "rate": 84.76,
+      "count": 164
     },
     {
       "odd": 1.47,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 160609,
-    "elite_pattern": 43249,
-    "scanner_pattern": 100204,
+    "elite_pattern": 43250,
+    "scanner_pattern": 100209,
     "elite_satir": 72514,
-    "scanner_satir": 118001,
-    "skorlanan": 2515,
+    "scanner_satir": 118006,
+    "skorlanan": 2512,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T18:38:15"
+    "guncelleme": "2026-11-21T18:46:27"
   }
 }
