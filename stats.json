@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 94261,
-    "lost": 22218,
+    "won": 94271,
+    "lost": 22220,
     "rate": 80.9,
-    "total": 116479,
+    "total": 116491,
     "last_24h": {
-      "won": 749,
+      "won": 757,
       "lost": 159,
-      "rate": 82.5,
-      "total": 908
+      "rate": 82.6,
+      "total": 916
     },
     "all": {
-      "won": 104657,
+      "won": 104660,
       "lost": 54115,
-      "total": 158772,
+      "total": 158775,
       "rate": 65.9,
-      "excluded": 42293
+      "excluded": 42284
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26614
+      "count": 26616
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 38821
+      "count": 38831
     }
   ],
   "by_hour": [
@@ -94,12 +94,12 @@
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10457
+      "count": 10466
     },
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12780
+      "count": 12783
     },
     {
       "label": "19:00",
@@ -466,10 +466,10 @@
     },
     {
       "name": "HT/FT 1/1",
-      "won": 86,
+      "won": 87,
       "lost": 10,
-      "rate": 89.58,
-      "count": 96
+      "rate": 89.69,
+      "count": 97
     },
     {
       "name": "Under 1.5 Goals",
@@ -507,6 +507,13 @@
       "count": 1211
     },
     {
+      "name": "1st Half Result 1",
+      "won": 384,
+      "lost": 64,
+      "rate": 85.71,
+      "count": 448
+    },
+    {
       "name": "Over 0.5 Goals",
       "won": 42,
       "lost": 7,
@@ -514,18 +521,11 @@
       "count": 49
     },
     {
-      "name": "1st Half Result 1",
-      "won": 383,
-      "lost": 64,
-      "rate": 85.68,
-      "count": 447
-    },
-    {
       "name": "Handicap (0:1) 2",
       "won": 1871,
-      "lost": 316,
-      "rate": 85.55,
-      "count": 2187
+      "lost": 317,
+      "rate": 85.51,
+      "count": 2188
     },
     {
       "name": "Total Goals 2-3",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2756,
+      "won": 2757,
       "lost": 552,
-      "rate": 83.31,
-      "count": 3308
+      "rate": 83.32,
+      "count": 3309
     },
     {
       "name": "Both Teams to Score - No",
@@ -601,8 +601,8 @@
     },
     {
       "odd": 1.75,
-      "rate": 86.36,
-      "count": 110
+      "rate": 86.49,
+      "count": 111
     },
     {
       "odd": 1.9,
@@ -635,11 +635,6 @@
       "count": 165
     },
     {
-      "odd": 1.47,
-      "rate": 84.73,
-      "count": 347
-    },
-    {
       "odd": 1.99,
       "rate": 84.62,
       "count": 39
@@ -648,6 +643,11 @@
       "odd": 1.44,
       "rate": 84.49,
       "count": 548
+    },
+    {
+      "odd": 1.47,
+      "rate": 84.48,
+      "count": 348
     },
     {
       "odd": 1.66,
@@ -660,9 +660,9 @@
       "count": 147
     },
     {
-      "odd": 1.49,
-      "rate": 83.72,
-      "count": 215
+      "odd": 1.85,
+      "rate": 83.82,
+      "count": 68
     }
   ],
   "top_matches": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160700,
-    "elite_pattern": 43407,
-    "scanner_pattern": 100558,
-    "elite_satir": 72585,
-    "scanner_satir": 118075,
-    "skorlanan": 1933,
+    "gecmis_satir": 160696,
+    "elite_pattern": 43411,
+    "scanner_pattern": 100572,
+    "elite_satir": 72591,
+    "scanner_satir": 118082,
+    "skorlanan": 1923,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T22:15:47"
+    "guncelleme": "2026-11-21T22:23:51"
   }
 }
