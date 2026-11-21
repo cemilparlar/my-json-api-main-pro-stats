@@ -1,19 +1,19 @@
 {
   "summary": {
-    "won": 93462,
+    "won": 93463,
     "lost": 22040,
     "rate": 80.9,
-    "total": 115502,
+    "total": 115503,
     "last_24h": {
-      "won": 367,
+      "won": 368,
       "lost": 60,
-      "rate": 85.9,
-      "total": 427
+      "rate": 86.0,
+      "total": 428
     },
     "all": {
-      "won": 103789,
+      "won": 103790,
       "lost": 53737,
-      "total": 157526,
+      "total": 157527,
       "rate": 65.9,
       "excluded": 42024
     }
@@ -47,7 +47,7 @@
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 17776
+      "count": 17777
     },
     {
       "label": "Saturday",
@@ -99,7 +99,7 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12782
+      "count": 12783
     },
     {
       "label": "19:00",
@@ -219,17 +219,17 @@
       "count": 27
     },
     {
+      "team": "Schwaben Augsbu",
+      "rate": 96.15,
+      "count": 26
+    },
+    {
       "team": "Albania",
       "rate": 96.15,
       "count": 26
     },
     {
       "team": "North Geelong FC",
-      "rate": 96.0,
-      "count": 25
-    },
-    {
-      "team": "Schwaben Augsbu",
       "rate": 96.0,
       "count": 25
     },
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160307,
+    "gecmis_satir": 160314,
     "elite_pattern": 43044,
-    "scanner_pattern": 99800,
+    "scanner_pattern": 99801,
     "elite_satir": 72381,
-    "scanner_satir": 117757,
-    "skorlanan": 2781,
+    "scanner_satir": 117756,
+    "skorlanan": 2791,
     "min_ornek": 10,
-    "guncelleme": "2026-11-21T04:20:41"
+    "guncelleme": "2026-11-21T04:29:59"
   }
 }
