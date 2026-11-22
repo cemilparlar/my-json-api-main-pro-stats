@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 95135,
-    "lost": 22439,
+    "won": 95150,
+    "lost": 22449,
     "rate": 80.9,
-    "total": 117574,
+    "total": 117599,
     "last_24h": {
-      "won": 484,
-      "lost": 97,
-      "rate": 83.3,
-      "total": 581
+      "won": 499,
+      "lost": 107,
+      "rate": 82.3,
+      "total": 606
     },
     "all": {
-      "won": 105548,
-      "lost": 54527,
-      "total": 160075,
+      "won": 105564,
+      "lost": 54546,
+      "total": 160110,
       "rate": 65.9,
-      "excluded": 42501
+      "excluded": 42511
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 27189
+      "count": 27214
     },
     {
       "label": "Thursday",
@@ -84,7 +84,7 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11882
+      "count": 11907
     },
     {
       "label": "16:00",
@@ -523,9 +523,9 @@
     {
       "name": "Handicap (0:1) 2",
       "won": 1892,
-      "lost": 328,
-      "rate": 85.23,
-      "count": 2220
+      "lost": 329,
+      "rate": 85.19,
+      "count": 2221
     },
     {
       "name": "Total Goals 2-3",
@@ -558,9 +558,9 @@
     {
       "name": "Handicap (1:0) 1",
       "won": 2740,
-      "lost": 567,
-      "rate": 82.85,
-      "count": 3307
+      "lost": 568,
+      "rate": 82.83,
+      "count": 3308
     }
   ],
   "top_odds": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160964,
-    "elite_pattern": 43811,
-    "scanner_pattern": 101448,
-    "elite_satir": 72638,
-    "scanner_satir": 118280,
-    "skorlanan": 895,
+    "gecmis_satir": 160971,
+    "elite_pattern": 43807,
+    "scanner_pattern": 101443,
+    "elite_satir": 72640,
+    "scanner_satir": 118285,
+    "skorlanan": 891,
     "min_ornek": 10,
-    "guncelleme": "2026-11-22T20:28:14"
+    "guncelleme": "2026-11-22T20:36:27"
   }
 }
