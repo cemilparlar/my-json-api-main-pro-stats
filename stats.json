@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 94697,
-    "lost": 22331,
+    "won": 94699,
+    "lost": 22332,
     "rate": 80.9,
-    "total": 117028,
+    "total": 117031,
     "last_24h": {
-      "won": 870,
-      "lost": 192,
-      "rate": 81.9,
-      "total": 1062
+      "won": 867,
+      "lost": 193,
+      "rate": 81.8,
+      "total": 1060
     },
     "all": {
-      "won": 105112,
-      "lost": 54320,
-      "total": 159432,
+      "won": 105115,
+      "lost": 54322,
+      "total": 159437,
       "rate": 65.9,
-      "excluded": 42404
+      "excluded": 42406
     }
   },
   "by_day": [
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 39293
+      "count": 39296
     }
   ],
   "by_hour": [
@@ -104,12 +104,12 @@
     {
       "label": "19:00",
       "rate": 80.6,
-      "count": 10939
+      "count": 10940
     },
     {
       "label": "20:00",
-      "rate": 80.9,
-      "count": 3363
+      "rate": 80.8,
+      "count": 3365
     },
     {
       "label": "11:00",
@@ -544,16 +544,16 @@
     {
       "name": "Both Teams to Score - No",
       "won": 1002,
-      "lost": 200,
-      "rate": 83.36,
-      "count": 1202
+      "lost": 201,
+      "rate": 83.29,
+      "count": 1203
     },
     {
       "name": "Match Result 1",
-      "won": 2770,
+      "won": 2771,
       "lost": 559,
       "rate": 83.21,
-      "count": 3329
+      "count": 3330
     },
     {
       "name": "Handicap (1:0) 1",
@@ -626,8 +626,8 @@
     },
     {
       "odd": 1.46,
-      "rate": 85.33,
-      "count": 300
+      "rate": 85.05,
+      "count": 301
     },
     {
       "odd": 1.59,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160928,
-    "elite_pattern": 43598,
+    "gecmis_satir": 160923,
+    "elite_pattern": 43600,
     "scanner_pattern": 101007,
-    "elite_satir": 72626,
-    "scanner_satir": 118212,
-    "skorlanan": 1520,
+    "elite_satir": 72618,
+    "scanner_satir": 118208,
+    "skorlanan": 1505,
     "min_ornek": 10,
-    "guncelleme": "2026-11-22T12:39:18"
+    "guncelleme": "2026-11-22T12:50:38"
   }
 }
