@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 94566,
-    "lost": 22293,
+    "won": 94570,
+    "lost": 22295,
     "rate": 80.9,
-    "total": 116859,
+    "total": 116865,
     "last_24h": {
-      "won": 938,
-      "lost": 196,
-      "rate": 82.7,
-      "total": 1134
+      "won": 942,
+      "lost": 198,
+      "rate": 82.6,
+      "total": 1140
     },
     "all": {
       "won": 104976,
-      "lost": 54261,
-      "total": 159237,
+      "lost": 54262,
+      "total": 159238,
       "rate": 65.9,
-      "excluded": 42378
+      "excluded": 42373
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26618
+      "count": 26624
     },
     {
       "label": "Thursday",
@@ -79,7 +79,7 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12822
+      "count": 12821
     },
     {
       "label": "15:00",
@@ -163,8 +163,8 @@
     },
     {
       "label": "02:00",
-      "rate": 82.3,
-      "count": 558
+      "rate": 81.9,
+      "count": 565
     },
     {
       "label": "03:00",
@@ -535,18 +535,18 @@
       "count": 384
     },
     {
+      "name": "Over 3.5 Goals",
+      "won": 286,
+      "lost": 57,
+      "rate": 83.38,
+      "count": 343
+    },
+    {
       "name": "Both Teams to Score - No",
       "won": 1001,
       "lost": 200,
       "rate": 83.35,
       "count": 1201
-    },
-    {
-      "name": "Over 3.5 Goals",
-      "won": 285,
-      "lost": 57,
-      "rate": 83.33,
-      "count": 342
     },
     {
       "name": "Match Result 1",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 160738,
-    "elite_pattern": 43538,
-    "scanner_pattern": 100878,
-    "elite_satir": 72547,
-    "scanner_satir": 118073,
-    "skorlanan": 1508,
+    "elite_pattern": 43535,
+    "scanner_pattern": 100871,
+    "elite_satir": 72540,
+    "scanner_satir": 118074,
+    "skorlanan": 1501,
     "min_ornek": 10,
-    "guncelleme": "2026-11-22T07:04:32"
+    "guncelleme": "2026-11-22T07:13:11"
   }
 }
