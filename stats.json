@@ -1,33 +1,33 @@
 {
   "summary": {
-    "won": 95310,
-    "lost": 22494,
+    "won": 95316,
+    "lost": 22495,
     "rate": 80.9,
-    "total": 117804,
+    "total": 117811,
     "last_24h": {
-      "won": 607,
-      "lost": 133,
+      "won": 612,
+      "lost": 134,
       "rate": 82.0,
-      "total": 740
+      "total": 746
     },
     "all": {
       "won": 105746,
       "lost": 54646,
       "total": 160392,
       "rate": 65.9,
-      "excluded": 42588
+      "excluded": 42581
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8081
+      "count": 8080
     },
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 9482
+      "count": 9481
     },
     {
       "label": "Wednesday",
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 27424
+      "count": 27433
     },
     {
       "label": "Thursday",
@@ -99,7 +99,7 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12845
+      "count": 12852
     },
     {
       "label": "19:00",
@@ -194,12 +194,12 @@
       "count": 32
     },
     {
-      "team": "Municipal Limen",
-      "rate": 96.77,
-      "count": 31
+      "team": "Serbia",
+      "rate": 96.88,
+      "count": 32
     },
     {
-      "team": "Serbia",
+      "team": "Municipal Limen",
       "rate": 96.77,
       "count": 31
     },
@@ -1070,11 +1070,11 @@
   "patterns": {
     "gecmis_satir": 161008,
     "elite_pattern": 43864,
-    "scanner_pattern": 101598,
-    "elite_satir": 72660,
-    "scanner_satir": 118299,
-    "skorlanan": 622,
+    "scanner_pattern": 101601,
+    "elite_satir": 72653,
+    "scanner_satir": 118297,
+    "skorlanan": 609,
     "min_ornek": 10,
-    "guncelleme": "2026-11-22T23:35:28"
+    "guncelleme": "2026-11-22T23:43:39"
   }
 }
