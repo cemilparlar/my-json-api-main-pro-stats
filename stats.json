@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 94554,
-    "lost": 22291,
+    "won": 94563,
+    "lost": 22292,
     "rate": 80.9,
-    "total": 116845,
+    "total": 116855,
     "last_24h": {
-      "won": 935,
+      "won": 942,
       "lost": 196,
-      "rate": 82.7,
-      "total": 1131
+      "rate": 82.8,
+      "total": 1138
     },
     "all": {
-      "won": 104968,
-      "lost": 54257,
-      "total": 159225,
+      "won": 104972,
+      "lost": 54258,
+      "total": 159230,
       "rate": 65.9,
-      "excluded": 42380
+      "excluded": 42375
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26616
+      "count": 26618
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 39189
+      "count": 39197
     }
   ],
   "by_hour": [
@@ -79,12 +79,12 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12821
+      "count": 12822
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11762
+      "count": 11770
     },
     {
       "label": "16:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 10937
+      "count": 10938
     },
     {
       "label": "20:00",
@@ -557,10 +557,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2722,
+      "won": 2723,
       "lost": 562,
       "rate": 82.89,
-      "count": 3284
+      "count": 3285
     }
   ],
   "top_odds": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160736,
-    "elite_pattern": 43505,
-    "scanner_pattern": 100837,
-    "elite_satir": 72529,
-    "scanner_satir": 118069,
-    "skorlanan": 1517,
+    "gecmis_satir": 160738,
+    "elite_pattern": 43534,
+    "scanner_pattern": 100874,
+    "elite_satir": 72541,
+    "scanner_satir": 118073,
+    "skorlanan": 1519,
     "min_ornek": 10,
-    "guncelleme": "2026-11-22T06:48:21"
+    "guncelleme": "2026-11-22T06:56:48"
   }
 }
