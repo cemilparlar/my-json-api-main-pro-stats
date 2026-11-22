@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 94722,
-    "lost": 22334,
+    "won": 94719,
+    "lost": 22335,
     "rate": 80.9,
-    "total": 117056,
+    "total": 117054,
     "last_24h": {
-      "won": 422,
+      "won": 413,
       "lost": 89,
-      "rate": 82.6,
-      "total": 511
+      "rate": 82.3,
+      "total": 502
     },
     "all": {
-      "won": 105137,
+      "won": 105139,
       "lost": 54329,
-      "total": 159466,
+      "total": 159468,
       "rate": 65.9,
-      "excluded": 42410
+      "excluded": 42414
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8079
+      "count": 8076
     },
     {
       "label": "Tuesday",
@@ -32,12 +32,12 @@
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 8809
+      "count": 8810
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 26707
+      "count": 26711
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.9,
-      "count": 39313
+      "count": 39309
     }
   ],
   "by_hour": [
@@ -64,7 +64,7 @@
     {
       "label": "10:00",
       "rate": 80.3,
-      "count": 3979
+      "count": 3980
     },
     {
       "label": "12:00",
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9564
+      "count": 9553
     },
     {
       "label": "17:00",
@@ -123,8 +123,8 @@
     },
     {
       "label": "09:00",
-      "rate": 81.4,
-      "count": 1438
+      "rate": 81.1,
+      "count": 1446
     },
     {
       "label": "22:00",
@@ -239,11 +239,6 @@
       "count": 26
     },
     {
-      "team": "Penang FC",
-      "rate": 96.0,
-      "count": 25
-    },
-    {
       "team": "North Geelong FC",
       "rate": 96.0,
       "count": 25
@@ -277,15 +272,20 @@
       "team": "Dominican Republic",
       "rate": 95.24,
       "count": 21
+    },
+    {
+      "team": "AC Milan U20",
+      "rate": 95.0,
+      "count": 20
     }
   ],
   "top_leagues": [
     {
       "name": "T2L-B",
-      "won": 7,
+      "won": 8,
       "lost": 0,
       "rate": 100.0,
-      "count": 7
+      "count": 8
     },
     {
       "name": "MLTAK",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1884,
+      "won": 1883,
       "lost": 321,
       "rate": 85.44,
-      "count": 2205
+      "count": 2204
     },
     {
       "name": "Total Goals 2-3",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Over 3.5 Goals",
-      "won": 287,
+      "won": 286,
       "lost": 57,
-      "rate": 83.43,
-      "count": 344
+      "rate": 83.38,
+      "count": 343
     },
     {
       "name": "Both Teams to Score - No",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160929,
-    "elite_pattern": 43606,
-    "scanner_pattern": 101021,
-    "elite_satir": 72596,
-    "scanner_satir": 118209,
-    "skorlanan": 1470,
+    "gecmis_satir": 160928,
+    "elite_pattern": 43597,
+    "scanner_pattern": 101009,
+    "elite_satir": 72580,
+    "scanner_satir": 118195,
+    "skorlanan": 1469,
     "min_ornek": 10,
-    "guncelleme": "2026-11-22T14:59:50"
+    "guncelleme": "2026-11-22T15:10:33"
   }
 }
