@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 95313,
-    "lost": 22496,
+    "won": 95310,
+    "lost": 22494,
     "rate": 80.9,
-    "total": 117809,
+    "total": 117804,
     "last_24h": {
-      "won": 605,
-      "lost": 132,
-      "rate": 82.1,
-      "total": 737
+      "won": 607,
+      "lost": 133,
+      "rate": 82.0,
+      "total": 740
     },
     "all": {
-      "won": 105733,
-      "lost": 54629,
-      "total": 160362,
+      "won": 105740,
+      "lost": 54641,
+      "total": 160381,
       "rate": 65.9,
-      "excluded": 42553
+      "excluded": 42577
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8082
+      "count": 8081
     },
     {
       "label": "Tuesday",
@@ -32,17 +32,17 @@
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 8813
+      "count": 8812
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 27419
+      "count": 27424
     },
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 6875
+      "count": 6874
     },
     {
       "label": "Friday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39344
+      "count": 39337
     }
   ],
   "by_hour": [
@@ -69,42 +69,42 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 8201
+      "count": 8200
     },
     {
       "label": "13:00",
       "rate": 81.3,
-      "count": 9444
+      "count": 9443
     },
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12905
+      "count": 12904
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11946
+      "count": 11942
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9654
+      "count": 9651
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10603
+      "count": 10602
     },
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12838
+      "count": 12845
     },
     {
       "label": "19:00",
       "rate": 80.6,
-      "count": 10946
+      "count": 10945
     },
     {
       "label": "20:00",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Over 3.5 Goals",
-      "won": 291,
+      "won": 288,
       "lost": 57,
-      "rate": 83.62,
-      "count": 348
+      "rate": 83.48,
+      "count": 345
     },
     {
       "name": "Both Teams to Score - No",
@@ -550,17 +550,17 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2798,
-      "lost": 564,
-      "rate": 83.22,
-      "count": 3362
+      "won": 2797,
+      "lost": 563,
+      "rate": 83.24,
+      "count": 3360
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2743,
-      "lost": 569,
-      "rate": 82.82,
-      "count": 3312
+      "won": 2742,
+      "lost": 567,
+      "rate": 82.86,
+      "count": 3309
     }
   ],
   "top_odds": [
@@ -590,14 +590,19 @@
       "count": 110
     },
     {
-      "odd": 1.71,
-      "rate": 87.21,
-      "count": 86
-    },
-    {
       "odd": 1.95,
       "rate": 87.18,
       "count": 39
+    },
+    {
+      "odd": 1.71,
+      "rate": 87.06,
+      "count": 85
+    },
+    {
+      "odd": 1.77,
+      "rate": 86.79,
+      "count": 106
     },
     {
       "odd": 2.03,
@@ -608,11 +613,6 @@
       "odd": 1.9,
       "rate": 86.36,
       "count": 44
-    },
-    {
-      "odd": 1.77,
-      "rate": 86.11,
-      "count": 108
     },
     {
       "odd": 1.79,
@@ -646,8 +646,8 @@
     },
     {
       "odd": 1.44,
-      "rate": 84.57,
-      "count": 551
+      "rate": 84.55,
+      "count": 550
     },
     {
       "odd": 1.47,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 161008,
-    "elite_pattern": 43871,
-    "scanner_pattern": 101609,
-    "elite_satir": 72676,
-    "scanner_satir": 118314,
-    "skorlanan": 640,
+    "elite_pattern": 43864,
+    "scanner_pattern": 101598,
+    "elite_satir": 72660,
+    "scanner_satir": 118299,
+    "skorlanan": 620,
     "min_ornek": 10,
-    "guncelleme": "2026-11-22T23:19:27"
+    "guncelleme": "2026-11-22T23:27:14"
   }
 }
