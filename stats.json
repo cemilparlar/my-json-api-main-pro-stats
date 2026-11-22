@@ -1,21 +1,21 @@
 {
   "summary": {
     "won": 95150,
-    "lost": 22449,
+    "lost": 22444,
     "rate": 80.9,
-    "total": 117599,
+    "total": 117594,
     "last_24h": {
       "won": 499,
-      "lost": 107,
-      "rate": 82.3,
-      "total": 606
+      "lost": 106,
+      "rate": 82.5,
+      "total": 605
     },
     "all": {
-      "won": 105564,
-      "lost": 54546,
-      "total": 160110,
+      "won": 105571,
+      "lost": 54556,
+      "total": 160127,
       "rate": 65.9,
-      "excluded": 42511
+      "excluded": 42533
     }
   },
   "by_day": [
@@ -37,7 +37,7 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 27214
+      "count": 27212
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39336
+      "count": 39333
     }
   ],
   "by_hour": [
@@ -64,17 +64,17 @@
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 3999
+      "count": 3998
     },
     {
       "label": "12:00",
       "rate": 81.3,
-      "count": 8193
+      "count": 8194
     },
     {
       "label": "13:00",
       "rate": 81.3,
-      "count": 9444
+      "count": 9442
     },
     {
       "label": "14:00",
@@ -84,12 +84,12 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11907
+      "count": 11905
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9559
+      "count": 9560
     },
     {
       "label": "17:00",
@@ -99,12 +99,12 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12825
+      "count": 12824
     },
     {
       "label": "19:00",
       "rate": 80.6,
-      "count": 10948
+      "count": 10949
     },
     {
       "label": "20:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.8,
-      "count": 6765
+      "count": 6764
     },
     {
       "label": "05:00",
@@ -129,7 +129,7 @@
     {
       "label": "22:00",
       "rate": 81.4,
-      "count": 2041
+      "count": 2040
     },
     {
       "label": "01:00",
@@ -557,10 +557,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2740,
-      "lost": 568,
-      "rate": 82.83,
-      "count": 3308
+      "won": 2738,
+      "lost": 566,
+      "rate": 82.87,
+      "count": 3304
     }
   ],
   "top_odds": [
@@ -585,6 +585,11 @@
       "count": 65
     },
     {
+      "odd": 1.75,
+      "rate": 87.27,
+      "count": 110
+    },
+    {
       "odd": 1.95,
       "rate": 87.18,
       "count": 39
@@ -593,11 +598,6 @@
       "odd": 2.03,
       "rate": 86.49,
       "count": 37
-    },
-    {
-      "odd": 1.75,
-      "rate": 86.49,
-      "count": 111
     },
     {
       "odd": 1.9,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 160971,
-    "elite_pattern": 43807,
-    "scanner_pattern": 101443,
-    "elite_satir": 72640,
-    "scanner_satir": 118285,
-    "skorlanan": 891,
+    "elite_pattern": 43797,
+    "scanner_pattern": 101437,
+    "elite_satir": 72626,
+    "scanner_satir": 118279,
+    "skorlanan": 854,
     "min_ornek": 10,
-    "guncelleme": "2026-11-22T20:36:27"
+    "guncelleme": "2026-11-22T20:44:33"
   }
 }
