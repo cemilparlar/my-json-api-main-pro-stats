@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 94475,
-    "lost": 22270,
+    "won": 94478,
+    "lost": 22274,
     "rate": 80.9,
-    "total": 116745,
+    "total": 116752,
     "last_24h": {
-      "won": 921,
-      "lost": 197,
+      "won": 924,
+      "lost": 198,
       "rate": 82.4,
-      "total": 1118
+      "total": 1122
     },
     "all": {
-      "won": 104870,
-      "lost": 54210,
-      "total": 159080,
+      "won": 104877,
+      "lost": 54214,
+      "total": 159091,
       "rate": 65.9,
-      "excluded": 42335
+      "excluded": 42339
     }
   },
   "by_day": [
@@ -51,8 +51,8 @@
     },
     {
       "label": "Saturday",
-      "rate": 80.9,
-      "count": 39094
+      "rate": 80.8,
+      "count": 39101
     }
   ],
   "by_hour": [
@@ -69,12 +69,12 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 8096
+      "count": 8097
     },
     {
       "label": "13:00",
       "rate": 81.4,
-      "count": 9303
+      "count": 9304
     },
     {
       "label": "14:00",
@@ -84,7 +84,7 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11693
+      "count": 11697
     },
     {
       "label": "16:00",
@@ -99,7 +99,7 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12822
+      "count": 12823
     },
     {
       "label": "19:00",
@@ -179,11 +179,6 @@
   ],
   "top_teams": [
     {
-      "team": "Maidstone Unit",
-      "rate": 100.0,
-      "count": 25
-    },
-    {
       "team": "Hungary",
       "rate": 97.78,
       "count": 45
@@ -210,6 +205,11 @@
     },
     {
       "team": "Juventud Torre",
+      "rate": 96.43,
+      "count": 28
+    },
+    {
+      "team": "Maidstone Unit",
       "rate": 96.43,
       "count": 28
     },
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 160705,
-    "elite_pattern": 43449,
-    "scanner_pattern": 100693,
-    "elite_satir": 72572,
-    "scanner_satir": 118088,
-    "skorlanan": 1632,
+    "gecmis_satir": 160709,
+    "elite_pattern": 43444,
+    "scanner_pattern": 100696,
+    "elite_satir": 72567,
+    "scanner_satir": 118095,
+    "skorlanan": 1626,
     "min_ornek": 10,
-    "guncelleme": "2026-11-22T03:36:12"
+    "guncelleme": "2026-11-22T03:44:21"
   }
 }
