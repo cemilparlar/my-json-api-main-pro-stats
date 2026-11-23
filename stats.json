@@ -1,9 +1,9 @@
 {
   "summary": {
-    "won": 95473,
+    "won": 95471,
     "lost": 22530,
     "rate": 80.9,
-    "total": 118003,
+    "total": 118001,
     "last_24h": {
       "won": 659,
       "lost": 149,
@@ -11,11 +11,11 @@
       "total": 808
     },
     "all": {
-      "won": 105888,
-      "lost": 54713,
-      "total": 160601,
+      "won": 105894,
+      "lost": 54720,
+      "total": 160614,
       "rate": 65.9,
-      "excluded": 42598
+      "excluded": 42613
     }
   },
   "by_day": [
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39377
+      "count": 39375
     }
   ],
   "by_hour": [
@@ -69,12 +69,12 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 8210
+      "count": 8211
     },
     {
       "label": "13:00",
       "rate": 81.3,
-      "count": 9454
+      "count": 9451
     },
     {
       "label": "14:00",
@@ -254,6 +254,11 @@
       "count": 22
     },
     {
+      "team": "Jeunesse Sporti",
+      "rate": 95.45,
+      "count": 22
+    },
+    {
       "team": "52 Orduspor FK",
       "rate": 95.24,
       "count": 21
@@ -272,11 +277,6 @@
       "team": "Al Ittihad Al",
       "rate": 94.44,
       "count": 36
-    },
-    {
-      "team": "Czech Republic",
-      "rate": 94.12,
-      "count": 34
     }
   ],
   "top_leagues": [
@@ -543,24 +543,24 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2808,
-      "lost": 562,
-      "rate": 83.32,
-      "count": 3370
+      "won": 2810,
+      "lost": 564,
+      "rate": 83.28,
+      "count": 3374
     },
     {
       "name": "Both Teams to Score - No",
-      "won": 1004,
+      "won": 1003,
       "lost": 203,
-      "rate": 83.18,
-      "count": 1207
+      "rate": 83.17,
+      "count": 1206
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2751,
+      "won": 2750,
       "lost": 569,
       "rate": 82.86,
-      "count": 3320
+      "count": 3319
     }
   ],
   "top_odds": [
@@ -1070,11 +1070,11 @@
   "patterns": {
     "gecmis_satir": 161022,
     "elite_pattern": 43904,
-    "scanner_pattern": 101720,
+    "scanner_pattern": 101721,
     "elite_satir": 72634,
-    "scanner_satir": 118331,
-    "skorlanan": 409,
+    "scanner_satir": 118325,
+    "skorlanan": 407,
     "min_ornek": 10,
-    "guncelleme": "2026-11-23T08:11:54"
+    "guncelleme": "2026-11-23T08:19:46"
   }
 }
