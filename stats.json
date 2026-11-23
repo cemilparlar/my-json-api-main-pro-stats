@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 95541,
-    "lost": 22527,
+    "won": 95543,
+    "lost": 22528,
     "rate": 80.9,
-    "total": 118068,
+    "total": 118071,
     "last_24h": {
-      "won": 110,
+      "won": 111,
       "lost": 31,
-      "rate": 78.0,
-      "total": 141
+      "rate": 78.2,
+      "total": 142
     },
     "all": {
       "won": 105976,
       "lost": 54762,
       "total": 160738,
       "rate": 65.9,
-      "excluded": 42670
+      "excluded": 42667
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8122
+      "count": 8125
     },
     {
       "label": "Tuesday",
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 8222
+      "count": 8223
     },
     {
       "label": "13:00",
@@ -84,7 +84,7 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11962
+      "count": 11964
     },
     {
       "label": "16:00",
@@ -551,9 +551,9 @@
     {
       "name": "Both Teams to Score - No",
       "won": 1003,
-      "lost": 204,
-      "rate": 83.1,
-      "count": 1207
+      "lost": 205,
+      "rate": 83.03,
+      "count": 1208
     },
     {
       "name": "Handicap (1:0) 1",
@@ -660,9 +660,9 @@
       "count": 70
     },
     {
-      "odd": 1.42,
-      "rate": 84.2,
-      "count": 367
+      "odd": 1.47,
+      "rate": 84.18,
+      "count": 354
     }
   ],
   "top_matches": [
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 161841,
-    "elite_pattern": 43919,
-    "scanner_pattern": 101772,
+    "elite_pattern": 43920,
+    "scanner_pattern": 101774,
     "elite_satir": 73066,
-    "scanner_satir": 118939,
-    "skorlanan": 1112,
+    "scanner_satir": 118941,
+    "skorlanan": 1103,
     "min_ornek": 10,
-    "guncelleme": "2026-11-23T17:27:26"
+    "guncelleme": "2026-11-23T17:35:11"
   }
 }
