@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 95492,
+    "won": 95493,
     "lost": 22526,
     "rate": 80.9,
-    "total": 118018,
+    "total": 118019,
     "last_24h": {
-      "won": 653,
-      "lost": 147,
-      "rate": 81.6,
-      "total": 800
+      "won": 642,
+      "lost": 143,
+      "rate": 81.8,
+      "total": 785
     },
     "all": {
       "won": 105932,
       "lost": 54749,
       "total": 160681,
       "rate": 65.9,
-      "excluded": 42663
+      "excluded": 42662
     }
   },
   "by_day": [
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39389
+      "count": 39390
     }
   ],
   "by_hour": [
@@ -64,7 +64,7 @@
     {
       "label": "10:00",
       "rate": 80.3,
-      "count": 4004
+      "count": 4005
     },
     {
       "label": "12:00",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2811,
+      "won": 2812,
       "lost": 566,
       "rate": 83.24,
-      "count": 3377
+      "count": 3378
     },
     {
       "name": "Both Teams to Score - No",
@@ -1070,11 +1070,11 @@
   "patterns": {
     "gecmis_satir": 161329,
     "elite_pattern": 43906,
-    "scanner_pattern": 101743,
+    "scanner_pattern": 101744,
     "elite_satir": 72752,
     "scanner_satir": 118476,
-    "skorlanan": 637,
+    "skorlanan": 636,
     "min_ornek": 10,
-    "guncelleme": "2026-11-23T10:20:27"
+    "guncelleme": "2026-11-23T10:28:13"
   }
 }
