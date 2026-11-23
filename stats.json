@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 95538,
-    "lost": 22527,
+    "won": 95539,
+    "lost": 22528,
     "rate": 80.9,
-    "total": 118065,
+    "total": 118067,
     "last_24h": {
-      "won": 238,
-      "lost": 58,
-      "rate": 80.4,
-      "total": 296
+      "won": 197,
+      "lost": 44,
+      "rate": 81.7,
+      "total": 241
     },
     "all": {
       "won": 105973,
       "lost": 54760,
       "total": 160733,
       "rate": 65.9,
-      "excluded": 42668
+      "excluded": 42666
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8117
+      "count": 8119
     },
     {
       "label": "Tuesday",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.8,
-      "count": 6774
+      "count": 6776
     },
     {
       "label": "05:00",
@@ -178,6 +178,11 @@
     }
   ],
   "top_teams": [
+    {
+      "team": "Nb Abbas",
+      "rate": 100.0,
+      "count": 20
+    },
     {
       "team": "Hungary",
       "rate": 97.78,
@@ -272,11 +277,6 @@
       "team": "Belconnen Unite",
       "rate": 95.0,
       "count": 20
-    },
-    {
-      "team": "Al Ittihad Al",
-      "rate": 94.44,
-      "count": 36
     }
   ],
   "top_leagues": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 161812,
-    "elite_pattern": 43920,
-    "scanner_pattern": 101772,
-    "elite_satir": 73044,
-    "scanner_satir": 118912,
-    "skorlanan": 1080,
+    "gecmis_satir": 161819,
+    "elite_pattern": 43921,
+    "scanner_pattern": 101774,
+    "elite_satir": 73052,
+    "scanner_satir": 118921,
+    "skorlanan": 1086,
     "min_ornek": 10,
-    "guncelleme": "2026-11-23T15:51:04"
+    "guncelleme": "2026-11-23T15:59:00"
   }
 }
