@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 95378,
+    "won": 95387,
     "lost": 22499,
     "rate": 80.9,
-    "total": 117877,
+    "total": 117886,
     "last_24h": {
-      "won": 652,
+      "won": 655,
       "lost": 144,
-      "rate": 81.9,
-      "total": 796
+      "rate": 82.0,
+      "total": 799
     },
     "all": {
-      "won": 105813,
-      "lost": 54675,
-      "total": 160488,
+      "won": 105826,
+      "lost": 54684,
+      "total": 160510,
       "rate": 65.9,
-      "excluded": 42611
+      "excluded": 42624
     }
   },
   "by_day": [
@@ -37,17 +37,17 @@
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 27503
+      "count": 27510
     },
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 6873
+      "count": 6874
     },
     {
       "label": "Friday",
       "rate": 80.6,
-      "count": 17792
+      "count": 17793
     },
     {
       "label": "Saturday",
@@ -64,12 +64,12 @@
     {
       "label": "10:00",
       "rate": 80.3,
-      "count": 3997
+      "count": 4000
     },
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 8205
+      "count": 8209
     },
     {
       "label": "13:00",
@@ -78,8 +78,8 @@
     },
     {
       "label": "14:00",
-      "rate": 80.9,
-      "count": 12902
+      "rate": 81.0,
+      "count": 12904
     },
     {
       "label": "15:00",
@@ -557,10 +557,10 @@
     },
     {
       "name": "Handicap (1:0) 1",
-      "won": 2743,
+      "won": 2746,
       "lost": 568,
-      "rate": 82.85,
-      "count": 3311
+      "rate": 82.86,
+      "count": 3314
     }
   ],
   "top_odds": [
@@ -661,8 +661,8 @@
     },
     {
       "odd": 1.42,
-      "rate": 84.11,
-      "count": 365
+      "rate": 84.15,
+      "count": 366
     }
   ],
   "top_matches": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 161019,
-    "elite_pattern": 43886,
-    "scanner_pattern": 101638,
-    "elite_satir": 72625,
-    "scanner_satir": 118295,
-    "skorlanan": 527,
+    "gecmis_satir": 161022,
+    "elite_pattern": 43892,
+    "scanner_pattern": 101649,
+    "elite_satir": 72636,
+    "scanner_satir": 118306,
+    "skorlanan": 529,
     "min_ornek": 10,
-    "guncelleme": "2026-11-23T03:29:07"
+    "guncelleme": "2026-11-23T03:38:01"
   }
 }
