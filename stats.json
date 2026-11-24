@@ -1,33 +1,33 @@
 {
   "summary": {
-    "won": 95755,
-    "lost": 22585,
+    "won": 95757,
+    "lost": 22587,
     "rate": 80.9,
-    "total": 118340,
+    "total": 118344,
     "last_24h": {
-      "won": 66,
-      "lost": 21,
-      "rate": 75.9,
-      "total": 87
+      "won": 68,
+      "lost": 22,
+      "rate": 75.6,
+      "total": 90
     },
     "all": {
-      "won": 106217,
-      "lost": 54886,
-      "total": 161103,
+      "won": 106218,
+      "lost": 54887,
+      "total": 161105,
       "rate": 65.9,
-      "excluded": 42763
+      "excluded": 42761
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8313
+      "count": 8314
     },
     {
       "label": "Tuesday",
       "rate": 81.0,
-      "count": 9551
+      "count": 9554
     },
     {
       "label": "Wednesday",
@@ -79,12 +79,12 @@
     {
       "label": "14:00",
       "rate": 81.0,
-      "count": 12923
+      "count": 12924
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11990
+      "count": 11993
     },
     {
       "label": "16:00",
@@ -179,6 +179,11 @@
   ],
   "top_teams": [
     {
+      "team": "Asyut Petroleum",
+      "rate": 100.0,
+      "count": 31
+    },
+    {
       "team": "Nb Abbas",
       "rate": 100.0,
       "count": 20
@@ -192,11 +197,6 @@
       "team": "FC Bulle",
       "rate": 97.06,
       "count": 34
-    },
-    {
-      "team": "Asyut Petroleum",
-      "rate": 96.88,
-      "count": 32
     },
     {
       "team": "Serbia",
@@ -558,9 +558,9 @@
     {
       "name": "Handicap (1:0) 1",
       "won": 2762,
-      "lost": 570,
-      "rate": 82.89,
-      "count": 3332
+      "lost": 571,
+      "rate": 82.87,
+      "count": 3333
     }
   ],
   "top_odds": [
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 162153,
-    "elite_pattern": 44012,
-    "scanner_pattern": 101957,
+    "elite_pattern": 44014,
+    "scanner_pattern": 101965,
     "elite_satir": 73089,
-    "scanner_satir": 119094,
-    "skorlanan": 1060,
+    "scanner_satir": 119096,
+    "skorlanan": 1048,
     "min_ornek": 10,
-    "guncelleme": "2026-11-24T20:10:29"
+    "guncelleme": "2026-11-24T20:18:24"
   }
 }
