@@ -1,38 +1,38 @@
 {
   "summary": {
-    "won": 95786,
+    "won": 95792,
     "lost": 22594,
     "rate": 80.9,
-    "total": 118380,
+    "total": 118386,
     "last_24h": {
-      "won": 89,
-      "lost": 22,
-      "rate": 80.2,
-      "total": 111
+      "won": 98,
+      "lost": 25,
+      "rate": 79.7,
+      "total": 123
     },
     "all": {
       "won": 106256,
       "lost": 54907,
       "total": 161163,
       "rate": 65.9,
-      "excluded": 42783
+      "excluded": 42777
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8316
+      "count": 8315
     },
     {
       "label": "Tuesday",
       "rate": 81.0,
-      "count": 9591
+      "count": 9599
     },
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 8802
+      "count": 8801
     },
     {
       "label": "Sunday",
@@ -99,7 +99,7 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12878
+      "count": 12884
     },
     {
       "label": "19:00",
@@ -181,7 +181,7 @@
     {
       "team": "Asyut Petroleum",
       "rate": 100.0,
-      "count": 31
+      "count": 35
     },
     {
       "team": "Nb Abbas",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2818,
+      "won": 2819,
       "lost": 572,
       "rate": 83.13,
-      "count": 3390
+      "count": 3391
     },
     {
       "name": "Handicap (1:0) 1",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 162141,
-    "elite_pattern": 44034,
-    "scanner_pattern": 102007,
-    "elite_satir": 73091,
-    "scanner_satir": 119114,
-    "skorlanan": 991,
+    "elite_pattern": 44032,
+    "scanner_pattern": 102010,
+    "elite_satir": 73087,
+    "scanner_satir": 119110,
+    "skorlanan": 978,
     "min_ornek": 10,
-    "guncelleme": "2026-11-24T23:11:38"
+    "guncelleme": "2026-11-24T23:19:26"
   }
 }
