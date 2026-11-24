@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 95728,
-    "lost": 22574,
+    "won": 95727,
+    "lost": 22570,
     "rate": 80.9,
-    "total": 118302,
+    "total": 118297,
     "last_24h": {
       "won": 127,
-      "lost": 29,
-      "rate": 81.4,
-      "total": 156
+      "lost": 27,
+      "rate": 82.5,
+      "total": 154
     },
     "all": {
-      "won": 106173,
-      "lost": 54865,
-      "total": 161038,
+      "won": 106175,
+      "lost": 54866,
+      "total": 161041,
       "rate": 65.9,
-      "excluded": 42736
+      "excluded": 42744
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 9513
+      "count": 9509
     },
     {
       "label": "Wednesday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39432
+      "count": 39431
     }
   ],
   "by_hour": [
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 8249
+      "count": 8244
     },
     {
       "label": "13:00",
@@ -502,9 +502,9 @@
     {
       "name": "Match Result 2",
       "won": 1066,
-      "lost": 171,
-      "rate": 86.18,
-      "count": 1237
+      "lost": 170,
+      "rate": 86.25,
+      "count": 1236
     },
     {
       "name": "1st Half Result 1",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1900,
-      "lost": 335,
-      "rate": 85.01,
-      "count": 2235
+      "won": 1899,
+      "lost": 334,
+      "rate": 85.04,
+      "count": 2233
     },
     {
       "name": "Total Goals 2-3",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 162133,
-    "elite_pattern": 44013,
-    "scanner_pattern": 101957,
-    "elite_satir": 73117,
-    "scanner_satir": 119095,
-    "skorlanan": 1112,
+    "elite_pattern": 44006,
+    "scanner_pattern": 101941,
+    "elite_satir": 73106,
+    "scanner_satir": 119089,
+    "skorlanan": 1095,
     "min_ornek": 10,
-    "guncelleme": "2026-11-24T17:32:34"
+    "guncelleme": "2026-11-24T17:41:32"
   }
 }
