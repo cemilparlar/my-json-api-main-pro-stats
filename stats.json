@@ -1,33 +1,33 @@
 {
   "summary": {
-    "won": 95758,
-    "lost": 22587,
+    "won": 95765,
+    "lost": 22594,
     "rate": 80.9,
-    "total": 118345,
+    "total": 118359,
     "last_24h": {
-      "won": 68,
-      "lost": 22,
-      "rate": 75.6,
-      "total": 90
+      "won": 74,
+      "lost": 23,
+      "rate": 76.3,
+      "total": 97
     },
     "all": {
       "won": 106225,
       "lost": 54889,
       "total": 161114,
       "rate": 65.9,
-      "excluded": 42769
+      "excluded": 42755
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8314
+      "count": 8316
     },
     {
       "label": "Tuesday",
       "rate": 81.0,
-      "count": 9555
+      "count": 9567
     },
     {
       "label": "Wednesday",
@@ -64,7 +64,7 @@
     {
       "label": "10:00",
       "rate": 80.2,
-      "count": 4016
+      "count": 4017
     },
     {
       "label": "12:00",
@@ -89,7 +89,7 @@
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9688
+      "count": 9699
     },
     {
       "label": "17:00",
@@ -104,12 +104,12 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 11035
+      "count": 11036
     },
     {
       "label": "20:00",
       "rate": 80.6,
-      "count": 3413
+      "count": 3414
     },
     {
       "label": "11:00",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1899,
-      "lost": 334,
-      "rate": 85.04,
-      "count": 2233
+      "won": 1900,
+      "lost": 335,
+      "rate": 85.01,
+      "count": 2235
     },
     {
       "name": "Total Goals 2-3",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 162153,
-    "elite_pattern": 44014,
-    "scanner_pattern": 101965,
-    "elite_satir": 73087,
-    "scanner_satir": 119095,
-    "skorlanan": 1045,
+    "gecmis_satir": 162155,
+    "elite_pattern": 44028,
+    "scanner_pattern": 101993,
+    "elite_satir": 73098,
+    "scanner_satir": 119104,
+    "skorlanan": 1049,
     "min_ornek": 10,
-    "guncelleme": "2026-11-24T21:00:01"
+    "guncelleme": "2026-11-24T21:09:44"
   }
 }
