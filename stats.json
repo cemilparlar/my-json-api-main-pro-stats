@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 95940,
-    "lost": 22625,
+    "won": 95946,
+    "lost": 22624,
     "rate": 80.9,
-    "total": 118565,
+    "total": 118570,
     "last_24h": {
-      "won": 232,
-      "lost": 53,
+      "won": 236,
+      "lost": 54,
       "rate": 81.4,
-      "total": 285
+      "total": 290
     },
     "all": {
-      "won": 106403,
-      "lost": 54956,
-      "total": 161359,
+      "won": 106439,
+      "lost": 55013,
+      "total": 161452,
       "rate": 65.9,
-      "excluded": 42794
+      "excluded": 42882
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 9765
+      "count": 9770
     },
     {
       "label": "Wednesday",
@@ -79,7 +79,7 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12929
+      "count": 12930
     },
     {
       "label": "15:00",
@@ -99,12 +99,12 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12898
+      "count": 12892
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 11191
+      "count": 11201
     },
     {
       "label": "20:00",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1067,
+      "won": 1068,
       "lost": 171,
-      "rate": 86.19,
-      "count": 1238
+      "rate": 86.2,
+      "count": 1239
     },
     {
       "name": "1st Half Result 1",
@@ -543,10 +543,10 @@
     },
     {
       "name": "Both Teams to Score - No",
-      "won": 1005,
+      "won": 1006,
       "lost": 202,
-      "rate": 83.26,
-      "count": 1207
+      "rate": 83.28,
+      "count": 1208
     },
     {
       "name": "Match Result 1",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 162148,
-    "elite_pattern": 44114,
-    "scanner_pattern": 102156,
-    "elite_satir": 73145,
-    "scanner_satir": 119141,
-    "skorlanan": 799,
+    "elite_pattern": 44113,
+    "scanner_pattern": 102158,
+    "elite_satir": 73137,
+    "scanner_satir": 119136,
+    "skorlanan": 789,
     "min_ornek": 10,
-    "guncelleme": "2026-11-25T00:51:01"
+    "guncelleme": "2026-11-25T00:58:45"
   }
 }
