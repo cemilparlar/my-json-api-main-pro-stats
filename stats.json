@@ -1,33 +1,33 @@
 {
   "summary": {
-    "won": 95954,
-    "lost": 22628,
+    "won": 95964,
+    "lost": 22630,
     "rate": 80.9,
-    "total": 118582,
+    "total": 118594,
     "last_24h": {
-      "won": 263,
-      "lost": 59,
-      "rate": 81.7,
-      "total": 322
+      "won": 271,
+      "lost": 62,
+      "rate": 81.4,
+      "total": 333
     },
     "all": {
-      "won": 106446,
-      "lost": 55016,
-      "total": 161462,
+      "won": 106450,
+      "lost": 55018,
+      "total": 161468,
       "rate": 65.9,
-      "excluded": 42880
+      "excluded": 42874
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8313
+      "count": 8314
     },
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 9783
+      "count": 9793
     },
     {
       "label": "Wednesday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39444
+      "count": 39445
     }
   ],
   "by_hour": [
@@ -99,12 +99,12 @@
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12892
+      "count": 12893
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 11215
+      "count": 11225
     },
     {
       "label": "20:00",
@@ -129,7 +129,7 @@
     {
       "label": "22:00",
       "rate": 81.3,
-      "count": 2059
+      "count": 2060
     },
     {
       "label": "01:00",
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1063,
+      "won": 1064,
       "lost": 171,
-      "rate": 86.14,
-      "count": 1234
+      "rate": 86.15,
+      "count": 1235
     },
     {
       "name": "1st Half Result 1",
@@ -522,10 +522,10 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1902,
+      "won": 1904,
       "lost": 336,
-      "rate": 84.99,
-      "count": 2238
+      "rate": 85.0,
+      "count": 2240
     },
     {
       "name": "Total Goals 2-3",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 162146,
-    "elite_pattern": 44132,
-    "scanner_pattern": 102187,
-    "elite_satir": 73120,
-    "scanner_satir": 119090,
-    "skorlanan": 690,
+    "gecmis_satir": 162141,
+    "elite_pattern": 44131,
+    "scanner_pattern": 102193,
+    "elite_satir": 73115,
+    "scanner_satir": 119086,
+    "skorlanan": 674,
     "min_ornek": 10,
-    "guncelleme": "2026-11-25T01:24:28"
+    "guncelleme": "2026-11-25T01:32:43"
   }
 }
