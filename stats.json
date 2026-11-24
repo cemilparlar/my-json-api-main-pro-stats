@@ -1,43 +1,43 @@
 {
   "summary": {
-    "won": 95946,
-    "lost": 22624,
+    "won": 95951,
+    "lost": 22627,
     "rate": 80.9,
-    "total": 118570,
+    "total": 118578,
     "last_24h": {
-      "won": 236,
-      "lost": 54,
-      "rate": 81.4,
-      "total": 290
+      "won": 260,
+      "lost": 58,
+      "rate": 81.8,
+      "total": 318
     },
     "all": {
-      "won": 106439,
-      "lost": 55013,
-      "total": 161452,
+      "won": 106441,
+      "lost": 55014,
+      "total": 161455,
       "rate": 65.9,
-      "excluded": 42882
+      "excluded": 42877
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8315
+      "count": 8313
     },
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 9770
+      "count": 9779
     },
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 8802
+      "count": 8799
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 27568
+      "count": 27566
     },
     {
       "label": "Thursday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17800
+      "count": 17804
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39442
+      "count": 39444
     }
   ],
   "by_hour": [
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 8245
+      "count": 8244
     },
     {
       "label": "13:00",
@@ -89,12 +89,12 @@
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9698
+      "count": 9696
     },
     {
       "label": "17:00",
       "rate": 80.8,
-      "count": 10639
+      "count": 10638
     },
     {
       "label": "18:00",
@@ -104,12 +104,12 @@
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 11201
+      "count": 11211
     },
     {
       "label": "20:00",
-      "rate": 80.6,
-      "count": 3414
+      "rate": 80.5,
+      "count": 3418
     },
     {
       "label": "11:00",
@@ -123,8 +123,8 @@
     },
     {
       "label": "09:00",
-      "rate": 81.1,
-      "count": 1453
+      "rate": 81.2,
+      "count": 1451
     },
     {
       "label": "22:00",
@@ -185,6 +185,11 @@
     },
     {
       "team": "Nb Abbas",
+      "rate": 100.0,
+      "count": 20
+    },
+    {
+      "team": "Hanworth Villa",
       "rate": 100.0,
       "count": 20
     },
@@ -272,11 +277,6 @@
       "team": "Dominican Republic",
       "rate": 95.24,
       "count": 21
-    },
-    {
-      "team": "Belconnen Unite",
-      "rate": 95.0,
-      "count": 20
     }
   ],
   "top_leagues": [
@@ -501,10 +501,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1068,
+      "won": 1063,
       "lost": 171,
-      "rate": 86.2,
-      "count": 1239
+      "rate": 86.14,
+      "count": 1234
     },
     {
       "name": "1st Half Result 1",
@@ -522,17 +522,17 @@
     },
     {
       "name": "Handicap (0:1) 2",
-      "won": 1903,
+      "won": 1902,
       "lost": 336,
       "rate": 84.99,
-      "count": 2239
+      "count": 2238
     },
     {
       "name": "Total Goals 2-3",
-      "won": 323,
-      "lost": 62,
-      "rate": 83.9,
-      "count": 385
+      "won": 318,
+      "lost": 61,
+      "rate": 83.91,
+      "count": 379
     },
     {
       "name": "Over 3.5 Goals",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2827,
-      "lost": 573,
-      "rate": 83.15,
-      "count": 3400
+      "won": 2828,
+      "lost": 571,
+      "rate": 83.2,
+      "count": 3399
     },
     {
       "name": "Handicap (1:0) 1",
@@ -605,11 +605,6 @@
       "count": 45
     },
     {
-      "odd": 1.9,
-      "rate": 86.36,
-      "count": 44
-    },
-    {
       "odd": 1.77,
       "rate": 86.24,
       "count": 109
@@ -618,6 +613,11 @@
       "odd": 2.03,
       "rate": 86.11,
       "count": 36
+    },
+    {
+      "odd": 1.9,
+      "rate": 86.05,
+      "count": 43
     },
     {
       "odd": 1.66,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 162148,
-    "elite_pattern": 44113,
-    "scanner_pattern": 102158,
-    "elite_satir": 73137,
-    "scanner_satir": 119136,
-    "skorlanan": 789,
+    "elite_pattern": 44137,
+    "scanner_pattern": 102185,
+    "elite_satir": 73126,
+    "scanner_satir": 119093,
+    "skorlanan": 696,
     "min_ornek": 10,
-    "guncelleme": "2026-11-25T00:58:45"
+    "guncelleme": "2026-11-25T01:08:14"
   }
 }
