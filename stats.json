@@ -1,43 +1,43 @@
 {
   "summary": {
-    "won": 96158,
-    "lost": 22666,
+    "won": 96170,
+    "lost": 22676,
     "rate": 80.9,
-    "total": 118824,
+    "total": 118846,
     "last_24h": {
-      "won": 166,
+      "won": 169,
       "lost": 31,
-      "rate": 84.3,
-      "total": 197
+      "rate": 84.5,
+      "total": 200
     },
     "all": {
-      "won": 106663,
+      "won": 106664,
       "lost": 55109,
-      "total": 161772,
+      "total": 161773,
       "rate": 65.9,
-      "excluded": 42948
+      "excluded": 42927
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.8,
-      "count": 8311
+      "count": 8313
     },
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 9831
+      "count": 9838
     },
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 8984
+      "count": 8992
     },
     {
       "label": "Sunday",
       "rate": 80.8,
-      "count": 27576
+      "count": 27579
     },
     {
       "label": "Thursday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17797
+      "count": 17798
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39457
+      "count": 39458
     }
   ],
   "by_hour": [
@@ -79,12 +79,12 @@
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12942
+      "count": 12949
     },
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 12016
+      "count": 12025
     },
     {
       "label": "16:00",
@@ -94,7 +94,7 @@
     {
       "label": "17:00",
       "rate": 80.8,
-      "count": 10634
+      "count": 10637
     },
     {
       "label": "18:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.8,
-      "count": 11247
+      "count": 11248
     },
     {
       "label": "20:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.8,
-      "count": 6789
+      "count": 6791
     },
     {
       "label": "05:00",
@@ -179,11 +179,6 @@
   ],
   "top_teams": [
     {
-      "team": "Asyut Petroleum",
-      "rate": 100.0,
-      "count": 35
-    },
-    {
       "team": "Nb Abbas",
       "rate": 100.0,
       "count": 20
@@ -197,6 +192,11 @@
       "team": "Hungary",
       "rate": 97.78,
       "count": 45
+    },
+    {
+      "team": "Asyut Petroleum",
+      "rate": 97.3,
+      "count": 37
     },
     {
       "team": "FC Bulle",
@@ -480,10 +480,10 @@
     },
     {
       "name": "Handicap (1:0) 2",
-      "won": 77,
+      "won": 78,
       "lost": 10,
-      "rate": 88.51,
-      "count": 87
+      "rate": 88.64,
+      "count": 88
     },
     {
       "name": "Away Team 1st Half Under 0.5",
@@ -530,9 +530,9 @@
     {
       "name": "Total Goals 2-3",
       "won": 324,
-      "lost": 61,
-      "rate": 84.16,
-      "count": 385
+      "lost": 62,
+      "rate": 83.94,
+      "count": 386
     },
     {
       "name": "Over 3.5 Goals",
@@ -551,9 +551,9 @@
     {
       "name": "Both Teams to Score - No",
       "won": 1006,
-      "lost": 203,
-      "rate": 83.21,
-      "count": 1209
+      "lost": 204,
+      "rate": 83.14,
+      "count": 1210
     },
     {
       "name": "Handicap (0:1) 1",
@@ -660,9 +660,9 @@
       "count": 354
     },
     {
-      "odd": 1.44,
-      "rate": 84.3,
-      "count": 554
+      "odd": 1.42,
+      "rate": 84.2,
+      "count": 367
     }
   ],
   "top_matches": [
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 162319,
-    "elite_pattern": 44244,
-    "scanner_pattern": 102364,
-    "elite_satir": 73184,
-    "scanner_satir": 119203,
-    "skorlanan": 567,
+    "elite_pattern": 44271,
+    "scanner_pattern": 102417,
+    "elite_satir": 73195,
+    "scanner_satir": 119222,
+    "skorlanan": 545,
     "min_ornek": 10,
-    "guncelleme": "2026-11-25T20:14:14"
+    "guncelleme": "2026-11-25T20:22:32"
   }
 }
