@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 95976,
-    "lost": 22623,
+    "won": 95978,
+    "lost": 22626,
     "rate": 80.9,
-    "total": 118599,
+    "total": 118604,
     "last_24h": {
-      "won": 287,
+      "won": 288,
       "lost": 66,
-      "rate": 81.3,
-      "total": 353
+      "rate": 81.4,
+      "total": 354
     },
     "all": {
-      "won": 106473,
-      "lost": 55040,
-      "total": 161513,
+      "won": 106482,
+      "lost": 55045,
+      "total": 161527,
       "rate": 65.9,
-      "excluded": 42914
+      "excluded": 42923
     }
   },
   "by_day": [
@@ -27,7 +27,7 @@
     {
       "label": "Tuesday",
       "rate": 81.1,
-      "count": 9808
+      "count": 9813
     },
     {
       "label": "Wednesday",
@@ -69,12 +69,12 @@
     {
       "label": "12:00",
       "rate": 81.2,
-      "count": 8244
+      "count": 8245
     },
     {
       "label": "13:00",
       "rate": 81.3,
-      "count": 9495
+      "count": 9496
     },
     {
       "label": "14:00",
@@ -84,7 +84,7 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 11992
+      "count": 11993
     },
     {
       "label": "16:00",
@@ -104,7 +104,7 @@
     {
       "label": "19:00",
       "rate": 80.8,
-      "count": 11237
+      "count": 11239
     },
     {
       "label": "20:00",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2828,
-      "lost": 571,
-      "rate": 83.2,
-      "count": 3399
+      "won": 2829,
+      "lost": 572,
+      "rate": 83.18,
+      "count": 3401
     },
     {
       "name": "Handicap (1:0) 1",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 162141,
-    "elite_pattern": 44134,
-    "scanner_pattern": 102178,
+    "elite_pattern": 44136,
+    "scanner_pattern": 102182,
     "elite_satir": 73092,
-    "scanner_satir": 119052,
-    "skorlanan": 628,
+    "scanner_satir": 119056,
+    "skorlanan": 627,
     "min_ornek": 10,
-    "guncelleme": "2026-11-25T02:49:55"
+    "guncelleme": "2026-11-25T02:58:32"
   }
 }
