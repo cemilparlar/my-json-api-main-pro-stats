@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 96181,
-    "lost": 22678,
+    "won": 96186,
+    "lost": 22681,
     "rate": 80.9,
-    "total": 118859,
+    "total": 118867,
     "last_24h": {
-      "won": 177,
-      "lost": 31,
-      "rate": 85.1,
-      "total": 208
+      "won": 179,
+      "lost": 32,
+      "rate": 84.8,
+      "total": 211
     },
     "all": {
       "won": 106677,
       "lost": 55117,
       "total": 161794,
       "rate": 65.9,
-      "excluded": 42935
+      "excluded": 42927
     }
   },
   "by_day": [
@@ -32,7 +32,7 @@
     {
       "label": "Wednesday",
       "rate": 81.9,
-      "count": 9004
+      "count": 9009
     },
     {
       "label": "Sunday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17798
+      "count": 17800
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39458
+      "count": 39459
     }
   ],
   "by_hour": [
@@ -69,7 +69,7 @@
     {
       "label": "12:00",
       "rate": 81.3,
-      "count": 8272
+      "count": 8274
     },
     {
       "label": "13:00",
@@ -89,17 +89,17 @@
     {
       "label": "16:00",
       "rate": 80.8,
-      "count": 9704
+      "count": 9707
     },
     {
       "label": "17:00",
       "rate": 80.8,
-      "count": 10637
+      "count": 10638
     },
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12898
+      "count": 12899
     },
     {
       "label": "19:00",
@@ -124,7 +124,7 @@
     {
       "label": "09:00",
       "rate": 81.3,
-      "count": 1461
+      "count": 1462
     },
     {
       "label": "22:00",
@@ -244,11 +244,6 @@
       "count": 26
     },
     {
-      "team": "Cooma Tigers",
-      "rate": 96.15,
-      "count": 26
-    },
-    {
       "team": "North Geelong FC",
       "rate": 96.0,
       "count": 25
@@ -277,6 +272,11 @@
       "team": "Dominican Republic",
       "rate": 95.24,
       "count": 21
+    },
+    {
+      "team": "Belconnen Unite",
+      "rate": 95.0,
+      "count": 20
     }
   ],
   "top_leagues": [
@@ -543,10 +543,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2835,
-      "lost": 570,
-      "rate": 83.26,
-      "count": 3405
+      "won": 2838,
+      "lost": 572,
+      "rate": 83.23,
+      "count": 3410
     },
     {
       "name": "Both Teams to Score - No",
@@ -556,11 +556,11 @@
       "count": 1210
     },
     {
-      "name": "Handicap (0:1) 1",
-      "won": 166,
-      "lost": 34,
-      "rate": 83.0,
-      "count": 200
+      "name": "Handicap (1:0) 1",
+      "won": 2776,
+      "lost": 570,
+      "rate": 82.96,
+      "count": 3346
     }
   ],
   "top_odds": [
@@ -596,8 +596,8 @@
     },
     {
       "odd": 1.71,
-      "rate": 87.06,
-      "count": 85
+      "rate": 87.21,
+      "count": 86
     },
     {
       "odd": 1.95,
@@ -625,14 +625,14 @@
       "count": 111
     },
     {
-      "odd": 1.45,
-      "rate": 85.27,
-      "count": 319
-    },
-    {
       "odd": 1.46,
       "rate": 85.23,
       "count": 298
+    },
+    {
+      "odd": 1.45,
+      "rate": 85.0,
+      "count": 320
     },
     {
       "odd": 1.59,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 162317,
-    "elite_pattern": 44279,
-    "scanner_pattern": 102430,
-    "elite_satir": 73188,
-    "scanner_satir": 119218,
-    "skorlanan": 528,
+    "gecmis_satir": 162295,
+    "elite_pattern": 44281,
+    "scanner_pattern": 102429,
+    "elite_satir": 73186,
+    "scanner_satir": 119217,
+    "skorlanan": 502,
     "min_ornek": 10,
-    "guncelleme": "2026-11-25T21:09:31"
+    "guncelleme": "2026-11-25T21:18:08"
   }
 }
