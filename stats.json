@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 96366,
-    "lost": 22734,
+    "won": 96367,
+    "lost": 22736,
     "rate": 80.9,
-    "total": 119100,
+    "total": 119103,
     "last_24h": {
-      "won": 142,
-      "lost": 28,
-      "rate": 83.5,
-      "total": 170
+      "won": 143,
+      "lost": 30,
+      "rate": 82.7,
+      "total": 173
     },
     "all": {
-      "won": 106854,
-      "lost": 55179,
-      "total": 162033,
+      "won": 106855,
+      "lost": 55182,
+      "total": 162037,
       "rate": 65.9,
-      "excluded": 42933
+      "excluded": 42934
     }
   },
   "by_day": [
@@ -41,8 +41,8 @@
     },
     {
       "label": "Thursday",
-      "rate": 81.5,
-      "count": 6918
+      "rate": 81.4,
+      "count": 6921
     },
     {
       "label": "Friday",
@@ -68,8 +68,8 @@
     },
     {
       "label": "12:00",
-      "rate": 81.3,
-      "count": 8295
+      "rate": 81.2,
+      "count": 8298
     },
     {
       "label": "13:00",
@@ -551,9 +551,9 @@
     {
       "name": "Both Teams to Score - No",
       "won": 1008,
-      "lost": 205,
-      "rate": 83.1,
-      "count": 1213
+      "lost": 206,
+      "rate": 83.03,
+      "count": 1214
     },
     {
       "name": "Handicap (1:0) 1",
@@ -630,11 +630,6 @@
       "count": 298
     },
     {
-      "odd": 1.59,
-      "rate": 84.94,
-      "count": 166
-    },
-    {
       "odd": 1.72,
       "rate": 84.87,
       "count": 119
@@ -658,6 +653,11 @@
       "odd": 1.85,
       "rate": 84.51,
       "count": 71
+    },
+    {
+      "odd": 1.59,
+      "rate": 84.43,
+      "count": 167
     },
     {
       "odd": 1.42,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 163372,
+    "gecmis_satir": 163417,
     "elite_pattern": 44362,
     "scanner_pattern": 102630,
-    "elite_satir": 73782,
-    "scanner_satir": 120182,
-    "skorlanan": 1351,
+    "elite_satir": 73801,
+    "scanner_satir": 120220,
+    "skorlanan": 1391,
     "min_ornek": 10,
-    "guncelleme": "2026-11-26T17:17:19"
+    "guncelleme": "2026-11-26T17:26:46"
   }
 }
