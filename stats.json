@@ -1,19 +1,19 @@
 {
   "summary": {
     "won": 96547,
-    "lost": 22779,
+    "lost": 22781,
     "rate": 80.9,
-    "total": 119326,
+    "total": 119328,
     "last_24h": {
       "won": 175,
-      "lost": 38,
-      "rate": 82.2,
-      "total": 213
+      "lost": 40,
+      "rate": 81.4,
+      "total": 215
     },
     "all": {
       "won": 107044,
-      "lost": 55293,
-      "total": 162337,
+      "lost": 55295,
+      "total": 162339,
       "rate": 65.9,
       "excluded": 43011
     }
@@ -42,7 +42,7 @@
     {
       "label": "Thursday",
       "rate": 81.4,
-      "count": 7119
+      "count": 7121
     },
     {
       "label": "Friday",
@@ -128,8 +128,8 @@
     },
     {
       "label": "22:00",
-      "rate": 81.4,
-      "count": 2064
+      "rate": 81.3,
+      "count": 2066
     },
     {
       "label": "01:00",
@@ -386,13 +386,6 @@
       "count": 6
     },
     {
-      "name": "PARK",
-      "won": 5,
-      "lost": 0,
-      "rate": 100.0,
-      "count": 5
-    },
-    {
       "name": "İZKL1",
       "won": 8,
       "lost": 0,
@@ -419,6 +412,13 @@
       "lost": 1,
       "rate": 95.24,
       "count": 21
+    },
+    {
+      "name": "ALU19",
+      "won": 38,
+      "lost": 2,
+      "rate": 95.0,
+      "count": 40
     }
   ],
   "top_predictions": [
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 164913,
+    "gecmis_satir": 164992,
     "elite_pattern": 44434,
     "scanner_pattern": 102847,
-    "elite_satir": 74566,
-    "scanner_satir": 121522,
-    "skorlanan": 2576,
+    "elite_satir": 74606,
+    "scanner_satir": 121583,
+    "skorlanan": 2641,
     "min_ornek": 10,
-    "guncelleme": "2026-11-27T03:23:06"
+    "guncelleme": "2026-11-27T03:34:32"
   }
 }
