@@ -1,21 +1,21 @@
 {
   "summary": {
     "won": 96553,
-    "lost": 22783,
+    "lost": 22780,
     "rate": 80.9,
-    "total": 119336,
+    "total": 119333,
     "last_24h": {
       "won": 181,
-      "lost": 43,
-      "rate": 80.8,
-      "total": 224
+      "lost": 41,
+      "rate": 81.5,
+      "total": 222
     },
     "all": {
       "won": 107051,
       "lost": 55304,
       "total": 162355,
       "rate": 65.9,
-      "excluded": 43019
+      "excluded": 43022
     }
   },
   "by_day": [
@@ -47,7 +47,7 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 17806
+      "count": 17803
     },
     {
       "label": "Saturday",
@@ -74,7 +74,7 @@
     {
       "label": "13:00",
       "rate": 81.3,
-      "count": 9514
+      "count": 9513
     },
     {
       "label": "14:00",
@@ -153,8 +153,8 @@
     },
     {
       "label": "00:00",
-      "rate": 81.7,
-      "count": 1681
+      "rate": 81.8,
+      "count": 1679
     },
     {
       "label": "21:00",
@@ -570,6 +570,11 @@
       "count": 38
     },
     {
+      "odd": 1.79,
+      "rate": 88.54,
+      "count": 96
+    },
+    {
       "odd": 1.76,
       "rate": 88.43,
       "count": 121
@@ -593,11 +598,6 @@
       "odd": 1.71,
       "rate": 87.06,
       "count": 85
-    },
-    {
-      "odd": 1.79,
-      "rate": 86.73,
-      "count": 98
     },
     {
       "odd": 1.95,
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 165077,
-    "elite_pattern": 44435,
-    "scanner_pattern": 102846,
-    "elite_satir": 74629,
-    "scanner_satir": 121639,
-    "skorlanan": 2726,
+    "elite_pattern": 44433,
+    "scanner_pattern": 102843,
+    "elite_satir": 74625,
+    "scanner_satir": 121636,
+    "skorlanan": 2722,
     "min_ornek": 10,
-    "guncelleme": "2026-11-27T05:00:58"
+    "guncelleme": "2026-11-27T05:10:39"
   }
 }
