@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 97363,
-    "lost": 23006,
+    "won": 97386,
+    "lost": 23014,
     "rate": 80.9,
-    "total": 120369,
+    "total": 120400,
     "last_24h": {
-      "won": 514,
-      "lost": 128,
-      "rate": 80.1,
-      "total": 642
+      "won": 531,
+      "lost": 130,
+      "rate": 80.3,
+      "total": 661
     },
     "all": {
-      "won": 107948,
-      "lost": 55740,
-      "total": 163688,
+      "won": 107955,
+      "lost": 55744,
+      "total": 163699,
       "rate": 65.9,
-      "excluded": 43319
+      "excluded": 43299
     }
   },
   "by_day": [
@@ -27,17 +27,17 @@
     {
       "label": "Tuesday",
       "rate": 81.0,
-      "count": 9862
+      "count": 9863
     },
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 9171
+      "count": 9173
     },
     {
       "label": "Sunday",
       "rate": 80.7,
-      "count": 27590
+      "count": 27592
     },
     {
       "label": "Thursday",
@@ -46,13 +46,13 @@
     },
     {
       "label": "Friday",
-      "rate": 80.7,
-      "count": 18199
+      "rate": 80.6,
+      "count": 18201
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 40090
+      "count": 40114
     }
   ],
   "by_hour": [
@@ -74,27 +74,27 @@
     {
       "label": "13:00",
       "rate": 81.3,
-      "count": 9600
+      "count": 9601
     },
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 13087
+      "count": 13089
     },
     {
       "label": "15:00",
       "rate": 81.0,
-      "count": 12174
+      "count": 12196
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9750
+      "count": 9754
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10819
+      "count": 10821
     },
     {
       "label": "18:00",
@@ -109,12 +109,12 @@
     {
       "label": "20:00",
       "rate": 80.7,
-      "count": 3554
+      "count": 3555
     },
     {
       "label": "11:00",
       "rate": 80.7,
-      "count": 6833
+      "count": 6832
     },
     {
       "label": "05:00",
@@ -551,9 +551,9 @@
     {
       "name": "Match Result 1",
       "won": 2874,
-      "lost": 580,
-      "rate": 83.21,
-      "count": 3454
+      "lost": 581,
+      "rate": 83.18,
+      "count": 3455
     },
     {
       "name": "Both Teams to Score - No",
@@ -1069,12 +1069,12 @@
   ],
   "patterns": {
     "gecmis_satir": 165805,
-    "elite_pattern": 44762,
-    "scanner_pattern": 103753,
-    "elite_satir": 74840,
-    "scanner_satir": 122114,
-    "skorlanan": 2140,
+    "elite_pattern": 44772,
+    "scanner_pattern": 103788,
+    "elite_satir": 74850,
+    "scanner_satir": 122124,
+    "skorlanan": 2117,
     "min_ornek": 10,
-    "guncelleme": "2026-11-28T20:48:25"
+    "guncelleme": "2026-11-28T20:57:13"
   }
 }
