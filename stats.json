@@ -1,21 +1,21 @@
 {
   "summary": {
-    "won": 97290,
-    "lost": 22985,
+    "won": 97328,
+    "lost": 22994,
     "rate": 80.9,
-    "total": 120275,
+    "total": 120322,
     "last_24h": {
-      "won": 431,
-      "lost": 105,
-      "rate": 80.4,
-      "total": 536
+      "won": 471,
+      "lost": 119,
+      "rate": 79.8,
+      "total": 590
     },
     "all": {
-      "won": 107876,
-      "lost": 55715,
-      "total": 163591,
+      "won": 107929,
+      "lost": 55736,
+      "total": 163665,
       "rate": 65.9,
-      "excluded": 43316
+      "excluded": 43343
     }
   },
   "by_day": [
@@ -27,39 +27,39 @@
     {
       "label": "Tuesday",
       "rate": 81.0,
-      "count": 9859
+      "count": 9860
     },
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 9169
+      "count": 9171
     },
     {
       "label": "Sunday",
       "rate": 80.7,
-      "count": 27592
+      "count": 27590
     },
     {
       "label": "Thursday",
       "rate": 81.5,
-      "count": 7129
+      "count": 7130
     },
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 18200
+      "count": 18198
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39998
+      "count": 40045
     }
   ],
   "by_hour": [
     {
       "label": "08:00",
       "rate": 81.3,
-      "count": 1124
+      "count": 1123
     },
     {
       "label": "10:00",
@@ -69,47 +69,47 @@
     {
       "label": "12:00",
       "rate": 81.3,
-      "count": 8462
+      "count": 8463
     },
     {
       "label": "13:00",
       "rate": 81.3,
-      "count": 9601
+      "count": 9600
     },
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 13090
+      "count": 13085
     },
     {
       "label": "15:00",
-      "rate": 81.1,
-      "count": 12077
+      "rate": 81.0,
+      "count": 12131
     },
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9748
+      "count": 9749
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10819
+      "count": 10818
     },
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12961
+      "count": 12960
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 11470
+      "count": 11471
     },
     {
       "label": "20:00",
       "rate": 80.7,
-      "count": 3555
+      "count": 3556
     },
     {
       "label": "11:00",
@@ -133,8 +133,8 @@
     },
     {
       "label": "01:00",
-      "rate": 80.9,
-      "count": 1111
+      "rate": 81.0,
+      "count": 1110
     },
     {
       "label": "06:00",
@@ -168,8 +168,8 @@
     },
     {
       "label": "03:00",
-      "rate": 81.8,
-      "count": 296
+      "rate": 81.7,
+      "count": 295
     },
     {
       "label": "04:00",
@@ -186,7 +186,7 @@
     {
       "team": "Hanworth Villa",
       "rate": 100.0,
-      "count": 21
+      "count": 22
     },
     {
       "team": "Hungary",
@@ -205,11 +205,6 @@
     },
     {
       "team": "Gulf United",
-      "rate": 96.43,
-      "count": 28
-    },
-    {
-      "team": "Maidstone Unit",
       "rate": 96.43,
       "count": 28
     },
@@ -277,6 +272,11 @@
       "team": "Al Ittihad Al",
       "rate": 94.44,
       "count": 36
+    },
+    {
+      "team": "FC Bulle",
+      "rate": 94.29,
+      "count": 35
     }
   ],
   "top_leagues": [
@@ -508,10 +508,10 @@
     },
     {
       "name": "Match Result 2",
-      "won": 1084,
+      "won": 1085,
       "lost": 176,
-      "rate": 86.03,
-      "count": 1260
+      "rate": 86.04,
+      "count": 1261
     },
     {
       "name": "1st Half Result 1",
@@ -530,9 +530,9 @@
     {
       "name": "Handicap (0:1) 2",
       "won": 1932,
-      "lost": 349,
-      "rate": 84.7,
-      "count": 2281
+      "lost": 350,
+      "rate": 84.66,
+      "count": 2282
     },
     {
       "name": "Total Goals 2-3",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2870,
-      "lost": 580,
-      "rate": 83.19,
-      "count": 3450
+      "won": 2872,
+      "lost": 581,
+      "rate": 83.17,
+      "count": 3453
     },
     {
       "name": "Both Teams to Score - No",
@@ -600,6 +600,11 @@
       "count": 46
     },
     {
+      "odd": 1.66,
+      "rate": 86.73,
+      "count": 98
+    },
+    {
       "odd": 2.03,
       "rate": 86.11,
       "count": 36
@@ -610,14 +615,14 @@
       "count": 86
     },
     {
-      "odd": 1.66,
-      "rate": 85.86,
-      "count": 99
-    },
-    {
       "odd": 1.77,
       "rate": 85.59,
       "count": 111
+    },
+    {
+      "odd": 1.46,
+      "rate": 85.48,
+      "count": 303
     },
     {
       "odd": 1.64,
@@ -633,11 +638,6 @@
       "odd": 1.72,
       "rate": 85.25,
       "count": 122
-    },
-    {
-      "odd": 1.46,
-      "rate": 85.2,
-      "count": 304
     },
     {
       "odd": 1.45,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 165770,
-    "elite_pattern": 44758,
-    "scanner_pattern": 103699,
-    "elite_satir": 74865,
-    "scanner_satir": 122109,
-    "skorlanan": 2251,
+    "gecmis_satir": 165788,
+    "elite_pattern": 44747,
+    "scanner_pattern": 103702,
+    "elite_satir": 74857,
+    "scanner_satir": 122118,
+    "skorlanan": 2192,
     "min_ornek": 10,
-    "guncelleme": "2026-11-28T20:13:58"
+    "guncelleme": "2026-11-28T20:26:45"
   }
 }
