@@ -1,33 +1,33 @@
 {
   "summary": {
     "won": 97216,
-    "lost": 22972,
+    "lost": 22964,
     "rate": 80.9,
-    "total": 120188,
+    "total": 120180,
     "last_24h": {
-      "won": 449,
-      "lost": 111,
-      "rate": 80.2,
-      "total": 560
+      "won": 426,
+      "lost": 99,
+      "rate": 81.1,
+      "total": 525
     },
     "all": {
-      "won": 107766,
-      "lost": 55657,
-      "total": 163423,
+      "won": 107809,
+      "lost": 55676,
+      "total": 163485,
       "rate": 65.9,
-      "excluded": 43235
+      "excluded": 43305
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.7,
-      "count": 8327
+      "count": 8329
     },
     {
       "label": "Tuesday",
       "rate": 81.0,
-      "count": 9857
+      "count": 9859
     },
     {
       "label": "Wednesday",
@@ -36,23 +36,23 @@
     },
     {
       "label": "Sunday",
-      "rate": 80.7,
-      "count": 27588
+      "rate": 80.8,
+      "count": 27586
     },
     {
       "label": "Thursday",
       "rate": 81.5,
-      "count": 7130
+      "count": 7129
     },
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 18193
+      "count": 18194
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39924
+      "count": 39914
     }
   ],
   "by_hour": [
@@ -69,17 +69,17 @@
     {
       "label": "12:00",
       "rate": 81.3,
-      "count": 8460
+      "count": 8461
     },
     {
       "label": "13:00",
       "rate": 81.3,
-      "count": 9601
+      "count": 9600
     },
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 13047
+      "count": 13037
     },
     {
       "label": "15:00",
@@ -89,32 +89,32 @@
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9748
+      "count": 9749
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10817
+      "count": 10818
     },
     {
       "label": "18:00",
-      "rate": 80.5,
-      "count": 12961
+      "rate": 80.6,
+      "count": 12960
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 11466
+      "count": 11465
     },
     {
       "label": "20:00",
       "rate": 80.7,
-      "count": 3554
+      "count": 3555
     },
     {
       "label": "11:00",
       "rate": 80.7,
-      "count": 6832
+      "count": 6833
     },
     {
       "label": "05:00",
@@ -473,10 +473,10 @@
     },
     {
       "name": "Handicap (1:0) 2",
-      "won": 80,
+      "won": 79,
       "lost": 10,
-      "rate": 88.89,
-      "count": 90
+      "rate": 88.76,
+      "count": 89
     },
     {
       "name": "Total Goals 6+",
@@ -509,16 +509,16 @@
     {
       "name": "Match Result 2",
       "won": 1083,
-      "lost": 175,
-      "rate": 86.09,
-      "count": 1258
+      "lost": 176,
+      "rate": 86.02,
+      "count": 1259
     },
     {
       "name": "1st Half Result 1",
-      "won": 396,
+      "won": 397,
       "lost": 66,
-      "rate": 85.71,
-      "count": 462
+      "rate": 85.75,
+      "count": 463
     },
     {
       "name": "Over 0.5 Goals",
@@ -530,9 +530,9 @@
     {
       "name": "Handicap (0:1) 2",
       "won": 1932,
-      "lost": 349,
-      "rate": 84.7,
-      "count": 2281
+      "lost": 348,
+      "rate": 84.74,
+      "count": 2280
     },
     {
       "name": "Total Goals 2-3",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2871,
+      "won": 2870,
       "lost": 580,
       "rate": 83.19,
-      "count": 3451
+      "count": 3450
     },
     {
       "name": "Both Teams to Score - No",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 165730,
-    "elite_pattern": 44700,
-    "scanner_pattern": 103582,
-    "elite_satir": 74836,
-    "scanner_satir": 122082,
-    "skorlanan": 2357,
+    "gecmis_satir": 165731,
+    "elite_pattern": 44723,
+    "scanner_pattern": 103625,
+    "elite_satir": 74854,
+    "scanner_satir": 122071,
+    "skorlanan": 2308,
     "min_ornek": 10,
-    "guncelleme": "2026-11-28T19:15:19"
+    "guncelleme": "2026-11-28T19:27:15"
   }
 }
