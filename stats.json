@@ -1,28 +1,28 @@
 {
   "summary": {
-    "won": 97650,
-    "lost": 23079,
+    "won": 97685,
+    "lost": 23083,
     "rate": 80.9,
-    "total": 120729,
+    "total": 120768,
     "last_24h": {
-      "won": 800,
-      "lost": 202,
-      "rate": 79.8,
-      "total": 1002
+      "won": 832,
+      "lost": 203,
+      "rate": 80.4,
+      "total": 1035
     },
     "all": {
-      "won": 108291,
-      "lost": 55915,
-      "total": 164206,
+      "won": 108300,
+      "lost": 55924,
+      "total": 164224,
       "rate": 65.9,
-      "excluded": 43477
+      "excluded": 43456
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.7,
-      "count": 8334
+      "count": 8337
     },
     {
       "label": "Tuesday",
@@ -32,12 +32,12 @@
     {
       "label": "Wednesday",
       "rate": 81.8,
-      "count": 9175
+      "count": 9176
     },
     {
       "label": "Sunday",
       "rate": 80.7,
-      "count": 27593
+      "count": 27596
     },
     {
       "label": "Thursday",
@@ -52,7 +52,7 @@
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 40437
+      "count": 40469
     }
   ],
   "by_hour": [
@@ -64,7 +64,7 @@
     {
       "label": "10:00",
       "rate": 80.1,
-      "count": 4148
+      "count": 4147
     },
     {
       "label": "12:00",
@@ -74,7 +74,7 @@
     {
       "label": "13:00",
       "rate": 81.3,
-      "count": 9607
+      "count": 9605
     },
     {
       "label": "14:00",
@@ -84,22 +84,22 @@
     {
       "label": "15:00",
       "rate": 81.1,
-      "count": 12307
+      "count": 12306
     },
     {
       "label": "16:00",
       "rate": 80.6,
-      "count": 9855
+      "count": 9856
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10911
+      "count": 10919
     },
     {
       "label": "18:00",
       "rate": 80.6,
-      "count": 12959
+      "count": 12993
     },
     {
       "label": "19:00",
@@ -118,7 +118,7 @@
     },
     {
       "label": "05:00",
-      "rate": 81.0,
+      "rate": 80.9,
       "count": 2573
     },
     {
@@ -507,18 +507,18 @@
       "count": 122
     },
     {
-      "name": "1st Half Result 1",
-      "won": 404,
-      "lost": 66,
-      "rate": 85.96,
-      "count": 470
+      "name": "Match Result 2",
+      "won": 1094,
+      "lost": 179,
+      "rate": 85.94,
+      "count": 1273
     },
     {
-      "name": "Match Result 2",
-      "won": 1093,
-      "lost": 179,
-      "rate": 85.93,
-      "count": 1272
+      "name": "1st Half Result 1",
+      "won": 405,
+      "lost": 67,
+      "rate": 85.81,
+      "count": 472
     },
     {
       "name": "Over 0.5 Goals",
@@ -536,10 +536,10 @@
     },
     {
       "name": "Total Goals 2-3",
-      "won": 327,
+      "won": 332,
       "lost": 63,
-      "rate": 83.85,
-      "count": 390
+      "rate": 84.05,
+      "count": 395
     },
     {
       "name": "Over 3.5 Goals",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2887,
+      "won": 2888,
       "lost": 582,
-      "rate": 83.22,
-      "count": 3469
+      "rate": 83.23,
+      "count": 3470
     },
     {
       "name": "Both Teams to Score - No",
@@ -566,8 +566,8 @@
   "top_odds": [
     {
       "odd": 1.79,
-      "rate": 88.54,
-      "count": 96
+      "rate": 88.66,
+      "count": 97
     },
     {
       "odd": 1.76,
@@ -630,14 +630,14 @@
       "count": 122
     },
     {
+      "odd": 1.86,
+      "rate": 84.95,
+      "count": 93
+    },
+    {
       "odd": 1.59,
       "rate": 84.8,
       "count": 171
-    },
-    {
-      "odd": 1.86,
-      "rate": 84.78,
-      "count": 92
     },
     {
       "odd": 1.85,
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 165875,
-    "elite_pattern": 44882,
-    "scanner_pattern": 103966,
-    "elite_satir": 74821,
-    "scanner_satir": 122095,
-    "skorlanan": 1706,
+    "gecmis_satir": 165878,
+    "elite_pattern": 44912,
+    "scanner_pattern": 104007,
+    "elite_satir": 74830,
+    "scanner_satir": 122097,
+    "skorlanan": 1660,
     "min_ornek": 10,
-    "guncelleme": "2026-11-28T23:04:19"
+    "guncelleme": "2026-11-28T23:16:00"
   }
 }
