@@ -1,33 +1,33 @@
 {
   "summary": {
-    "won": 97158,
-    "lost": 22954,
+    "won": 97186,
+    "lost": 22963,
     "rate": 80.9,
-    "total": 120112,
+    "total": 120149,
     "last_24h": {
-      "won": 426,
-      "lost": 108,
-      "rate": 79.8,
-      "total": 534
+      "won": 424,
+      "lost": 103,
+      "rate": 80.5,
+      "total": 527
     },
     "all": {
-      "won": 107699,
-      "lost": 55633,
-      "total": 163332,
+      "won": 107733,
+      "lost": 55648,
+      "total": 163381,
       "rate": 65.9,
-      "excluded": 43220
+      "excluded": 43232
     }
   },
   "by_day": [
     {
       "label": "Monday",
       "rate": 80.7,
-      "count": 8326
+      "count": 8327
     },
     {
       "label": "Tuesday",
       "rate": 81.0,
-      "count": 9858
+      "count": 9857
     },
     {
       "label": "Wednesday",
@@ -36,8 +36,8 @@
     },
     {
       "label": "Sunday",
-      "rate": 80.8,
-      "count": 27582
+      "rate": 80.7,
+      "count": 27588
     },
     {
       "label": "Thursday",
@@ -47,12 +47,12 @@
     {
       "label": "Friday",
       "rate": 80.7,
-      "count": 18192
+      "count": 18193
     },
     {
       "label": "Saturday",
       "rate": 80.8,
-      "count": 39855
+      "count": 39885
     }
   ],
   "by_hour": [
@@ -74,12 +74,12 @@
     {
       "label": "13:00",
       "rate": 81.3,
-      "count": 9599
+      "count": 9601
     },
     {
       "label": "14:00",
       "rate": 80.9,
-      "count": 12975
+      "count": 13008
     },
     {
       "label": "15:00",
@@ -89,22 +89,22 @@
     {
       "label": "16:00",
       "rate": 80.7,
-      "count": 9749
+      "count": 9748
     },
     {
       "label": "17:00",
       "rate": 80.7,
-      "count": 10815
+      "count": 10817
     },
     {
       "label": "18:00",
       "rate": 80.5,
-      "count": 12958
+      "count": 12961
     },
     {
       "label": "19:00",
       "rate": 80.7,
-      "count": 11467
+      "count": 11466
     },
     {
       "label": "20:00",
@@ -114,7 +114,7 @@
     {
       "label": "11:00",
       "rate": 80.7,
-      "count": 6833
+      "count": 6832
     },
     {
       "label": "05:00",
@@ -199,11 +199,6 @@
       "count": 36
     },
     {
-      "team": "FC Bulle",
-      "rate": 97.06,
-      "count": 34
-    },
-    {
       "team": "Serbia",
       "rate": 96.88,
       "count": 32
@@ -277,6 +272,11 @@
       "team": "Belconnen Unite",
       "rate": 95.0,
       "count": 20
+    },
+    {
+      "team": "Al Ittihad Al",
+      "rate": 94.44,
+      "count": 36
     }
   ],
   "top_leagues": [
@@ -530,9 +530,9 @@
     {
       "name": "Handicap (0:1) 2",
       "won": 1932,
-      "lost": 347,
-      "rate": 84.77,
-      "count": 2279
+      "lost": 348,
+      "rate": 84.74,
+      "count": 2280
     },
     {
       "name": "Total Goals 2-3",
@@ -550,10 +550,10 @@
     },
     {
       "name": "Match Result 1",
-      "won": 2868,
+      "won": 2869,
       "lost": 580,
       "rate": 83.18,
-      "count": 3448
+      "count": 3449
     },
     {
       "name": "Both Teams to Score - No",
@@ -1068,13 +1068,13 @@
     }
   ],
   "patterns": {
-    "gecmis_satir": 165714,
-    "elite_pattern": 44688,
-    "scanner_pattern": 103527,
-    "elite_satir": 74824,
-    "scanner_satir": 122063,
-    "skorlanan": 2386,
+    "gecmis_satir": 165717,
+    "elite_pattern": 44700,
+    "scanner_pattern": 103582,
+    "elite_satir": 74830,
+    "scanner_satir": 122067,
+    "skorlanan": 2336,
     "min_ornek": 10,
-    "guncelleme": "2026-11-28T18:54:41"
+    "guncelleme": "2026-11-28T19:05:16"
   }
 }
